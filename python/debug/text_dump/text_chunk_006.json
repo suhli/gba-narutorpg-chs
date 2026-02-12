@@ -1,0 +1,3502 @@
+[
+  {
+    "offset": "0x7EAC9",
+    "length": 18,
+    "hex": "82DC82AF82C882A282ED82E6815B81498176",
+    "original": "まけないわよー！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EAE4",
+    "length": 26,
+    "hex": "817583458348834883488348814082E082AE82E082AE82E082AE",
+    "original": "「ウォォォォ　もぐもぐもぐ",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EAFF",
+    "length": 28,
+    "hex": "8356834A837D838B814082AA82F182CE82EA815B815B814981498176",
+    "original": "シカマル　がんばれーー！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EB24",
+    "length": 34,
+    "hex": "817582A882D782F182C682A4814082C682A9814082A282E982CC82A982C881488176",
+    "original": "「おべんとう　とか　いるのかな？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EB50",
+    "length": 36,
+    "hex": "81758345834883488348834881408384834C836A834E815B815B815B815B814981498176",
+    "original": "「ウォォォォ　ヤキニクーーーー！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EB7A",
+    "length": 32,
+    "hex": "817581458145814582C182BD82AD814082D982F182B982F1814082C882F182C4",
+    "original": "「・・・ったく　ほんせん　なんて",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EB9B",
+    "length": 14,
+    "hex": "82DF82F182C782AD82B9815B8176",
+    "original": "めんどくせー」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EBAC",
+    "length": 36,
+    "hex": "81759286944582C882F182C4814082C882EA82C882AB82E1814082C882EA82C882A282C5",
+    "original": "「中忍なんて　なれなきゃ　なれないで",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EBD1",
+    "length": 14,
+    "hex": "82A2815B82C182C282A482CC8176",
+    "original": "いーっつうの」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EBE6",
+    "length": 32,
+    "hex": "817582C282AC82CD814082C882C9814082B382B982E782EA82E982F182BE82E6",
+    "original": "「つぎは　なに　させられるんだよ",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EC07",
+    "length": 14,
+    "hex": "82DF82F182C782AD82B9815B8176",
+    "original": "めんどくせー」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EC1A",
+    "length": 34,
+    "hex": "817582C582E0814082DC8340814082E282E982B582A982CB815B82E682C883408176",
+    "original": "「でも　まァ　やるしかねーよなァ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EC44",
+    "length": 32,
+    "hex": "817582A882DC82A682E7814082A482A982C182BD82E781408384834C836A834E",
+    "original": "「おまえら　うかったら　ヤキニク",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EC65",
+    "length": 18,
+    "hex": "82A882B282C182C4814082E282E982E68176",
+    "original": "おごって　やるよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EC7E",
+    "length": 32,
+    "hex": "81758345834883488348834881408356834A837D838B8149814082A282CC8149",
+    "original": "「ウォォォォ　シカマル！　いの！",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EC9F",
+    "length": 20,
+    "hex": "82AA82F182CE82E982BC815B815B814981498176",
+    "original": "がんばるぞーー！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7ECBA",
+    "length": 30,
+    "hex": "81758360838783458357814082A082F182BD82C182C4814082AD82A282AF",
+    "original": "「チョウジ　あんたって　くいけ",
+    "translation": ""
+  },
+  {
+    "offset": "0x7ECD9",
+    "length": 16,
+    "hex": "82CE82C182A982E882CB815B81498176",
+    "original": "ばっかりねー！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7ECEE",
+    "length": 26,
+    "hex": "817582CD815B814082DF82F182C782AD82B9815B82B182C682C9",
+    "original": "「はー　めんどくせーことに",
+    "translation": ""
+  },
+  {
+    "offset": "0x7ED09",
+    "length": 18,
+    "hex": "82C882C182BD82C883408145814581458176",
+    "original": "なったなァ・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7ED23",
+    "length": 15,
+    "hex": "31817582A882C682B582E682E882CD",
+    "original": "1「おとしよりは",
+    "translation": ""
+  },
+  {
+    "offset": "0x7ED33",
+    "length": 28,
+    "hex": "82BE82A282B682C9814082B582C882AF82EA82CE82C582B781498176",
+    "original": "だいじに　しなければです！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7ED56",
+    "length": 24,
+    "hex": "817582A882CE82A082BF82E182F182CD814082DE82A982B5",
+    "original": "「おばあちゃんは　むかし",
+    "translation": ""
+  },
+  {
+    "offset": "0x7ED6F",
+    "length": 24,
+    "hex": "82AD82CC82A282BF82BE82C182BD82F182BE82C182C48176",
+    "original": "くのいちだったんだって」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7ED8E",
+    "length": 46,
+    "hex": "817582A882B682A282BF82E182F182CD814082DE82A982B5814094458ED282BE82C182BD82F182BE82C182C48176",
+    "original": "「おじいちゃんは　むかし　忍者だったんだって」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EDC2",
+    "length": 46,
+    "hex": "817582A882B682A282BF82E182F1814082C6814082A882CE82A082BF82E182F1814082BE82A282B782AB815B8176",
+    "original": "「おじいちゃん　と　おばあちゃん　だいすきー」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EDF6",
+    "length": 42,
+    "hex": "817582B182A482DD82A682C482E0814082ED82BD82B582E0814082DE82A982B5814082AD82CC82A282BF",
+    "original": "「こうみえても　わたしも　むかし　くのいち",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EE21",
+    "length": 18,
+    "hex": "82BE82C182BD82F182C582B782E683488176",
+    "original": "だったんですよォ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EE3A",
+    "length": 24,
+    "hex": "817582DE82A982B582CC814082A882B682A282B382F182CD",
+    "original": "「むかしの　おじいさんは",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EE53",
+    "length": 24,
+    "hex": "82A982C182B182E682A982C182BD82C582B782E683488176",
+    "original": "かっこよかったですよォ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EE72",
+    "length": 36,
+    "hex": "817582B182CC8352814082A882B682A282B382F182CC814082ED82A982A282B182EB82C9",
+    "original": "「このコ　おじいさんの　わかいころに",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EE97",
+    "length": 20,
+    "hex": "82BB82C182AD82E8814082C582B782E683488176",
+    "original": "そっくり　ですよォ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EEB2",
+    "length": 28,
+    "hex": "817582DC82B282CD814082A982ED82A282A282C582B782CB83468176",
+    "original": "「まごは　かわいいですねェ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EED6",
+    "length": 34,
+    "hex": "817582D982C182D982C182D9814082DE82A982B582CC814082CE82A082B382F182CD",
+    "original": "「ほっほっほ　むかしの　ばあさんは",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EEF9",
+    "length": 30,
+    "hex": "82C282E682AD82C48140834C838C834382B682E182C182BD82CC83488176",
+    "original": "つよくて　キレイじゃったのォ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EF1E",
+    "length": 34,
+    "hex": "817582D982C182D982C182D9814082B182A482DD82A682C482E0814082ED82B582E0",
+    "original": "「ほっほっほ　こうみえても　わしも",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EF41",
+    "length": 34,
+    "hex": "82DE82A982B5814094458ED282F0814082E282C182C682C182BD82F182B682E18176",
+    "original": "むかし　忍者を　やっとったんじゃ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EF6A",
+    "length": 38,
+    "hex": "817582ED82A982A2814082C682A282A482CC82CD814082A282A282E082F182B682E182CC8348",
+    "original": "「わかい　というのは　いいもんじゃのォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EF91",
+    "length": 12,
+    "hex": "82D982C182D982C182D98176",
+    "original": "ほっほっほ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EFA2",
+    "length": 24,
+    "hex": "817582DC82B282CD814082A982ED82A282A282CC83488176",
+    "original": "「まごは　かわいいのォ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EFC2",
+    "length": 36,
+    "hex": "817582AB82E582A482CD814082BE82EA82E0814082B182F182CC83488145814581458176",
+    "original": "「きょうは　だれも　こんのォ・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7EFEE",
+    "length": 42,
+    "hex": "817582A282E782C182B582E182A2814082E482C182AD82E882B582C482A282C182C482A882AD82EA8176",
+    "original": "「いらっしゃい　ゆっくりしていっておくれ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F01F",
+    "length": 33,
+    "hex": "31817582B182CC814082A882AD82C982CD814082DC82BE814082BD82AD82B382F1",
+    "original": "1「この　おくには　まだ　たくさん",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F041",
+    "length": 22,
+    "hex": "82C882C982A9814082A082E882BB82A482BE82C88176",
+    "original": "なにか　ありそうだな」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F05E",
+    "length": 32,
+    "hex": "817582B182B182CD814089CE896582B382DC82CC814082DF82A282EA82A282C5",
+    "original": "「ここは　火影さまの　めいれいで",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F07F",
+    "length": 34,
+    "hex": "82ED82EA82ED82EA82AA814082A982F182E8814082B582C482A282E982CC82BE8176",
+    "original": "われわれが　かんり　しているのだ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F0A7",
+    "length": 33,
+    "hex": "31817582A282C282C582E08140944396B182C9814082BB82C882A682C682AF82E6",
+    "original": "1「いつでも　任務に　そなえとけよ",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F0C9",
+    "length": 10,
+    "hex": "944582C882E782C88176",
+    "original": "忍ならな」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F0DC",
+    "length": 34,
+    "hex": "817582DC82BE82A882AD82C9814082C882C982A9814082A082E882BB82A482BE82C8",
+    "original": "「まだおくに　なにか　ありそうだな",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F0FF",
+    "length": 30,
+    "hex": "82AB82E882D382BE82C682CD814082BB82A482A282A482E082CC82BE8176",
+    "original": "きりふだとは　そういうものだ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F122",
+    "length": 46,
+    "hex": "817582B182B182C9814082A082E982E082CC82C882E7814082E082C182C482A282C182C4814082A282A282BC8176",
+    "original": "「ここに　あるものなら　もっていって　いいぞ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F157",
+    "length": 41,
+    "hex": "31817582B682E582A482AB82E582A482F0814082DD82C4814082D082AB82A982A682B7814581458145",
+    "original": "1「じょうきょうを　みて　ひきかえす・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F181",
+    "length": 34,
+    "hex": "944582C882E7814082BB82EA82E0814082B182B182EB82A682C4814082A882AF8176",
+    "original": "忍なら　それも　こころえて　おけ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F1AA",
+    "length": 42,
+    "hex": "817582BB82EB82BB82EB814082AD82E782CC814082B982A282E882F0814082B582C882A282C682C88176",
+    "original": "「そろそろ　くらの　せいりを　しないとな」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F1DB",
+    "length": 37,
+    "hex": "31817582C782F182C8814082C882A982DC82C582E081408360815B8380838F815B834E82CD",
+    "original": "1「どんな　なかまでも　チームワークは",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F201",
+    "length": 18,
+    "hex": "82BD82A282B982C282C982B582EB82E68176",
+    "original": "たいせつにしろよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F21C",
+    "length": 32,
+    "hex": "817582E282EA82E282EA814097A282CC814082D382C182B182A4944396B182C5",
+    "original": "「やれやれ　里の　ふっこう任務で",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F23D",
+    "length": 30,
+    "hex": "8FE3944582C681409286944582CD814082D082DC82C882B582BE82C88176",
+    "original": "上忍と　中忍は　ひまなしだな」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F263",
+    "length": 37,
+    "hex": "31817582C482AB82F0814082B582E982DC82A682C9814082A882CC82EA82F0814082B582E9",
+    "original": "1「てきを　しるまえに　おのれを　しる",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F289",
+    "length": 32,
+    "hex": "82B182C682AA814082C282E682AD82C882E9814082BF82A982DD82BF82BE8176",
+    "original": "ことが　つよくなる　ちかみちだ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F2AE",
+    "length": 46,
+    "hex": "817582AB82E582A482CD814090E690B682AA814082E482C182AD82E882E282B782DF82C182C48145814581458176",
+    "original": "「きょうは　先生が　ゆっくりやすめって・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F2E1",
+    "length": 24,
+    "hex": "817582E282C182CF82C88149814082E282C182CF82C88149",
+    "original": "「やっぱな！　やっぱな！",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F2FA",
+    "length": 26,
+    "hex": "8349838C82A882A282C482A282AB82E282AA82C182BD81498176",
+    "original": "オレおいていきやがった！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F317",
+    "length": 24,
+    "hex": "817582A282C182C482AB82DC815B815B82B7814981498176",
+    "original": "「いってきまーーす！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F336",
+    "length": 34,
+    "hex": "817582A082CC82B38149814082A082CC82B38149814082DD82F182C882CD81488176",
+    "original": "「あのさ！　あのさ！　みんなは？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F35D",
+    "length": 30,
+    "hex": "817582A0814981408369838B836782AD82F1814082A882AB82BD82CC8148",
+    "original": "「あ！　ナルトくん　おきたの？",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F37C",
+    "length": 34,
+    "hex": "82C682A482B382F182BD82BF82CD814082CD82B582C982A282C182BD82ED82E68176",
+    "original": "とうさんたちは　はしにいったわよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F3A6",
+    "length": 36,
+    "hex": "817582A0815B815B815B815B81498149814082CB82B782B282B582BD8340815B81498176",
+    "original": "「あーーーー！！　ねすごしたァー！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F3D2",
+    "length": 22,
+    "hex": "81758369838B8367814981408369838B836781498176",
+    "original": "「ナルト！　ナルト！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F3ED",
+    "length": 14,
+    "hex": "817582A882A282A882AB82EB8149",
+    "original": "「おいおきろ！",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F3FC",
+    "length": 24,
+    "hex": "82B182CC83458358838983678393834A8360814981498176",
+    "original": "このウスラトンカチ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F419",
+    "length": 22,
+    "hex": "816982F18148814082C882F182BE834081488148816A",
+    "original": "（ん？　なんだァ？？）",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F434",
+    "length": 16,
+    "hex": "817590E690B6835F838182BE82ED8149",
+    "original": "「先生ダメだわ！",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F445",
+    "length": 36,
+    "hex": "8369838B836782CC83848363814082BA82F182C182BA82F182A882AB82C882A281498176",
+    "original": "ナルトのヤツ　ぜんっぜんおきない！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F46E",
+    "length": 30,
+    "hex": "817582AB82CC82A4814082CD82E882AB82C182C482BD82A982E782C88340",
+    "original": "「きのう　はりきってたからなァ",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F48D",
+    "length": 20,
+    "hex": "81458145814582B582E582A482AA82C882A28176",
+    "original": "・・・しょうがない」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F4A4",
+    "length": 10,
+    "hex": "81758369838B836782CD",
+    "original": "「ナルトは",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F4AF",
+    "length": 32,
+    "hex": "82AB82E582A482A282BF82C982BF814082E282B782DC82B982E982A981498176",
+    "original": "きょういちにち　やすませるか！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F4D2",
+    "length": 20,
+    "hex": "817582B682E18149814083638369837E82B382F1",
+    "original": "「じゃ！　ツナミさん",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F4E7",
+    "length": 34,
+    "hex": "8369838B836782F0814082E682EB82B582AD82A882CB82AA82A282B582DC82B78176",
+    "original": "ナルトを　よろしくおねがいします」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F50E",
+    "length": 16,
+    "hex": "817582ED82A982E882DC82B582BD8176",
+    "original": "「わかりました」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F525",
+    "length": 28,
+    "hex": "817582B682E18149814083608387815B82A282C182C482AD82E98176",
+    "original": "「じゃ！　チョーいってくる」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F546",
+    "length": 32,
+    "hex": "817582AB82F082C282AF82C4814082A282C182C482E782C182B582E182A28176",
+    "original": "「きをつけて　いってらっしゃい」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F56B",
+    "length": 38,
+    "hex": "816982BE82F182BE82F1814082B182A682AA82C682A882AD82C882C182C482AD82C182C482CE",
+    "original": "（だんだん　こえがとおくなってくってば",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F592",
+    "length": 14,
+    "hex": "81458145814582CB82DE82A2816A",
+    "original": "・・・ねむい）",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F5A3",
+    "length": 18,
+    "hex": "81758358815B81408358815B81408358815B",
+    "original": "「スー　スー　スー",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F5B6",
+    "length": 24,
+    "hex": "8358815B81408358815B81408358815B8145814581458176",
+    "original": "スー　スー　スー・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F5D6",
+    "length": 38,
+    "hex": "8175834A8389835F82F082E282B782DF82E982B182C682E081408F438BC682CC82A482BF8149",
+    "original": "「カラダをやすめることも　修業のうち！",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F5FD",
+    "length": 16,
+    "hex": "82E082A4814082CB82E982A981488176",
+    "original": "もう　ねるか？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F612",
+    "length": 28,
+    "hex": "81758349838C82C182C482CE814082DC82BE82CB82C882A281498176",
+    "original": "「オレってば　まだねない！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F633",
+    "length": 34,
+    "hex": "817582BB82A482A9814581458145814082E682D382A982B582B782F182C882E68176",
+    "original": "「そうか・・・　よふかしすんなよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F65A",
+    "length": 24,
+    "hex": "817582E282C182CF814082CB82E982C182C482CE82E68149",
+    "original": "「やっぱ　ねるってばよ！",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F673",
+    "length": 28,
+    "hex": "834A834A835690E690B6814082A882E282B782DD8342814981498176",
+    "original": "カカシ先生　おやすみィ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F698",
+    "length": 12,
+    "hex": "814082DC82BE82CB82C882A2",
+    "original": "　まだねない",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F6A5",
+    "length": 6,
+    "hex": "814082CB82E9",
+    "original": "　ねる",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F6B2",
+    "length": 30,
+    "hex": "817582B982ED82CC82E282AF82E98384836382BE82C88145814581458176",
+    "original": "「せわのやけるヤツだな・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F6D5",
+    "length": 16,
+    "hex": "817581458145814582DC82C182BD82AD",
+    "original": "「・・・まったく",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F6E6",
+    "length": 28,
+    "hex": "82C782B182A282AD82C282E082E882BE82C182BD82CC82E681498176",
+    "original": "どこいくつもりだったのよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F707",
+    "length": 22,
+    "hex": "817582C782B182C182C481408F438BC6834881498176",
+    "original": "「どこって　修業ォ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F722",
+    "length": 38,
+    "hex": "8175834A8389835F82F082E282B782DF82E982B182C682E081408F438BC682CC82A482BF8149",
+    "original": "「カラダをやすめることも　修業のうち！",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F749",
+    "length": 16,
+    "hex": "82E082A4814082CB82E982A981488176",
+    "original": "もう　ねるか？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F75E",
+    "length": 38,
+    "hex": "817582DC814981408369838B836782CC8384836382E0814082ED82E982AC82AA82A082C182C4",
+    "original": "「ま！　ナルトのヤツも　わるぎがあって",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F785",
+    "length": 22,
+    "hex": "82A282C182BD82F182B682E182C882A282F182BE8176",
+    "original": "いったんじゃないんだ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F79E",
+    "length": 30,
+    "hex": "817583418343836382CD814082D482AB82E682A482BE82A982E782C88176",
+    "original": "「アイツは　ぶきようだからな」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F7BF",
+    "length": 34,
+    "hex": "81758369838B836782CD814082BF82BF82A882E282AA82A282C882A2814581458145",
+    "original": "「ナルトは　ちちおやがいない・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F7E2",
+    "length": 38,
+    "hex": "82C682A282A482E682E8814082E882E582A482B582F182F082B582E782C882A282F182BE8176",
+    "original": "というより　りょうしんをしらないんだ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F80B",
+    "length": 38,
+    "hex": "817582BB82EA82C9814082C682E082BE82BF82E082A282C882A982C182BD8140837A83938367",
+    "original": "「それに　ともだちもいなかった　ホント",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F832",
+    "length": 40,
+    "hex": "82A282A482C68140834C837E82E682E882C282E782A2814082A982B182F082E082C182C482E98176",
+    "original": "いうと　キミよりつらい　かこをもってる」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F86E",
+    "length": 40,
+    "hex": "817582AF82C78149814083638389834382C683438357835082BD82E88358836C82BD82E882B582C4",
+    "original": "「けど！　ツライとイジケたりスネたりして",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F897",
+    "length": 40,
+    "hex": "82C882A282C482E982C682B182EB82CD814082A282BF82C782E082DD82BD82B182C682C882A28176",
+    "original": "ないてるところは　いちどもみたことない」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F8C2",
+    "length": 36,
+    "hex": "817583418343836382CD814082A282C282E0814082BE82EA82A982C982DD82C682DF82C4",
+    "original": "「アイツは　いつも　だれかにみとめて",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F8E7",
+    "length": 36,
+    "hex": "82E082E782A282BD82AD82C4814082A282C182B582E582A482AF82F182DF82A282C58176",
+    "original": "もらいたくて　いっしょうけんめいで」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F90E",
+    "length": 24,
+    "hex": "817582BB82CC8386838182CC82BD82DF82BE82C182BD82E7",
+    "original": "「そのユメのためだったら",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F927",
+    "length": 30,
+    "hex": "82A282C282BE82C182C4814082A282CC82BF82AA82AF82C882F182BE8176",
+    "original": "いつだって　いのちがけなんだ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F948",
+    "length": 16,
+    "hex": "817582A082A282C282CD814082E082A4",
+    "original": "「あいつは　もう",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F959",
+    "length": 32,
+    "hex": "82C882AB82A082AB82C482E982F182BE82EB82A482C8829F8145814581458176",
+    "original": "なきあきてるんだろうなぁ・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F97C",
+    "length": 30,
+    "hex": "817582BE82A982E7814082C282E682A282C182C482A282A482B182C682CC",
+    "original": "「だから　つよいっていうことの",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F99B",
+    "length": 26,
+    "hex": "82D982F182C682A482CC8343837E82F082B582C182C482E98176",
+    "original": "ほんとうのイミをしってる」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F9B8",
+    "length": 36,
+    "hex": "8175834C837E82CC82C682A482B382F182C6814082A882C882B682E682A482C982CB8176",
+    "original": "「キミのとうさんと　おなじようにね」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F9DF",
+    "length": 26,
+    "hex": "81758369838B836782CD8140834C837E82CC834C8382836082F0",
+    "original": "「ナルトは　キミのキモチを",
+    "translation": ""
+  },
+  {
+    "offset": "0x7F9FA",
+    "length": 36,
+    "hex": "82A282BF82CE82F1814082ED82A982C182C482E982A982E082B582EA82C882A281498176",
+    "original": "いちばん　わかってるかもしれない！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FA32",
+    "length": 32,
+    "hex": "8175834183438363814082C782A482E282E78140834C837E82CC82B182C682AA",
+    "original": "「アイツ　どうやら　キミのことが",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FA53",
+    "length": 30,
+    "hex": "82D982C182C482A882AF82C882A2814082DD82BD82A282BE82A982E78176",
+    "original": "ほっておけない　みたいだから」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FA78",
+    "length": 22,
+    "hex": "817581458145814581458145814582A882E282B782DD",
+    "original": "「・・・・・・おやすみ",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FA8F",
+    "length": 18,
+    "hex": "81458145814582E082A482CB82E982E68176",
+    "original": "・・・もうねるよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FAA8",
+    "length": 28,
+    "hex": "817582A082EA8148814082B682A282BF82E182F182CD814881488176",
+    "original": "「あれ？　じいちゃんは？？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FAC9",
+    "length": 20,
+    "hex": "817582D682E282C982E082C782C182BD82E68176",
+    "original": "「へやにもどったよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FAE4",
+    "length": 34,
+    "hex": "817582D3815B815B82F1814082A282EA82BF82AA82A282A983408145814581458176",
+    "original": "「ふーーん　いれちがいかァ・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FB0B",
+    "length": 24,
+    "hex": "817582BF82E582C182C682A282A282A982C8814581458145",
+    "original": "「ちょっといいかな・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FB24",
+    "length": 32,
+    "hex": "82B382C182AB82CC814082CD82C882B582C882F182BE82AA8145814581458176",
+    "original": "さっきの　はなしなんだが・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FB64",
+    "length": 38,
+    "hex": "817581458145814582B182CC8D9182C982CD814082A682A282E482A482C682E682CE82EA82BD",
+    "original": "「・・・この国には　えいゆうとよばれた",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FB8B",
+    "length": 20,
+    "hex": "82A882C682B182AA82A282BD82F182B682E18176",
+    "original": "おとこがいたんじゃ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FBA2",
+    "length": 34,
+    "hex": "817582C882DC82A682F08140834A8343835582C682A282A2814083438369838A82CC",
+    "original": "「なまえを　カイザといい　イナリの",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FBC5",
+    "length": 32,
+    "hex": "82BF82CC82C282C882AA82E782C882A2814082BF82BF82A882E282B682E18176",
+    "original": "ちのつながらない　ちちおやじゃ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FBE8",
+    "length": 34,
+    "hex": "817582B982A282AC82A982F182AA814082D082C682A282BF82CE82A282C282E682AD",
+    "original": "「せいぎかんが　ひといちばいつよく",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FC0B",
+    "length": 36,
+    "hex": "82E082CC82B282C682CC82BF82E382A482B582F182C9814082A282C282E082A282BD8176",
+    "original": "ものごとのちゅうしんに　いつもいた」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FC32",
+    "length": 26,
+    "hex": "8175834A8343835582CD814083438369838A82C982C682C182C4",
+    "original": "「カイザは　イナリにとって",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FC4D",
+    "length": 38,
+    "hex": "82DE82CB82F082CD82C182C482D982B182EA82E9814082BF82BF82A882E282BE82C182BD8176",
+    "original": "むねをはってほこれる　ちちおやだった」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FC76",
+    "length": 30,
+    "hex": "817582BB82B582C48140834A8343835582CD814082B182CC8D9182C982E0",
+    "original": "「そして　カイザは　この国にも",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FC95",
+    "length": 28,
+    "hex": "82D082C282E682A482C8814082A882C682B182B682E182C182BD8176",
+    "original": "ひつような　おとこじゃった」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FCB4",
+    "length": 36,
+    "hex": "817582B582A982B58140834B8367815B82AA82B182CC8D9182C982AB82C4814581458145",
+    "original": "「しかし　ガトーがこの国にきて・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FCD9",
+    "length": 36,
+    "hex": "834A8343835582CD8140834B8367815B82C9814082B582E582AF82A282B382EA82BD8176",
+    "original": "カイザは　ガトーに　しょけいされた」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FD11",
+    "length": 36,
+    "hex": "817582BB82EA82D982C78140834B8367815B82CC8360834A838982C682A282A482CC82CD",
+    "original": "「それほど　ガトーのチカラというのは",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FD36",
+    "length": 22,
+    "hex": "82AB82E582A482E882E582AD82B682E182C182BD8176",
+    "original": "きょうりょくじゃった」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FD4F",
+    "length": 34,
+    "hex": "817582BB82EA82A982E7814083438369838A82CD82A982ED82C182BD814581458145",
+    "original": "「それから　イナリはかわった・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FD72",
+    "length": 36,
+    "hex": "83638369837E82E0814082B182CC8D9182CC82D082C682BD82BF82E08145814581458176",
+    "original": "ツナミも　この国のひとたちも・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FD99",
+    "length": 40,
+    "hex": "817582B182CC8D9182CC82D082C682A982E7814083868345834C82C682A282A482B182C682CE82CD",
+    "original": "「この国のひとから　ユウキということばは",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FDC2",
+    "length": 30,
+    "hex": "82A482CE82A282C682E782EA82C482B582DC82C182BD82CC82B682E18176",
+    "original": "うばいとられてしまったのじゃ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FDE3",
+    "length": 38,
+    "hex": "817582BE82A982E782B182BB814082CD82B582AA82D082C282E682A482C882F182B682E18149",
+    "original": "「だからこそ　はしがひつようなんじゃ！",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FE0A",
+    "length": 38,
+    "hex": "82A082EA82CD814082B182CC8D9182CC8140834C837B834582C882F182B682E1814981498176",
+    "original": "あれは　この国の　キボウなんじゃ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FE33",
+    "length": 34,
+    "hex": "817581458145814582CD82C882B582AA814082B782AC82BD82E682A482B682E182C8",
+    "original": "「・・・はなしが　すぎたようじゃな",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FE56",
+    "length": 38,
+    "hex": "90E690B682B382F182E0814082CD82E282AD814082E282B782F182C582AD82BE82B382EA8176",
+    "original": "先生さんも　はやく　やすんでくだされ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FE82",
+    "length": 22,
+    "hex": "817582BF82E5814581458145814082BF82E582C182C6",
+    "original": "「ちょ・・・　ちょっと",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FE99",
+    "length": 18,
+    "hex": "82DC82BF82C882B382A282C182C481498176",
+    "original": "まちなさいって！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FEB0",
+    "length": 14,
+    "hex": "8175836083428145814581458176",
+    "original": "「チィ・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FEC6",
+    "length": 10,
+    "hex": "81758369838B83678149",
+    "original": "「ナルト！",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FED1",
+    "length": 28,
+    "hex": "83418393835E814082BF82E582C182C682A282A282B782AC82E68176",
+    "original": "アンタ　ちょっといいすぎよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FEF2",
+    "length": 18,
+    "hex": "817581458145814582A482E982B9815B82C8",
+    "original": "「・・・うるせーな",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FF05",
+    "length": 34,
+    "hex": "82A882DC82A682C682CD814082BF82AA82A482F182BE82C182C482CE82E681498176",
+    "original": "おまえとは　ちがうんだってばよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FF2E",
+    "length": 34,
+    "hex": "817582A882DC82A682DD82C482E982C681408380834A8363834E82F182BE81498176",
+    "original": "「おまえみてると　ムカツクんだ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FF53",
+    "length": 36,
+    "hex": "817582B182CC8D9182CC82B182C6814082C882C982E082B582E782C882A282AD82B982C9",
+    "original": "「この国のこと　なにもしらないくせに",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FF78",
+    "length": 22,
+    "hex": "82C582B582E182CE82E882E282AA82C182C481498176",
+    "original": "でしゃばりやがって！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FF91",
+    "length": 36,
+    "hex": "817582A882DC82A682C98140837B834E82CC82C882C982AA82ED82A982E982F182BE8149",
+    "original": "「おまえに　ボクのなにがわかるんだ！",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FFB6",
+    "length": 36,
+    "hex": "82C282E782A282B182C682C882F182A9814082C882C982E082B582E782C882A282C58176",
+    "original": "つらいことなんか　なにもしらないで」",
+    "translation": ""
+  },
+  {
+    "offset": "0x7FFDD",
+    "length": 38,
+    "hex": "817582A282C282E082BD82CC82B582BB82A482C98140837783898377838982E282C182C482E9",
+    "original": "「いつもたのしそうに　ヘラヘラやってる",
+    "translation": ""
+  },
+  {
+    "offset": "0x80004",
+    "length": 30,
+    "hex": "82A882DC82A682C682CD814082BF82AA82A482F182BE82E6834881498176",
+    "original": "おまえとは　ちがうんだよォ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80027",
+    "length": 40,
+    "hex": "817582BE82A982E7814082D082B082AB82CC82B582E382B682F182B182A4814082AB82C782C182C4",
+    "original": "「だから　ひげきのしゅじんこう　きどって",
+    "translation": ""
+  },
+  {
+    "offset": "0x80050",
+    "length": 38,
+    "hex": "8372815B8372815B82C882A282C482E882E1814082A282A282C182C482A98145814581458176",
+    "original": "ビービーないてりゃ　いいってか・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8007D",
+    "length": 24,
+    "hex": "8175834F83588362814581458145814083718362834E8176",
+    "original": "「グスッ・・・　ヒック」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8009E",
+    "length": 38,
+    "hex": "82A882DC82A682DD82BD82A282C8836F834A82CD814082B882C182C682C882A282C482EB8149",
+    "original": "おまえみたいなバカは　ずっとないてろ！",
+    "translation": ""
+  },
+  {
+    "offset": "0x800C5",
+    "length": 20,
+    "hex": "82C882AB82DE82B58384838D815B82AA81498149",
+    "original": "なきむしヤローが！！",
+    "translation": ""
+  },
+  {
+    "offset": "0x800E4",
+    "length": 14,
+    "hex": "81758374834F8362814981498176",
+    "original": "「フグッ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x800FC",
+    "length": 30,
+    "hex": "817582C882F182C5814581458145814082C882F182C58145814581458176",
+    "original": "「なんで・・・　なんで・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8011F",
+    "length": 14,
+    "hex": "817582C882F182BE834081488176",
+    "original": "「なんだァ？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80134",
+    "length": 26,
+    "hex": "817582C882F182C5814082BB82F182C882C982C882E982DC82C5",
+    "original": "「なんで　そんなになるまで",
+    "translation": ""
+  },
+  {
+    "offset": "0x8014F",
+    "length": 30,
+    "hex": "82D082C182B582C9814082AA82F182CE82E982F182BE82E6814981498176",
+    "original": "ひっしに　がんばるんだよ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80170",
+    "length": 36,
+    "hex": "81758F438BC682C882F182A982B582BD82C182C48140834B8367815B82BD82BF82C982CD",
+    "original": "「修業なんかしたって　ガトーたちには",
+    "translation": ""
+  },
+  {
+    "offset": "0x80195",
+    "length": 24,
+    "hex": "82A982C882A282C182B182C882A282F182BE82E681498176",
+    "original": "かないっこないんだよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x801B0",
+    "length": 30,
+    "hex": "817582A282AD82E78140834A836283528343834382B182C682A282C182C4",
+    "original": "「いくら　カッコイイこといって",
+    "translation": ""
+  },
+  {
+    "offset": "0x801CF",
+    "length": 18,
+    "hex": "82C782E882E582AD82B582BD82C182C48176",
+    "original": "どりょくしたって」",
+    "translation": ""
+  },
+  {
+    "offset": "0x801E4",
+    "length": 34,
+    "hex": "817582D982F182C682A482C9814082C282E682A28384836382CC82DC82A682B682E1",
+    "original": "「ほんとうに　つよいヤツのまえじゃ",
+    "translation": ""
+  },
+  {
+    "offset": "0x80207",
+    "length": 36,
+    "hex": "82E682ED82A28384836382CD814082E282E782EA82BF82E182A482F182BE814981498176",
+    "original": "よわいヤツは　やられちゃうんだ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80232",
+    "length": 30,
+    "hex": "81758369838B836782AD82F182BD82BF82E0814082C682A482B382F182E0",
+    "original": "「ナルトくんたちも　とうさんも",
+    "translation": ""
+  },
+  {
+    "offset": "0x80251",
+    "length": 28,
+    "hex": "82A082DC82E8814082DE82BF82E182B582C882A282C582CB81498176",
+    "original": "あまり　むちゃしないでね！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80274",
+    "length": 10,
+    "hex": "817582A482DE81498176",
+    "original": "「うむ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80286",
+    "length": 18,
+    "hex": "817582E282DF82C882B382A282C182C48149",
+    "original": "「やめなさいって！",
+    "translation": ""
+  },
+  {
+    "offset": "0x80299",
+    "length": 26,
+    "hex": "82B582E582AD82B682BF82E382A482C582B582E5814981498176",
+    "original": "しょくじちゅうでしょ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x802B8",
+    "length": 34,
+    "hex": "817582BB82CC82D682F182C982B582C682AF8149814082A082B582BD82A982E782CD",
+    "original": "「そのへんにしとけ！　あしたからは",
+    "translation": ""
+  },
+  {
+    "offset": "0x802DB",
+    "length": 40,
+    "hex": "82BA82F182A282F182C58140835E8359836982B382F182CC82B282A682A282F082B782E981498176",
+    "original": "ぜんいんで　タズナさんのごえいをする！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80308",
+    "length": 12,
+    "hex": "817583498358814981498176",
+    "original": "「オス！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8031B",
+    "length": 40,
+    "hex": "817582E082A482B782B182B582C5814082CD82B582E0814082A982F182B982A282B682E182A982E7",
+    "original": "「もうすこしで　はしも　かんせいじゃから",
+    "translation": ""
+  },
+  {
+    "offset": "0x80344",
+    "length": 38,
+    "hex": "82A882DC82A682E7814083608387815B814082B282A682A282B582C482AD82EA82E681498176",
+    "original": "おまえら　チョー　ごえいしてくれよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80374",
+    "length": 10,
+    "hex": "817582A882DC82A682E7",
+    "original": "「おまえら",
+    "translation": ""
+  },
+  {
+    "offset": "0x8037F",
+    "length": 34,
+    "hex": "8F438BC682CD814083608387815B814082AA82F182CE82C182C682E982A981488176",
+    "original": "修業は　チョー　がんばっとるか？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x803A6",
+    "length": 24,
+    "hex": "817582E082A4836F83628360838A82BE82C182C482CE8149",
+    "original": "「もうバッチリだってば！",
+    "translation": ""
+  },
+  {
+    "offset": "0x803BF",
+    "length": 24,
+    "hex": "82CB8149814082CB81498140834A834A835690E690B68176",
+    "original": "ね！　ね！　カカシ先生」",
+    "translation": ""
+  },
+  {
+    "offset": "0x803DC",
+    "length": 40,
+    "hex": "817582CD82A2814082B682E382F182BF82E582A482C582B782E6814082BB82EA82C9814581458145",
+    "original": "「はい　じゅんちょうですよ　それに・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x80405",
+    "length": 40,
+    "hex": "82ED82BD82B582CC834A8389835F82E0814082E082C682C982E082C782E882DC82B582BD82B58176",
+    "original": "わたしのカラダも　もとにもどりましたし」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80434",
+    "length": 36,
+    "hex": "817582A882A88149814090E690B682B382F182CC834A8389835F82AA814082E082C682C9",
+    "original": "「おお！　先生さんのカラダが　もとに",
+    "translation": ""
+  },
+  {
+    "offset": "0x80459",
+    "length": 36,
+    "hex": "82E082C782C182BD82C682CD814082D082C682A082F182B582F182B682E182C881498176",
+    "original": "もどったとは　ひとあんしんじゃな！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80482",
+    "length": 14,
+    "hex": "817582A882C182BF82E182F18149",
+    "original": "「おっちゃん！",
+    "translation": ""
+  },
+  {
+    "offset": "0x80491",
+    "length": 30,
+    "hex": "82BB82EA82C182C4814082C7815B82E4815B82A282DD8342814981498176",
+    "original": "それって　どーゆーいみィ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x804B4",
+    "length": 36,
+    "hex": "817582A882DC82A682B682E1814082BD82E682E882C882A282C182C482B182C682BE82EB",
+    "original": "「おまえじゃ　たよりないってことだろ",
+    "translation": ""
+  },
+  {
+    "offset": "0x804D9",
+    "length": 24,
+    "hex": "82B182CC814083458358838983678393834A836081498176",
+    "original": "この　ウスラトンカチ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x804F6",
+    "length": 12,
+    "hex": "817582A883438369838A82C9",
+    "original": "「おイナリに",
+    "translation": ""
+  },
+  {
+    "offset": "0x80503",
+    "length": 36,
+    "hex": "82B182CC82E682C981408371815B838D815B82AA82A282E982C182C482B182C682F08176",
+    "original": "このよに　ヒーローがいるってことを」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8052A",
+    "length": 36,
+    "hex": "817582B182CC8349838C82AA814082B582E582A482DF82A282B582C482E282E981498176",
+    "original": "「このオレが　しょうめいしてやる！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80556",
+    "length": 32,
+    "hex": "8175814581458145835483588350814981408354834E838982BF82E182F18149",
+    "original": "「・・・サスケ！　サクラちゃん！",
+    "translation": ""
+  },
+  {
+    "offset": "0x80577",
+    "length": 32,
+    "hex": "82B382C182BB82AD81408F438BC682C982A282AD82C182C482CE82E681498176",
+    "original": "さっそく　修業にいくってばよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8059C",
+    "length": 32,
+    "hex": "817582BF82E5814581458145814082BF82E582C182C681408369838B83678149",
+    "original": "「ちょ・・・　ちょっと　ナルト！",
+    "translation": ""
+  },
+  {
+    "offset": "0x805BD",
+    "length": 24,
+    "hex": "82A282AB82C882E8814082C882F182C882CC814881498176",
+    "original": "いきなり　なんなの？！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x805DC",
+    "length": 20,
+    "hex": "817582B782DC82F182CC82A48145814581458176",
+    "original": "「すまんのう・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x805F6",
+    "length": 24,
+    "hex": "817582E282DF82C882B382A282C182C482CE814981498176",
+    "original": "「やめなさいってば！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80615",
+    "length": 20,
+    "hex": "817582E282E782EA82BD82AD82C882A282C882E7",
+    "original": "「やられたくないなら",
+    "translation": ""
+  },
+  {
+    "offset": "0x8062A",
+    "length": 30,
+    "hex": "82CD82E282AD814082A982A682C182BD82D982A482AA82A282A282E68176",
+    "original": "はやく　かえったほうがいいよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8064E",
+    "length": 22,
+    "hex": "817582C882C9814082B182C782E082A082A282C482C9",
+    "original": "「なに　こどもあいてに",
+    "translation": ""
+  },
+  {
+    "offset": "0x80665",
+    "length": 30,
+    "hex": "8380834C82C982C882C182C482F182CC82E68140836F834A814981498176",
+    "original": "ムキになってんのよ　バカ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80688",
+    "length": 36,
+    "hex": "817582A282A282A98149814082A883438369838A8149814082E682AD82AB82AF81498176",
+    "original": "「いいか！　おイナリ！　よくきけ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x806AF",
+    "length": 34,
+    "hex": "81758349838C82CD82A282B882EA814089CE896582C682A282A48140835883538343",
+    "original": "「オレはいずれ　火影という　スゴイ",
+    "translation": ""
+  },
+  {
+    "offset": "0x806D2",
+    "length": 34,
+    "hex": "94458ED282C982C882E981408358815B8370815B8371815B838D815B82BE81498176",
+    "original": "忍者になる　スーパーヒーローだ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x806F7",
+    "length": 38,
+    "hex": "8175834B8367815B82BE82A98140835683878352838982BE82A9814082B582E782CB815B82AA",
+    "original": "「ガトーだか　ショコラだか　しらねーが",
+    "translation": ""
+  },
+  {
+    "offset": "0x8071E",
+    "length": 32,
+    "hex": "82BB82F182C882CC814082DF82B682E182C882A282C182C2815B82CC81498176",
+    "original": "そんなの　めじゃないっつーの！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80745",
+    "length": 40,
+    "hex": "817583748393814981408371815B838D815B82C882F182C48140836F8362834A82DD82BD82A28149",
+    "original": "「フン！　ヒーローなんて　バッカみたい！",
+    "translation": ""
+  },
+  {
+    "offset": "0x8076E",
+    "length": 30,
+    "hex": "82BB82F182C882CC82A282E982ED82AF82C882A282B682E182F181498176",
+    "original": "そんなのいるわけないじゃん！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80791",
+    "length": 26,
+    "hex": "817582C8814581458145814082C882C982F0815B814981498176",
+    "original": "「な・・・　なにをー！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x807B4",
+    "length": 12,
+    "hex": "817582A982A082BF82E182F1",
+    "original": "「かあちゃん",
+    "translation": ""
+  },
+  {
+    "offset": "0x807C1",
+    "length": 30,
+    "hex": "82B182A282C282E78140834B8367815B82C982E282E782EA82E982E68176",
+    "original": "こいつら　ガトーにやられるよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x807E4",
+    "length": 16,
+    "hex": "817582C882F182BE82C68348815B8149",
+    "original": "「なんだとォー！",
+    "translation": ""
+  },
+  {
+    "offset": "0x807F5",
+    "length": 26,
+    "hex": "82B182CC834B834C82C182C482CE82E68348815B815B81498176",
+    "original": "このガキってばよォーー！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80816",
+    "length": 26,
+    "hex": "8175834B8367815B82BD82BF82C9814082CD82DE82A982C182C4",
+    "original": "「ガトーたちに　はむかって",
+    "translation": ""
+  },
+  {
+    "offset": "0x80831",
+    "length": 24,
+    "hex": "82A982C482E982ED82AF82AA82C882A282F182BE82E68176",
+    "original": "かてるわけがないんだよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8084E",
+    "length": 22,
+    "hex": "8175839382CC834B834C8342815B815B814981498176",
+    "original": "「ンのガキィーー！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8086A",
+    "length": 44,
+    "hex": "817582BF82E182F182C6814082A082A282B382C282C882B382A28149814082A882B682A282BF82E182F182F0",
+    "original": "「ちゃんと　あいさつなさい！　おじいちゃんを",
+    "translation": ""
+  },
+  {
+    "offset": "0x80897",
+    "length": 38,
+    "hex": "82B282A682A282B582C482AD82EA82BD814094458ED282B382F182BD82BF82BE82E681498176",
+    "original": "ごえいしてくれた　忍者さんたちだよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x808C4",
+    "length": 24,
+    "hex": "817582A282A282F182B682E1814082A282A282F182B682E1",
+    "original": "「いいんじゃ　いいんじゃ",
+    "translation": ""
+  },
+  {
+    "offset": "0x808DD",
+    "length": 16,
+    "hex": "82C8829F814083438369838A81498176",
+    "original": "なぁ　イナリ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x808F2",
+    "length": 26,
+    "hex": "817582A882DC82A682CD814082BE82EA82BE815B814981488176",
+    "original": "「おまえは　だれだー！？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80914",
+    "length": 36,
+    "hex": "817583608387815B814082A982F182AA82A682B782AC82B682E182C882A282A981488176",
+    "original": "「チョー　かんがえすぎじゃないか？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8093D",
+    "length": 32,
+    "hex": "8175834E8354834382C6814082A082BD82E882F082C282AF82BD82CC82C882E7",
+    "original": "「クサイと　あたりをつけたのなら",
+    "translation": ""
+  },
+  {
+    "offset": "0x8095E",
+    "length": 36,
+    "hex": "82C582A882AD82EA82E982DC82A682C9814082B682E382F182D182B582C482A882AD8176",
+    "original": "でおくれるまえに　じゅんびしておく」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80985",
+    "length": 26,
+    "hex": "817582BB82EA82E08140944582CC82C482C182BB82AD81498176",
+    "original": "「それも　忍のてっそく！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x809A4",
+    "length": 34,
+    "hex": "817582B682E382F182D182C182C4814082C882C982F082B582C482A882AD82CC8148",
+    "original": "「じゅんびって　なにをしておくの？",
+    "translation": ""
+  },
+  {
+    "offset": "0x809C7",
+    "length": 30,
+    "hex": "90E690B682C6815B82D482F1814082A482B282AF82C882A282CC82C98176",
+    "original": "先生とーぶん　うごけないのに」",
+    "translation": ""
+  },
+  {
+    "offset": "0x809EA",
+    "length": 36,
+    "hex": "817582A882DC82A682BD82BF82C982CD81408F438BC682F082B582C482E082E782A48176",
+    "original": "「おまえたちには　修業をしてもらう」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80A13",
+    "length": 40,
+    "hex": "817582A682C1814981408F438BC682C182C48149814082ED82BD82B582BD82BF82AA814082A282DC",
+    "original": "「えっ！　修業って！　わたしたちが　いま",
+    "translation": ""
+  },
+  {
+    "offset": "0x80A3C",
+    "length": 40,
+    "hex": "82BF82E582C182C682B582BD82C682B182C5814082BD82A982AA82B582EA82C482E982ED82E68176",
+    "original": "ちょっとしたとこで　たかがしれてるわよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80A67",
+    "length": 32,
+    "hex": "817582A082A282C482CD81408ECA97D68AE182CC834A834A835690E690B682AA",
+    "original": "「あいては　写輪眼のカカシ先生が",
+    "translation": ""
+  },
+  {
+    "offset": "0x80A88",
+    "length": 28,
+    "hex": "82AD82B982F182B782E982D982C782CC814094458ED282E681498176",
+    "original": "くせんするほどの　忍者よ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80AAB",
+    "length": 36,
+    "hex": "816982ED82BD82B582BD82BF82C9814082C882C982B382B982E982AB815B82C181498148",
+    "original": "（わたしたちに　なにさせるきーっ！？",
+    "translation": ""
+  },
+  {
+    "offset": "0x80AD0",
+    "length": 20,
+    "hex": "82B582E1815B82F182C882EB815B81498149816A",
+    "original": "しゃーんなろー！！）",
+    "translation": ""
+  },
+  {
+    "offset": "0x80AE9",
+    "length": 34,
+    "hex": "81758354834E8389814581458145814082BB82CC82AD82B982F182B582C482A282E9",
+    "original": "「サクラ・・・　そのくせんしている",
+    "translation": ""
+  },
+  {
+    "offset": "0x80B0C",
+    "length": 34,
+    "hex": "8349838C82F082BD82B782AF82BD82CC82CD814082BE82EA82BE82C182BD81488176",
+    "original": "オレをたすけたのは　だれだった？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80B31",
+    "length": 32,
+    "hex": "817582A882DC82A682BD82BF82CD814082B782B282A283588373815B836882C5",
+    "original": "「おまえたちは　すごいスピードで",
+    "translation": ""
+  },
+  {
+    "offset": "0x80B52",
+    "length": 20,
+    "hex": "82B982A282BF82E582A482B582C482A282E98176",
+    "original": "せいちょうしている」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80B69",
+    "length": 28,
+    "hex": "817581458145814582C682CD82A282C182C482E081408F438BC682CD",
+    "original": "「・・・とはいっても　修業は",
+    "translation": ""
+  },
+  {
+    "offset": "0x80B86",
+    "length": 28,
+    "hex": "8349838C82AA814082A982A282D382AD82B782E982DC82C582BE8176",
+    "original": "オレが　かいふくするまでだ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80BA5",
+    "length": 24,
+    "hex": "817582DC8149814082A882DC82A682E782BE82AF82B682E1",
+    "original": "「ま！　おまえらだけじゃ",
+    "translation": ""
+  },
+  {
+    "offset": "0x80BBE",
+    "length": 36,
+    "hex": "82A982C482C882A282A082A282C482C982CD814082BF82AA82A282C882A282B582C88176",
+    "original": "かてないあいてには　ちがいないしな」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80BE7",
+    "length": 40,
+    "hex": "817582C582E090E690B6814981408DC495738E6182AA814082D482B682BE82C182BD82F182C882E7",
+    "original": "「でも先生！　再不斬が　ぶじだったんなら",
+    "translation": ""
+  },
+  {
+    "offset": "0x80C10",
+    "length": 36,
+    "hex": "8F438BC682B582C482E982C682AB82C9814082A882BB82C182C482B182C882A281488176",
+    "original": "修業してるときに　おそってこない？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80C39",
+    "length": 30,
+    "hex": "817582BB82CC82C482F182C9814082C282A282C482BE82AA814581458145",
+    "original": "「そのてんに　ついてだが・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x80C58",
+    "length": 36,
+    "hex": "82A082EA82D982C78140835F8381815B835782F082A482AF82BD834A8389835F82AA8176",
+    "original": "あれほど　ダメージをうけたカラダが」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80C7F",
+    "length": 40,
+    "hex": "817582E082C682C782A882E882C9814082C882E982DC82C582C982CD814082A082E982C482A282C7",
+    "original": "「もとどおりに　なるまでには　あるていど",
+    "translation": ""
+  },
+  {
+    "offset": "0x80CA8",
+    "length": 38,
+    "hex": "82B682A982F182AA814082A982A982E982B182C682CD814082DC82BF82AA82A282C882A28176",
+    "original": "じかんが　かかることは　まちがいない」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80CD3",
+    "length": 34,
+    "hex": "817582BB82CC82A082A282BE82C981408F438BC682C182C482ED82AF82BE82C88149",
+    "original": "「そのあいだに　修業ってわけだな！",
+    "translation": ""
+  },
+  {
+    "offset": "0x80CF6",
+    "length": 34,
+    "hex": "82A882E082B582EB82AD82C882C182C4814082AB82BD82C182C482CE82E681498176",
+    "original": "おもしろくなって　きたってばよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80D1E",
+    "length": 27,
+    "hex": "31817582A882E082B582EB82AD82C882F182A982C882A282E68176",
+    "original": "1「おもしろくなんかないよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80D3E",
+    "length": 36,
+    "hex": "817582BB82A482A282A682CE814581458145814082A082CC83498381839382E282EB815B",
+    "original": "「そういえば・・・　あのオメンやろー",
+    "translation": ""
+  },
+  {
+    "offset": "0x80D63",
+    "length": 40,
+    "hex": "8DC495738E6182CC834A8389835F82F0814082E082C182C482C182BD82C182C482CE82E681498176",
+    "original": "再不斬のカラダを　もってったってばよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80D90",
+    "length": 36,
+    "hex": "817582A8814981408369838B836782C982B582C482CD814082B782E982C782A282C88176",
+    "original": "「お！　ナルトにしては　するどいな」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80DB7",
+    "length": 20,
+    "hex": "817582BB82EA82C6814082E082F182BE82A282CD",
+    "original": "「それと　もんだいは",
+    "translation": ""
+  },
+  {
+    "offset": "0x80DCC",
+    "length": 30,
+    "hex": "8DC495738E6182F082BD82A882B582BD814082A082CC82D482AB82BE8176",
+    "original": "再不斬をたおした　あのぶきだ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80DEF",
+    "length": 26,
+    "hex": "817582A082EA82CD814082BD82BE82CC90E7967B814581458145",
+    "original": "「あれは　ただの千本・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x80E0A",
+    "length": 36,
+    "hex": "82C682A282A482B182C682CD81408DC495738E6182CD814082A282AB82C482E981488176",
+    "original": "ということは　再不斬は　いきてる？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80E33",
+    "length": 40,
+    "hex": "817590E7967B82C5814082D082C682F082BD82A882B782CC82CD814082DE82B882A982B582A28149",
+    "original": "「千本で　ひとをたおすのは　むずかしい！",
+    "translation": ""
+  },
+  {
+    "offset": "0x80E5C",
+    "length": 32,
+    "hex": "8DC495738E6182CD814082AB82BA82C282B582BD82BE82AF82BE82EB82A48176",
+    "original": "再不斬は　きぜつしただけだろう」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80E7F",
+    "length": 38,
+    "hex": "817581458145814582C282DC82E8814082A882DF82F182CC835282CD81408DC495738E6182F0",
+    "original": "「・・・つまり　おめんのコは　再不斬を",
+    "translation": ""
+  },
+  {
+    "offset": "0x80EA6",
+    "length": 38,
+    "hex": "82BD82A882B582C982AB82BD82CC82C582CD82C882AD814082BD82B782AF82C982AB82BD8176",
+    "original": "たおしにきたのではなく　たすけにきた」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80ECF",
+    "length": 32,
+    "hex": "817581458145814582BB82A482C682EA82C882A282B182C682E082C882A28176",
+    "original": "「・・・そうとれないこともない」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80EF6",
+    "length": 30,
+    "hex": "817582C7815B82E4815B82B182C682BE82C182C482CE82E6814981488176",
+    "original": "「どーゆーことだってばよ！？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80F19",
+    "length": 24,
+    "hex": "817582A082EA82CD814082A882BB82E782AD814581458145",
+    "original": "「あれは　おそらく・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x80F32",
+    "length": 24,
+    "hex": "82AB82BA82C282B582BD814082BE82AF82BE82EB82A48176",
+    "original": "きぜつした　だけだろう」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80F4D",
+    "length": 26,
+    "hex": "817590E7967B82CD814082AB82E382A482B582E582C982C582E0",
+    "original": "「千本は　きゅうしょにでも",
+    "translation": ""
+  },
+  {
+    "offset": "0x80F68",
+    "length": 34,
+    "hex": "82A082C482C882A282A982AC82E8814082D082C682F082BD82A882B982C882A28176",
+    "original": "あてないかぎり　ひとをたおせない」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80F8D",
+    "length": 34,
+    "hex": "817592C782A2944582CD8140834A8389835F82CC82C282AD82E882F0814082B582E8",
+    "original": "「追い忍は　カラダのつくりを　しり",
+    "translation": ""
+  },
+  {
+    "offset": "0x80FB0",
+    "length": 40,
+    "hex": "82C282AD82B582C482A282E982A982E7814090E7967B82F082C282A982A682CE82A982CC82A48176",
+    "original": "つくしているから　千本をつかえばかのう」",
+    "translation": ""
+  },
+  {
+    "offset": "0x80FE1",
+    "length": 34,
+    "hex": "814082B682D482F182E682E8814082A882E082A2836E835982CC8DC495738E6182F0",
+    "original": "　じぶんより　おもいハズの再不斬を",
+    "translation": ""
+  },
+  {
+    "offset": "0x81004",
+    "length": 26,
+    "hex": "82ED82B482ED82B4814082E082C182C482A982A682C182BD8176",
+    "original": "わざわざ　もってかえった」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81027",
+    "length": 30,
+    "hex": "814082C482AB82F082BD82A882B782CC82AA814082DE82B882A982B582A2",
+    "original": "　てきをたおすのが　むずかしい",
+    "translation": ""
+  },
+  {
+    "offset": "0x81046",
+    "length": 28,
+    "hex": "90E7967B82C682A282A4814082D482AB82F082C282A982C182BD8176",
+    "original": "千本という　ぶきをつかった」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81065",
+    "length": 38,
+    "hex": "817582B182CC825182C282A982E7814082A882DF82F182CC835282CD81408DC495738E6182F0",
+    "original": "「この２つから　おめんのコは　再不斬を",
+    "translation": ""
+  },
+  {
+    "offset": "0x8108C",
+    "length": 38,
+    "hex": "82BD82A882B582C982AB82BD82CC82C582CD82C882AD814082BD82B782AF82C982AB82BD8176",
+    "original": "たおしにきたのではなく　たすけにきた」",
+    "translation": ""
+  },
+  {
+    "offset": "0x810B5",
+    "length": 32,
+    "hex": "817581458145814582BB82A482C682EA82C882A282B182C682E082C882A28176",
+    "original": "「・・・そうとれないこともない」",
+    "translation": ""
+  },
+  {
+    "offset": "0x810DA",
+    "length": 16,
+    "hex": "817582DC82B382A98145814581458176",
+    "original": "「まさか・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x810EF",
+    "length": 32,
+    "hex": "817582A0815B82A0814581458145814082BB82CC814082DC82B382A982BE82C8",
+    "original": "「あーあ・・・　その　まさかだな",
+    "translation": ""
+  },
+  {
+    "offset": "0x81110",
+    "length": 34,
+    "hex": "82A882BB82E782AD81408DC495738E6182CD814082A282AB82C482A282E981498176",
+    "original": "おそらく　再不斬は　いきている！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8113A",
+    "length": 28,
+    "hex": "817581458145814581488148814082C882C982A282C182C482E982A9",
+    "original": "「・・・？？　なにいってるか",
+    "translation": ""
+  },
+  {
+    "offset": "0x81157",
+    "length": 32,
+    "hex": "82B382C182CF82E8814082ED82A982E782C882A282C182C482CE82E681498176",
+    "original": "さっぱり　わからないってばよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8117C",
+    "length": 26,
+    "hex": "817582A082CC82C682AB814082A082CC82A882DF82F182CC8352",
+    "original": "「あのとき　あのおめんのコ",
+    "translation": ""
+  },
+  {
+    "offset": "0x81197",
+    "length": 30,
+    "hex": "8DC495738E6182CC834A8389835F82F0814082C782A482B582BD81488176",
+    "original": "再不斬のカラダを　どうした？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x811BA",
+    "length": 36,
+    "hex": "817582BD82B582A98340814581458145814082E082C182C482A982A682C182BD82A982E7",
+    "original": "「たしかァ・・・　もってかえったから",
+    "translation": ""
+  },
+  {
+    "offset": "0x811DF",
+    "length": 36,
+    "hex": "82C782A482C882C182BD82A982CD814082B582E982ED82AF82C882A282C582B582E58176",
+    "original": "どうなったかは　しるわけないでしょ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81208",
+    "length": 34,
+    "hex": "817582BB82A482BE814581458145814082BB82EA82C6814082E082F182BE82A282CD",
+    "original": "「そうだ・・・　それと　もんだいは",
+    "translation": ""
+  },
+  {
+    "offset": "0x8122B",
+    "length": 30,
+    "hex": "8DC495738E6182F082BD82A882B582BD814082A082CC82D482AB82BE8176",
+    "original": "再不斬をたおした　あのぶきだ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8124E",
+    "length": 28,
+    "hex": "817582A082EA82CD814082BD82BE82CC90E7967B8145814581458176",
+    "original": "「あれは　ただの千本・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81274",
+    "length": 12,
+    "hex": "814082ED82A982E782C882A2",
+    "original": "　わからない",
+    "translation": ""
+  },
+  {
+    "offset": "0x81281",
+    "length": 10,
+    "hex": "814082ED82A982C182BD",
+    "original": "　わかった",
+    "translation": ""
+  },
+  {
+    "offset": "0x81292",
+    "length": 34,
+    "hex": "817582C782A482B582BD82F182BE82C182C482CE82E68149814090E690B681488176",
+    "original": "「どうしたんだってばよ！　先生？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x812B9",
+    "length": 20,
+    "hex": "817582F18148814082A082A08145814581458176",
+    "original": "「ん？　ああ・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x812D2",
+    "length": 34,
+    "hex": "817592C782A2944582C182C482CC82CD814094B282AF944582CC834A8389835F82F0",
+    "original": "「追い忍ってのは　抜け忍のカラダを",
+    "translation": ""
+  },
+  {
+    "offset": "0x812F5",
+    "length": 36,
+    "hex": "82BB82CC82CE82C5814082B782AE82B582DC82C282B782E982E082CC82C882F182BE8176",
+    "original": "そのばで　すぐしまつするものなんだ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8131E",
+    "length": 22,
+    "hex": "817582BB82EA82AA814082C882F182C882CC81488176",
+    "original": "「それが　なんなの？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81339",
+    "length": 32,
+    "hex": "817582A4815B82F1814581458145814082ED82A982E782C882A282A981488176",
+    "original": "「うーん・・・　わからないか？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8135E",
+    "length": 34,
+    "hex": "8175836F834A8149814082E082C182C682A482DC82AD82E282F182C882B382A282E6",
+    "original": "「バカ！　もっとうまくやんなさいよ",
+    "translation": ""
+  },
+  {
+    "offset": "0x81381",
+    "length": 32,
+    "hex": "82E082A482B782B182B582C5814082A982A882AA82DD82EA82BD82CC82C98176",
+    "original": "もうすこしで　かおがみれたのに」",
+    "translation": ""
+  },
+  {
+    "offset": "0x813A6",
+    "length": 22,
+    "hex": "816982C882C982A982AA82D682F182BE814581458145",
+    "original": "（なにかがへんだ・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x813BD",
+    "length": 36,
+    "hex": "8349838C82C682B582BD82B182C682AA814082DD82A882C682B582C482BD81498148816A",
+    "original": "オレとしたことが　みおとしてた！？）",
+    "translation": ""
+  },
+  {
+    "offset": "0x813E6",
+    "length": 20,
+    "hex": "817582AC82E1815B815B815B815B814981498176",
+    "original": "「ぎゃーーーー！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81416",
+    "length": 28,
+    "hex": "817582A2814581458145814082A282AD82C182C482CE82E681498176",
+    "original": "「い・・・　いくってばよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81437",
+    "length": 22,
+    "hex": "81698368834C8368834C8368834C814581458145816A",
+    "original": "（ドキドキドキ・・・）",
+    "translation": ""
+  },
+  {
+    "offset": "0x81452",
+    "length": 22,
+    "hex": "81698368834C8368834C8368834C814581458145816A",
+    "original": "（ドキドキドキ・・・）",
+    "translation": ""
+  },
+  {
+    "offset": "0x8146D",
+    "length": 22,
+    "hex": "81698368834C8368834C8368834C814581458145816A",
+    "original": "（ドキドキドキ・・・）",
+    "translation": ""
+  },
+  {
+    "offset": "0x8148A",
+    "length": 28,
+    "hex": "817581458145814582B182F182A982A282BE82AF82BE82BC81498176",
+    "original": "「・・・こんかいだけだぞ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x814AE",
+    "length": 28,
+    "hex": "816982E082A482D082C682A882B58149814082AD82E782A68149816A",
+    "original": "（もうひとおし！　くらえ！）",
+    "translation": ""
+  },
+  {
+    "offset": "0x814CD",
+    "length": 40,
+    "hex": "817582BB82EA82C682E0814082C582C182CF8148814082A882BF82E582DA82AE82BF814881488176",
+    "original": "「それとも　でっぱ？　おちょぼぐち？？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x814FA",
+    "length": 30,
+    "hex": "817582BD82E782B182AD82BF82D182E982A982C8829F8145814581458176",
+    "original": "「たらこくちびるかなぁ・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8151E",
+    "length": 24,
+    "hex": "81758349838C82CD814082AB82E582A482DD82C882A28176",
+    "original": "「オレは　きょうみない」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8153E",
+    "length": 32,
+    "hex": "817582E282C182CF814082E282DF82E681408354834E838982BF82E182F18149",
+    "original": "「やっぱ　やめよ　サクラちゃん！",
+    "translation": ""
+  },
+  {
+    "offset": "0x8155F",
+    "length": 28,
+    "hex": "834A834A835690E690B6814082CB82C482E982B58145814581458176",
+    "original": "カカシ先生　ねてるし・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81580",
+    "length": 30,
+    "hex": "81698369838B836782C6814082A282AF82F182AA82A082A482C882F182C4",
+    "original": "（ナルトと　いけんがあうなんて",
+    "translation": ""
+  },
+  {
+    "offset": "0x8159F",
+    "length": 20,
+    "hex": "82DF82B882E782B582A282C8814581458145816A",
+    "original": "めずらしいな・・・）",
+    "translation": ""
+  },
+  {
+    "offset": "0x815BA",
+    "length": 32,
+    "hex": "816982BA82C182BD82A282C982DD82BD82A28149814082AB82C982C882E98149",
+    "original": "（ぜったいにみたい！　きになる！",
+    "translation": ""
+  },
+  {
+    "offset": "0x815DB",
+    "length": 20,
+    "hex": "82B582E1815B82F182C882EB815B81498149816A",
+    "original": "しゃーんなろー！！）",
+    "translation": ""
+  },
+  {
+    "offset": "0x815F4",
+    "length": 40,
+    "hex": "816982CD82C18149814881408354834E838982BF82E182F182AA814082B182C182BF82DD82C482E9",
+    "original": "（はっ！？　サクラちゃんが　こっちみてる",
+    "translation": ""
+  },
+  {
+    "offset": "0x8161D",
+    "length": 38,
+    "hex": "82B182B182CD814083728356836282C6814082AB82DF82C482E282E982C182C4815B82CC816A",
+    "original": "ここは　ビシッと　きめてやるってーの）",
+    "translation": ""
+  },
+  {
+    "offset": "0x8164A",
+    "length": 18,
+    "hex": "817582E282E982C182C482CE82E681498176",
+    "original": "「やるってばよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81666",
+    "length": 32,
+    "hex": "817582E68348815B82B58149814082E282E982C182C482CE82E6814981498176",
+    "original": "「よォーし！　やるってばよ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8168B",
+    "length": 36,
+    "hex": "817582BB815B82C682AB82DC82EA82CE81408354834E836282C682A282AD82ED82E68176",
+    "original": "「そーときまれば　サクッといくわよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x816B8",
+    "length": 6,
+    "hex": "814082E282E9",
+    "original": "　やる",
+    "translation": ""
+  },
+  {
+    "offset": "0x816BF",
+    "length": 10,
+    "hex": "814082E282E782C882A2",
+    "original": "　やらない",
+    "translation": ""
+  },
+  {
+    "offset": "0x816CE",
+    "length": 38,
+    "hex": "817583748393814581458145814082AD82BE82E782C882A2814082E282DF82C682AF81498176",
+    "original": "「フン・・・　くだらない　やめとけ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x816F9",
+    "length": 32,
+    "hex": "816982C7814581458145814082C7815B82B782E982C182C482CE82E68149816A",
+    "original": "（ど・・・　どーするってばよ！）",
+    "translation": ""
+  },
+  {
+    "offset": "0x8171E",
+    "length": 32,
+    "hex": "817582CB8346814581458145814082DD82C482DD82BD82AD82C882A281488176",
+    "original": "「ねェ・・・　みてみたくない？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81743",
+    "length": 22,
+    "hex": "817582C882C982AA8148814082C882C982AA81488176",
+    "original": "「なにが？　なにが？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8175E",
+    "length": 28,
+    "hex": "817582A282DC82C882E7814082BA82C182BD82A2836F838C82B882C9",
+    "original": "「いまなら　ぜったいバレずに",
+    "translation": ""
+  },
+  {
+    "offset": "0x8177B",
+    "length": 36,
+    "hex": "90E690B682CC82B782AA82A8814082DD82EA82E982C682A882E082A482CC82CB81498176",
+    "original": "先生のすがお　みれるとおもうのね！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x817A6",
+    "length": 28,
+    "hex": "817582C282DC82E8814082A082CC82A882DF82F18384838D815B82AA",
+    "original": "「つまり　あのおめんヤローが",
+    "translation": ""
+  },
+  {
+    "offset": "0x817C3",
+    "length": 26,
+    "hex": "92C782A2944582C682A282A482B182C682CD8145814581458176",
+    "original": "追い忍ということは・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x817E2",
+    "length": 28,
+    "hex": "817582A282DC82B282EB81408DC495738E6182CC834A8389835F82E0",
+    "original": "「いまごろ　再不斬のカラダも",
+    "translation": ""
+  },
+  {
+    "offset": "0x817FF",
+    "length": 32,
+    "hex": "82B582DC82C282B382EA82BF82E182C182C482E982ED82AF8346814981488176",
+    "original": "しまつされちゃってるわけェ！？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81824",
+    "length": 36,
+    "hex": "817582A082CC82A882DF82F182CC835282AA81408DC495738E6182CC834A8389835F82F0",
+    "original": "「あのおめんのコが　再不斬のカラダを",
+    "translation": ""
+  },
+  {
+    "offset": "0x81849",
+    "length": 18,
+    "hex": "82B582DC82C282B782E982B182C682C58176",
+    "original": "しまつすることで」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8185E",
+    "length": 40,
+    "hex": "817596B6894282EA82CC8371837E836382F0814082DC82E082E982B182C682AA82C582AB82E98176",
+    "original": "「霧隠れのヒミツを　まもることができる」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8188B",
+    "length": 34,
+    "hex": "817582C882F182BE82A98340814581458145814082E682A982C182BD82F182BE82A9",
+    "original": "「なんだかァ・・・　よかったんだか",
+    "translation": ""
+  },
+  {
+    "offset": "0x818AE",
+    "length": 34,
+    "hex": "82ED82E982A982C182BD82F182BE82A9814082ED82A982E782C882A282ED82CB8176",
+    "original": "わるかったんだか　わからないわね」",
+    "translation": ""
+  },
+  {
+    "offset": "0x818D5",
+    "length": 38,
+    "hex": "816981458145814582C882F182BE814881408384836382CD814082A882DF82F182CC835282C9",
+    "original": "（・・・なんだ？　ヤツは　おめんのコに",
+    "translation": ""
+  },
+  {
+    "offset": "0x818FC",
+    "length": 30,
+    "hex": "82B582DC82C282B382EA82BD82C682A282A482CC82C9814581458145816A",
+    "original": "しまつされたというのに・・・）",
+    "translation": ""
+  },
+  {
+    "offset": "0x8191D",
+    "length": 24,
+    "hex": "816982B182CC814082C882F182C682E082A282A682C882A2",
+    "original": "（この　なんともいえない",
+    "translation": ""
+  },
+  {
+    "offset": "0x81936",
+    "length": 20,
+    "hex": "82D382A082F182A982F182CD814581458145816A",
+    "original": "ふあんかんは・・・）",
+    "translation": ""
+  },
+  {
+    "offset": "0x8194D",
+    "length": 32,
+    "hex": "816982B682E382A482BE82A282C8814082C882C982A982F0814581458145816A",
+    "original": "（じゅうだいな　なにかを・・・）",
+    "translation": ""
+  },
+  {
+    "offset": "0x81972",
+    "length": 34,
+    "hex": "816982C882C982A982F0814082DD82A882C682B582C482E982AB82AA82B782E9816A",
+    "original": "（なにかを　みおとしてるきがする）",
+    "translation": ""
+  },
+  {
+    "offset": "0x8199A",
+    "length": 34,
+    "hex": "817582BB82F182C882CC814082ED82A982C182C482E982C182C482CE82E681498176",
+    "original": "「そんなの　わかってるってばよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x819C1",
+    "length": 30,
+    "hex": "817582BB815B82A9814581458145814082C882E7814082A282A282AA8176",
+    "original": "「そーか・・・　なら　いいが」",
+    "translation": ""
+  },
+  {
+    "offset": "0x819E6",
+    "length": 18,
+    "hex": "817582BE82C182C4814082BB82F182C882CC",
+    "original": "「だって　そんなの",
+    "translation": ""
+  },
+  {
+    "offset": "0x819F9",
+    "length": 32,
+    "hex": "94458ED28A778D5A82C5814082C882E782C182C482CB815B82E082F181498176",
+    "original": "忍者学校で　ならってねーもん！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81A1E",
+    "length": 36,
+    "hex": "817592C782A2944582C682CD814097A282F082CA82AF82BD94B282AF944582F082A882A4",
+    "original": "「追い忍とは　里をぬけた抜け忍をおう",
+    "translation": ""
+  },
+  {
+    "offset": "0x81A43",
+    "length": 36,
+    "hex": "82C282A282B982AB82CC81408358837983568383838A8358836782CC82B182C682BE8176",
+    "original": "ついせきの　スペシャリストのことだ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81A6C",
+    "length": 40,
+    "hex": "817582C882BA814082A882A282A982AF82E9814082D082C282E682A482AA82A082E982CC81488176",
+    "original": "「なぜ　おいかける　ひつようがあるの？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81A99",
+    "length": 34,
+    "hex": "817597A282CC8371837E836382AA814082BB82C682C982E082EA82E982B182C682F0",
+    "original": "「里のヒミツが　そとにもれることを",
+    "translation": ""
+  },
+  {
+    "offset": "0x81ABC",
+    "length": 14,
+    "hex": "82D382B982AE82BD82DF82BE8176",
+    "original": "ふせぐためだ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81ACD",
+    "length": 26,
+    "hex": "817594458ED282CC834A8389835F814082C682A282A482CC82CD",
+    "original": "「忍者のカラダ　というのは",
+    "translation": ""
+  },
+  {
+    "offset": "0x81AE8",
+    "length": 34,
+    "hex": "82B382DC82B482DC82C882B182C682F0814082A982BD82C182C482B582DC82A48176",
+    "original": "さまざまなことを　かたってしまう」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81B0D",
+    "length": 32,
+    "hex": "817581458145814582BD82C682A682CE81408349838C82CC82A982E782BE82AA",
+    "original": "「・・・たとえば　オレのからだが",
+    "translation": ""
+  },
+  {
+    "offset": "0x81B2E",
+    "length": 26,
+    "hex": "82C482AB82C9814082ED82BD82C182BD82E78145814581458176",
+    "original": "てきに　わたったら・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81B4B",
+    "length": 40,
+    "hex": "81758ECA97D68AE182CC82E682A482C8814082C682AD82A282BD82A282B582C2814082C282DC82E8",
+    "original": "「写輪眼のような　とくいたいしつ　つまり",
+    "translation": ""
+  },
+  {
+    "offset": "0x81B74",
+    "length": 36,
+    "hex": "8371837E836382CD814082B782D782C482B582E782D782E782EA82C482B582DC82A48176",
+    "original": "ヒミツは　すべてしらべられてしまう」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81B9B",
+    "length": 28,
+    "hex": "81758377835E82F082B782EA82CE814082C482AB82C98F7082B282C6",
+    "original": "「ヘタをすれば　てきに術ごと",
+    "translation": ""
+  },
+  {
+    "offset": "0x81BB8",
+    "length": 34,
+    "hex": "82A482CE82A282C682E782EA82E9814082AB82AF82F182B982A282E082A082E98176",
+    "original": "うばいとられる　きけんせいもある」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81BDD",
+    "length": 36,
+    "hex": "817594B282AF944582F0814082A982AD82B682C282C9814082DD82C282AF814581458145",
+    "original": "「抜け忍を　かくじつに　みつけ・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x81C02",
+    "length": 32,
+    "hex": "82B582DC82C282B782E9814581458145814082BB82EA82AA944396B182BE8176",
+    "original": "しまつする・・・　それが任務だ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81C2C",
+    "length": 14,
+    "hex": "814082ED82A982C182C482C882A2",
+    "original": "　わかってない",
+    "translation": ""
+  },
+  {
+    "offset": "0x81C3B",
+    "length": 12,
+    "hex": "814082ED82A982C182C482E9",
+    "original": "　わかってる",
+    "translation": ""
+  },
+  {
+    "offset": "0x81C4E",
+    "length": 28,
+    "hex": "817582BE82A282B682E582A482D482A982A28148814090E690B68176",
+    "original": "「だいじょうぶかい？　先生」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81C6F",
+    "length": 12,
+    "hex": "817582A282E2814581458145",
+    "original": "「いや・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x81C7C",
+    "length": 30,
+    "hex": "82B582CE82E782AD82CD814082A482B282AF82C882A282F182C582B78176",
+    "original": "しばらくは　うごけないんです」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81C9F",
+    "length": 36,
+    "hex": "817582C8829F815B82C982E6814981408ECA97D68AE182C182C483588353834382AF82C7",
+    "original": "「なぁーによ！　写輪眼ってスゴイけど",
+    "translation": ""
+  },
+  {
+    "offset": "0x81CC4",
+    "length": 40,
+    "hex": "82A482B282AF82C882AD82C882E982F182B682E1814082A982F182AA82A682E082CC82E682CB8176",
+    "original": "うごけなくなるんじゃ　かんがえものよね」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81CF3",
+    "length": 12,
+    "hex": "817582C582E0814082DC8149",
+    "original": "「でも　ま！",
+    "translation": ""
+  },
+  {
+    "offset": "0x81D00",
+    "length": 36,
+    "hex": "82A082F182C882C282E682A294458ED282F0814082BD82A882B582BD82F182B682E18176",
+    "original": "あんなつよい忍者を　たおしたんじゃ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81D27",
+    "length": 26,
+    "hex": "817582A882A982B082C5814082E082A482B582CE82E782AD82CD",
+    "original": "「おかげで　もうしばらくは",
+    "translation": ""
+  },
+  {
+    "offset": "0x81D42",
+    "length": 20,
+    "hex": "82A082F182B582F182B682E182EB82A481498176",
+    "original": "あんしんじゃろう！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81D5B",
+    "length": 24,
+    "hex": "817582BB82EA82C982B582C482E0814082B382C182AB82CC",
+    "original": "「それにしても　さっきの",
+    "translation": ""
+  },
+  {
+    "offset": "0x81D74",
+    "length": 36,
+    "hex": "82A882DF82F182CC835282C182C4814082C882C982E082CC82C882CC82A982C881488176",
+    "original": "おめんのコって　なにものなのかな？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81D9D",
+    "length": 36,
+    "hex": "81758341838C82CD814096B6894282EA82CC88C39594814581458145814082DF82F182CD",
+    "original": "「アレは　霧隠れの暗部・・・　めんは",
+    "translation": ""
+  },
+  {
+    "offset": "0x81DC2",
+    "length": 40,
+    "hex": "92C782A2944582C682E682CE82EA82E9814082C682AD82B582E3959491E082AA82C282AF82E98176",
+    "original": "追い忍とよばれる　とくしゅ部隊がつける」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81DEF",
+    "length": 14,
+    "hex": "817582A882A282C982F181488176",
+    "original": "「おいにん？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81E02",
+    "length": 30,
+    "hex": "81758369838B83678149814082A882DC82A6814092C782A2944582C182C4",
+    "original": "「ナルト！　おまえ　追い忍って",
+    "translation": ""
+  },
+  {
+    "offset": "0x81E21",
+    "length": 16,
+    "hex": "82ED82A982C182C482E982A981488176",
+    "original": "わかってるか？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81E36",
+    "length": 32,
+    "hex": "82A982BC82AD82CC82B582E182B582F182AA814082A982B482C182C482A082E9",
+    "original": "かぞくのしゃしんが　かざってある",
+    "translation": ""
+  },
+  {
+    "offset": "0x81E57",
+    "length": 40,
+    "hex": "82D082C682E882BE82AF814082A982A882CC82C682B182EB82AA814082E282D482EA82C482A282E9",
+    "original": "ひとりだけ　かおのところが　やぶれている",
+    "translation": ""
+  },
+  {
+    "offset": "0x81E88",
+    "length": 32,
+    "hex": "817582C982A282BF82E182F182AA814089CE896582C9814082C882E982C882E7",
+    "original": "「にいちゃんが　火影に　なるなら",
+    "translation": ""
+  },
+  {
+    "offset": "0x81EA9",
+    "length": 34,
+    "hex": "82DA82AD82CD814082A682A282E482A482C9814082C882E982F182BE814981498176",
+    "original": "ぼくは　えいゆうに　なるんだ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81ED4",
+    "length": 14,
+    "hex": "817582ED82C182CD82C182CD8149",
+    "original": "「わっはっは！",
+    "translation": ""
+  },
+  {
+    "offset": "0x81EE3",
+    "length": 36,
+    "hex": "83608387815B814082A282C182A982BE82F182E782F1814082B682E182ED82A281498176",
+    "original": "チョー　いっかだんらん　じゃわい！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81F10",
+    "length": 36,
+    "hex": "817582A882DC82A682E78149814083608387815B814082AA82F182CE82EA82E681498176",
+    "original": "「おまえら！　チョー　がんばれよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81F3A",
+    "length": 46,
+    "hex": "817582D382BD82E882C682E08149814082E882E582A482E882CD814082BD82AD82B382F1814082A082E982A982E7",
+    "original": "「ふたりとも！　りょうりは　たくさん　あるから",
+    "translation": ""
+  },
+  {
+    "offset": "0x81F69",
+    "length": 20,
+    "hex": "82E482C182AD82E8814082BD82D782C482CB8176",
+    "original": "ゆっくり　たべてね」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81F82",
+    "length": 20,
+    "hex": "817582A082E7814082A282E782C182B582E182A2",
+    "original": "「あら　いらっしゃい",
+    "translation": ""
+  },
+  {
+    "offset": "0x81F97",
+    "length": 40,
+    "hex": "83438369838A82C6814082A882C682A482B382F182C9814082A082C182C482A082B082C482CB8176",
+    "original": "イナリと　おとうさんに　あってあげてね」",
+    "translation": ""
+  },
+  {
+    "offset": "0x81FC6",
+    "length": 34,
+    "hex": "817582A882A282B582A282B282CD82F1814082C282AD82C182C482DC82B782A982E7",
+    "original": "「おいしいごはん　つくってますから",
+    "translation": ""
+  },
+  {
+    "offset": "0x81FE9",
+    "length": 32,
+    "hex": "82AA82F182CE82C182C481408F438BC682B582C482AD82BE82B382A282CB8176",
+    "original": "がんばって　修業してくださいね」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8200E",
+    "length": 42,
+    "hex": "817582B282DF82F182C882B382A2814083438369838A82E0814082ED82E982AC82CD814082C882A282CC",
+    "original": "「ごめんなさい　イナリも　わるぎは　ないの",
+    "translation": ""
+  },
+  {
+    "offset": "0x82039",
+    "length": 18,
+    "hex": "82E482E982B582C482A082B082C482CB8176",
+    "original": "ゆるしてあげてね」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82054",
+    "length": 38,
+    "hex": "817582A882DC82A682BD82BF82E0814082CD82E282AD814082E282B782F182BE82D982A482AA",
+    "original": "「おまえたちも　はやく　やすんだほうが",
+    "translation": ""
+  },
+  {
+    "offset": "0x8207B",
+    "length": 8,
+    "hex": "82A682A682BC8176",
+    "original": "ええぞ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8208C",
+    "length": 38,
+    "hex": "817582CD82B582AA814082C582AB82BD82E7814082BA82C182BD82A2814082A082BB82D182C9",
+    "original": "「はしが　できたら　ぜったい　あそびに",
+    "translation": ""
+  },
+  {
+    "offset": "0x820B3",
+    "length": 14,
+    "hex": "82A282AD82A982E782CB81498176",
+    "original": "いくからね！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x820C8",
+    "length": 22,
+    "hex": "817582E282E782EA82BD82AD82C882A982C182BD82E7",
+    "original": "「やられたくなかったら",
+    "translation": ""
+  },
+  {
+    "offset": "0x820DF",
+    "length": 30,
+    "hex": "82CD82E282AD82A982A682C182BD82D982A482AA814082A282A282E68176",
+    "original": "はやくかえったほうが　いいよ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82118",
+    "length": 36,
+    "hex": "817582BE82EA82C681408360815B838082F0814082AD82DD82BD82A282F182BE81488176",
+    "original": "「だれと　チームを　くみたいんだ？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82142",
+    "length": 38,
+    "hex": "817582A882CB82AA82A282BE82A982E7814082BF82C182C682BE82AF814082DC82C182C48149",
+    "original": "「おねがいだから　ちっとだけ　まって！",
+    "translation": ""
+  },
+  {
+    "offset": "0x82169",
+    "length": 26,
+    "hex": "82CB8149814082CB814981408343838B834A90E690B683468176",
+    "original": "ね！　ね！　イルカ先生ェ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8218A",
+    "length": 36,
+    "hex": "81758145814581458369838B83678149814082E082B582A982B582C4814082A882DC82A6",
+    "original": "「・・・ナルト！　もしかして　おまえ",
+    "translation": ""
+  },
+  {
+    "offset": "0x821AF",
+    "length": 40,
+    "hex": "8360815B838082F0814082AD82DD82A982A682BD82A282F182B682E182C882A282CC82A981488176",
+    "original": "チームを　くみかえたいんじゃないのか？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x821DE",
+    "length": 24,
+    "hex": "817582D682C18149814082D782C282C9814082A282DC82CD",
+    "original": "「へっ！　べつに　いまは",
+    "translation": ""
+  },
+  {
+    "offset": "0x821F7",
+    "length": 28,
+    "hex": "82AD82DD82A982A682BD82AD82C882A282C182C4815B82CC81498176",
+    "original": "くみかえたくないってーの！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8221A",
+    "length": 40,
+    "hex": "817581458145814582ED82A982C182BD81408349838C82CD814082B182B182C982A282E982A982E7",
+    "original": "「・・・わかった　オレは　ここにいるから",
+    "translation": ""
+  },
+  {
+    "offset": "0x82243",
+    "length": 36,
+    "hex": "82C882C982A982A082C182BD82E7814082CD82C882B582A982AF82C482AD82EA81498176",
+    "original": "なにかあったら　はなしかけてくれ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8226E",
+    "length": 26,
+    "hex": "817582BB82CC82C682A882E882BE82C182C482CE82E681498149",
+    "original": "「そのとおりだってばよ！！",
+    "translation": ""
+  },
+  {
+    "offset": "0x82289",
+    "length": 28,
+    "hex": "8343838B834A90E690B6814082A882CB82AA815B815B82A281498176",
+    "original": "イルカ先生　おねがーーい！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x822AC",
+    "length": 32,
+    "hex": "817581458145814582C182BD82AD814082B582E582A482AA82C882A282C88149",
+    "original": "「・・・ったく　しょうがないな！",
+    "translation": ""
+  },
+  {
+    "offset": "0x822CD",
+    "length": 22,
+    "hex": "82B182F182A982A282BE82AF82BE82BC814981498176",
+    "original": "こんかいだけだぞ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x822E8",
+    "length": 32,
+    "hex": "81758343838B834A90E690B6814082BE82A282B782AB815B815B814981498176",
+    "original": "「イルカ先生　だいすきーー！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82310",
+    "length": 12,
+    "hex": "814082BB82CC82C682A882E8",
+    "original": "　そのとおり",
+    "translation": ""
+  },
+  {
+    "offset": "0x8231D",
+    "length": 20,
+    "hex": "814082A282E2814082D782C282C9814581458145",
+    "original": "　いや　べつに・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x82338",
+    "length": 40,
+    "hex": "81758369838B83678149814082E682A482A282CD82C582AB82C482E0814082BF82AA82A494C782CC",
+    "original": "「ナルト！　よういはできても　ちがう班の",
+    "translation": ""
+  },
+  {
+    "offset": "0x82361",
+    "length": 34,
+    "hex": "838D8362834E8145838A815B82AA814082A282E982B682E182C882A282A981498176",
+    "original": "ロック・リーが　いるじゃないか！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82386",
+    "length": 40,
+    "hex": "8175825694C782CC82C882A982DC814082B682E182C882A282C681409286944582B982F182CE82C2",
+    "original": "「７班のなかま　じゃないと　中忍せんばつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x823AF",
+    "length": 28,
+    "hex": "82B582AF82F182CD814082A482AF82E782EA82C882A282BC81498176",
+    "original": "しけんは　うけられないぞ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x823CE",
+    "length": 14,
+    "hex": "817582E082A482A282C182A982A2",
+    "original": "「もういっかい",
+    "translation": ""
+  },
+  {
+    "offset": "0x823DD",
+    "length": 28,
+    "hex": "82AB82BF82C182C6814082E682A482A282B582C482B182A281498176",
+    "original": "きちっと　よういしてこい！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82400",
+    "length": 38,
+    "hex": "81758369838B83678149814093FA8CFC836C835782E28140838D8362834E8145838A815B82C6",
+    "original": "「ナルト！　日向ネジや　ロック・リーと",
+    "translation": ""
+  },
+  {
+    "offset": "0x82427",
+    "length": 26,
+    "hex": "82C882A982AA82A282A282CC82CD814082ED82A982E982AA8176",
+    "original": "なかがいいのは　わかるが」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82444",
+    "length": 40,
+    "hex": "8175825694C782CC82C882A982DC814082B682E182C882A282C681409286944582B982F182CE82C2",
+    "original": "「７班のなかま　じゃないと　中忍せんばつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x8246D",
+    "length": 32,
+    "hex": "82B582AF82F182CD814082A482AF82E782EA82C882A282F182BE82BC81498176",
+    "original": "しけんは　うけられないんだぞ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82490",
+    "length": 14,
+    "hex": "817582E082A482A282C182A982A2",
+    "original": "「もういっかい",
+    "translation": ""
+  },
+  {
+    "offset": "0x8249F",
+    "length": 28,
+    "hex": "82AB82BF82C182C6814082E682A482A282B582C482B182A281498176",
+    "original": "きちっと　よういしてこい！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x824C4",
+    "length": 36,
+    "hex": "817582F18148814082E682A482A282CD82C582AB82C482E0814082BF82AA82A494C782CC",
+    "original": "「ん？　よういはできても　ちがう班の",
+    "translation": ""
+  },
+  {
+    "offset": "0x824E9",
+    "length": 32,
+    "hex": "93FA8CFC836C835782AA82A282E982BC814981408369838B8367814981498176",
+    "original": "日向ネジがいるぞ！　ナルト！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8250C",
+    "length": 36,
+    "hex": "8175825694C782CC82C882A982DC814082B682E182C882A282C6814082B582AF82F182CD",
+    "original": "「７班のなかま　じゃないと　しけんは",
+    "translation": ""
+  },
+  {
+    "offset": "0x82531",
+    "length": 36,
+    "hex": "82A482AF82E782EA82C882A282CC82CD814082B582C182C482E982E682C8814981498176",
+    "original": "うけられないのは　しってるよな！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82558",
+    "length": 14,
+    "hex": "817582E082A482A282C182A982A2",
+    "original": "「もういっかい",
+    "translation": ""
+  },
+  {
+    "offset": "0x82567",
+    "length": 28,
+    "hex": "82AB82BF82C182C6814082E682A482A282B582C482B182A281498176",
+    "original": "きちっと　よういしてこい！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8258C",
+    "length": 38,
+    "hex": "81758369838B8367814981408356834A837D838B82E28140838D8362834E8145838A815B82C6",
+    "original": "「ナルト！　シカマルや　ロック・リーと",
+    "translation": ""
+  },
+  {
+    "offset": "0x825B3",
+    "length": 30,
+    "hex": "82C882A982AA82A282A282CC82CD814082ED82A982E982F182BE82AA8176",
+    "original": "なかがいいのは　わかるんだが」",
+    "translation": ""
+  },
+  {
+    "offset": "0x825D4",
+    "length": 40,
+    "hex": "8175825694C782CC82C882A982DC814082B682E182C882A282C681409286944582B982F182CE82C2",
+    "original": "「７班のなかま　じゃないと　中忍せんばつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x825FD",
+    "length": 30,
+    "hex": "82B582AF82F182CD814082A482AF82E782EA82C882A282F182BE81498176",
+    "original": "しけんは　うけられないんだ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8261E",
+    "length": 14,
+    "hex": "817582E082A482A282C182A982A2",
+    "original": "「もういっかい",
+    "translation": ""
+  },
+  {
+    "offset": "0x8262D",
+    "length": 28,
+    "hex": "82AB82BF82C182C6814082E682A482A282B582C482B182A281498176",
+    "original": "きちっと　よういしてこい！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82650",
+    "length": 38,
+    "hex": "81758369838B836781458145814581408356834A837D838B82E2814093FA8CFC836C835782C6",
+    "original": "「ナルト・・・　シカマルや　日向ネジと",
+    "translation": ""
+  },
+  {
+    "offset": "0x82677",
+    "length": 26,
+    "hex": "82C882A982AA82A282A282CC82CD814082ED82A982E982AA8176",
+    "original": "なかがいいのは　わかるが」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82694",
+    "length": 40,
+    "hex": "8175825694C782CC82C882A982DC814082B682E182C882A282C681409286944582B982F182CE82C2",
+    "original": "「７班のなかま　じゃないと　中忍せんばつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x826BD",
+    "length": 30,
+    "hex": "82B582AF82F182CD814082A482AF82E782EA82C882A282F182BE81498176",
+    "original": "しけんは　うけられないんだ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x826DE",
+    "length": 14,
+    "hex": "817582E082A482A282C182A982A2",
+    "original": "「もういっかい",
+    "translation": ""
+  },
+  {
+    "offset": "0x826ED",
+    "length": 28,
+    "hex": "82AB82BF82C182C6814082E682A482A282B582C482B182A281498176",
+    "original": "きちっと　よういしてこい！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82710",
+    "length": 28,
+    "hex": "81758369838B83678149814082E682A482A282CD82C582AB82C482E0",
+    "original": "「ナルト！　よういはできても",
+    "translation": ""
+  },
+  {
+    "offset": "0x8272D",
+    "length": 40,
+    "hex": "82BF82AA82A494C782CC81408356834A837D838B82AA82A282E982B682E182C882A282A981498176",
+    "original": "ちがう班の　シカマルがいるじゃないか！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82758",
+    "length": 40,
+    "hex": "8175825694C782CC82C882A982DC814082B682E182C882A282C681409286944582B982F182CE82C2",
+    "original": "「７班のなかま　じゃないと　中忍せんばつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x82781",
+    "length": 34,
+    "hex": "82B582AF82F182CD814082A482AF82E782EA82C882A282F182BE82BC814981498176",
+    "original": "しけんは　うけられないんだぞ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x827A6",
+    "length": 20,
+    "hex": "817582C582C882A882B582C482B182A281498176",
+    "original": "「でなおしてこい！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x827C4",
+    "length": 28,
+    "hex": "817582C282AC82CD814082BE82A2825282CC82B582AF82F182BE8149",
+    "original": "「つぎは　だい３のしけんだ！",
+    "translation": ""
+  },
+  {
+    "offset": "0x827E1",
+    "length": 20,
+    "hex": "82E682A482A282CD814082A282A282A981488176",
+    "original": "よういは　いいか？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x827FA",
+    "length": 38,
+    "hex": "817582A882CB82AA82A282BE82A982E7814082BF82C182C682BE82AF814082DC82C182C48149",
+    "original": "「おねがいだから　ちっとだけ　まって！",
+    "translation": ""
+  },
+  {
+    "offset": "0x82821",
+    "length": 26,
+    "hex": "82CB8149814082CB814981408343838B834A90E690B683468176",
+    "original": "ね！　ね！　イルカ先生ェ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82842",
+    "length": 40,
+    "hex": "817582ED82A982C182BD81458145814581408349838C82CD814082B182B182C982A282E982A982E7",
+    "original": "「わかった・・・　オレは　ここにいるから",
+    "translation": ""
+  },
+  {
+    "offset": "0x8286B",
+    "length": 38,
+    "hex": "82E682A482A282AA82C582AB82BD82E7814082CD82C882B582A982AF82C482AD82EA81498176",
+    "original": "よういができたら　はなしかけてくれ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82896",
+    "length": 38,
+    "hex": "817582E082C182BF82EB82F1814082BE82A282B682E5815B82D482BE82C182C482CE82E68149",
+    "original": "「もっちろん　だいじょーぶだってばよ！",
+    "translation": ""
+  },
+  {
+    "offset": "0x828BD",
+    "length": 24,
+    "hex": "836F838A836F838A82A282AF82E982C182C482CE81498176",
+    "original": "バリバリいけるってば！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x828DC",
+    "length": 10,
+    "hex": "817582BB82A482A98149",
+    "original": "「そうか！",
+    "translation": ""
+  },
+  {
+    "offset": "0x828E7",
+    "length": 38,
+    "hex": "82B682E182A0814082BE82A2825282CC82B582AF82F1814082AA82F182CE82EA82E681498176",
+    "original": "じゃあ　だい３のしけん　がんばれよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82912",
+    "length": 34,
+    "hex": "817582D682D682C18149814082AA82F182CE82E982C182C482CE82E6814981498176",
+    "original": "「へへっ！　がんばるってばよ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x8293C",
+    "length": 18,
+    "hex": "814082BF82E582C182C6814082DC82C182C4",
+    "original": "　ちょっと　まって",
+    "translation": ""
+  },
+  {
+    "offset": "0x8294F",
+    "length": 14,
+    "hex": "814082BE82A282B682E582A482D4",
+    "original": "　だいじょうぶ",
+    "translation": ""
+  },
+  {
+    "offset": "0x82962",
+    "length": 38,
+    "hex": "817582B182CC96D8836D977482CC8A7A82A082C4814082E082E782C182BD82C682AB82A982E7",
+    "original": "「この木ノ葉の額あて　もらったときから",
+    "translation": ""
+  },
+  {
+    "offset": "0x82989",
+    "length": 40,
+    "hex": "8349838C82C182C482CE82E082A4814082B982A282C682B682E182C882A282F182BE82BA81498176",
+    "original": "オレってばもう　せいとじゃないんだぜ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x829B4",
+    "length": 30,
+    "hex": "817582B582F182CF82A282DE82E682A482BE82C182C482CE82E681498176",
+    "original": "「しんぱいむようだってばよ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x829EE",
+    "length": 36,
+    "hex": "817582BB82EA82C9814082B182CC8A7A82A082C482CD81408343838B834A90E690B682AA",
+    "original": "「それに　この額あては　イルカ先生が",
+    "translation": ""
+  },
+  {
+    "offset": "0x82A13",
+    "length": 36,
+    "hex": "82AD82EA82BD814082A282BF82C982F182DC82A682CC82A082A982B582BE82EB81498176",
+    "original": "くれた　いちにんまえのあかしだろ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82A3A",
+    "length": 40,
+    "hex": "817582A882BF82C282AB82AA82C882A282C682B182CD814082A982ED82C182C482CB815B82A982E0",
+    "original": "「おちつきがないとこは　かわってねーかも",
+    "translation": ""
+  },
+  {
+    "offset": "0x82A63",
+    "length": 40,
+    "hex": "82B582F182CB815B82AF82C781408349838C82CD834B834C82B682E182CB834682F182BE81498176",
+    "original": "しんねーけど　オレはガキじゃねェんだ！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82A8E",
+    "length": 22,
+    "hex": "817582A282DC82CD8145814581458145814581458176",
+    "original": "「いまは・・・・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82AAB",
+    "length": 18,
+    "hex": "94458ED282C882F182BE82A982E782C88149",
+    "original": "忍者なんだからな！",
+    "translation": ""
+  },
+  {
+    "offset": "0x82AC8",
+    "length": 20,
+    "hex": "817581458145814581458145814582BB82A482A9",
+    "original": "「・・・・・・そうか",
+    "translation": ""
+  },
+  {
+    "offset": "0x82ADD",
+    "length": 28,
+    "hex": "82ED82E982A982C182BD82C881408369838B83678145814581458176",
+    "original": "わるかったな　ナルト・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x82AFC",
+    "length": 40,
+    "hex": "816982B182A482A282A482D382A482C982DD82C482E982C694458ED28A778D5A82CC82B182EB82C6",
+    "original": "（こういうふうにみてると忍者学校のころと",
+    "translation": ""
+  },
+  {
+    "offset": "0x82B25",
+    "length": 40,
+    "hex": "82C882C982E082A982ED82E782C882A2814082A982F182B682AA82B782E982AA814581458145816A",
+    "original": "なにもかわらない　かんじがするが・・・）",
+    "translation": ""
+  },
+  {
+    "offset": "0x82B50",
+    "length": 36,
+    "hex": "816983528343836382E782CD81408349838C82CC82B582E782C882A282C682B182EB82C5",
+    "original": "（コイツらは　オレのしらないところで",
+    "translation": ""
+  },
+  {
+    "offset": "0x82B75",
+    "length": 34,
+    "hex": "82AB82BF82F182C6814082B982A282BF82E582A482B582C482E982F182BE82C8816A",
+    "original": "きちんと　せいちょうしてるんだな）",
+    "translation": ""
+  },
+  {
+    "offset": "0x82B9A",
+    "length": 24,
+    "hex": "816982B182CC835282BD82BF82CC81408360834A838982F0",
+    "original": "（このコたちの　チカラを",
+    "translation": ""
+  },
+  {
+    "offset": "0x82BB3",
+    "length": 36,
+    "hex": "82D982F182C682A482C9814082ED82A982C182C482A282E982CC82CD814581458145816A",
+    "original": "ほんとうに　わかっているのは・・・）",
+    "translation": ""
+  }
+]

@@ -19,10 +19,12 @@ gba-narutorpg-chs/
 │   └── readme.md
 ├── python/                # Python 工具脚本
 │   ├── readme.md
-│   ├── requirements.txt  # freetype-py, pillow
-│   └── debug/            # 字模等实验脚本
-│       ├── 8x8_font.py   # TTF → 8×8 GBA 字模
-│       └── 8x16_font.py  # TTF → 8×16 GBA 字模
+│   ├── requirements.txt   # freetype-py, pillow
+│   └── debug/             # 字模、文本导出等实验脚本
+│       ├── 8x8_font.py    # TTF → 8×8 GBA 字模
+│       ├── 8x16_font.py   # TTF → 8×16 GBA 字模
+│       ├── text_dumper.py # ROM 文本导出为 JSON（Shift-JIS）
+│       └── text_dump/     # 文本导出输出（text_chunk_*.json）
 └── patcher/               # HTML Patcher 源码 [WIP]
     └── readme.md
 ```
@@ -30,7 +32,7 @@ gba-narutorpg-chs/
 | 模块 | 说明 | 状态 |
 |------|------|------|
 | **hexproj** | ImHex 工程：ROM 内字体、mapping、二分查找等区域标注，便于分析与手工编辑 | ✅ 已有 |
-| **python** | 字模脚本（8×8/8×16）、文本导出/导入、binary diff 等；当前已有 debug 字模脚本与依赖 | 🚧 部分就绪 |
+| **python** | 字模脚本（8×8/8×16）、ROM 文本导出（text_dumper）、binary diff 等；当前已有 debug 字模与文本导出脚本 | 🚧 部分就绪 |
 | **patcher** | 网页端 Patcher：加载用户 ROM + 应用 diff，输出汉化 ROM | 🚧 WIP |
 
 ## 各模块说明
@@ -42,8 +44,8 @@ gba-narutorpg-chs/
 
 ### python（脚本工具）
 
-- **已实现**：`debug/` 下 8×8、8×16 字模脚本——从 TTF 用 FreeType 渲染并转为 GBA 4bpp，输出 `.bin` 与预览图；依赖见 `requirements.txt`（freetype-py、pillow）。
-- **计划**：封装字模为统一工具、ROM 文本导出/导入、生成/校验与原版 ROM 的 binary diff（供 Patcher 使用）。详见 [python/readme.md](python/readme.md)。
+- **已实现**：`debug/` 下 8×8、8×16 字模脚本（TTF → GBA 4bpp，输出 `.bin` 与预览图）；`text_dumper.py` 从 ROM 按 Shift-JIS 扫描并导出剧情/菜单文本为 `text_dump/text_chunk_*.json`。依赖见 `requirements.txt`（freetype-py、pillow）。
+- **计划**：封装字模为统一工具、汉化文本写回 ROM、生成/校验与原版 ROM 的 binary diff（供 Patcher 使用）。详见 [python/readme.md](python/readme.md)。
 
 ### patcher（HTML Patcher）[WIP]
 

@@ -1,0 +1,3502 @@
+[
+  {
+    "offset": "0x73D28",
+    "length": 10,
+    "hex": "82B282B782F182AD82AC",
+    "original": "ごすんくぎ",
+    "translation": ""
+  },
+  {
+    "offset": "0x73D34",
+    "length": 8,
+    "hex": "8CDC90A182AD82AC",
+    "original": "五寸くぎ",
+    "translation": ""
+  },
+  {
+    "offset": "0x73D40",
+    "length": 42,
+    "hex": "8D558C8297CD817B825782548140914F82A682A281408E4F944582A082A282E682A482CC834E83698343",
+    "original": "攻撃力＋８５　前えい　三忍あいようのクナイ",
+    "translation": ""
+  },
+  {
+    "offset": "0x73D6C",
+    "length": 16,
+    "hex": "82B382F182C982F182CC834E83698343",
+    "original": "さんにんのクナイ",
+    "translation": ""
+  },
+  {
+    "offset": "0x73D80",
+    "length": 12,
+    "hex": "8E4F944582CC834E83698343",
+    "original": "三忍のクナイ",
+    "translation": ""
+  },
+  {
+    "offset": "0x73D90",
+    "length": 42,
+    "hex": "8D558C8297CD817B825382548140914F82A682A2814082CD82AD82E782A282B982A282CC834E83698343",
+    "original": "攻撃力＋４５　前えい　はくらいせいのクナイ",
+    "translation": ""
+  },
+  {
+    "offset": "0x73DBC",
+    "length": 14,
+    "hex": "835F8375838B8375838C815B8368",
+    "original": "ダブルブレード",
+    "translation": ""
+  },
+  {
+    "offset": "0x73DCC",
+    "length": 48,
+    "hex": "8D558C8297CD817B825282578140914F82A682A2814082C282A982CC82E882E582A482AA82ED82C9906E82AA82A082E9",
+    "original": "攻撃力＋３８　前えい　つかのりょうがわに刃がある",
+    "translation": ""
+  },
+  {
+    "offset": "0x73E00",
+    "length": 14,
+    "hex": "82E882E582A482CE834E83698343",
+    "original": "りょうばクナイ",
+    "translation": ""
+  },
+  {
+    "offset": "0x73E10",
+    "length": 10,
+    "hex": "97BC906E834E83698343",
+    "original": "両刃クナイ",
+    "translation": ""
+  },
+  {
+    "offset": "0x73E1C",
+    "length": 44,
+    "hex": "8D558C8297CD817B825182568140914F82A682A2814082C282A982A282AA82C182C482CC82E682A295908AED",
+    "original": "攻撃力＋２７　前えい　つかいがってのよい武器",
+    "translation": ""
+  },
+  {
+    "offset": "0x73E4C",
+    "length": 6,
+    "hex": "834E83698343",
+    "original": "クナイ",
+    "translation": ""
+  },
+  {
+    "offset": "0x73E54",
+    "length": 38,
+    "hex": "8D558C8297CD817B82568140914F82A682A2814082BE82A282AD82B182A482AE82CC825082C2",
+    "original": "攻撃力＋７　前えい　だいくこうぐの１つ",
+    "translation": ""
+  },
+  {
+    "offset": "0x73E7C",
+    "length": 16,
+    "hex": "82A482BF82B182DD82DC82E9834A8393",
+    "original": "うちこみまるカン",
+    "translation": ""
+  },
+  {
+    "offset": "0x73E90",
+    "length": 14,
+    "hex": "82A482BF82B182DD8ADB834A8393",
+    "original": "うちこみ丸カン",
+    "translation": ""
+  },
+  {
+    "offset": "0x73EA0",
+    "length": 42,
+    "hex": "8D558C8297CD817B8256825481408CE382A682A2814082AF82E082CC82C982B182A482A982BA82C291E5",
+    "original": "攻撃力＋７５　後えい　けものにこうかぜつ大",
+    "translation": ""
+  },
+  {
+    "offset": "0x73ECC",
+    "length": 20,
+    "hex": "82E882E382A482E882F182B582E382E882AF82F1",
+    "original": "りゅうりんしゅりけん",
+    "translation": ""
+  },
+  {
+    "offset": "0x73EE4",
+    "length": 12,
+    "hex": "97B482E882F18EE897A08C95",
+    "original": "龍りん手裏剣",
+    "translation": ""
+  },
+  {
+    "offset": "0x73EF4",
+    "length": 42,
+    "hex": "8D558C8297CD817B8253825481408CE382A682A281408E4F944582A082A282E682A482CC8EE897A08C95",
+    "original": "攻撃力＋４５　後えい　三忍あいようの手裏剣",
+    "translation": ""
+  },
+  {
+    "offset": "0x73F20",
+    "length": 20,
+    "hex": "82B382F182C982F182CC82B582E382E882AF82F1",
+    "original": "さんにんのしゅりけん",
+    "translation": ""
+  },
+  {
+    "offset": "0x73F38",
+    "length": 12,
+    "hex": "8E4F944582CC8EE897A08C95",
+    "original": "三忍の手裏剣",
+    "translation": ""
+  },
+  {
+    "offset": "0x73F48",
+    "length": 44,
+    "hex": "8D558C8297CD817B8253824F81408CE382A682A28140906E82CC82A982B882AA825782C282CC8EE897A08C95",
+    "original": "攻撃力＋４０　後えい　刃のかずが８つの手裏剣",
+    "translation": ""
+  },
+  {
+    "offset": "0x73F78",
+    "length": 18,
+    "hex": "82CD82C182DB82A482B582E382E882AF82F1",
+    "original": "はっぽうしゅりけん",
+    "translation": ""
+  },
+  {
+    "offset": "0x73F8C",
+    "length": 10,
+    "hex": "94AA95FB8EE897A08C95",
+    "original": "八方手裏剣",
+    "translation": ""
+  },
+  {
+    "offset": "0x73F98",
+    "length": 44,
+    "hex": "8D558C8297CD817B8252825681408CE382A682A28140906E82CC82A982B882AA825582C282CC8EE897A08C95",
+    "original": "攻撃力＋３７　後えい　刃のかずが６つの手裏剣",
+    "translation": ""
+  },
+  {
+    "offset": "0x73FC8",
+    "length": 18,
+    "hex": "82EB82C182DB82A482B582E382E882AF82F1",
+    "original": "ろっぽうしゅりけん",
+    "translation": ""
+  },
+  {
+    "offset": "0x73FDC",
+    "length": 10,
+    "hex": "985A95FB8EE897A08C95",
+    "original": "六方手裏剣",
+    "translation": ""
+  },
+  {
+    "offset": "0x73FE8",
+    "length": 44,
+    "hex": "8D558C8297CD817B8251824F81408CE382A682A2814094458ED282CC82D082E582A482B682E382F1919594F5",
+    "original": "攻撃力＋２０　後えい　忍者のひょうじゅん装備",
+    "translation": ""
+  },
+  {
+    "offset": "0x74018",
+    "length": 10,
+    "hex": "82B582E382E882AF82F1",
+    "original": "しゅりけん",
+    "translation": ""
+  },
+  {
+    "offset": "0x74024",
+    "length": 6,
+    "hex": "8EE897A08C95",
+    "original": "手裏剣",
+    "translation": ""
+  },
+  {
+    "offset": "0x7402C",
+    "length": 38,
+    "hex": "8D558C8297CD817B825781408CE382A682A2814082DA82A482CC82E682A482C88EE897A08C95",
+    "original": "攻撃力＋８　後えい　ぼうのような手裏剣",
+    "translation": ""
+  },
+  {
+    "offset": "0x74054",
+    "length": 14,
+    "hex": "82DA82A482B582E382E882AF82F1",
+    "original": "ぼうしゅりけん",
+    "translation": ""
+  },
+  {
+    "offset": "0x74064",
+    "length": 10,
+    "hex": "82DA82A48EE897A08C95",
+    "original": "ぼう手裏剣",
+    "translation": ""
+  },
+  {
+    "offset": "0x74070",
+    "length": 32,
+    "hex": "8D558C8297CD817B825581408CE382A682A28140935382CC814082C282D482C4",
+    "original": "攻撃力＋６　後えい　鉄の　つぶて",
+    "translation": ""
+  },
+  {
+    "offset": "0x74094",
+    "length": 10,
+    "hex": "83418389838C82BE82DC",
+    "original": "アラレだま",
+    "translation": ""
+  },
+  {
+    "offset": "0x740A0",
+    "length": 42,
+    "hex": "8D558C8297CD817B8250824F82548140914F82A682A281408E4F944582A082A282E682A482CC90EE8E71",
+    "original": "攻撃力＋１０５　前えい　三忍あいようの扇子",
+    "translation": ""
+  },
+  {
+    "offset": "0x740CC",
+    "length": 16,
+    "hex": "82B382F182C982F182CC82B982F182B7",
+    "original": "さんにんのせんす",
+    "translation": ""
+  },
+  {
+    "offset": "0x740E0",
+    "length": 10,
+    "hex": "8E4F944582CC90EE8E71",
+    "original": "三忍の扇子",
+    "translation": ""
+  },
+  {
+    "offset": "0x740EC",
+    "length": 36,
+    "hex": "8D558C8297CD817B8256824F814082AF82E082CC82C9814082B182A482A982BA82C291E5",
+    "original": "攻撃力＋７０　けものに　こうかぜつ大",
+    "translation": ""
+  },
+  {
+    "offset": "0x74114",
+    "length": 14,
+    "hex": "82E882E382A482E882F182B982F1",
+    "original": "りゅうりんせん",
+    "translation": ""
+  },
+  {
+    "offset": "0x74124",
+    "length": 8,
+    "hex": "97B482E882F190EE",
+    "original": "龍りん扇",
+    "translation": ""
+  },
+  {
+    "offset": "0x74130",
+    "length": 32,
+    "hex": "8D558C8297CD817B8254825481408B9091E582C5814082E482A482D182C890EE",
+    "original": "攻撃力＋５５　巨大で　ゆうびな扇",
+    "translation": ""
+  },
+  {
+    "offset": "0x74154",
+    "length": 14,
+    "hex": "82AB82E582A482C482F182B982F1",
+    "original": "きょうてんせん",
+    "translation": ""
+  },
+  {
+    "offset": "0x74164",
+    "length": 6,
+    "hex": "8BAD935690EE",
+    "original": "強天扇",
+    "translation": ""
+  },
+  {
+    "offset": "0x7416C",
+    "length": 38,
+    "hex": "8D558C8297CD817B82538251814082DA82B382C282AA82C282A982A481408B9091E582C890EE",
+    "original": "攻撃力＋４２　ぼさつがつかう　巨大な扇",
+    "translation": ""
+  },
+  {
+    "offset": "0x74194",
+    "length": 8,
+    "hex": "82C482F182B982F1",
+    "original": "てんせん",
+    "translation": ""
+  },
+  {
+    "offset": "0x741A0",
+    "length": 16,
+    "hex": "935690EE816982C482F182B982F1816A",
+    "original": "天扇（てんせん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x741B4",
+    "length": 40,
+    "hex": "8D558C8297CD817B8251825381408CE382A682A282C58140915391CC82C98D558C8282A982CC82A4",
+    "original": "攻撃力＋２４　後えいで　全体に攻撃かのう",
+    "translation": ""
+  },
+  {
+    "offset": "0x741E0",
+    "length": 12,
+    "hex": "82C982F182D582A482B982F1",
+    "original": "にんぷうせん",
+    "translation": ""
+  },
+  {
+    "offset": "0x741F0",
+    "length": 6,
+    "hex": "9445959790EE",
+    "original": "忍風扇",
+    "translation": ""
+  },
+  {
+    "offset": "0x741F8",
+    "length": 40,
+    "hex": "8D558C8297CD817B8250825881408CE382A682A282C58140915391CC82C98D558C8282A982CC82A4",
+    "original": "攻撃力＋１９　後えいで　全体に攻撃かのう",
+    "translation": ""
+  },
+  {
+    "offset": "0x74224",
+    "length": 8,
+    "hex": "82C482C182B982F1",
+    "original": "てっせん",
+    "translation": ""
+  },
+  {
+    "offset": "0x74230",
+    "length": 16,
+    "hex": "935390EE816982C482C182B982F1816A",
+    "original": "鉄扇（てっせん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74244",
+    "length": 40,
+    "hex": "8D558C8297CD817B8250825481408CE382A682A282C58140915391CC82C98D558C8282A982CC82A4",
+    "original": "攻撃力＋１５　後えいで　全体に攻撃かのう",
+    "translation": ""
+  },
+  {
+    "offset": "0x74270",
+    "length": 10,
+    "hex": "82D482C682A482B982F1",
+    "original": "ぶとうせん",
+    "translation": ""
+  },
+  {
+    "offset": "0x7427C",
+    "length": 6,
+    "hex": "959093AC90EE",
+    "original": "武闘扇",
+    "translation": ""
+  },
+  {
+    "offset": "0x74284",
+    "length": 38,
+    "hex": "8D558C8297CD817B825481408CE382A682A282C58140915391CC82C98D558C8282A982CC82A4",
+    "original": "攻撃力＋５　後えいで　全体に攻撃かのう",
+    "translation": ""
+  },
+  {
+    "offset": "0x742AC",
+    "length": 6,
+    "hex": "82B982F182B7",
+    "original": "せんす",
+    "translation": ""
+  },
+  {
+    "offset": "0x742B4",
+    "length": 14,
+    "hex": "90EE8E71816982B982F182B7816A",
+    "original": "扇子（せんす）",
+    "translation": ""
+  },
+  {
+    "offset": "0x742C4",
+    "length": 38,
+    "hex": "8D558C8297CD817B82508251824F8140914F82A682A2814082C582F182B982C282CC94458BEF",
+    "original": "攻撃力＋１２０　前えい　でんせつの忍具",
+    "translation": ""
+  },
+  {
+    "offset": "0x742EC",
+    "length": 12,
+    "hex": "82D382C282CC82DD82BD82DC",
+    "original": "ふつのみたま",
+    "translation": ""
+  },
+  {
+    "offset": "0x742FC",
+    "length": 44,
+    "hex": "8D558C8297CD817B8250825082558140914F82A682A281408349838D836082F082BD82A282B682B582BD9381",
+    "original": "攻撃力＋１１６　前えい　オロチをたいじした刀",
+    "translation": ""
+  },
+  {
+    "offset": "0x7432C",
+    "length": 14,
+    "hex": "82A082DC82CC82CD82CE82A882E8",
+    "original": "あまのはばおり",
+    "translation": ""
+  },
+  {
+    "offset": "0x7433C",
+    "length": 44,
+    "hex": "8D558C8297CD817B8250825082548140914F82A682A2814082D382EA82CE814082C282E482AA8140959182A4",
+    "original": "攻撃力＋１１５　前えい　ふれば　つゆが　舞う",
+    "translation": ""
+  },
+  {
+    "offset": "0x7436C",
+    "length": 8,
+    "hex": "8380838983548381",
+    "original": "ムラサメ",
+    "translation": ""
+  },
+  {
+    "offset": "0x74378",
+    "length": 42,
+    "hex": "8D558C8297CD817B82508250824F8140914F82A682A281408E4F944582A082A282E682A482CC94459381",
+    "original": "攻撃力＋１１０　前えい　三忍あいようの忍刀",
+    "translation": ""
+  },
+  {
+    "offset": "0x743A4",
+    "length": 22,
+    "hex": "82B382F182C982F182CC82B582CC82D182AA82BD82C8",
+    "original": "さんにんのしのびがたな",
+    "translation": ""
+  },
+  {
+    "offset": "0x743BC",
+    "length": 10,
+    "hex": "8E4F944582CC94459381",
+    "original": "三忍の忍刀",
+    "translation": ""
+  },
+  {
+    "offset": "0x743C8",
+    "length": 40,
+    "hex": "8D558C8297CD817B825782518140914F82A682A2814082E682A4938182C682E682CE82EA82E99381",
+    "original": "攻撃力＋８２　前えい　よう刀とよばれる刀",
+    "translation": ""
+  },
+  {
+    "offset": "0x743F4",
+    "length": 8,
+    "hex": "82DE82E782DC82B3",
+    "original": "むらまさ",
+    "translation": ""
+  },
+  {
+    "offset": "0x74400",
+    "length": 16,
+    "hex": "91BA90B3816982DE82E782DC82B3816A",
+    "original": "村正（むらまさ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74414",
+    "length": 44,
+    "hex": "8D558C8297CD817B825482538140914F82A682A281408E4F93FA8C8E82CC906E82F082C282AF82BD91E59381",
+    "original": "攻撃力＋５４　前えい　三日月の刃をつけた大刀",
+    "translation": ""
+  },
+  {
+    "offset": "0x74444",
+    "length": 12,
+    "hex": "82A682F182B082C282C682A4",
+    "original": "えんげつとう",
+    "translation": ""
+  },
+  {
+    "offset": "0x74454",
+    "length": 10,
+    "hex": "82A682F182B082C29381",
+    "original": "えんげつ刀",
+    "translation": ""
+  },
+  {
+    "offset": "0x74460",
+    "length": 34,
+    "hex": "8D558C8297CD817B8254824F8140914F82A682A2814082C282CE82CC82C882A29381",
+    "original": "攻撃力＋５０　前えい　つばのない刀",
+    "translation": ""
+  },
+  {
+    "offset": "0x74484",
+    "length": 18,
+    "hex": "82D082DF82C282E982A282BF82E082F182B6",
+    "original": "ひめつるいちもんじ",
+    "translation": ""
+  },
+  {
+    "offset": "0x74498",
+    "length": 14,
+    "hex": "82D082DF82C282E988EA95B68E9A",
+    "original": "ひめつる一文字",
+    "translation": ""
+  },
+  {
+    "offset": "0x744A8",
+    "length": 44,
+    "hex": "8D558C8297CD817B825282528140914F82A682A2814082DC82EA82C988EA8C8282C5934782F082BD82A882B7",
+    "original": "攻撃力＋３３　前えい　まれに一撃で敵をたおす",
+    "translation": ""
+  },
+  {
+    "offset": "0x744D8",
+    "length": 12,
+    "hex": "8354834E838982D382D482AB",
+    "original": "サクラふぶき",
+    "translation": ""
+  },
+  {
+    "offset": "0x744E8",
+    "length": 38,
+    "hex": "8D558C8297CD817B825082538140914F82A682A2814082A982BD82CE82CC82BF82E582AD9381",
+    "original": "攻撃力＋１４　前えい　かたばのちょく刀",
+    "translation": ""
+  },
+  {
+    "offset": "0x74510",
+    "length": 12,
+    "hex": "82B582CC82D182AA82BD82C8",
+    "original": "しのびがたな",
+    "translation": ""
+  },
+  {
+    "offset": "0x74520",
+    "length": 4,
+    "hex": "94459381",
+    "original": "忍刀",
+    "translation": ""
+  },
+  {
+    "offset": "0x74528",
+    "length": 38,
+    "hex": "8D558C8297CD817B825082518140914F82A682A2814082B282B582F182E682A482CC95908AED",
+    "original": "攻撃力＋１２　前えい　ごしんようの武器",
+    "translation": ""
+  },
+  {
+    "offset": "0x74550",
+    "length": 6,
+    "hex": "82B182BE82BF",
+    "original": "こだち",
+    "translation": ""
+  },
+  {
+    "offset": "0x74558",
+    "length": 16,
+    "hex": "8FAC91BE9381816982B182BE82BF816A",
+    "original": "小太刀（こだち）",
+    "translation": ""
+  },
+  {
+    "offset": "0x7456C",
+    "length": 36,
+    "hex": "8D558C8297CD817B82558140914F82A682A2814082AF82B882E882BE82B582BD82DA82A4",
+    "original": "攻撃力＋６　前えい　けずりだしたぼう",
+    "translation": ""
+  },
+  {
+    "offset": "0x74594",
+    "length": 12,
+    "hex": "82EB82C182A982AD82DA82A4",
+    "original": "ろっかくぼう",
+    "translation": ""
+  },
+  {
+    "offset": "0x745A4",
+    "length": 8,
+    "hex": "985A8A7082DA82A4",
+    "original": "六角ぼう",
+    "translation": ""
+  },
+  {
+    "offset": "0x745B0",
+    "length": 8,
+    "hex": "82B182A482B082AB",
+    "original": "こうげき",
+    "translation": ""
+  },
+  {
+    "offset": "0x745BC",
+    "length": 8,
+    "hex": "82DA82A482AC82E5",
+    "original": "ぼうぎょ",
+    "translation": ""
+  },
+  {
+    "offset": "0x745C8",
+    "length": 6,
+    "hex": "82C982B082E9",
+    "original": "にげる",
+    "translation": ""
+  },
+  {
+    "offset": "0x745D0",
+    "length": 18,
+    "hex": "89CE82C682F182CC8F70814588EB82CC8AAA",
+    "original": "火とんの術・壱の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x745E4",
+    "length": 18,
+    "hex": "89CE82C682F182CC8F70814593F382CC8AAA",
+    "original": "火とんの術・弐の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x745F8",
+    "length": 18,
+    "hex": "89CE82C682F182CC8F7081458E5182CC8AAA",
+    "original": "火とんの術・参の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x7460C",
+    "length": 18,
+    "hex": "978B82C682F182CC8F70814588EB82CC8AAA",
+    "original": "雷とんの術・壱の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x74620",
+    "length": 18,
+    "hex": "978B82C682F182CC8F70814593F382CC8AAA",
+    "original": "雷とんの術・弐の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x74634",
+    "length": 18,
+    "hex": "978B82C682F182CC8F7081458E5182CC8AAA",
+    "original": "雷とんの術・参の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x74648",
+    "length": 18,
+    "hex": "959782C682F182CC8F70814588EB82CC8AAA",
+    "original": "風とんの術・壱の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x7465C",
+    "length": 18,
+    "hex": "959782C682F182CC8F70814593F382CC8AAA",
+    "original": "風とんの術・弐の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x74670",
+    "length": 18,
+    "hex": "959782C682F182CC8F7081458E5182CC8AAA",
+    "original": "風とんの術・参の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x74684",
+    "length": 18,
+    "hex": "908582C682F182CC8F70814588EB82CC8AAA",
+    "original": "水とんの術・壱の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x74698",
+    "length": 18,
+    "hex": "908582C682F182CC8F70814593F382CC8AAA",
+    "original": "水とんの術・弐の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x746AC",
+    "length": 18,
+    "hex": "908582C682F182CC8F7081458E5182CC8AAA",
+    "original": "水とんの術・参の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x746C0",
+    "length": 20,
+    "hex": "82B582E582A482B982F18F70814588EB82CC8AAA",
+    "original": "しょうせん術・壱の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x746D8",
+    "length": 20,
+    "hex": "82B582E582A482B982F18F70814593F382CC8AAA",
+    "original": "しょうせん術・弐の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x746F0",
+    "length": 20,
+    "hex": "82B582E582A482B982F18F7081458E5182CC8AAA",
+    "original": "しょうせん術・参の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x74708",
+    "length": 20,
+    "hex": "82B582E582A482B982F18F7081458E6C82CC8AAA",
+    "original": "しょうせん術・四の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x74720",
+    "length": 24,
+    "hex": "82B582E582A482B982F182E882F18F70814588EB82CC8AAA",
+    "original": "しょうせんりん術・壱の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x7473C",
+    "length": 24,
+    "hex": "82B582E582A482B982F182E882F18F70814593F382CC8AAA",
+    "original": "しょうせんりん術・弐の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x74758",
+    "length": 24,
+    "hex": "82B582E582A482B982F182E882F18F7081458E5182CC8AAA",
+    "original": "しょうせんりん術・参の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x74774",
+    "length": 24,
+    "hex": "82B582E582A482B982F182E882F18F7081458E6C82CC8AAA",
+    "original": "しょうせんりん術・四の巻",
+    "translation": ""
+  },
+  {
+    "offset": "0x74790",
+    "length": 22,
+    "hex": "82DD82E582A482B582E382D382C182A982C2814597D5",
+    "original": "みょうしゅふっかつ・臨",
+    "translation": ""
+  },
+  {
+    "offset": "0x747A8",
+    "length": 22,
+    "hex": "82DD82E582A482B582E382D382C182A982C2814595BA",
+    "original": "みょうしゅふっかつ・兵",
+    "translation": ""
+  },
+  {
+    "offset": "0x747C0",
+    "length": 14,
+    "hex": "89F0816982A982A2816A814593C5",
+    "original": "解（かい）・毒",
+    "translation": ""
+  },
+  {
+    "offset": "0x747D0",
+    "length": 20,
+    "hex": "89F0816982A982A2816A814582AD82E782E282DD",
+    "original": "解（かい）・くらやみ",
+    "translation": ""
+  },
+  {
+    "offset": "0x747E8",
+    "length": 20,
+    "hex": "89F0816982A982A2816A81458F7082D382A482B6",
+    "original": "解（かい）・術ふうじ",
+    "translation": ""
+  },
+  {
+    "offset": "0x74800",
+    "length": 20,
+    "hex": "89F0816982A982A2816A814582E682EB82B88140",
+    "original": "解（かい）・よろず　",
+    "translation": ""
+  },
+  {
+    "offset": "0x74818",
+    "length": 8,
+    "hex": "95AA906782CC8F70",
+    "original": "分身の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74824",
+    "length": 18,
+    "hex": "96D8836D977482CC8F82816982BD82C4816A",
+    "original": "木ノ葉の盾（たて）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74838",
+    "length": 12,
+    "hex": "82A882A482A682F182CC8F70",
+    "original": "おうえんの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74848",
+    "length": 12,
+    "hex": "82AD82E782E282DD82CC8F70",
+    "original": "くらやみの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74858",
+    "length": 24,
+    "hex": "8E718EE78953816982B182E082E882A482BD816A82CC8F70",
+    "original": "子守唄（こもりうた）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74874",
+    "length": 12,
+    "hex": "95CF82ED82E8906782CC8F70",
+    "original": "変わり身の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74884",
+    "length": 22,
+    "hex": "8F759067816982B582E382F182B582F1816A82CC8F70",
+    "original": "瞬身（しゅんしん）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x7489C",
+    "length": 16,
+    "hex": "8369838B83678EAE95CF89BB82CC8F70",
+    "original": "ナルト式変化の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x748B0",
+    "length": 12,
+    "hex": "82A882A282EB82AF82CC8F70",
+    "original": "おいろけの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x748C0",
+    "length": 6,
+    "hex": "834983698389",
+    "original": "オナラ",
+    "translation": ""
+  },
+  {
+    "offset": "0x748C8",
+    "length": 10,
+    "hex": "896595AA906782CC8F70",
+    "original": "影分身の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x748D4",
+    "length": 14,
+    "hex": "91BD8F64896595AA906782CC8F70",
+    "original": "多重影分身の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x748E4",
+    "length": 12,
+    "hex": "836E815B838C838082CC8F70",
+    "original": "ハーレムの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x748F4",
+    "length": 18,
+    "hex": "82A482B882DC82AB8369838B836798419265",
+    "original": "うずまきナルト連弾",
+    "translation": ""
+  },
+  {
+    "offset": "0x74908",
+    "length": 22,
+    "hex": "82A482B882DC82AB8369838B836793F190E798419265",
+    "original": "うずまきナルト二千連弾",
+    "translation": ""
+  },
+  {
+    "offset": "0x74920",
+    "length": 18,
+    "hex": "89DAE5AF8169834B837D816A836883588E61",
+    "original": "蝦蟇（ガマ）ドス斬",
+    "translation": ""
+  },
+  {
+    "offset": "0x74934",
+    "length": 10,
+    "hex": "83528393837295CF89BB",
+    "original": "コンビ変化",
+    "translation": ""
+  },
+  {
+    "offset": "0x74940",
+    "length": 14,
+    "hex": "8BE394F682CC83608383834E8389",
+    "original": "九尾のチャクラ",
+    "translation": ""
+  },
+  {
+    "offset": "0x74950",
+    "length": 20,
+    "hex": "978690F98ADB816982E782B982F182AA82F1816A",
+    "original": "螺旋丸（らせんがん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74968",
+    "length": 24,
+    "hex": "89CE82C682F1814582B282A482A982AB82E382A482CC8F70",
+    "original": "火とん・ごうかきゅうの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74984",
+    "length": 22,
+    "hex": "89CE82C682F1814582D982A482B982F182A982CC8F70",
+    "original": "火とん・ほうせんかの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x7499C",
+    "length": 20,
+    "hex": "89CE82C682F1814582E882E382A482A982CC8F70",
+    "original": "火とん・りゅうかの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x749B4",
+    "length": 16,
+    "hex": "959796828EE897A08C95896595978ED4",
+    "original": "風魔手裏剣影風車",
+    "translation": ""
+  },
+  {
+    "offset": "0x749C8",
+    "length": 18,
+    "hex": "8ECA97D68AE1814582C782A482B382C28AE1",
+    "original": "写輪眼・どうさつ眼",
+    "translation": ""
+  },
+  {
+    "offset": "0x749DC",
+    "length": 18,
+    "hex": "8ECA97D68AE1814582B382A282DD82F18AE1",
+    "original": "写輪眼・さいみん眼",
+    "translation": ""
+  },
+  {
+    "offset": "0x749F0",
+    "length": 14,
+    "hex": "8ECA97D68AE1814583528373815B",
+    "original": "写輪眼・コピー",
+    "translation": ""
+  },
+  {
+    "offset": "0x74A00",
+    "length": 24,
+    "hex": "8E828E7198419265816982B582B582EA82F182BE82F1816A",
+    "original": "獅子連弾（ししれんだん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74A1C",
+    "length": 14,
+    "hex": "90E792B9816982BF82C782E8816A",
+    "original": "千鳥（ちどり）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74A2C",
+    "length": 18,
+    "hex": "93E082C882E98354834E8389814083C08250",
+    "original": "内なるサクラ　β１",
+    "translation": ""
+  },
+  {
+    "offset": "0x74A40",
+    "length": 18,
+    "hex": "93E082C882E98354834E8389814083C08251",
+    "original": "内なるサクラ　β２",
+    "translation": ""
+  },
+  {
+    "offset": "0x74A54",
+    "length": 18,
+    "hex": "93E082C882E98354834E8389814083C08252",
+    "original": "内なるサクラ　β３",
+    "translation": ""
+  },
+  {
+    "offset": "0x74A68",
+    "length": 20,
+    "hex": "8EE897A08C9597909591816982E782F182D4816A",
+    "original": "手裏剣乱舞（らんぶ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74A80",
+    "length": 24,
+    "hex": "8A888E45816982A982C182B382C2816A8EA98DDD82CC8F70",
+    "original": "活殺（かっさつ）自在の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74A9C",
+    "length": 22,
+    "hex": "88C3928694F296F4816982D082E282AD816A82CC8F70",
+    "original": "暗中飛躍（ひやく）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74AB4",
+    "length": 16,
+    "hex": "8375815B8372815B8367838983628376",
+    "original": "ブービートラップ",
+    "translation": ""
+  },
+  {
+    "offset": "0x74AC8",
+    "length": 8,
+    "hex": "90E7944E8E4582B5",
+    "original": "千年殺し",
+    "translation": ""
+  },
+  {
+    "offset": "0x74AD4",
+    "length": 16,
+    "hex": "978B90D8816982E782A282AB82E8816A",
+    "original": "雷切（らいきり）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74AE8",
+    "length": 14,
+    "hex": "82AC82E582D382CC979882CC8F70",
+    "original": "ぎょふの利の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74AF8",
+    "length": 10,
+    "hex": "97AC82EA895F82CC8F70",
+    "original": "流れ雲の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74B04",
+    "length": 22,
+    "hex": "8965905E8E97816982A982B082DC82CB816A82CC8F70",
+    "original": "影真似（かげまね）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74B1C",
+    "length": 24,
+    "hex": "896593DEE080816982A982B082C882E782AD816A82CC8F70",
+    "original": "影奈烙（かげならく）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74B38",
+    "length": 18,
+    "hex": "94928AE1816982D182E182AD82AA82F1816A",
+    "original": "白眼（びゃくがん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74B4C",
+    "length": 22,
+    "hex": "94928AE1816982D182E182AD82AA82F1816A83C08251",
+    "original": "白眼（びゃくがん）β２",
+    "translation": ""
+  },
+  {
+    "offset": "0x74B64",
+    "length": 22,
+    "hex": "94928AE1816982D182E182AD82AA82F1816A83C08252",
+    "original": "白眼（びゃくがん）β３",
+    "translation": ""
+  },
+  {
+    "offset": "0x74B7C",
+    "length": 16,
+    "hex": "935F8C8A816982C482F182AF82C2816A",
+    "original": "点穴（てんけつ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74B90",
+    "length": 22,
+    "hex": "94AA8C548FB689F19356816982A982A282C482F1816A",
+    "original": "八卦掌回天（かいてん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74BA8",
+    "length": 22,
+    "hex": "94AA8C54985A8F5C8E6C8FB6816982B582E582A4816A",
+    "original": "八卦六十四掌（しょう）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74BC0",
+    "length": 20,
+    "hex": "90C28F748D848C9D816982B282A482AF82F1816A",
+    "original": "青春剛拳（ごうけん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74BD8",
+    "length": 20,
+    "hex": "94FC82B582AB82A082A882A282E282B682E382A4",
+    "original": "美しきあおいやじゅう",
+    "translation": ""
+  },
+  {
+    "offset": "0x74BF4",
+    "length": 22,
+    "hex": "96D8836D977497F39597816982EA82C182D582A4816A",
+    "original": "木ノ葉烈風（れっぷう）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74C0C",
+    "length": 22,
+    "hex": "96D8836D977490F99597816982B982F182D582A4816A",
+    "original": "木ノ葉旋風（せんぷう）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74C24",
+    "length": 20,
+    "hex": "94AA96E593D98D62816982C682F182B182A4816A",
+    "original": "八門遁甲（とんこう）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74C3C",
+    "length": 22,
+    "hex": "955C984089D8816982A882E082C482EA82F182B0816A",
+    "original": "表蓮華（おもてれんげ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74C54",
+    "length": 20,
+    "hex": "97A0984089D8816982A482E782EA82F182B0816A",
+    "original": "裏蓮華（うられんげ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74C6C",
+    "length": 24,
+    "hex": "89CE93D9814589DAE5AF816982AA82DC816A96FB898A9265",
+    "original": "火遁・蝦蟇（がま）油炎弾",
+    "translation": ""
+  },
+  {
+    "offset": "0x74C88",
+    "length": 12,
+    "hex": "8381838B8377839395F682B5",
+    "original": "メルヘン崩し",
+    "translation": ""
+  },
+  {
+    "offset": "0x74C98",
+    "length": 10,
+    "hex": "8EE897A08C9595CF89BB",
+    "original": "手裏剣変化",
+    "translation": ""
+  },
+  {
+    "offset": "0x74CA4",
+    "length": 14,
+    "hex": "89CE898A8EE897A08C9597909591",
+    "original": "火炎手裏剣乱舞",
+    "translation": ""
+  },
+  {
+    "offset": "0x74CB4",
+    "length": 14,
+    "hex": "96D8836D977490C28F7498419265",
+    "original": "木ノ葉青春連弾",
+    "translation": ""
+  },
+  {
+    "offset": "0x74CC4",
+    "length": 20,
+    "hex": "834983698389949B82E8816982B582CE82E8816A",
+    "original": "オナラ縛り（しばり）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74CDC",
+    "length": 14,
+    "hex": "8F5F8C9D8369838B836798419265",
+    "original": "柔拳ナルト連弾",
+    "translation": ""
+  },
+  {
+    "offset": "0x74CEC",
+    "length": 20,
+    "hex": "83748340815B83588367834C8362835895F682B5",
+    "original": "ファーストキッス崩し",
+    "translation": ""
+  },
+  {
+    "offset": "0x74D04",
+    "length": 20,
+    "hex": "9445816982B582CC82D1816A8268827082CC8C76",
+    "original": "忍（しのび）ＩＱの計",
+    "translation": ""
+  },
+  {
+    "offset": "0x74D1C",
+    "length": 20,
+    "hex": "8C6F978D8C6E82B582E1815B82F182C882EB815B",
+    "original": "経絡系しゃーんなろー",
+    "translation": ""
+  },
+  {
+    "offset": "0x74D34",
+    "length": 12,
+    "hex": "96D8836D9774896597909591",
+    "original": "木ノ葉影乱舞",
+    "translation": ""
+  },
+  {
+    "offset": "0x74D44",
+    "length": 18,
+    "hex": "97B489CE949B82E8816982B582CE82E8816A",
+    "original": "龍火縛り（しばり）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74D58",
+    "length": 18,
+    "hex": "96828CB6814082BB82A482B682E382AA82F1",
+    "original": "魔幻　そうじゅがん",
+    "translation": ""
+  },
+  {
+    "offset": "0x74D6C",
+    "length": 10,
+    "hex": "896593DEE08090F99597",
+    "original": "影奈烙旋風",
+    "translation": ""
+  },
+  {
+    "offset": "0x74D78",
+    "length": 12,
+    "hex": "96D8836D97748D848F5F8C9D",
+    "original": "木ノ葉剛柔拳",
+    "translation": ""
+  },
+  {
+    "offset": "0x74D88",
+    "length": 20,
+    "hex": "94AA8C548965949B82E8816982B582CE82E8816A",
+    "original": "八卦影縛り（しばり）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74DA0",
+    "length": 18,
+    "hex": "82B982F182B382C282B782A282B582E582A4",
+    "original": "せんさつすいしょう",
+    "translation": ""
+  },
+  {
+    "offset": "0x74DB4",
+    "length": 20,
+    "hex": "82DC82AB82E582A482D082E582A482B582E582A4",
+    "original": "まきょうひょうしょう",
+    "translation": ""
+  },
+  {
+    "offset": "0x74DCC",
+    "length": 24,
+    "hex": "96B6894282EA816982AB82E882AA82AD82EA816A82CC8F70",
+    "original": "霧隠れ（きりがくれ）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74DE8",
+    "length": 24,
+    "hex": "908582C682F18145908582E882E382A482BE82F182CC8F70",
+    "original": "水とん・水りゅうだんの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74E04",
+    "length": 20,
+    "hex": "908582C682F1814591E582CE82AD82D382CC8F70",
+    "original": "水とん・大ばくふの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74E1C",
+    "length": 20,
+    "hex": "8E618BF39467816982B482F182AD82A482CD816A",
+    "original": "斬空波（ざんくうは）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74E34",
+    "length": 28,
+    "hex": "8E618BF38BC99467816982B482F182AD82A482AB82E582AD82CD816A",
+    "original": "斬空極波（ざんくうきょくは）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74E54",
+    "length": 24,
+    "hex": "8BBF96C290FA816982AB82E582A482DF82A282B982F1816A",
+    "original": "響鳴穿（きょうめいせん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74E70",
+    "length": 22,
+    "hex": "97E982CC89B9816982B782B882CC82CB816A90E7967B",
+    "original": "鈴の音（すずのね）千本",
+    "translation": ""
+  },
+  {
+    "offset": "0x74E88",
+    "length": 18,
+    "hex": "959588F3816982D382A482A282F1816A8F70",
+    "original": "封印（ふういん）術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74E9C",
+    "length": 18,
+    "hex": "8EF488F3816982B682E382A282F1816A8F70",
+    "original": "呪印（じゅいん）術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74EB0",
+    "length": 20,
+    "hex": "9E4F816982A882DA82EB816A95AA906782CC8F70",
+    "original": "朧（おぼろ）分身の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74EC8",
+    "length": 40,
+    "hex": "937982C682F181459379928689668B9B816982C782BF82E382A482A682A282AC82E5816A82CC8F70",
+    "original": "土とん・土中映魚（どちゅうえいぎょ）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74EF4",
+    "length": 28,
+    "hex": "83608383834E83898B7A88F8816982AB82E382A482A282F1816A8F70",
+    "original": "チャクラ吸引（きゅういん）術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74F14",
+    "length": 18,
+    "hex": "90468D81816982A282EB82A9816A82CC8F70",
+    "original": "色香（いろか）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74F28",
+    "length": 26,
+    "hex": "9053935D9067816982B582F182C482F182B582F1816A82CC8F70",
+    "original": "心転身（しんてんしん）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74F44",
+    "length": 28,
+    "hex": "93F7926590ED8ED4816982C982AD82BE82F182B982F182B582E1816A",
+    "original": "肉弾戦車（にくだんせんしゃ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74F64",
+    "length": 16,
+    "hex": "834B838B8372815B8360836283768358",
+    "original": "ガルビーチップス",
+    "translation": ""
+  },
+  {
+    "offset": "0x74F78",
+    "length": 20,
+    "hex": "8E6C8B72816982B582AB82E182AD816A82CC8F70",
+    "original": "四脚（しきゃく）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x74F90",
+    "length": 22,
+    "hex": "8F62906C816982B682E382A482B682F1816A95AA9067",
+    "original": "獣人（じゅうじん）分身",
+    "translation": ""
+  },
+  {
+    "offset": "0x74FA8",
+    "length": 18,
+    "hex": "89E592CA89E5816982AA82C282A482AA816A",
+    "original": "牙通牙（がつうが）",
+    "translation": ""
+  },
+  {
+    "offset": "0x74FBC",
+    "length": 12,
+    "hex": "82AB82A982A2928E814593C5",
+    "original": "きかい虫・毒",
+    "translation": ""
+  },
+  {
+    "offset": "0x74FCC",
+    "length": 18,
+    "hex": "82AB82A982A2928E81458BE082B582CE82E8",
+    "original": "きかい虫・金しばり",
+    "translation": ""
+  },
+  {
+    "offset": "0x74FE0",
+    "length": 16,
+    "hex": "8AF189F3928E81458F7082D382A482B6",
+    "original": "寄壊虫・術ふうじ",
+    "translation": ""
+  },
+  {
+    "offset": "0x74FF4",
+    "length": 16,
+    "hex": "8AF189F3928E814582B782A282DD82F1",
+    "original": "寄壊虫・すいみん",
+    "translation": ""
+  },
+  {
+    "offset": "0x75008",
+    "length": 16,
+    "hex": "8AF189F3928E814582AD82E782E282DD",
+    "original": "寄壊虫・くらやみ",
+    "translation": ""
+  },
+  {
+    "offset": "0x7501C",
+    "length": 18,
+    "hex": "88C38AED816982A082F182AB816A98419265",
+    "original": "暗器（あんき）連弾",
+    "translation": ""
+  },
+  {
+    "offset": "0x75030",
+    "length": 26,
+    "hex": "916F8FB897B4816982BB82A482B582E582A482E882E382A4816A",
+    "original": "双昇龍（そうしょうりゅう）",
+    "translation": ""
+  },
+  {
+    "offset": "0x7504C",
+    "length": 38,
+    "hex": "8F5F8C9D90F989F18FB6816982B682E382A482AF82F182B982F182A982A282B582E582A4816A",
+    "original": "柔拳旋回掌（じゅうけんせんかいしょう）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75074",
+    "length": 32,
+    "hex": "94AA8C548F408FB69467816982CD82C182AF82BB82A482B582E582A482CD816A",
+    "original": "八卦宗掌波（はっけそうしょうは）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75098",
+    "length": 18,
+    "hex": "82AD82AE82C282CC8F70814593C5898C8B85",
+    "original": "くぐつの術・毒煙球",
+    "translation": ""
+  },
+  {
+    "offset": "0x750AC",
+    "length": 20,
+    "hex": "82AD82AE82C282CC8F70814593AA94F282CE82B5",
+    "original": "くぐつの術・頭飛ばし",
+    "translation": ""
+  },
+  {
+    "offset": "0x750C4",
+    "length": 14,
+    "hex": "834A837D8343835E836082CC8F70",
+    "original": "カマイタチの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x750D4",
+    "length": 22,
+    "hex": "91E593CB9597816982BE82A282C682C182D582A4816A",
+    "original": "大突風（だいとっぷう）",
+    "translation": ""
+  },
+  {
+    "offset": "0x750EC",
+    "length": 24,
+    "hex": "90EE96688CE4816982A882A482AC82DA82A482AC82E5816A",
+    "original": "扇防御（おうぎぼうぎょ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75108",
+    "length": 14,
+    "hex": "8DBB82CC8F82816982BD82C4816A",
+    "original": "砂の盾（たて）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75118",
+    "length": 26,
+    "hex": "8DBB949A91979192816982B382CE82AD82BB82A482BB82A4816A",
+    "original": "砂爆送葬（さばくそうそう）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75134",
+    "length": 8,
+    "hex": "8DBB8EE897A08C95",
+    "original": "砂手裏剣",
+    "translation": ""
+  },
+  {
+    "offset": "0x75140",
+    "length": 30,
+    "hex": "959782C682F1814597FB8BF39265816982EA82F182AD82A482BE82F1816A",
+    "original": "風とん・練空弾（れんくうだん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75160",
+    "length": 48,
+    "hex": "959782C682F1814596B38CC08DBB906F91E593CB946A816982DE82B082F182B382B682F182BE82A282C682C182CF816A",
+    "original": "風とん・無限砂塵大突破（むげんさじんだいとっぱ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75194",
+    "length": 8,
+    "hex": "82C282C182C282AD",
+    "original": "つっつく",
+    "translation": ""
+  },
+  {
+    "offset": "0x751A0",
+    "length": 6,
+    "hex": "93F1938197AC",
+    "original": "二刀流",
+    "translation": ""
+  },
+  {
+    "offset": "0x751A8",
+    "length": 10,
+    "hex": "8EE897A08C958D558C82",
+    "original": "手裏剣攻撃",
+    "translation": ""
+  },
+  {
+    "offset": "0x751B4",
+    "length": 20,
+    "hex": "958096D291C581698349836D82E082A482BE816A",
+    "original": "斧猛打（オノもうだ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x751CC",
+    "length": 14,
+    "hex": "93C5816982C782AD816A8D558C82",
+    "original": "毒（どく）攻撃",
+    "translation": ""
+  },
+  {
+    "offset": "0x751DC",
+    "length": 12,
+    "hex": "8BE082B582CE82E88D558C82",
+    "original": "金しばり攻撃",
+    "translation": ""
+  },
+  {
+    "offset": "0x751EC",
+    "length": 12,
+    "hex": "82B382AD82E782F18D558C82",
+    "original": "さくらん攻撃",
+    "translation": ""
+  },
+  {
+    "offset": "0x751FC",
+    "length": 18,
+    "hex": "92D28E6182E8816982C282B682AC82E8816A",
+    "original": "辻斬り（つじぎり）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75210",
+    "length": 22,
+    "hex": "978B905F8C95816982E782A282B682F182AF82F1816A",
+    "original": "雷神剣（らいじんけん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75228",
+    "length": 24,
+    "hex": "94B293818F70816982CE82C182C682A482B682E382C2816A",
+    "original": "抜刀術（ばっとうじゅつ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75244",
+    "length": 16,
+    "hex": "8B8F8D8782A2816982A282A082A2816A",
+    "original": "居合い（いあい）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75258",
+    "length": 8,
+    "hex": "915391CC8D558C82",
+    "original": "全体攻撃",
+    "translation": ""
+  },
+  {
+    "offset": "0x75264",
+    "length": 22,
+    "hex": "9440894A9849816982B682E582A482EB816A90E7967B",
+    "original": "如雨露（じょうろ）千本",
+    "translation": ""
+  },
+  {
+    "offset": "0x7527C",
+    "length": 22,
+    "hex": "9597905F8C95816982D382A482B682F182AF82F1816A",
+    "original": "風神剣（ふうじんけん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75294",
+    "length": 20,
+    "hex": "979090D882E8816982DD82BE82EA82AC82E8816A",
+    "original": "乱切り（みだれぎり）",
+    "translation": ""
+  },
+  {
+    "offset": "0x752AC",
+    "length": 16,
+    "hex": "97559866816982E482A482ED82AD816A",
+    "original": "誘惑（ゆうわく）",
+    "translation": ""
+  },
+  {
+    "offset": "0x752C0",
+    "length": 12,
+    "hex": "8A85816982A982C2816A8149",
+    "original": "喝（かつ）！",
+    "translation": ""
+  },
+  {
+    "offset": "0x752D0",
+    "length": 16,
+    "hex": "99F49A4B816982D982A482B182A4816A",
+    "original": "咆哮（ほうこう）",
+    "translation": ""
+  },
+  {
+    "offset": "0x752E4",
+    "length": 18,
+    "hex": "93C5898C816982C782AD82AF82DE82E8816A",
+    "original": "毒煙（どくけむり）",
+    "translation": ""
+  },
+  {
+    "offset": "0x752F8",
+    "length": 18,
+    "hex": "8363835E949B82E8816982B582CE82E8816A",
+    "original": "ツタ縛り（しばり）",
+    "translation": ""
+  },
+  {
+    "offset": "0x7530C",
+    "length": 22,
+    "hex": "92B489B99467816982BF82E582A482A882F182CF816A",
+    "original": "超音波（ちょうおんぱ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75324",
+    "length": 26,
+    "hex": "8C83814592B489B99467816982BF82E582A482A882F182CF816A",
+    "original": "激・超音波（ちょうおんぱ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75340",
+    "length": 20,
+    "hex": "8EF48985816982B682E382A882F1816A82CC88F3",
+    "original": "呪怨（じゅおん）の印",
+    "translation": ""
+  },
+  {
+    "offset": "0x75358",
+    "length": 14,
+    "hex": "88C38AED816982A082F182AB816A",
+    "original": "暗器（あんき）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75368",
+    "length": 12,
+    "hex": "93CB82AB816982C282AB816A",
+    "original": "突き（つき）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75378",
+    "length": 18,
+    "hex": "83548343838C83938367834C838A8393834F",
+    "original": "サイレントキリング",
+    "translation": ""
+  },
+  {
+    "offset": "0x7538C",
+    "length": 16,
+    "hex": "E1D2917A816982DF82A282BB82A4816A",
+    "original": "瞑想（めいそう）",
+    "translation": ""
+  },
+  {
+    "offset": "0x753A0",
+    "length": 18,
+    "hex": "8B7A8C8C816982AB82E382A482AF82C2816A",
+    "original": "吸血（きゅうけつ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x753B4",
+    "length": 22,
+    "hex": "92B481458B7A8C8C816982AB82E382A482AF82C2816A",
+    "original": "超・吸血（きゅうけつ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x753CC",
+    "length": 12,
+    "hex": "919082AD82AE82C282CC8F70",
+    "original": "草くぐつの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x753DC",
+    "length": 12,
+    "hex": "908582AD82AE82C282CC8F70",
+    "original": "水くぐつの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x753EC",
+    "length": 12,
+    "hex": "89CE82AD82AE82C282CC8F70",
+    "original": "火くぐつの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x753FC",
+    "length": 12,
+    "hex": "89B982AD82AE82C282CC8F70",
+    "original": "音くぐつの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x7540C",
+    "length": 12,
+    "hex": "8DBB82AD82AE82C282CC8F70",
+    "original": "砂くぐつの術",
+    "translation": ""
+  },
+  {
+    "offset": "0x7541C",
+    "length": 10,
+    "hex": "9190906C8C6082CC8F70",
+    "original": "草人形の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x75428",
+    "length": 10,
+    "hex": "9085906C8C6082CC8F70",
+    "original": "水人形の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x75434",
+    "length": 10,
+    "hex": "89CE906C8C6082CC8F70",
+    "original": "火人形の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x75440",
+    "length": 10,
+    "hex": "89B9906C8C6082CC8F70",
+    "original": "音人形の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x7544C",
+    "length": 10,
+    "hex": "8DBB906C8C6082CC8F70",
+    "original": "砂人形の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x75458",
+    "length": 18,
+    "hex": "919097B4816982E882E382A4816A82CC8F70",
+    "original": "草龍（りゅう）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x7546C",
+    "length": 18,
+    "hex": "908597B4816982E882E382A4816A82CC8F70",
+    "original": "水龍（りゅう）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x75480",
+    "length": 18,
+    "hex": "89CE97B4816982E882E382A4816A82CC8F70",
+    "original": "火龍（りゅう）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x75494",
+    "length": 18,
+    "hex": "89B997B4816982E882E382A4816A82CC8F70",
+    "original": "音龍（りゅう）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x754A8",
+    "length": 18,
+    "hex": "8DBB97B4816982E882E382A4816A82CC8F70",
+    "original": "砂龍（りゅう）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x754BC",
+    "length": 24,
+    "hex": "8EF796D8918090AC816982BB82A482B982A2816A82CC8F70",
+    "original": "樹木操成（そうせい）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x754D8",
+    "length": 24,
+    "hex": "908589D0918090AC816982BB82A482B982A2816A82CC8F70",
+    "original": "水禍操成（そうせい）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x754F4",
+    "length": 24,
+    "hex": "89CE898A918090AC816982BB82A482B982A2816A82CC8F70",
+    "original": "火炎操成（そうせい）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x75510",
+    "length": 24,
+    "hex": "89B99467918090AC816982BB82A482B982A2816A82CC8F70",
+    "original": "音波操成（そうせい）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x7552C",
+    "length": 24,
+    "hex": "959796E4918090AC816982BB82A482B982A2816A82CC8F70",
+    "original": "風紋操成（そうせい）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x75548",
+    "length": 10,
+    "hex": "82C582A082A6815B8149",
+    "original": "であえー！",
+    "translation": ""
+  },
+  {
+    "offset": "0x75554",
+    "length": 16,
+    "hex": "82C582A082A682C582A082A6815B8149",
+    "original": "であえであえー！",
+    "translation": ""
+  },
+  {
+    "offset": "0x75568",
+    "length": 18,
+    "hex": "8CFB8AF182B9816982AD82BF82E682B9816A",
+    "original": "口寄せ（くちよせ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x7557C",
+    "length": 14,
+    "hex": "89CE8C9D816982A982AF82F1816A",
+    "original": "火拳（かけん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x7558C",
+    "length": 20,
+    "hex": "89CE898A8C9D816982A982A682F182AF82F1816A",
+    "original": "火炎拳（かえんけん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x755A4",
+    "length": 20,
+    "hex": "89CE97AC9467816982A982E882E382A482CD816A",
+    "original": "火流波（かりゅうは）",
+    "translation": ""
+  },
+  {
+    "offset": "0x755BC",
+    "length": 6,
+    "hex": "8AE2938A82B0",
+    "original": "岩投げ",
+    "translation": ""
+  },
+  {
+    "offset": "0x755C4",
+    "length": 8,
+    "hex": "90CE82C282D482C4",
+    "original": "石つぶて",
+    "translation": ""
+  },
+  {
+    "offset": "0x755D0",
+    "length": 16,
+    "hex": "8DBB8C9D816982B782C882AF82F1816A",
+    "original": "砂拳（すなけん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x755E4",
+    "length": 22,
+    "hex": "8AE290CE8C9D816982AA82F182B982AB82AF82F1816A",
+    "original": "岩石拳（がんせきけん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x755FC",
+    "length": 26,
+    "hex": "937990CE97AC9467816982C782B982AB82E882E382A482CD816A",
+    "original": "土石流波（どせきりゅうは）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75618",
+    "length": 8,
+    "hex": "908582B582D482AB",
+    "original": "水しぶき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75624",
+    "length": 10,
+    "hex": "908582C582C182DB82A4",
+    "original": "水でっぽう",
+    "translation": ""
+  },
+  {
+    "offset": "0x75630",
+    "length": 16,
+    "hex": "90858C9D816982B782A282AF82F1816A",
+    "original": "水拳（すいけん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75644",
+    "length": 24,
+    "hex": "908597AC8C9D816982B782A282E882E382A482AF82F1816A",
+    "original": "水流拳（すいりゅうけん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75660",
+    "length": 22,
+    "hex": "908597AC9467816982B782A282E882E382A482CD816A",
+    "original": "水流波（すいりゅうは）",
+    "translation": ""
+  },
+  {
+    "offset": "0x75680",
+    "length": 22,
+    "hex": "8A6F8CE5816982A982AD82B2816A82B582EB81498149",
+    "original": "覚悟（かくご）しろ！！",
+    "translation": ""
+  },
+  {
+    "offset": "0x75698",
+    "length": 16,
+    "hex": "94538974816982CB82F182A682AB816A",
+    "original": "粘液（ねんえき）",
+    "translation": ""
+  },
+  {
+    "offset": "0x756AC",
+    "length": 12,
+    "hex": "82A282BD82BE82AB82C18149",
+    "original": "いただきっ！",
+    "translation": ""
+  },
+  {
+    "offset": "0x756BC",
+    "length": 16,
+    "hex": "90538AE1816982B582F182AA82F1816A",
+    "original": "心眼（しんがん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x756D0",
+    "length": 8,
+    "hex": "96A195FB8D558C82",
+    "original": "味方攻撃",
+    "translation": ""
+  },
+  {
+    "offset": "0x756DC",
+    "length": 34,
+    "hex": "8EA98CC88C9988AB816982B682B182AF82F182A8816A82C982A882BF82A282E98163",
+    "original": "自己嫌悪（じこけんお）におちいる…",
+    "translation": ""
+  },
+  {
+    "offset": "0x75700",
+    "length": 10,
+    "hex": "837E83588D558C828148",
+    "original": "ミス攻撃？",
+    "translation": ""
+  },
+  {
+    "offset": "0x7570C",
+    "length": 8,
+    "hex": "95408C8C8375815B",
+    "original": "鼻血ブー",
+    "translation": ""
+  },
+  {
+    "offset": "0x75718",
+    "length": 14,
+    "hex": "82DE82C182C282E8835883508378",
+    "original": "むっつりスケベ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75728",
+    "length": 14,
+    "hex": "8349815B83768393835883508378",
+    "original": "オープンスケベ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75738",
+    "length": 22,
+    "hex": "83438360838383438360838383708389835F83438358",
+    "original": "イチャイチャパラダイス",
+    "translation": ""
+  },
+  {
+    "offset": "0x75750",
+    "length": 28,
+    "hex": "969C89D88BBE816982DC82F182B082AB82E582A4816A8ECA97D68AE1",
+    "original": "万華鏡（まんげきょう）写輪眼",
+    "translation": ""
+  },
+  {
+    "offset": "0x75770",
+    "length": 22,
+    "hex": "835F83438369837E8362834E834783938367838A815B",
+    "original": "ダイナミックエントリー",
+    "translation": ""
+  },
+  {
+    "offset": "0x75788",
+    "length": 34,
+    "hex": "96D8836D97748D8497CD90F99597816982B282A482E882AB82B982F182D582A4816A",
+    "original": "木ノ葉剛力旋風（ごうりきせんぷう）",
+    "translation": ""
+  },
+  {
+    "offset": "0x757AC",
+    "length": 28,
+    "hex": "8C9D93AC98419265816982AF82F182C682A482EA82F182BE82F1816A",
+    "original": "拳闘連弾（けんとうれんだん）",
+    "translation": ""
+  },
+  {
+    "offset": "0x757CC",
+    "length": 26,
+    "hex": "96828CB6814596D8836D9774949B82E8816982B582CE82E8816A",
+    "original": "魔幻・木ノ葉縛り（しばり）",
+    "translation": ""
+  },
+  {
+    "offset": "0x757E8",
+    "length": 14,
+    "hex": "8E458B43816982B382C182AB816A",
+    "original": "殺気（さっき）",
+    "translation": ""
+  },
+  {
+    "offset": "0x757F8",
+    "length": 16,
+    "hex": "8C8E93C7816982C282AD82E682DD816A",
+    "original": "月読（つくよみ）",
+    "translation": ""
+  },
+  {
+    "offset": "0x7580C",
+    "length": 10,
+    "hex": "908595AA906782CC8F70",
+    "original": "水分身の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x75818",
+    "length": 36,
+    "hex": "96828CB6814593DEE0808CA9816982DC82B082F1814582C882E782AD82DD816A82CC8F70",
+    "original": "魔幻・奈烙見（まげん・ならくみ）の術",
+    "translation": ""
+  },
+  {
+    "offset": "0x75840",
+    "length": 26,
+    "hex": "82A982C682F182CC82B682E382C2814582A282BF82CC82DC82AB",
+    "original": "かとんのじゅつ・いちのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x7585C",
+    "length": 24,
+    "hex": "82A982C682F182CC82B682E382C2814582C982CC82DC82AB",
+    "original": "かとんのじゅつ・にのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75878",
+    "length": 26,
+    "hex": "82A982C682F182CC82B682E382C2814582B382F182CC82DC82AB",
+    "original": "かとんのじゅつ・さんのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75894",
+    "length": 40,
+    "hex": "9347825091CC82C9814089CE91AE90AB82CC814091E5835F8381815B835782F082A082BD82A682E9",
+    "original": "敵１体に　火属性の　大ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x758C0",
+    "length": 28,
+    "hex": "82E782A282C682F182CC82B682E382C2814582A282BF82CC82DC82AB",
+    "original": "らいとんのじゅつ・いちのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x758E0",
+    "length": 26,
+    "hex": "82E782A282C682F182CC82B682E382C2814582C982CC82DC82AB",
+    "original": "らいとんのじゅつ・にのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x758FC",
+    "length": 28,
+    "hex": "82E782A282C682F182CC82B682E382C2814582B382F182CC82DC82AB",
+    "original": "らいとんのじゅつ・さんのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x7591C",
+    "length": 40,
+    "hex": "9347915391CC82C98140978B91AE90AB82CC814091E5835F8381815B835782F082A082BD82A682E9",
+    "original": "敵全体に　雷属性の　大ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x75948",
+    "length": 28,
+    "hex": "82D382A482C682F182CC82B682E382C2814582A282BF82CC82DC82AB",
+    "original": "ふうとんのじゅつ・いちのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75968",
+    "length": 26,
+    "hex": "82D382A482C682F182CC82B682E382C2814582C982CC82DC82AB",
+    "original": "ふうとんのじゅつ・にのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75984",
+    "length": 28,
+    "hex": "82D382A482C682F182CC82B682E382C2814582B382F182CC82DC82AB",
+    "original": "ふうとんのじゅつ・さんのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x759A4",
+    "length": 40,
+    "hex": "9347915391CC82C98140959791AE90AB82CC814091E5835F8381815B835782F082A082BD82A682E9",
+    "original": "敵全体に　風属性の　大ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x759D0",
+    "length": 28,
+    "hex": "82B782A282C682F182CC82B682E382C2814582A282BF82CC82DC82AB",
+    "original": "すいとんのじゅつ・いちのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x759F0",
+    "length": 26,
+    "hex": "82B782A282C682F182CC82B682E382C2814582C982CC82DC82AB",
+    "original": "すいとんのじゅつ・にのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75A0C",
+    "length": 28,
+    "hex": "82B782A282C682F182CC82B682E382C2814582B382F182CC82DC82AB",
+    "original": "すいとんのじゅつ・さんのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75A2C",
+    "length": 40,
+    "hex": "9347915391CC82C98140908591AE90AB82CC814091E5835F8381815B835782F082A082BD82A682E9",
+    "original": "敵全体に　水属性の　大ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x75A58",
+    "length": 28,
+    "hex": "82B582E582A482B982F182B682E382C2814582A282BF82CC82DC82AB",
+    "original": "しょうせんじゅつ・いちのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75A78",
+    "length": 26,
+    "hex": "82B582E582A482B982F182B682E382C2814582C982CC82DC82AB",
+    "original": "しょうせんじゅつ・にのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75A94",
+    "length": 28,
+    "hex": "82B582E582A482B982F182B682E382C2814582B382F182CC82DC82AB",
+    "original": "しょうせんじゅつ・さんのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75AB4",
+    "length": 38,
+    "hex": "8250906C82CC8358835E837E836982F0814082A982C882E8814082A982A282D382AD82B782E9",
+    "original": "１人のスタミナを　かなり　かいふくする",
+    "translation": ""
+  },
+  {
+    "offset": "0x75ADC",
+    "length": 28,
+    "hex": "82B582E582A482B982F182B682E382C2814582E682F182CC82DC82AB",
+    "original": "しょうせんじゅつ・よんのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75AFC",
+    "length": 32,
+    "hex": "82B582E582A482B982F182E882F182B682E382C2814582A282BF82CC82DC82AB",
+    "original": "しょうせんりんじゅつ・いちのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75B20",
+    "length": 36,
+    "hex": "915391CC82CC8358835E837E836982F081408FAD82B5814082A982A282D382AD82B782E9",
+    "original": "全体のスタミナを　少し　かいふくする",
+    "translation": ""
+  },
+  {
+    "offset": "0x75B48",
+    "length": 30,
+    "hex": "82B582E582A482B982F182E882F182B682E382C2814582C982CC82DC82AB",
+    "original": "しょうせんりんじゅつ・にのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75B68",
+    "length": 42,
+    "hex": "915391CC82CC8358835E837E836982F0814082A082E982C482A282C7814082A982A282D382AD82B782E9",
+    "original": "全体のスタミナを　あるていど　かいふくする",
+    "translation": ""
+  },
+  {
+    "offset": "0x75B94",
+    "length": 32,
+    "hex": "82B582E582A482B982F182E882F182B682E382C2814582B382F182CC82DC82AB",
+    "original": "しょうせんりんじゅつ・さんのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75BB8",
+    "length": 38,
+    "hex": "915391CC82CC8358835E837E836982F0814082A982C882E8814082A982A282D382AD82B782E9",
+    "original": "全体のスタミナを　かなり　かいふくする",
+    "translation": ""
+  },
+  {
+    "offset": "0x75BE0",
+    "length": 32,
+    "hex": "82B582E582A482B982F182E882F182B682E382C2814582E682F182CC82DC82AB",
+    "original": "しょうせんりんじゅつ・よんのまき",
+    "translation": ""
+  },
+  {
+    "offset": "0x75C04",
+    "length": 24,
+    "hex": "82DD82E582A482B582E382D382C182A982C2814582E882F1",
+    "original": "みょうしゅふっかつ・りん",
+    "translation": ""
+  },
+  {
+    "offset": "0x75C20",
+    "length": 26,
+    "hex": "82DD82E582A482B582E382D382C182A982C2814582D082E582A4",
+    "original": "みょうしゅふっかつ・ひょう",
+    "translation": ""
+  },
+  {
+    "offset": "0x75C3C",
+    "length": 10,
+    "hex": "82A982A2814582C782AD",
+    "original": "かい・どく",
+    "translation": ""
+  },
+  {
+    "offset": "0x75C48",
+    "length": 14,
+    "hex": "82A982A2814582AD82E782E282DD",
+    "original": "かい・くらやみ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75C58",
+    "length": 18,
+    "hex": "82A982A2814582B682E382C282D382A482B6",
+    "original": "かい・じゅつふうじ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75C6C",
+    "length": 12,
+    "hex": "82A982A2814582E682EB82B8",
+    "original": "かい・よろず",
+    "translation": ""
+  },
+  {
+    "offset": "0x75C7C",
+    "length": 16,
+    "hex": "82D482F182B582F182CC82B682E382C2",
+    "original": "ぶんしんのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75C90",
+    "length": 12,
+    "hex": "82B182CC82CD82CC82BD82C4",
+    "original": "このはのたて",
+    "translation": ""
+  },
+  {
+    "offset": "0x75CA0",
+    "length": 48,
+    "hex": "915391CC82C9814096D8836D977482CC8F8282F082C282AD82E882BE82B582C4814096688CE497CD82F08FE382B082E9",
+    "original": "全体に　木ノ葉の盾をつくりだして　防御力を上げる",
+    "translation": ""
+  },
+  {
+    "offset": "0x75CD4",
+    "length": 16,
+    "hex": "82A882A482A682F182CC82B682E382C2",
+    "original": "おうえんのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75CE8",
+    "length": 22,
+    "hex": "8250906C82CC81408D558C8297CD82F08FE382B082E9",
+    "original": "１人の　攻撃力を上げる",
+    "translation": ""
+  },
+  {
+    "offset": "0x75D00",
+    "length": 16,
+    "hex": "82AD82E782E282DD82CC82B682E382C2",
+    "original": "くらやみのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75D14",
+    "length": 32,
+    "hex": "9347915391CC82CC8D558C8282F0814082A082BD82E882C982AD82AD82B782E9",
+    "original": "敵全体の攻撃を　あたりにくくする",
+    "translation": ""
+  },
+  {
+    "offset": "0x75D38",
+    "length": 18,
+    "hex": "82B182E082E882A482BD82CC82B682E382C2",
+    "original": "こもりうたのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75D4C",
+    "length": 20,
+    "hex": "9347825091CC82F0814082CB82DE82E782B982E9",
+    "original": "敵１体を　ねむらせる",
+    "translation": ""
+  },
+  {
+    "offset": "0x75D64",
+    "length": 16,
+    "hex": "82A982ED82E882DD82CC82B682E382C2",
+    "original": "かわりみのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75D78",
+    "length": 18,
+    "hex": "82B582E382F182B582F182CC82B682E382C2",
+    "original": "しゅんしんのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75D8C",
+    "length": 16,
+    "hex": "82A882A282EB82AF82CC82B682E382C2",
+    "original": "おいろけのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75DA0",
+    "length": 36,
+    "hex": "9347825091CC82F0814082A882A282EB82AF82C581408381838D8381838D82C982B782E9",
+    "original": "敵１体を　おいろけで　メロメロにする",
+    "translation": ""
+  },
+  {
+    "offset": "0x75DC8",
+    "length": 38,
+    "hex": "9347915391CC82F0814083498369838982C5814093C582B682E582A482BD82A282C982B782E9",
+    "original": "敵全体を　オナラで　毒じょうたいにする",
+    "translation": ""
+  },
+  {
+    "offset": "0x75DF0",
+    "length": 20,
+    "hex": "82A982B082D482F182B582F182CC82B682E382C2",
+    "original": "かげぶんしんのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75E08",
+    "length": 42,
+    "hex": "896595AA906782F082C282AD82E882BE82B581408252984182BC82AD8D558C8282F082A882B182C882A4",
+    "original": "影分身をつくりだし　３連ぞく攻撃をおこなう",
+    "translation": ""
+  },
+  {
+    "offset": "0x75E34",
+    "length": 28,
+    "hex": "82BD82B682E382A482A982B082D482F182B582F182CC82B682E382C2",
+    "original": "たじゅうかげぶんしんのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75E54",
+    "length": 42,
+    "hex": "896595AA906782F082C282AD82E882BE82B581408254984182BC82AD8D558C8282F082A882B182C882A4",
+    "original": "影分身をつくりだし　５連ぞく攻撃をおこなう",
+    "translation": ""
+  },
+  {
+    "offset": "0x75E80",
+    "length": 16,
+    "hex": "836E815B838C838082CC82B682E382C2",
+    "original": "ハーレムのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75E94",
+    "length": 36,
+    "hex": "9347915391CC82F0814082A882A282EB82AF82C581408381838D8381838D82C982B782E9",
+    "original": "敵全体を　おいろけで　メロメロにする",
+    "translation": ""
+  },
+  {
+    "offset": "0x75EBC",
+    "length": 22,
+    "hex": "82A482B882DC82AB8369838B836782EA82F182BE82F1",
+    "original": "うずまきナルトれんだん",
+    "translation": ""
+  },
+  {
+    "offset": "0x75ED4",
+    "length": 28,
+    "hex": "9347825091CC82C98140835F8381815B835782F082A082BD82A682E9",
+    "original": "敵１体に　ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x75EF4",
+    "length": 28,
+    "hex": "82A482B882DC82AB8369838B836782C982B982F182EA82F182BE82F1",
+    "original": "うずまきナルトにせんれんだん",
+    "translation": ""
+  },
+  {
+    "offset": "0x75F14",
+    "length": 30,
+    "hex": "9347915391CC82C9814091E5835F8381815B835782F082A082BD82A682E9",
+    "original": "敵全体に　大ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x75F34",
+    "length": 12,
+    "hex": "834B837D8368835882B482F1",
+    "original": "ガマドスざん",
+    "translation": ""
+  },
+  {
+    "offset": "0x75F44",
+    "length": 12,
+    "hex": "83528393837282D682F182B0",
+    "original": "コンビへんげ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75F54",
+    "length": 46,
+    "hex": "8B9091E58CCF82C989BB82AF82C481409347915391CC82C9814091E5835F8381815B835782F082A082BD82A682E9",
+    "original": "巨大狐に化けて　敵全体に　大ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x75F84",
+    "length": 18,
+    "hex": "82AB82E382A482D182CC83608383834E8389",
+    "original": "きゅうびのチャクラ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75F98",
+    "length": 10,
+    "hex": "82E782B982F182AA82F1",
+    "original": "らせんがん",
+    "translation": ""
+  },
+  {
+    "offset": "0x75FA4",
+    "length": 30,
+    "hex": "9347825091CC82C9814091E5835F8381815B835782F082A082BD82A682E9",
+    "original": "敵１体に　大ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x75FC4",
+    "length": 28,
+    "hex": "82A982C682F1814582B282A482A982AB82E382A482CC82B682E382C2",
+    "original": "かとん・ごうかきゅうのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x75FE4",
+    "length": 38,
+    "hex": "9347915391CC82C9814089CE91AE90AB82CC8140835F8381815B835782F082A082BD82A682E9",
+    "original": "敵全体に　火属性の　ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x7600C",
+    "length": 26,
+    "hex": "82A982C682F1814582D982A482B982F182A982CC82B682E382C2",
+    "original": "かとん・ほうせんかのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x76028",
+    "length": 24,
+    "hex": "82A982C682F1814582E882E382A482A982CC82B682E382C2",
+    "original": "かとん・りゅうかのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x76044",
+    "length": 40,
+    "hex": "9347915391CC82C9814089CE91AE90AB82CC814091E5835F8381815B835782F082A082BD82A682E9",
+    "original": "敵全体に　火属性の　大ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x76070",
+    "length": 28,
+    "hex": "82D382A482DC82B582E382E882AF82F182A982B082D382A482B582E1",
+    "original": "ふうましゅりけんかげふうしゃ",
+    "translation": ""
+  },
+  {
+    "offset": "0x76090",
+    "length": 46,
+    "hex": "959796828EE897A08C9582C5814082D082C182B382C282CC814091E5835F8381815B835782F082A082BD82A682E9",
+    "original": "風魔手裏剣で　ひっさつの　大ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x760C0",
+    "length": 26,
+    "hex": "82B582E182E882F182AA82F1814582C782A482B382C282AA82F1",
+    "original": "しゃりんがん・どうさつがん",
+    "translation": ""
+  },
+  {
+    "offset": "0x760DC",
+    "length": 40,
+    "hex": "8ECA97D68AE182C58140834E838A83658342834A838B82A982AD82E882C282F0814082A082B082E9",
+    "original": "写輪眼で　クリティカルかくりつを　あげる",
+    "translation": ""
+  },
+  {
+    "offset": "0x76108",
+    "length": 26,
+    "hex": "82B582E182E882F182AA82F1814582B382A282DD82F182AA82F1",
+    "original": "しゃりんがん・さいみんがん",
+    "translation": ""
+  },
+  {
+    "offset": "0x76124",
+    "length": 34,
+    "hex": "8ECA97D68AE182C581409347915391CC82F0814082B382AD82E782F182B382B982E9",
+    "original": "写輪眼で　敵全体を　さくらんさせる",
+    "translation": ""
+  },
+  {
+    "offset": "0x76148",
+    "length": 20,
+    "hex": "82B582E182E882F182AA82F1814583528373815B",
+    "original": "しゃりんがん・コピー",
+    "translation": ""
+  },
+  {
+    "offset": "0x76160",
+    "length": 36,
+    "hex": "8ECA97D68AE182C58140934782CC82B182A482B082AB82F0814083528373815B82B782E9",
+    "original": "写輪眼で　敵のこうげきを　コピーする",
+    "translation": ""
+  },
+  {
+    "offset": "0x76188",
+    "length": 12,
+    "hex": "82B582B582EA82F182BE82F1",
+    "original": "ししれんだん",
+    "translation": ""
+  },
+  {
+    "offset": "0x76198",
+    "length": 6,
+    "hex": "82BF82C782E8",
+    "original": "ちどり",
+    "translation": ""
+  },
+  {
+    "offset": "0x761A0",
+    "length": 40,
+    "hex": "9347825091CC82C98140978B91AE90AB82CC814091E5835F8381815B835782F082A082BD82A682E9",
+    "original": "敵１体に　雷属性の　大ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x761CC",
+    "length": 24,
+    "hex": "82A482BF82C882E98354834E83898140838C8378838B8250",
+    "original": "うちなるサクラ　レベル１",
+    "translation": ""
+  },
+  {
+    "offset": "0x761E8",
+    "length": 48,
+    "hex": "93E082C882E98354834E838982C581409347825091CC82C981408252984182BC82AD8D558C8282F082A082BD82A682E9",
+    "original": "内なるサクラで　敵１体に　３連ぞく攻撃をあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x7621C",
+    "length": 24,
+    "hex": "82A482BF82C882E98354834E83898140838C8378838B8251",
+    "original": "うちなるサクラ　レベル２",
+    "translation": ""
+  },
+  {
+    "offset": "0x76238",
+    "length": 48,
+    "hex": "93E082C882E98354834E838982C581409347915391CC82C981408254984182BC82AD8D558C8282F082A082BD82A682E9",
+    "original": "内なるサクラで　敵全体に　５連ぞく攻撃をあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x7626C",
+    "length": 24,
+    "hex": "82A482BF82C882E98354834E83898140838C8378838B8252",
+    "original": "うちなるサクラ　レベル３",
+    "translation": ""
+  },
+  {
+    "offset": "0x76288",
+    "length": 42,
+    "hex": "915391CC82CC8358835E837E836982C6814082A282B682E582A482F0814082A982A282D382AD82B782E9",
+    "original": "全体のスタミナと　いじょうを　かいふくする",
+    "translation": ""
+  },
+  {
+    "offset": "0x762B4",
+    "length": 16,
+    "hex": "82B582E382E882AF82F182E782F182D4",
+    "original": "しゅりけんらんぶ",
+    "translation": ""
+  },
+  {
+    "offset": "0x762C8",
+    "length": 32,
+    "hex": "9347915391CC82C981408EE897A08C9582C5814082B182A482B082AB82B782E9",
+    "original": "敵全体に　手裏剣で　こうげきする",
+    "translation": ""
+  },
+  {
+    "offset": "0x762EC",
+    "length": 22,
+    "hex": "82A982C182B382C282B682B482A282CC82B682E382C2",
+    "original": "かっさつじざいのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x76304",
+    "length": 22,
+    "hex": "9347915391CC82CC81408F7082F082D382A482B682E9",
+    "original": "敵全体の　術をふうじる",
+    "translation": ""
+  },
+  {
+    "offset": "0x7631C",
+    "length": 24,
+    "hex": "82A082F182BF82E382A482D082E282AD82CC82B682E382C2",
+    "original": "あんちゅうひやくのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x76338",
+    "length": 38,
+    "hex": "915391CC82C9814083608383834E838982CC8349815B838982F0814082DC82C682ED82B982E9",
+    "original": "全体に　チャクラのオーラを　まとわせる",
+    "translation": ""
+  },
+  {
+    "offset": "0x76360",
+    "length": 18,
+    "hex": "82AC82E582D382CC82E882CC82B682E382C2",
+    "original": "ぎょふのりのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x76374",
+    "length": 48,
+    "hex": "914F82A682A281408CE382A682A282C582E0814082A882C882B6835F8381815B835782F082A082BD82A682E782EA82E9",
+    "original": "前えい　後えいでも　おなじダメージをあたえられる",
+    "translation": ""
+  },
+  {
+    "offset": "0x763A8",
+    "length": 18,
+    "hex": "82C882AA82EA82AE82E082CC82B682E382C2",
+    "original": "ながれぐものじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x763BC",
+    "length": 44,
+    "hex": "837B815B82C182C682B582C48140915391CC82CC81408358835E837E836982F082A982A282D382AD82B782E9",
+    "original": "ボーっとして　全体の　スタミナをかいふくする",
+    "translation": ""
+  },
+  {
+    "offset": "0x763EC",
+    "length": 16,
+    "hex": "82A982B082DC82CB82CC82B682E382C2",
+    "original": "かげまねのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x76400",
+    "length": 26,
+    "hex": "9347825091CC82CC82A482B282AB82F0814082D382A482B682E9",
+    "original": "敵１体のうごきを　ふうじる",
+    "translation": ""
+  },
+  {
+    "offset": "0x7641C",
+    "length": 18,
+    "hex": "82A982B082C882E782AD82CC82B682E382C2",
+    "original": "かげならくのじゅつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x76430",
+    "length": 34,
+    "hex": "9347915391CC82F0814082A282C182AB82C981408D7393AE9573945C82C982B782E9",
+    "original": "敵全体を　いっきに　行動不能にする",
+    "translation": ""
+  },
+  {
+    "offset": "0x76454",
+    "length": 10,
+    "hex": "82D182E182AD82AA82F1",
+    "original": "びゃくがん",
+    "translation": ""
+  },
+  {
+    "offset": "0x76460",
+    "length": 38,
+    "hex": "94928AE182C58140834E838A83658342834A838B82A982AD82E882C282F0814082A082B082E9",
+    "original": "白眼で　クリティカルかくりつを　あげる",
+    "translation": ""
+  },
+  {
+    "offset": "0x76488",
+    "length": 38,
+    "hex": "9347825091CC82F08D558C8282B5814094928AE182C581408BE082B582CE82E882C982B782E9",
+    "original": "敵１体を攻撃し　白眼で　金しばりにする",
+    "translation": ""
+  },
+  {
+    "offset": "0x764B0",
+    "length": 36,
+    "hex": "9347825091CC82F08D558C8282B5814094928AE182C581408F7082F082D382A482B682E9",
+    "original": "敵１体を攻撃し　白眼で　術をふうじる",
+    "translation": ""
+  },
+  {
+    "offset": "0x764D8",
+    "length": 8,
+    "hex": "82C482F182AF82C2",
+    "original": "てんけつ",
+    "translation": ""
+  },
+  {
+    "offset": "0x764E4",
+    "length": 32,
+    "hex": "9347825091CC82F0825189F18D558C8282B581408F7082F082D382A482B682E9",
+    "original": "敵１体を２回攻撃し　術をふうじる",
+    "translation": ""
+  },
+  {
+    "offset": "0x76508",
+    "length": 20,
+    "hex": "82CD82C182AF82B582E582A482A982A282C482F1",
+    "original": "はっけしょうかいてん",
+    "translation": ""
+  },
+  {
+    "offset": "0x76520",
+    "length": 22,
+    "hex": "934782CC8D558C8282F0814082CD82CB82A982A682B7",
+    "original": "敵の攻撃を　はねかえす",
+    "translation": ""
+  },
+  {
+    "offset": "0x76538",
+    "length": 26,
+    "hex": "82CD82C182AF82EB82AD82B682E382A482E682F182B582E582A4",
+    "original": "はっけろくじゅうよんしょう",
+    "translation": ""
+  },
+  {
+    "offset": "0x76554",
+    "length": 30,
+    "hex": "9347825091CC82F081408257984191C58140825789F18D558C8282B782E9",
+    "original": "敵１体を　８連打　８回攻撃する",
+    "translation": ""
+  },
+  {
+    "offset": "0x76574",
+    "length": 18,
+    "hex": "82B982A282B582E382F182B282A482AF82F1",
+    "original": "せいしゅんごうけん",
+    "translation": ""
+  },
+  {
+    "offset": "0x76588",
+    "length": 36,
+    "hex": "90C28F7482CE82AD82CD82C282C581408D558C8297CD82F0825182CE82A282C982B782E9",
+    "original": "青春ばくはつで　攻撃力を２ばいにする",
+    "translation": ""
+  },
+  {
+    "offset": "0x765B0",
+    "length": 24,
+    "hex": "82A482C282AD82B582AB82A082A882A282E282B682E382A4",
+    "original": "うつくしきあおいやじゅう",
+    "translation": ""
+  },
+  {
+    "offset": "0x765CC",
+    "length": 32,
+    "hex": "8354834E838982D682CC8D558C8282F0814082A982ED82E882C98EF382AF82E9",
+    "original": "サクラへの攻撃を　かわりに受ける",
+    "translation": ""
+  },
+  {
+    "offset": "0x765F0",
+    "length": 14,
+    "hex": "82B182CC82CD82EA82C182D582A4",
+    "original": "このはれっぷう",
+    "translation": ""
+  },
+  {
+    "offset": "0x76600",
+    "length": 28,
+    "hex": "9347915391CC82C98140835F8381815B835782F082A082BD82A682E9",
+    "original": "敵全体に　ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x76620",
+    "length": 14,
+    "hex": "82B182CC82CD82B982F182D582A4",
+    "original": "このはせんぷう",
+    "translation": ""
+  },
+  {
+    "offset": "0x76630",
+    "length": 16,
+    "hex": "82CD82BF82E082F182C682F182B182A4",
+    "original": "はちもんとんこう",
+    "translation": ""
+  },
+  {
+    "offset": "0x76644",
+    "length": 46,
+    "hex": "9153945C97CD82F083418362837682B382B982E982AA814082BD82A682B8835F8381815B835782F082A482AF82E9",
+    "original": "全能力をアップさせるが　たえずダメージをうける",
+    "translation": ""
+  },
+  {
+    "offset": "0x76674",
+    "length": 12,
+    "hex": "82A882E082C482EA82F182B0",
+    "original": "おもてれんげ",
+    "translation": ""
+  },
+  {
+    "offset": "0x76684",
+    "length": 10,
+    "hex": "82A482E782EA82F182B0",
+    "original": "うられんげ",
+    "translation": ""
+  },
+  {
+    "offset": "0x76690",
+    "length": 22,
+    "hex": "82A982C682F1814582AA82DC82E482A682F182BE82F1",
+    "original": "かとん・がまゆえんだん",
+    "translation": ""
+  },
+  {
+    "offset": "0x766A8",
+    "length": 46,
+    "hex": "83498369838982CC82C782AD82B182A482A982C6814093E082C882E98354834E838982CC91C58C8283528393837B",
+    "original": "オナラのどくこうかと　内なるサクラの打撃コンボ",
+    "translation": ""
+  },
+  {
+    "offset": "0x766D8",
+    "length": 48,
+    "hex": "8369838B836782AA8EE897A08C9582C989BB82AF82C4814082C282A282A9835F8381815B835782F082A082BD82A682E9",
+    "original": "ナルトが手裏剣に化けて　ついかダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x7670C",
+    "length": 46,
+    "hex": "8EE897A08C9582C9814089CE93D982F082AD82ED82A682C4814091E5835F8381815B835782F082A082BD82A682E9",
+    "original": "手裏剣に　火遁をくわえて　大ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x7673C",
+    "length": 46,
+    "hex": "8369838B836782C6838A815B82CC8D8791CC8D558C8282C5814091E5835F8381815B835782F082A082BD82A682E9",
+    "original": "ナルトとリーの合体攻撃で　大ダメージをあたえる",
+    "translation": ""
+  },
+  {
+    "offset": "0x7676C",
+    "length": 42,
+    "hex": "83498369838982CC93C582C6814093AE82AB82F082D382A482B682E98140984182BC82AD82B182A482A9",
+    "original": "オナラの毒と　動きをふうじる　連ぞくこうか",
+    "translation": ""
+  },
+  {
+    "offset": "0x76798",
+    "length": 46,
+    "hex": "8369838B836782CC825289F18D558C8282CC82A082C68140836C835782AA934782CC8F7082F082D382A482B682E9",
+    "original": "ナルトの３回攻撃のあと　ネジが敵の術をふうじる",
+    "translation": ""
+  },
+  {
+    "offset": "0x767C8",
+    "length": 46,
+    "hex": "838A815B82CC8341835E8362834E82DE82C882B582AD814093E082C882E98354834E838982CC825289F18D558C82",
+    "original": "リーのアタックむなしく　内なるサクラの３回攻撃",
+    "translation": ""
+  },
+  {
+    "offset": "0x767F8",
+    "length": 46,
+    "hex": "9347915391CC82F082E682ED82AD82B582C48140915391CC82F08BAD82AD82B782E9814082B382AD82E882E182AD",
+    "original": "敵全体をよわくして　全体を強くする　さくりゃく",
+    "translation": ""
+  },
+  {
+    "offset": "0x76828",
+    "length": 40,
+    "hex": "93E082C882E98354834E838982CC825189F18D558C8282C68140836C835782CC825189F18D558C82",
+    "original": "内なるサクラの２回攻撃と　ネジの２回攻撃",
+    "translation": ""
+  },
+  {
+    "offset": "0x76854",
+    "length": 38,
+    "hex": "83548358835082C6838A815B82CC814082D082C182B382C282CC8140984182BC82AD8D558C82",
+    "original": "サスケとリーの　ひっさつの　連ぞく攻撃",
+    "translation": ""
+  },
+  {
+    "offset": "0x7687C",
+    "length": 46,
+    "hex": "89CE93D982C5934782F08D558C8282B58140896582C582C682C782DF82F082B382B78140984182BC82AD8D558C82",
+    "original": "火遁で敵を攻撃し　影でとどめをさす　連ぞく攻撃",
+    "translation": ""
+  },
+  {
+    "offset": "0x768AC",
+    "length": 28,
+    "hex": "8ECA97D68AE182C694928AE182CC814082C782A482B682B182A482A9",
+    "original": "写輪眼と白眼の　どうじこうか",
+    "translation": ""
+  },
+  {
+    "offset": "0x768CC",
+    "length": 40,
+    "hex": "896582C5934782F08D7393AE9573945C82C982B582C4814082B382E782C982C282A282A98D558C82",
+    "original": "影で敵を行動不能にして　さらについか攻撃",
+    "translation": ""
+  },
+  {
+    "offset": "0x768F8",
+    "length": 24,
+    "hex": "836C835782C6838A815B82CC8140984182BC82AD8D558C82",
+    "original": "ネジとリーの　連ぞく攻撃",
+    "translation": ""
+  },
+  {
+    "offset": "0x76914",
+    "length": 26,
+    "hex": "83728393835383758362834E827283898393834E8360815B8380",
+    "original": "ビンゴブックＳランクチーム",
+    "translation": ""
+  },
+  {
+    "offset": "0x76930",
+    "length": 20,
+    "hex": "82A882EB82A982C882E992ED82E6814581458145",
+    "original": "おろかなる弟よ・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x76948",
+    "length": 10,
+    "hex": "88C5814082C681408CF5",
+    "original": "闇　と　光",
+    "translation": ""
+  },
+  {
+    "offset": "0x76954",
+    "length": 14,
+    "hex": "896595AA906782CC8F7081498149",
+    "original": "影分身の術！！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76964",
+    "length": 10,
+    "hex": "88C3959481408E5190ED",
+    "original": "暗部　参戦",
+    "translation": ""
+  },
+  {
+    "offset": "0x76970",
+    "length": 20,
+    "hex": "83498367835282CC837E838A8387834E81498149",
+    "original": "オトコのミリョク！！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76988",
+    "length": 22,
+    "hex": "83498367836982CC8140837E8145838A83878145834E",
+    "original": "オトナの　ミ・リョ・ク",
+    "translation": ""
+  },
+  {
+    "offset": "0x769A0",
+    "length": 22,
+    "hex": "82C882A982E682B5814881408FE394458367838A8349",
+    "original": "なかよし？　上忍トリオ",
+    "translation": ""
+  },
+  {
+    "offset": "0x769B8",
+    "length": 18,
+    "hex": "838083628363838A81958349815B83768393",
+    "original": "ムッツリ＆オープン",
+    "translation": ""
+  },
+  {
+    "offset": "0x769CC",
+    "length": 14,
+    "hex": "8C8C8C708CC08A4582CC97CD8149",
+    "original": "血継限界の力！",
+    "translation": ""
+  },
+  {
+    "offset": "0x769DC",
+    "length": 12,
+    "hex": "896595AA906782CC8F708149",
+    "original": "影分身の術！",
+    "translation": ""
+  },
+  {
+    "offset": "0x769EC",
+    "length": 18,
+    "hex": "82BD82A282AF82C28149814091E68EB594C7",
+    "original": "たいけつ！　第七班",
+    "translation": ""
+  },
+  {
+    "offset": "0x76A00",
+    "length": 12,
+    "hex": "8DBB82CC8E4F8C5A92ED8149",
+    "original": "砂の三兄弟！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76A10",
+    "length": 32,
+    "hex": "82BD82A282AF82C28149814089BA944582B382A282AB82E582A48360815B8380",
+    "original": "たいけつ！　下忍さいきょうチーム",
+    "translation": ""
+  },
+  {
+    "offset": "0x76A34",
+    "length": 20,
+    "hex": "8C958F708E6782A2814082A082E782ED82E98149",
+    "original": "剣術使い　あらわる！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76A4C",
+    "length": 20,
+    "hex": "82BD82A282AF82C28149814096D28F628E6782A2",
+    "original": "たいけつ！　猛獣使い",
+    "translation": ""
+  },
+  {
+    "offset": "0x76A64",
+    "length": 18,
+    "hex": "93C582CC8358837983568383838A83588367",
+    "original": "毒のスペシャリスト",
+    "translation": ""
+  },
+  {
+    "offset": "0x76A78",
+    "length": 24,
+    "hex": "82D082E182AD82CC82A082B582F082E082C28ED282BD82BF",
+    "original": "ひゃくのあしをもつ者たち",
+    "translation": ""
+  },
+  {
+    "offset": "0x76A94",
+    "length": 10,
+    "hex": "82CD82A282E682E98ED2",
+    "original": "はいよる者",
+    "translation": ""
+  },
+  {
+    "offset": "0x76AA0",
+    "length": 16,
+    "hex": "88C582C68BF382E682E882CC8E678ED2",
+    "original": "闇と空よりの使者",
+    "translation": ""
+  },
+  {
+    "offset": "0x76AB4",
+    "length": 26,
+    "hex": "82A682A282A682F182CC814083898343836F838B81698148816A",
+    "original": "えいえんの　ライバル（？）",
+    "translation": ""
+  },
+  {
+    "offset": "0x76AD0",
+    "length": 22,
+    "hex": "82BD82A282AF82C281498140894A94458360815B8380",
+    "original": "たいけつ！　雨忍チーム",
+    "translation": ""
+  },
+  {
+    "offset": "0x76AE8",
+    "length": 22,
+    "hex": "82BD82A282AF82C28149814089B994458360815B8380",
+    "original": "たいけつ！　音忍チーム",
+    "translation": ""
+  },
+  {
+    "offset": "0x76B00",
+    "length": 30,
+    "hex": "82AB82E582A482D38149814096FB8F9782A282BF82BC82AD82CC97CD8149",
+    "original": "きょうふ！　油女いちぞくの力！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76B20",
+    "length": 26,
+    "hex": "82BD82A282AF82C28149814981408C83837D8386814981498149",
+    "original": "たいけつ！！　激マユ！！！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76B3C",
+    "length": 14,
+    "hex": "96D8836D977482AD82CC82A282BF",
+    "original": "木ノ葉くのいち",
+    "translation": ""
+  },
+  {
+    "offset": "0x76B4C",
+    "length": 12,
+    "hex": "834B8367815B82CC8EE890E6",
+    "original": "ガトーの手先",
+    "translation": ""
+  },
+  {
+    "offset": "0x76B5C",
+    "length": 14,
+    "hex": "8B538C5A92ED81408DC482D18149",
+    "original": "鬼兄弟　再び！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76B6C",
+    "length": 28,
+    "hex": "82B182A482BB82AD836F8367838B8149814093F1906C82CC93568DCB",
+    "original": "こうそくバトル！　二人の天才",
+    "translation": ""
+  },
+  {
+    "offset": "0x76B8C",
+    "length": 22,
+    "hex": "82BD82A282AF82C281498140834C836F8360815B8380",
+    "original": "たいけつ！　キバチーム",
+    "translation": ""
+  },
+  {
+    "offset": "0x76BA4",
+    "length": 34,
+    "hex": "83748348815B8381815B8356838783938149814082A282CC82B582A982BF82E582A4",
+    "original": "フォーメーション！　いのしかちょう",
+    "translation": ""
+  },
+  {
+    "offset": "0x76BC8",
+    "length": 26,
+    "hex": "96D8836D977482AB82E582A482B5814088A482CC838083608149",
+    "original": "木ノ葉きょうし　愛のムチ！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76BE4",
+    "length": 42,
+    "hex": "8343836083838389834382C9814082DE82BF82E382A482C982C882C182C482A282E98145814581458149",
+    "original": "イチャライに　むちゅうになっている・・・！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76C14",
+    "length": 44,
+    "hex": "834A834A835682CD814083438360838383438360838383898343835A8393835882F08EE882C982B582BD8149",
+    "original": "カカシは　イチャイチャライセンスを手にした！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76C44",
+    "length": 42,
+    "hex": "834383608383836F834382C9814082DE82BF82E382A482C982C882C182C482A282E98145814581458149",
+    "original": "イチャバイに　むちゅうになっている・・・！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76C74",
+    "length": 46,
+    "hex": "834A834A835682CD8140834383608383834383608383836F83438349838C8393835882F08EE882C982B582BD8149",
+    "original": "カカシは　イチャイチャバイオレンスを手にした！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76CA8",
+    "length": 34,
+    "hex": "834A834A835682CD814082BB82C182C6967B82F082B582DC82C182BD814581458145",
+    "original": "カカシは　そっと本をしまった・・・",
+    "translation": ""
+  },
+  {
+    "offset": "0x76CD0",
+    "length": 42,
+    "hex": "8343836083838370838982C9814082DE82BF82E382A482C982C882C182C482A282E98145814581458149",
+    "original": "イチャパラに　むちゅうになっている・・・！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76D00",
+    "length": 44,
+    "hex": "834A834A835682CD814083438360838383438360838383708389835F8343835882F08EE882C982B582BD8149",
+    "original": "カカシは　イチャイチャパラダイスを手にした！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76D32",
+    "length": 42,
+    "hex": "817590E690B6814082B182F182C88E9E82AD82E782A2814093C782DE82CC82E282DF82BD82E781488176",
+    "original": "「先生　こんな時くらい　読むのやめたら？」",
+    "translation": ""
+  },
+  {
+    "offset": "0x76D61",
+    "length": 42,
+    "hex": "817581458145814593C782DE82CC82E282DF82E982C68E8082F182B682E182A482A982E782C8829F8176",
+    "original": "「・・・読むのやめると死んじゃうからなぁ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x76D90",
+    "length": 20,
+    "hex": "817582CD82A281408345835C82C1814981498176",
+    "original": "「はい　ウソっ！！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x76DAA",
+    "length": 30,
+    "hex": "817582A0814193C782DD82BD82A28148814083548358835082AD82F18176",
+    "original": "「あ、読みたい？　サスケくん」",
+    "translation": ""
+  },
+  {
+    "offset": "0x76DCD",
+    "length": 32,
+    "hex": "817583748393814581458145814082AD82BE82E782CB82A68145814581458176",
+    "original": "「フン・・・　くだらねえ・・・」",
+    "translation": ""
+  },
+  {
+    "offset": "0x76DF2",
+    "length": 32,
+    "hex": "817581458145814582B782C882A882B682E182C882A282F182BE82A982E78176",
+    "original": "「・・・すなおじゃないんだから」",
+    "translation": ""
+  },
+  {
+    "offset": "0x76E1A",
+    "length": 44,
+    "hex": "817582CB82A582CB82A58149814082BF815B82C182C682BE82AF81408CA982B982C482C182C482CE81498176",
+    "original": "「ねぇねぇ！　ちーっとだけ　見せてってば！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x76E4B",
+    "length": 38,
+    "hex": "817582A88E718354837D82C982CD814082DC82BE918182A282A982E78140835F815B83818176",
+    "original": "「お子サマには　まだ早いから　ダーメ」",
+    "translation": ""
+  },
+  {
+    "offset": "0x76E76",
+    "length": 42,
+    "hex": "81758380834C815B815B81498149814082A88E718354837D82B682E182CB815B82C182C482CC81498176",
+    "original": "「ムキーー！！　お子サマじゃねーっての！」",
+    "translation": ""
+  },
+  {
+    "offset": "0x76EA4",
+    "length": 40,
+    "hex": "834A834A835682CD814082B382A282B582E582A982E793C782DD82A982A682B582C482A282E98149",
+    "original": "カカシは　さいしょから読みかえしている！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76ED0",
+    "length": 34,
+    "hex": "834A834A835682CD814082B182C182BB82E895408C8C82F082CA82AE82C182BD8149",
+    "original": "カカシは　こっそり鼻血をぬぐった！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76EF8",
+    "length": 38,
+    "hex": "834A834A835682CD81408382815B838C836382C9834A83938368815B82B582C482A282E98149",
+    "original": "カカシは　モーレツにカンドーしている！",
+    "translation": ""
+  },
+  {
+    "offset": "0x76F24",
+    "length": 34,
+    "hex": "834A834A835682CD814082BB82ED82BB82ED82B582C482A282E98145814581458149",
+    "original": "カカシは　そわそわしている・・・！",
+    "translation": ""
+  }
+]

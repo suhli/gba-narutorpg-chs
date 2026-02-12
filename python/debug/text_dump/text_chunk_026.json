@@ -1,0 +1,3502 @@
+[
+  {
+    "offset": "0xCF43A",
+    "length": 10,
+    "hex": "814089E488A4978592C7",
+    "original": "　我愛羅追",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF446",
+    "length": 8,
+    "hex": "8354834E83898250",
+    "original": "サクラ１",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF45A",
+    "length": 10,
+    "hex": "814089E488A4978592C7",
+    "original": "　我愛羅追",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF466",
+    "length": 8,
+    "hex": "8354835883508252",
+    "original": "サスケ３",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF479",
+    "length": 11,
+    "hex": "83814089E488A4978592C7",
+    "original": "メ@我愛羅追",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF486",
+    "length": 8,
+    "hex": "8354835883508251",
+    "original": "サスケ２",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF49A",
+    "length": 10,
+    "hex": "814089E488A4978592C7",
+    "original": "　我愛羅追",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF4A6",
+    "length": 8,
+    "hex": "8354835883508250",
+    "original": "サスケ１",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF4BA",
+    "length": 8,
+    "hex": "81408F438D7382CC",
+    "original": "　修行の",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF4CC",
+    "length": 16,
+    "hex": "824F8252825881408E8082CC90589383",
+    "original": "０３９　死の森塔",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF4E8",
+    "length": 16,
+    "hex": "824F8252825781408E8082CC90588254",
+    "original": "０３８　死の森５",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF500",
+    "length": 16,
+    "hex": "824F8252825681408E8082CC90588253",
+    "original": "０３７　死の森４",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF518",
+    "length": 16,
+    "hex": "824F8252825581408E8082CC90588252",
+    "original": "０３６　死の森３",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF530",
+    "length": 16,
+    "hex": "824F8252825481408E8082CC90588251",
+    "original": "０３５　死の森２",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF548",
+    "length": 16,
+    "hex": "824F8252825381408E8082CC90588250",
+    "original": "０３４　死の森１",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF560",
+    "length": 16,
+    "hex": "824F8252825281408369838B836791E5",
+    "original": "０３３　ナルト大",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF57C",
+    "length": 16,
+    "hex": "824F8252825181408369838B836791E5",
+    "original": "０３２　ナルト大",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF598",
+    "length": 16,
+    "hex": "824F8252825081408369838B836791E5",
+    "original": "０３１　ナルト大",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF5B4",
+    "length": 14,
+    "hex": "824F8252824F8140946782CC8D91",
+    "original": "０３０　波の国",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF5C8",
+    "length": 10,
+    "hex": "835E8359836982CC89C6",
+    "original": "タズナの家",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF5E2",
+    "length": 8,
+    "hex": "8140946782CC8D91",
+    "original": "　波の国",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF5FE",
+    "length": 8,
+    "hex": "8140946782CC8D91",
+    "original": "　波の国",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF61A",
+    "length": 8,
+    "hex": "8140946782CC8D91",
+    "original": "　波の国",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF639",
+    "length": 9,
+    "hex": "838140946782CC8D91",
+    "original": "メ@波の国",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF656",
+    "length": 8,
+    "hex": "8140946782CC8D91",
+    "original": "　波の国",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF672",
+    "length": 8,
+    "hex": "8140946782CC8D91",
+    "original": "　波の国",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF688",
+    "length": 14,
+    "hex": "824F825182588140946782CC8D91",
+    "original": "０２９　波の国",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF6A4",
+    "length": 22,
+    "hex": "824F82518257814089CE82CC8D9191E591908CB48253",
+    "original": "０２８　火の国大草原４",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF6C0",
+    "length": 22,
+    "hex": "824F82518256814089CE82CC8D9191E591908CB496EC",
+    "original": "０２７　火の国大草原野",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF6D7",
+    "length": 9,
+    "hex": "63837C834383938367",
+    "original": "cポイント",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF6E8",
+    "length": 22,
+    "hex": "824F82518255814089CE82CC8D9191E591908CB48252",
+    "original": "０２６　火の国大草原３",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF704",
+    "length": 20,
+    "hex": "824F82518254814089CE82CC8D9191E591908CB4",
+    "original": "０２５　火の国大草原",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF71B",
+    "length": 9,
+    "hex": "65837C834383938367",
+    "original": "eポイント",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF72C",
+    "length": 22,
+    "hex": "824F82518253814089CE82CC8D9191E591908CB48251",
+    "original": "０２４　火の国大草原２",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF748",
+    "length": 22,
+    "hex": "824F82518252814089CE82CC8D9191E591908CB48250",
+    "original": "０２３　火の国大草原１",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF764",
+    "length": 16,
+    "hex": "824F8251825181408B6A8D5B93BB8254",
+    "original": "０２２　桔梗峠５",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF77C",
+    "length": 16,
+    "hex": "824F8251825081408B6A8D5B93BB8253",
+    "original": "０２１　桔梗峠４",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF794",
+    "length": 16,
+    "hex": "824F8251824F81408B6A8D5B93BB8252",
+    "original": "０２０　桔梗峠３",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF7B2",
+    "length": 10,
+    "hex": "81408B6A8D5B93BB8251",
+    "original": "　桔梗峠２",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF7CA",
+    "length": 10,
+    "hex": "81408B6A8D5B93BB8250",
+    "original": "　桔梗峠１",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF7E2",
+    "length": 20,
+    "hex": "814096D8836D977482CC9058825481698E528FAC",
+    "original": "　木ノ葉の森５（山小",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF805",
+    "length": 15,
+    "hex": "83814096D8836D977482CC90588253",
+    "original": "メ@木ノ葉の森４",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF822",
+    "length": 14,
+    "hex": "814096D8836D977482CC90588252",
+    "original": "　木ノ葉の森３",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF83E",
+    "length": 14,
+    "hex": "814096D8836D977482CC90588251",
+    "original": "　木ノ葉の森２",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF854",
+    "length": 20,
+    "hex": "824F82508258814096D8836D977482CC90588250",
+    "original": "０１９　木ノ葉の森１",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF870",
+    "length": 26,
+    "hex": "824F82508257814094458ED28A778D5A82538265836583898358",
+    "original": "０１８　忍者学校４Ｆテラス",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF890",
+    "length": 20,
+    "hex": "824F82508256814094458ED28A778D5A82528265",
+    "original": "０１７　忍者学校３Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF8B0",
+    "length": 20,
+    "hex": "824F82508255814094458ED28A778D5A82528265",
+    "original": "０１６　忍者学校３Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF8D0",
+    "length": 20,
+    "hex": "824F82508254814094458ED28A778D5A82528265",
+    "original": "０１５　忍者学校３Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF8F8",
+    "length": 20,
+    "hex": "824F82508253814094458ED28A778D5A82528265",
+    "original": "０１４　忍者学校３Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF918",
+    "length": 20,
+    "hex": "824F82508252814094458ED28A778D5A82518265",
+    "original": "０１３　忍者学校２Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF940",
+    "length": 20,
+    "hex": "824F82508251814094458ED28A778D5A82518265",
+    "original": "０１２　忍者学校２Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF960",
+    "length": 20,
+    "hex": "824F82508250814094458ED28A778D5A82518265",
+    "original": "０１１　忍者学校２Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF988",
+    "length": 20,
+    "hex": "824F8250824F814094458ED28A778D5A82518265",
+    "original": "０１０　忍者学校２Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF9AE",
+    "length": 14,
+    "hex": "814094458ED28A778D5A82508265",
+    "original": "　忍者学校１Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF9D6",
+    "length": 14,
+    "hex": "814094458ED28A778D5A82508265",
+    "original": "　忍者学校１Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCF9F6",
+    "length": 18,
+    "hex": "814094458ED28A778D5A825082658FE39445",
+    "original": "　忍者学校１Ｆ上忍",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFA19",
+    "length": 25,
+    "hex": "83814094458ED28A778D5A8250826588CB978A8EF395748F88",
+    "original": "メ@忍者学校１Ｆ依頼受付処",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFA3E",
+    "length": 14,
+    "hex": "814094458ED28A778D5A82508265",
+    "original": "　忍者学校１Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFA5E",
+    "length": 26,
+    "hex": "814094458ED28A778D5A82508265834783938367838983938358",
+    "original": "　忍者学校１Ｆエントランス",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFA80",
+    "length": 16,
+    "hex": "824F824F82588140967B90ED89EF8FEA",
+    "original": "００９　本戦会場",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFAA3",
+    "length": 5,
+    "hex": "4989EF8FEA",
+    "original": "I会場",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFAB0",
+    "length": 20,
+    "hex": "824F824F8256814089898F4B8FEA835483588350",
+    "original": "００７　演習場サスケ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFACC",
+    "length": 20,
+    "hex": "824F824F8255814089898F4B8FEA8354834E8389",
+    "original": "００６　演習場サクラ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFAE8",
+    "length": 20,
+    "hex": "824F824F8254814089898F4B8FEA8369838B8367",
+    "original": "００５　演習場ナルト",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFB04",
+    "length": 14,
+    "hex": "824F824F8253814089898F4B8FEA",
+    "original": "００４　演習場",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFB1C",
+    "length": 18,
+    "hex": "824F824F8252814089898F4B8FEA93FC8CFB",
+    "original": "００３　演習場入口",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFB34",
+    "length": 24,
+    "hex": "824F824F8251814096D8836D9774894282EA82CC97A28169",
+    "original": "００２　木ノ葉隠れの里（",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFB58",
+    "length": 28,
+    "hex": "824F824F8250814096D8836D9774894282EA82CC97A28169938C816A",
+    "original": "００１　木ノ葉隠れの里（東）",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFB7C",
+    "length": 32,
+    "hex": "824F824F824F814096D8836D9774894282EA82CC97A28169928690539594816A",
+    "original": "０００　木ノ葉隠れの里（中心部）",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFC30",
+    "length": 20,
+    "hex": "824F82518250814089CE896582CC89C682618250",
+    "original": "０２１　火影の家Ｂ１",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFC47",
+    "length": 11,
+    "hex": "7882CC89CE8E9E8C769594",
+    "original": "xの火時計部",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFC5C",
+    "length": 28,
+    "hex": "824F8251824F814089CE896582CC89C68250826589CE896582CC9594",
+    "original": "０２０　火影の家１Ｆ火影の部",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFC86",
+    "length": 16,
+    "hex": "814089CE896582CC89C682508265899E",
+    "original": "　火影の家１Ｆ応",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFC9A",
+    "length": 6,
+    "hex": "81458AAA95A8",
+    "original": "・巻物",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFCB2",
+    "length": 16,
+    "hex": "814096D8836D97749561894082518265",
+    "original": "　木ノ葉病院２Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFCCE",
+    "length": 16,
+    "hex": "814096D8836D97749561894082508265",
+    "original": "　木ノ葉病院１Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFCE9",
+    "length": 15,
+    "hex": "83814096D8836D9774956189408CC2",
+    "original": "メ@木ノ葉病院個",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFCFA",
+    "length": 22,
+    "hex": "8250825581698354835883508EF488F3959582B682CC",
+    "original": "１６（サスケ呪印封じの",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFD1E",
+    "length": 14,
+    "hex": "814096D8836D9774956189408CC2",
+    "original": "　木ノ葉病院個",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFD2E",
+    "length": 14,
+    "hex": "825082548169838A815B82CC8CC2",
+    "original": "１５（リーの個",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFD4E",
+    "length": 14,
+    "hex": "814096D8836D9774956189408CC2",
+    "original": "　木ノ葉病院個",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFD68",
+    "length": 20,
+    "hex": "824F82508258814096D8836D9774956189408CC2",
+    "original": "０１９　木ノ葉病院個",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFD88",
+    "length": 20,
+    "hex": "824F82508257814096D8836D9774956189408CC2",
+    "original": "０１８　木ノ葉病院個",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFDA8",
+    "length": 20,
+    "hex": "824F82508256814096D8836D9774956189408CC2",
+    "original": "０１７　木ノ葉病院個",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFDC8",
+    "length": 20,
+    "hex": "824F82508255814096D8836D9774956189408CC2",
+    "original": "０１６　木ノ葉病院個",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFDE8",
+    "length": 20,
+    "hex": "824F82508254814096D8836D9774956189408CC2",
+    "original": "０１５　木ノ葉病院個",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFE08",
+    "length": 24,
+    "hex": "824F82508253814096D8836D977482CC905881458E528FAC",
+    "original": "０１４　木ノ葉の森・山小",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFE28",
+    "length": 34,
+    "hex": "824F8250825281408E8082CC90588140938382508265834783938367838983938358",
+    "original": "０１３　死の森　塔１Ｆエントランス",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFE50",
+    "length": 34,
+    "hex": "824F825082518140835E8359836982CC89C682518265816983438369838A82CC9594",
+    "original": "０１２　タズナの家２Ｆ（イナリの部",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFE7C",
+    "length": 22,
+    "hex": "824F825082508140835E8359836982CC89C682508265",
+    "original": "０１１　タズナの家１Ｆ",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFE9C",
+    "length": 22,
+    "hex": "824F8250824F8140834B834390E690B682CC89C68169",
+    "original": "０１０　ガイ先生の家（",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFEB6",
+    "length": 14,
+    "hex": "82C682C882E882DC82B582BD816A",
+    "original": "となりました）",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFF32",
+    "length": 8,
+    "hex": "814082A082D99283",
+    "original": "　あほ茶",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFF54",
+    "length": 16,
+    "hex": "824F824F8258814096D8836D97749283",
+    "original": "００９　木ノ葉茶",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFF6C",
+    "length": 18,
+    "hex": "824F824F82578140834A834A835682CC89C6",
+    "original": "００８　カカシの家",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFF84",
+    "length": 18,
+    "hex": "824F824F8256814082E282DC82C882A989D4",
+    "original": "００７　やまなか花",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFF9C",
+    "length": 24,
+    "hex": "824F824F825581408369838B836782CC89C68F438D739594",
+    "original": "００６　ナルトの家修行部",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFFBC",
+    "length": 18,
+    "hex": "824F824F825481408369838B836782CC89C6",
+    "original": "００５　ナルトの家",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFFD4",
+    "length": 12,
+    "hex": "824F824F8253814093B98BEF",
+    "original": "００４　道具",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFFE6",
+    "length": 4,
+    "hex": "94458BEF",
+    "original": "忍具",
+    "translation": ""
+  },
+  {
+    "offset": "0xCFFF4",
+    "length": 30,
+    "hex": "824F824F8252814097618F88816982A082B882A982E882C782B182EB816A",
+    "original": "００３　預処（あずかりどころ）",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0018",
+    "length": 16,
+    "hex": "824F824F8251814095908AED96688BEF",
+    "original": "００２　武器防具",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0030",
+    "length": 20,
+    "hex": "824F824F825081408389815B8381839388EA8A79",
+    "original": "００１　ラーメン一楽",
+    "translation": ""
+  },
+  {
+    "offset": "0xD007C",
+    "length": 20,
+    "hex": "8351815B8380837083898381815B835E82CC95CF",
+    "original": "ゲームパラメータの変",
+    "translation": ""
+  },
+  {
+    "offset": "0xD00AD",
+    "length": 15,
+    "hex": "46837083898381815B835E82F095CF",
+    "original": "Fパラメータを変",
+    "translation": ""
+  },
+  {
+    "offset": "0xD00BD",
+    "length": 5,
+    "hex": "5882B782E9",
+    "original": "Xする",
+    "translation": ""
+  },
+  {
+    "offset": "0xD00C4",
+    "length": 8,
+    "hex": "8260837B835E8393",
+    "original": "Ａボタン",
+    "translation": ""
+  },
+  {
+    "offset": "0xD00CD",
+    "length": 9,
+    "hex": "468351815B83808A4A",
+    "original": "Fゲーム開",
+    "translation": ""
+  },
+  {
+    "offset": "0xD00DC",
+    "length": 6,
+    "hex": "837D83628376",
+    "original": "マップ",
+    "translation": ""
+  },
+  {
+    "offset": "0xD00EC",
+    "length": 6,
+    "hex": "838C8378838B",
+    "original": "レベル",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0114",
+    "length": 6,
+    "hex": "93B98BEF8250",
+    "original": "道具１",
+    "translation": ""
+  },
+  {
+    "offset": "0xD011C",
+    "length": 6,
+    "hex": "93B98BEF8251",
+    "original": "道具２",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0124",
+    "length": 6,
+    "hex": "93B98BEF8252",
+    "original": "道具３",
+    "translation": ""
+  },
+  {
+    "offset": "0xD012C",
+    "length": 6,
+    "hex": "93B98BEF8253",
+    "original": "道具４",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0134",
+    "length": 6,
+    "hex": "93B98BEF8254",
+    "original": "道具５",
+    "translation": ""
+  },
+  {
+    "offset": "0xD013C",
+    "length": 6,
+    "hex": "93B98BEF8255",
+    "original": "道具６",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0184",
+    "length": 18,
+    "hex": "837D83628376837083798362836782F0955C",
+    "original": "マップパペットを表",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0198",
+    "length": 4,
+    "hex": "82B782E9",
+    "original": "する",
+    "translation": ""
+  },
+  {
+    "offset": "0xD01A9",
+    "length": 13,
+    "hex": "46837083798362836782F095CF",
+    "original": "Fパペットを変",
+    "translation": ""
+  },
+  {
+    "offset": "0xD01B7",
+    "length": 5,
+    "hex": "5882B782E9",
+    "original": "Xする",
+    "translation": ""
+  },
+  {
+    "offset": "0xD01C8",
+    "length": 14,
+    "hex": "838283938358835E815B82F0955C",
+    "original": "モンスターを表",
+    "translation": ""
+  },
+  {
+    "offset": "0xD01D8",
+    "length": 4,
+    "hex": "82B782E9",
+    "original": "する",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0208",
+    "length": 16,
+    "hex": "835483458393836882F096C282E782B7",
+    "original": "サウンドを鳴らす",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0242",
+    "length": 4,
+    "hex": "82F095CF",
+    "original": "を変",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0247",
+    "length": 5,
+    "hex": "5882B782E9",
+    "original": "Xする",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0250",
+    "length": 8,
+    "hex": "8260837B835E8393",
+    "original": "Ａボタン",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0259",
+    "length": 17,
+    "hex": "46835483458393836882F096C282E782B7",
+    "original": "Fサウンドを鳴らす",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0277",
+    "length": 11,
+    "hex": "46835483458393836882F0",
+    "original": "Fサウンドを",
+    "translation": ""
+  },
+  {
+    "offset": "0xD0283",
+    "length": 5,
+    "hex": "7E82DF82E9",
+    "original": "~める",
+    "translation": ""
+  },
+  {
+    "offset": "0x176469",
+    "length": 7,
+    "hex": "6D906E906F9070",
+    "original": "m刃塵壬",
+    "translation": ""
+  },
+  {
+    "offset": "0x1764EC",
+    "length": 4,
+    "hex": "90AB90AC",
+    "original": "性成",
+    "translation": ""
+  },
+  {
+    "offset": "0x17656A",
+    "length": 4,
+    "hex": "90E690E7",
+    "original": "先千",
+    "translation": ""
+  },
+  {
+    "offset": "0x176717",
+    "length": 4,
+    "hex": "91AE91AF",
+    "original": "属賊",
+    "translation": ""
+  },
+  {
+    "offset": "0x182FC7",
+    "length": 4,
+    "hex": "82A782A7",
+    "original": "ぉぉ",
+    "translation": ""
+  },
+  {
+    "offset": "0x182FE7",
+    "length": 4,
+    "hex": "82C782C7",
+    "original": "どど",
+    "translation": ""
+  },
+  {
+    "offset": "0x187E77",
+    "length": 5,
+    "hex": "7097709774",
+    "original": "p用葉",
+    "translation": ""
+  },
+  {
+    "offset": "0x187EFF",
+    "length": 5,
+    "hex": "61956195F6",
+    "original": "a病崩",
+    "translation": ""
+  },
+  {
+    "offset": "0x18B79A",
+    "length": 4,
+    "hex": "95808F74",
+    "original": "斧春",
+    "translation": ""
+  },
+  {
+    "offset": "0x18B8D4",
+    "length": 4,
+    "hex": "89708A70",
+    "original": "英角",
+    "translation": ""
+  },
+  {
+    "offset": "0x191846",
+    "length": 4,
+    "hex": "82A782A7",
+    "original": "ぉぉ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1918C6",
+    "length": 5,
+    "hex": "90AB90AC20",
+    "original": "性成 ",
+    "translation": ""
+  },
+  {
+    "offset": "0x19193B",
+    "length": 5,
+    "hex": "6296B09181",
+    "original": "b眠早",
+    "translation": ""
+  },
+  {
+    "offset": "0x1A8554",
+    "length": 8,
+    "hex": "8386686683766778",
+    "original": "ユhfプgx",
+    "translation": ""
+  },
+  {
+    "offset": "0x1A855D",
+    "length": 6,
+    "hex": "836776788378",
+    "original": "トvxベ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1BBC9B",
+    "length": 4,
+    "hex": "82A182A3",
+    "original": "ぃぅ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1BBD38",
+    "length": 4,
+    "hex": "82E382E2",
+    "original": "ゅや",
+    "translation": ""
+  },
+  {
+    "offset": "0x1BC734",
+    "length": 5,
+    "hex": "82DC82BD40",
+    "original": "また@",
+    "translation": ""
+  },
+  {
+    "offset": "0x1BC845",
+    "length": 5,
+    "hex": "5A835B835C",
+    "original": "Zゼソ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1BCA7D",
+    "length": 4,
+    "hex": "90AB90CE",
+    "original": "性石",
+    "translation": ""
+  },
+  {
+    "offset": "0x1BCB86",
+    "length": 5,
+    "hex": "5D905E905F",
+    "original": "]真神",
+    "translation": ""
+  },
+  {
+    "offset": "0x1BD10D",
+    "length": 8,
+    "hex": "834F835083518352",
+    "original": "グケゲコ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1BD148",
+    "length": 7,
+    "hex": "6E836F83708371",
+    "original": "nバパヒ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1BD150",
+    "length": 8,
+    "hex": "8372837383748393",
+    "original": "ビピフン",
+    "translation": ""
+  },
+  {
+    "offset": "0x1C29BA",
+    "length": 5,
+    "hex": "7688F88F88",
+    "original": "v引処",
+    "translation": ""
+  },
+  {
+    "offset": "0x1C2A53",
+    "length": 6,
+    "hex": "834655458357",
+    "original": "ェUEジ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1D0897",
+    "length": 4,
+    "hex": "92B492D2",
+    "original": "超辻",
+    "translation": ""
+  },
+  {
+    "offset": "0x1D08A9",
+    "length": 4,
+    "hex": "82A982A9",
+    "original": "かか",
+    "translation": ""
+  },
+  {
+    "offset": "0x1D14C7",
+    "length": 4,
+    "hex": "83828381",
+    "original": "モメ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1D159D",
+    "length": 5,
+    "hex": "6482A182A0",
+    "original": "dぃあ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1D879E",
+    "length": 7,
+    "hex": "3F4097703F9788",
+    "original": "?@用?来",
+    "translation": ""
+  },
+  {
+    "offset": "0x1D8933",
+    "length": 5,
+    "hex": "82A1838220",
+    "original": "ぃモ ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1DB53C",
+    "length": 8,
+    "hex": "834E834F83508351",
+    "original": "クグケゲ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1DB585",
+    "length": 5,
+    "hex": "6D836E836F",
+    "original": "mハバ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1DB58C",
+    "length": 5,
+    "hex": "7083718372",
+    "original": "pヒビ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1DD22A",
+    "length": 4,
+    "hex": "8E828F82",
+    "original": "獅盾",
+    "translation": ""
+  },
+  {
+    "offset": "0x1DD24F",
+    "length": 8,
+    "hex": "82A682A782A882A9",
+    "original": "えぉおか",
+    "translation": ""
+  },
+  {
+    "offset": "0x1DD258",
+    "length": 8,
+    "hex": "82AA82AB82AC82AD",
+    "original": "がきぎく",
+    "translation": ""
+  },
+  {
+    "offset": "0x1DD261",
+    "length": 11,
+    "hex": "82AE82AF82B082B13082B2",
+    "original": "ぐけげこ0ご",
+    "translation": ""
+  },
+  {
+    "offset": "0x1DD294",
+    "length": 6,
+    "hex": "82C982CA82CB",
+    "original": "にぬね",
+    "translation": ""
+  },
+  {
+    "offset": "0x1DD29D",
+    "length": 6,
+    "hex": "82CD82CE82CF",
+    "original": "はばぱ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1DD2A6",
+    "length": 4,
+    "hex": "82D182D2",
+    "original": "びぴ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1DD2C7",
+    "length": 4,
+    "hex": "82E782E8",
+    "original": "らり",
+    "translation": ""
+  },
+  {
+    "offset": "0x1DD2CE",
+    "length": 4,
+    "hex": "82EA82EB",
+    "original": "れろ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E0867",
+    "length": 5,
+    "hex": "89F1208AF1",
+    "original": "回 寄",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E09A4",
+    "length": 5,
+    "hex": "4D834E834F",
+    "original": "Mクグ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E09AB",
+    "length": 5,
+    "hex": "5083518352",
+    "original": "Pゲコ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E09F6",
+    "length": 9,
+    "hex": "836F83708371837260",
+    "original": "バパヒビ`",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E109D",
+    "length": 8,
+    "hex": "834E834F83508351",
+    "original": "クグケゲ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E10DA",
+    "length": 7,
+    "hex": "6D836E836F8370",
+    "original": "mハバパ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E1CA4",
+    "length": 4,
+    "hex": "8E828F82",
+    "original": "獅盾",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E1CCE",
+    "length": 4,
+    "hex": "82A682A7",
+    "original": "えぉ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E1CD3",
+    "length": 8,
+    "hex": "82A882A982AA82AB",
+    "original": "おかがき",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E1CDC",
+    "length": 8,
+    "hex": "82AC82AD82AE82AF",
+    "original": "ぎくぐけ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E1CE5",
+    "length": 4,
+    "hex": "82B082B1",
+    "original": "げこ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E1D0E",
+    "length": 8,
+    "hex": "82C882C982CA82CB",
+    "original": "なにぬね",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E1D17",
+    "length": 8,
+    "hex": "82CC82CD82CE82CF",
+    "original": "のはばぱ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E1D20",
+    "length": 7,
+    "hex": "82D082D182636D",
+    "original": "ひびＤm",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E1D44",
+    "length": 4,
+    "hex": "82E782E8",
+    "original": "らり",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E1D49",
+    "length": 6,
+    "hex": "82E982EA82EB",
+    "original": "るれろ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E1D58",
+    "length": 5,
+    "hex": "82F03F82F1",
+    "original": "を?ん",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E234C",
+    "length": 4,
+    "hex": "8E828F82",
+    "original": "獅盾",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E238D",
+    "length": 4,
+    "hex": "82A682A7",
+    "original": "えぉ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E2394",
+    "length": 6,
+    "hex": "82A982AA82AB",
+    "original": "かがき",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E239D",
+    "length": 6,
+    "hex": "82AD82AE82AF",
+    "original": "くぐけ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E23D8",
+    "length": 4,
+    "hex": "82C782C8",
+    "original": "どな",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E23DF",
+    "length": 6,
+    "hex": "82CA82CB82CC",
+    "original": "ぬねの",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E23E8",
+    "length": 8,
+    "hex": "82CE82CF82D08277",
+    "original": "ばぱひＸ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E2414",
+    "length": 6,
+    "hex": "82E782E882E9",
+    "original": "らりる",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E241B",
+    "length": 4,
+    "hex": "82EA82EB",
+    "original": "れろ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E3EA2",
+    "length": 7,
+    "hex": "4D834E834F8350",
+    "original": "Mクグケ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E3EE7",
+    "length": 8,
+    "hex": "836F837083718372",
+    "original": "バパヒビ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E5416",
+    "length": 8,
+    "hex": "82A782A882A982AA",
+    "original": "ぉおかが",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E541F",
+    "length": 8,
+    "hex": "82AB82AC82AD82AE",
+    "original": "きぎくぐ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E5428",
+    "length": 8,
+    "hex": "82AF82B082B182B2",
+    "original": "けげこご",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E544F",
+    "length": 6,
+    "hex": "82C882C982CA",
+    "original": "なにぬ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E5458",
+    "length": 6,
+    "hex": "82CC82CD82CE",
+    "original": "のはば",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E5461",
+    "length": 6,
+    "hex": "82D082D182D2",
+    "original": "ひびぴ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E5486",
+    "length": 8,
+    "hex": "82E882E982EA82EB",
+    "original": "りるれろ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1E5498",
+    "length": 4,
+    "hex": "82F082F1",
+    "original": "をん",
+    "translation": ""
+  },
+  {
+    "offset": "0x1EBEAD",
+    "length": 4,
+    "hex": "94B294B2",
+    "original": "抜抜",
+    "translation": ""
+  },
+  {
+    "offset": "0x1EBF06",
+    "length": 5,
+    "hex": "5994539053",
+    "original": "Y粘心",
+    "translation": ""
+  },
+  {
+    "offset": "0x1EBF11",
+    "length": 5,
+    "hex": "5590539454",
+    "original": "U心乃",
+    "translation": ""
+  },
+  {
+    "offset": "0x1EBF9D",
+    "length": 4,
+    "hex": "95949790",
+    "original": "部乱",
+    "translation": ""
+  },
+  {
+    "offset": "0x1EC02B",
+    "length": 4,
+    "hex": "90F990FA",
+    "original": "旋穿",
+    "translation": ""
+  },
+  {
+    "offset": "0x1EC2C6",
+    "length": 4,
+    "hex": "82CC82CD",
+    "original": "のは",
+    "translation": ""
+  },
+  {
+    "offset": "0x1EC2CB",
+    "length": 6,
+    "hex": "82CE82CF82D0",
+    "original": "ばぱひ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1F1C1C",
+    "length": 4,
+    "hex": "93F193F7",
+    "original": "二肉",
+    "translation": ""
+  },
+  {
+    "offset": "0x1F1D2F",
+    "length": 4,
+    "hex": "97FB9790",
+    "original": "練乱",
+    "translation": ""
+  },
+  {
+    "offset": "0x1F1E3C",
+    "length": 6,
+    "hex": "82A782A882A9",
+    "original": "ぉおか",
+    "translation": ""
+  },
+  {
+    "offset": "0x1F1F5D",
+    "length": 9,
+    "hex": "542783836F82B43155",
+    "original": "T'ャoざ1U",
+    "translation": ""
+  },
+  {
+    "offset": "0x1FA2F2",
+    "length": 5,
+    "hex": "8E828F824E",
+    "original": "獅盾N",
+    "translation": ""
+  },
+  {
+    "offset": "0x1FA319",
+    "length": 8,
+    "hex": "826E82AE82AF826E",
+    "original": "ＯぐけＯ",
+    "translation": ""
+  },
+  {
+    "offset": "0x1FFFDA",
+    "length": 4,
+    "hex": "829F82DC",
+    "original": "ぁま",
+    "translation": ""
+  },
+  {
+    "offset": "0x200008",
+    "length": 5,
+    "hex": "90BA3090BA",
+    "original": "声0声",
+    "translation": ""
+  },
+  {
+    "offset": "0x2000FD",
+    "length": 5,
+    "hex": "608B608C60",
+    "original": "`義形",
+    "translation": ""
+  },
+  {
+    "offset": "0x200205",
+    "length": 4,
+    "hex": "835A8370",
+    "original": "セパ",
+    "translation": ""
+  },
+  {
+    "offset": "0x20125C",
+    "length": 6,
+    "hex": "82B782B882B9",
+    "original": "すずせ",
+    "translation": ""
+  },
+  {
+    "offset": "0x201265",
+    "length": 6,
+    "hex": "82BB82BC82BD",
+    "original": "そぞた",
+    "translation": ""
+  },
+  {
+    "offset": "0x201295",
+    "length": 6,
+    "hex": "82BB90D482D5",
+    "original": "そ赤ぷ",
+    "translation": ""
+  },
+  {
+    "offset": "0x20129C",
+    "length": 8,
+    "hex": "82D682D782D882D9",
+    "original": "へべぺほ",
+    "translation": ""
+  },
+  {
+    "offset": "0x2012A5",
+    "length": 8,
+    "hex": "82DA82DB82DC82DD",
+    "original": "ぼぽまみ",
+    "translation": ""
+  },
+  {
+    "offset": "0x2012AE",
+    "length": 6,
+    "hex": "82DE82DF82BC",
+    "original": "むめぞ",
+    "translation": ""
+  },
+  {
+    "offset": "0x201410",
+    "length": 5,
+    "hex": "608B608C60",
+    "original": "`義形",
+    "translation": ""
+  },
+  {
+    "offset": "0x201530",
+    "length": 7,
+    "hex": "837A834B607B21",
+    "original": "ホガ`{!",
+    "translation": ""
+  },
+  {
+    "offset": "0x2025DE",
+    "length": 4,
+    "hex": "829F82DC",
+    "original": "ぁま",
+    "translation": ""
+  },
+  {
+    "offset": "0x20260C",
+    "length": 5,
+    "hex": "90BA3090BA",
+    "original": "声0声",
+    "translation": ""
+  },
+  {
+    "offset": "0x202701",
+    "length": 5,
+    "hex": "608B608C60",
+    "original": "`義形",
+    "translation": ""
+  },
+  {
+    "offset": "0x202787",
+    "length": 8,
+    "hex": "486079837A834B60",
+    "original": "H`yホガ`",
+    "translation": ""
+  },
+  {
+    "offset": "0x2032E9",
+    "length": 4,
+    "hex": "91E590E5",
+    "original": "大仙",
+    "translation": ""
+  },
+  {
+    "offset": "0x2032FB",
+    "length": 4,
+    "hex": "89E588E5",
+    "original": "牙亥",
+    "translation": ""
+  },
+  {
+    "offset": "0x2043F9",
+    "length": 4,
+    "hex": "8BF38CE3",
+    "original": "空後",
+    "translation": ""
+  },
+  {
+    "offset": "0x204404",
+    "length": 7,
+    "hex": "709770473C905F",
+    "original": "p用G<神",
+    "translation": ""
+  },
+  {
+    "offset": "0x20C899",
+    "length": 5,
+    "hex": "6D906E906F",
+    "original": "m刃塵",
+    "translation": ""
+  },
+  {
+    "offset": "0x20C928",
+    "length": 4,
+    "hex": "90AB90AC",
+    "original": "性成",
+    "translation": ""
+  },
+  {
+    "offset": "0x20C9AD",
+    "length": 4,
+    "hex": "90E690E7",
+    "original": "先千",
+    "translation": ""
+  },
+  {
+    "offset": "0x20CB73",
+    "length": 4,
+    "hex": "91AE91AF",
+    "original": "属賊",
+    "translation": ""
+  },
+  {
+    "offset": "0x20CB98",
+    "length": 4,
+    "hex": "91BD91BE",
+    "original": "多太",
+    "translation": ""
+  },
+  {
+    "offset": "0x24381E",
+    "length": 7,
+    "hex": "61836283638364",
+    "original": "aッツヅ",
+    "translation": ""
+  },
+  {
+    "offset": "0x243886",
+    "length": 6,
+    "hex": "838283838384",
+    "original": "モャヤ",
+    "translation": ""
+  },
+  {
+    "offset": "0x24951F",
+    "length": 8,
+    "hex": "8261836283638364",
+    "original": "Ｂッツヅ",
+    "translation": ""
+  },
+  {
+    "offset": "0x2495A4",
+    "length": 4,
+    "hex": "83828383",
+    "original": "モャ",
+    "translation": ""
+  },
+  {
+    "offset": "0x2495A9",
+    "length": 4,
+    "hex": "83848380",
+    "original": "ヤム",
+    "translation": ""
+  },
+  {
+    "offset": "0x249696",
+    "length": 4,
+    "hex": "82A682C1",
+    "original": "えっ",
+    "translation": ""
+  },
+  {
+    "offset": "0x249884",
+    "length": 7,
+    "hex": "5B82A05F8E9A59",
+    "original": "[あ_字Y",
+    "translation": ""
+  },
+  {
+    "offset": "0x249924",
+    "length": 5,
+    "hex": "834C3B8382",
+    "original": "キ;モ",
+    "translation": ""
+  },
+  {
+    "offset": "0x24A76C",
+    "length": 9,
+    "hex": "406620396483608361",
+    "original": "@f 9dチヂ",
+    "translation": ""
+  },
+  {
+    "offset": "0x24A819",
+    "length": 4,
+    "hex": "83808381",
+    "original": "ムメ",
+    "translation": ""
+  },
+  {
+    "offset": "0x24AA38",
+    "length": 4,
+    "hex": "94C790E5",
+    "original": "班仙",
+    "translation": ""
+  },
+  {
+    "offset": "0x24AA66",
+    "length": 5,
+    "hex": "82E682C031",
+    "original": "よぢ1",
+    "translation": ""
+  },
+  {
+    "offset": "0x25F981",
+    "length": 4,
+    "hex": "8E518364",
+    "original": "参ヅ",
+    "translation": ""
+  },
+  {
+    "offset": "0x25FB13",
+    "length": 7,
+    "hex": "22924392654440",
+    "original": "\"辰弾D@",
+    "translation": ""
+  },
+  {
+    "offset": "0x26742A",
+    "length": 4,
+    "hex": "82B382B4",
+    "original": "さざ",
+    "translation": ""
+  },
+  {
+    "offset": "0x26742F",
+    "length": 6,
+    "hex": "82B582B682B5",
+    "original": "しじし",
+    "translation": ""
+  },
+  {
+    "offset": "0x267484",
+    "length": 6,
+    "hex": "82D382D482D5",
+    "original": "ふぶぷ",
+    "translation": ""
+  },
+  {
+    "offset": "0x2675FD",
+    "length": 5,
+    "hex": "5183528353",
+    "original": "Qコゴ",
+    "translation": ""
+  },
+  {
+    "offset": "0x267604",
+    "length": 7,
+    "hex": "54835583568355",
+    "original": "Tザシザ",
+    "translation": ""
+  },
+  {
+    "offset": "0x26765C",
+    "length": 7,
+    "hex": "71837283738374",
+    "original": "qビピフ",
+    "translation": ""
+  },
+  {
+    "offset": "0x267665",
+    "length": 5,
+    "hex": "7583768375",
+    "original": "uプブ",
+    "translation": ""
+  },
+  {
+    "offset": "0x26DD26",
+    "length": 4,
+    "hex": "979089F0",
+    "original": "乱解",
+    "translation": ""
+  },
+  {
+    "offset": "0x26DECE",
+    "length": 5,
+    "hex": "7089708A70",
+    "original": "p英角",
+    "translation": ""
+  },
+  {
+    "offset": "0x271431",
+    "length": 12,
+    "hex": "82B482B582B682B72082B820",
+    "original": "ざしじす ず ",
+    "translation": ""
+  },
+  {
+    "offset": "0x271466",
+    "length": 6,
+    "hex": "82D382D482D5",
+    "original": "ふぶぷ",
+    "translation": ""
+  },
+  {
+    "offset": "0x27146D",
+    "length": 6,
+    "hex": "82D682D782D8",
+    "original": "へべぺ",
+    "translation": ""
+  },
+  {
+    "offset": "0x2724FD",
+    "length": 5,
+    "hex": "7089708A70",
+    "original": "p英角",
+    "translation": ""
+  },
+  {
+    "offset": "0x272504",
+    "length": 6,
+    "hex": "70897488C045",
+    "original": "p液安E",
+    "translation": ""
+  },
+  {
+    "offset": "0x2972F5",
+    "length": 4,
+    "hex": "93969296",
+    "original": "当猪",
+    "translation": ""
+  },
+  {
+    "offset": "0x297308",
+    "length": 5,
+    "hex": "768A768966",
+    "original": "v革映",
+    "translation": ""
+  },
+  {
+    "offset": "0x29743E",
+    "length": 5,
+    "hex": "90E690E760",
+    "original": "先千`",
+    "translation": ""
+  },
+  {
+    "offset": "0x29DF50",
+    "length": 4,
+    "hex": "82DE82DF",
+    "original": "むめ",
+    "translation": ""
+  },
+  {
+    "offset": "0x29DFF0",
+    "length": 8,
+    "hex": "8376737773788379",
+    "original": "プswsxペ",
+    "translation": ""
+  },
+  {
+    "offset": "0x29DFF9",
+    "length": 6,
+    "hex": "836F83708371",
+    "original": "バパヒ",
+    "translation": ""
+  },
+  {
+    "offset": "0x29E14F",
+    "length": 7,
+    "hex": "5C835D835E835A",
+    "original": "\\ゾタセ",
+    "translation": ""
+  },
+  {
+    "offset": "0x29E181",
+    "length": 7,
+    "hex": "7C837D837E837A",
+    "original": "|マミホ",
+    "translation": ""
+  },
+  {
+    "offset": "0x29EAE9",
+    "length": 4,
+    "hex": "92839383",
+    "original": "茶塔",
+    "translation": ""
+  },
+  {
+    "offset": "0x29EAF1",
+    "length": 4,
+    "hex": "82BA82BB",
+    "original": "ぜそ",
+    "translation": ""
+  },
+  {
+    "offset": "0x29EB12",
+    "length": 4,
+    "hex": "90ED90EE",
+    "original": "戦扇",
+    "translation": ""
+  },
+  {
+    "offset": "0x29ECD4",
+    "length": 4,
+    "hex": "829F82D2",
+    "original": "ぁぴ",
+    "translation": ""
+  },
+  {
+    "offset": "0x2FE597",
+    "length": 5,
+    "hex": "408B408F40",
+    "original": "@機宗",
+    "translation": ""
+  },
+  {
+    "offset": "0x2FE59E",
+    "length": 4,
+    "hex": "8B408F40",
+    "original": "機宗",
+    "translation": ""
+  },
+  {
+    "offset": "0x3043DA",
+    "length": 5,
+    "hex": "74837482F1",
+    "original": "tフん",
+    "translation": ""
+  },
+  {
+    "offset": "0x3043F8",
+    "length": 5,
+    "hex": "748F748E74",
+    "original": "t春師",
+    "translation": ""
+  },
+  {
+    "offset": "0x34579D",
+    "length": 4,
+    "hex": "8F8888F8",
+    "original": "処引",
+    "translation": ""
+  },
+  {
+    "offset": "0x34591F",
+    "length": 4,
+    "hex": "8F8888F8",
+    "original": "処引",
+    "translation": ""
+  },
+  {
+    "offset": "0x345A82",
+    "length": 4,
+    "hex": "8F8888F8",
+    "original": "処引",
+    "translation": ""
+  },
+  {
+    "offset": "0x3615FF",
+    "length": 4,
+    "hex": "8BF38B8F",
+    "original": "空居",
+    "translation": ""
+  },
+  {
+    "offset": "0x36170E",
+    "length": 4,
+    "hex": "88F8834C",
+    "original": "引キ",
+    "translation": ""
+  },
+  {
+    "offset": "0x3778AD",
+    "length": 6,
+    "hex": "88AB5A598987",
+    "original": "悪ZY援",
+    "translation": ""
+  },
+  {
+    "offset": "0x3778F3",
+    "length": 4,
+    "hex": "8A8888AB",
+    "original": "活悪",
+    "translation": ""
+  },
+  {
+    "offset": "0x37AF94",
+    "length": 4,
+    "hex": "89898989",
+    "original": "演演",
+    "translation": ""
+  },
+  {
+    "offset": "0x37AFFF",
+    "length": 4,
+    "hex": "8389899E",
+    "original": "ラ応",
+    "translation": ""
+  },
+  {
+    "offset": "0x3E1EEF",
+    "length": 6,
+    "hex": "93908F91949B",
+    "original": "盗書縛",
+    "translation": ""
+  },
+  {
+    "offset": "0x3E20A3",
+    "length": 4,
+    "hex": "8F8A8989",
+    "original": "所演",
+    "translation": ""
+  },
+  {
+    "offset": "0x443BC9",
+    "length": 50,
+    "hex": "4D6C834D3083486C83483083466C83463083416C834130834D58834D2483485883482483465883462483415883412483BF22",
+    "original": "Mlギ0ォlォ0ェlェ0アlア0ギXギ$ォXォ$ェXェ$アXア$α\"",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C01",
+    "length": 5,
+    "hex": "83484C8348",
+    "original": "ォLォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C07",
+    "length": 5,
+    "hex": "83464C8346",
+    "original": "ェLェ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C0D",
+    "length": 5,
+    "hex": "83414C8341",
+    "original": "アLア",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C13",
+    "length": 5,
+    "hex": "834D38834D",
+    "original": "ギ8ギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C19",
+    "length": 5,
+    "hex": "8348388348",
+    "original": "ォ8ォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C1F",
+    "length": 5,
+    "hex": "8346388346",
+    "original": "ェ8ェ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C25",
+    "length": 5,
+    "hex": "8341388341",
+    "original": "ア8ア",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C2F",
+    "length": 50,
+    "hex": "4F6C834F30834A6C834A3083466C83463083436C834330834F58834F24834A58834A2483465883462483435883432483BF22",
+    "original": "Olグ0カlカ0ェlェ0イlイ0グXグ$カXカ$ェXェ$イXイ$α\"",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C67",
+    "length": 5,
+    "hex": "834A4C834A",
+    "original": "カLカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C6D",
+    "length": 5,
+    "hex": "83464C8346",
+    "original": "ェLェ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C73",
+    "length": 5,
+    "hex": "83434C8343",
+    "original": "イLイ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C79",
+    "length": 5,
+    "hex": "834D38834D",
+    "original": "ギ8ギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C7F",
+    "length": 5,
+    "hex": "834A38834A",
+    "original": "カ8カ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C85",
+    "length": 5,
+    "hex": "8345388345",
+    "original": "ウ8ウ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C8B",
+    "length": 5,
+    "hex": "8341388341",
+    "original": "ア8ア",
+    "translation": ""
+  },
+  {
+    "offset": "0x443C96",
+    "length": 50,
+    "hex": "4F6C834F30834B6C834B3083486C83483083436C834330834F58834F24834B58834B2483485883482483435883432483BF22",
+    "original": "Olグ0ガlガ0ォlォ0イlイ0グXグ$ガXガ$ォXォ$イXイ$α\"",
+    "translation": ""
+  },
+  {
+    "offset": "0x443CCE",
+    "length": 5,
+    "hex": "83484C8348",
+    "original": "ォLォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443CD4",
+    "length": 5,
+    "hex": "83454C8345",
+    "original": "ウLウ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443CDA",
+    "length": 5,
+    "hex": "83424C8342",
+    "original": "ィLィ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443CE0",
+    "length": 5,
+    "hex": "834E38834E",
+    "original": "ク8ク",
+    "translation": ""
+  },
+  {
+    "offset": "0x443CE6",
+    "length": 5,
+    "hex": "8348388348",
+    "original": "ォ8ォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443CEC",
+    "length": 5,
+    "hex": "8345388345",
+    "original": "ウ8ウ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443CF2",
+    "length": 5,
+    "hex": "8342388342",
+    "original": "ィ8ィ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443CFD",
+    "length": 52,
+    "hex": "466C83463083436C83433083466C834630834A6C834A30834858834824834558834524834858834824834D58834D24834A4C834A",
+    "original": "Flェ0イlイ0ェlェ0カlカ0ォXォ$ウXウ$ォXォ$ギXギ$カLカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443D32",
+    "length": 5,
+    "hex": "83464C8346",
+    "original": "ェLェ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443D38",
+    "length": 5,
+    "hex": "834A4C834A",
+    "original": "カLカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443D3E",
+    "length": 5,
+    "hex": "834D4C834D",
+    "original": "ギLギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443D44",
+    "length": 5,
+    "hex": "834A38834A",
+    "original": "カ8カ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443D4A",
+    "length": 5,
+    "hex": "8346388346",
+    "original": "ェ8ェ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443D50",
+    "length": 5,
+    "hex": "834A38834A",
+    "original": "カ8カ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443D56",
+    "length": 5,
+    "hex": "834D38834D",
+    "original": "ギ8ギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443D61",
+    "length": 50,
+    "hex": "4F6C834F30834C6C834C3083486C83483083436C834330834F58834F24834C58834C2483485883482483435883432483BF22",
+    "original": "Olグ0キlキ0ォlォ0イlイ0グXグ$キXキ$ォXォ$イXイ$α\"",
+    "translation": ""
+  },
+  {
+    "offset": "0x443D99",
+    "length": 5,
+    "hex": "83484C8348",
+    "original": "ォLォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443D9F",
+    "length": 5,
+    "hex": "83454C8345",
+    "original": "ウLウ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443DA5",
+    "length": 5,
+    "hex": "83414C8341",
+    "original": "アLア",
+    "translation": ""
+  },
+  {
+    "offset": "0x443DAB",
+    "length": 5,
+    "hex": "834D38834D",
+    "original": "ギ8ギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443DB1",
+    "length": 5,
+    "hex": "8348388348",
+    "original": "ォ8ォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443DB7",
+    "length": 5,
+    "hex": "8345388345",
+    "original": "ウ8ウ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443DBD",
+    "length": 5,
+    "hex": "8341388341",
+    "original": "ア8ア",
+    "translation": ""
+  },
+  {
+    "offset": "0x443DC7",
+    "length": 50,
+    "hex": "4D6C834D30834A6C834A3083466C83463083416C834130834D58834D24834A58834A2483465883462483415883412483BF22",
+    "original": "Mlギ0カlカ0ェlェ0アlア0ギXギ$カXカ$ェXェ$アXア$α\"",
+    "translation": ""
+  },
+  {
+    "offset": "0x443DFF",
+    "length": 5,
+    "hex": "834A4C834A",
+    "original": "カLカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E05",
+    "length": 5,
+    "hex": "83464C8346",
+    "original": "ェLェ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E0B",
+    "length": 5,
+    "hex": "83414C8341",
+    "original": "アLア",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E11",
+    "length": 5,
+    "hex": "834D38834D",
+    "original": "ギ8ギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E17",
+    "length": 5,
+    "hex": "834A38834A",
+    "original": "カ8カ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E1D",
+    "length": 5,
+    "hex": "8346388346",
+    "original": "ェ8ェ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E23",
+    "length": 5,
+    "hex": "8341388341",
+    "original": "ア8ア",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E32",
+    "length": 5,
+    "hex": "834C4C834C",
+    "original": "キLキ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E38",
+    "length": 5,
+    "hex": "83484C8348",
+    "original": "ォLォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E3E",
+    "length": 5,
+    "hex": "83434C8343",
+    "original": "イLイ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E44",
+    "length": 5,
+    "hex": "834F38834F",
+    "original": "グ8グ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E4A",
+    "length": 5,
+    "hex": "834C38834C",
+    "original": "キ8キ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E50",
+    "length": 5,
+    "hex": "8348388348",
+    "original": "ォ8ォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E56",
+    "length": 5,
+    "hex": "8343388343",
+    "original": "イ8イ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E65",
+    "length": 5,
+    "hex": "834C4C834C",
+    "original": "キLキ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E6B",
+    "length": 5,
+    "hex": "83484C8348",
+    "original": "ォLォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E71",
+    "length": 5,
+    "hex": "83434C8343",
+    "original": "イLイ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E77",
+    "length": 5,
+    "hex": "834F38834F",
+    "original": "グ8グ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E7D",
+    "length": 5,
+    "hex": "834C38834C",
+    "original": "キ8キ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E83",
+    "length": 5,
+    "hex": "8348388348",
+    "original": "ォ8ォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E89",
+    "length": 5,
+    "hex": "8343388343",
+    "original": "イ8イ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E98",
+    "length": 5,
+    "hex": "834B4C834B",
+    "original": "ガLガ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443E9E",
+    "length": 5,
+    "hex": "83484C8348",
+    "original": "ォLォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443EA4",
+    "length": 5,
+    "hex": "83414C8341",
+    "original": "アLア",
+    "translation": ""
+  },
+  {
+    "offset": "0x443EAA",
+    "length": 5,
+    "hex": "834D38834D",
+    "original": "ギ8ギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443EB0",
+    "length": 5,
+    "hex": "834B38834B",
+    "original": "ガ8ガ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443EB6",
+    "length": 5,
+    "hex": "8348388348",
+    "original": "ォ8ォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443EBC",
+    "length": 5,
+    "hex": "8341388341",
+    "original": "ア8ア",
+    "translation": ""
+  },
+  {
+    "offset": "0x443ECB",
+    "length": 5,
+    "hex": "83484C8348",
+    "original": "ォLォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443ED1",
+    "length": 5,
+    "hex": "83454C8345",
+    "original": "ウLウ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443ED7",
+    "length": 5,
+    "hex": "83414C8341",
+    "original": "アLア",
+    "translation": ""
+  },
+  {
+    "offset": "0x443EDD",
+    "length": 5,
+    "hex": "834D38834D",
+    "original": "ギ8ギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443EE3",
+    "length": 5,
+    "hex": "8348388348",
+    "original": "ォ8ォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443EE9",
+    "length": 5,
+    "hex": "8345388345",
+    "original": "ウ8ウ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443EEF",
+    "length": 5,
+    "hex": "8341388341",
+    "original": "ア8ア",
+    "translation": ""
+  },
+  {
+    "offset": "0x443EF9",
+    "length": 50,
+    "hex": "4D6C834D3083486C83483083466C83463083416C834130834D58834D2483485883482483465883462483415883412483BF22",
+    "original": "Mlギ0ォlォ0ェlェ0アlア0ギXギ$ォXォ$ェXェ$アXア$α\"",
+    "translation": ""
+  },
+  {
+    "offset": "0x443F31",
+    "length": 5,
+    "hex": "83484C8348",
+    "original": "ォLォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443F37",
+    "length": 5,
+    "hex": "83464C8346",
+    "original": "ェLェ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443F3D",
+    "length": 5,
+    "hex": "83414C8341",
+    "original": "アLア",
+    "translation": ""
+  },
+  {
+    "offset": "0x443F43",
+    "length": 5,
+    "hex": "834D38834D",
+    "original": "ギ8ギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443F49",
+    "length": 5,
+    "hex": "8348388348",
+    "original": "ォ8ォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443F4F",
+    "length": 5,
+    "hex": "8346388346",
+    "original": "ェ8ェ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443F55",
+    "length": 5,
+    "hex": "8341388341",
+    "original": "ア8ア",
+    "translation": ""
+  },
+  {
+    "offset": "0x443F8D",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443F93",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443F99",
+    "length": 5,
+    "hex": "8352448352",
+    "original": "コDコ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443F9F",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443FA5",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443FAB",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443FC2",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443FC8",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443FCE",
+    "length": 5,
+    "hex": "8352448352",
+    "original": "コDコ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443FD4",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443FDA",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443FE0",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443FF7",
+    "length": 5,
+    "hex": "834F44834F",
+    "original": "グDグ",
+    "translation": ""
+  },
+  {
+    "offset": "0x443FFD",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444003",
+    "length": 5,
+    "hex": "8352448352",
+    "original": "コDコ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444009",
+    "length": 5,
+    "hex": "834F44834F",
+    "original": "グDグ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44400F",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444015",
+    "length": 5,
+    "hex": "834F44834F",
+    "original": "グDグ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444022",
+    "length": 6,
+    "hex": "3344834A834A",
+    "original": "3Dカカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444029",
+    "length": 5,
+    "hex": "834F44834F",
+    "original": "グDグ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44402F",
+    "length": 5,
+    "hex": "8352448352",
+    "original": "コDコ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44403E",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444044",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44404A",
+    "length": 5,
+    "hex": "8351448351",
+    "original": "ゲDゲ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444062",
+    "length": 5,
+    "hex": "834B44834B",
+    "original": "ガDガ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444068",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44406E",
+    "length": 5,
+    "hex": "834F44834F",
+    "original": "グDグ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444074",
+    "length": 5,
+    "hex": "834B44834B",
+    "original": "ガDガ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44407A",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444080",
+    "length": 5,
+    "hex": "834B44834B",
+    "original": "ガDガ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444097",
+    "length": 5,
+    "hex": "834E44834E",
+    "original": "クDク",
+    "translation": ""
+  },
+  {
+    "offset": "0x44409D",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4440A3",
+    "length": 5,
+    "hex": "8351448351",
+    "original": "ゲDゲ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4440A9",
+    "length": 5,
+    "hex": "834E44834E",
+    "original": "クDク",
+    "translation": ""
+  },
+  {
+    "offset": "0x4440AF",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4440B5",
+    "length": 5,
+    "hex": "834E44834E",
+    "original": "クDク",
+    "translation": ""
+  },
+  {
+    "offset": "0x4440C3",
+    "length": 6,
+    "hex": "2B4483468346",
+    "original": "+Dェェ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4440CA",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4440D0",
+    "length": 5,
+    "hex": "834F44834F",
+    "original": "グDグ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4440DF",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4440E5",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4440EB",
+    "length": 5,
+    "hex": "8351448351",
+    "original": "ゲDゲ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444102",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444108",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44410E",
+    "length": 5,
+    "hex": "8352448352",
+    "original": "コDコ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444114",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44411A",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444120",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444138",
+    "length": 5,
+    "hex": "834C44834C",
+    "original": "キDキ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44413E",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444144",
+    "length": 5,
+    "hex": "834F44834F",
+    "original": "グDグ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44414A",
+    "length": 5,
+    "hex": "834C44834C",
+    "original": "キDキ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444150",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444156",
+    "length": 5,
+    "hex": "834C44834C",
+    "original": "キDキ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44416D",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444173",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444179",
+    "length": 5,
+    "hex": "8351448351",
+    "original": "ゲDゲ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44417F",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444185",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44418B",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4441A2",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4441A8",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4441AE",
+    "length": 5,
+    "hex": "8352448352",
+    "original": "コDコ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4441B4",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4441BA",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4441C0",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4441D7",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4441DD",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4441E3",
+    "length": 5,
+    "hex": "8352448352",
+    "original": "コDコ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4441E9",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4441EF",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4441F5",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44420C",
+    "length": 5,
+    "hex": "834C44834C",
+    "original": "キDキ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444212",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444218",
+    "length": 5,
+    "hex": "834F44834F",
+    "original": "グDグ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44421E",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444224",
+    "length": 5,
+    "hex": "834C44834C",
+    "original": "キDキ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44422A",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444241",
+    "length": 5,
+    "hex": "834C44834C",
+    "original": "キDキ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444247",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44424D",
+    "length": 5,
+    "hex": "834F44834F",
+    "original": "グDグ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444253",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444259",
+    "length": 5,
+    "hex": "834C44834C",
+    "original": "キDキ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44425F",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444276",
+    "length": 5,
+    "hex": "8346448346",
+    "original": "ェDェ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44427C",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444282",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444288",
+    "length": 5,
+    "hex": "8346448346",
+    "original": "ェDェ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44428E",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444294",
+    "length": 5,
+    "hex": "8341448341",
+    "original": "アDア",
+    "translation": ""
+  },
+  {
+    "offset": "0x4442AB",
+    "length": 5,
+    "hex": "8345448345",
+    "original": "ウDウ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4442B1",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4442B7",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4442BD",
+    "length": 5,
+    "hex": "8345448345",
+    "original": "ウDウ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4442C3",
+    "length": 5,
+    "hex": "8348448348",
+    "original": "ォDォ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4442C9",
+    "length": 5,
+    "hex": "8341448341",
+    "original": "アDア",
+    "translation": ""
+  },
+  {
+    "offset": "0x4442E0",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4442E6",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4442EC",
+    "length": 5,
+    "hex": "8352448352",
+    "original": "コDコ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4442F2",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4442F8",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4442FE",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444315",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44431B",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444321",
+    "length": 5,
+    "hex": "8352448352",
+    "original": "コDコ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444327",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x44432D",
+    "length": 5,
+    "hex": "834A44834A",
+    "original": "カDカ",
+    "translation": ""
+  },
+  {
+    "offset": "0x444333",
+    "length": 5,
+    "hex": "834D44834D",
+    "original": "ギDギ",
+    "translation": ""
+  },
+  {
+    "offset": "0x4465B9",
+    "length": 8,
+    "hex": "82DB3C6C8CD53C58",
+    "original": "ぽ<l虎<X",
+    "translation": ""
+  },
+  {
+    "offset": "0x4465E6",
+    "length": 8,
+    "hex": "82DB3C6C8CD53C58",
+    "original": "ぽ<l虎<X",
+    "translation": ""
+  },
+  {
+    "offset": "0x446872",
+    "length": 7,
+    "hex": "59288C60508CB4",
+    "original": "Y(形P原",
+    "translation": ""
+  },
+  {
+    "offset": "0x44696E",
+    "length": 7,
+    "hex": "59288C60508CB4",
+    "original": "Y(形P原",
+    "translation": ""
+  },
+  {
+    "offset": "0x448F62",
+    "length": 5,
+    "hex": "82CE82E646",
+    "original": "ばよF",
+    "translation": ""
+  }
+]
