@@ -1,27 +1,44 @@
-# ImHex 字体编辑工程 (font_edit)
+# ImHex 工程 (hexproj)
 
-本目录包含用于在 [ImHex](https://github.com/WerWolv/ImHex) 中编辑 GBA 游戏字体的工程文件。
+本目录包含用于在 [ImHex](https://github.com/WerWolv/ImHex) 中分析、编辑《火影忍者 RPG》GBA ROM 的工程文件。
+
+## 工程说明
+
+| 工程文件 | 用途 | 所需 ROM 文件名 |
+|----------|------|-----------------|
+| **font_edit.hexproj** | 字体编辑：字模、mapping、二分查找等标注，便于汉化时修改字体数据 | 将 ROM 重命名为 `font_edit`（或 `font_edit.gba`） |
+| **original.hexproj** | 原版 ROM 静态分析：包含针对原版 ROM 的静态分析标签，用于阅读与定位 | 将**原版** ROM 重命名为 **`original.gba`** |
 
 ## 使用前准备
 
-`font_edit.hexproj` 需要配合对应的 **GBA 游戏 ROM** 使用，请按以下步骤操作：
+### font_edit.hexproj（字体编辑）
 
-1. 将 **.gba 格式** 的游戏 ROM 放到本目录（即与 `font_edit.hexproj` 同级）。
-2. 将该 ROM 文件 **重命名为 `font_edit`**（无需保留 `.gba` 后缀，或保持为 `font_edit.gba` 视工程引用方式而定；若 ImHex 提示找不到文件，可尝试命名为 `font_edit`）。
-3. 使用 **ImHex** 打开 `font_edit.hexproj`，即可加载工程并编辑 ROM 中的字体数据。
+1. 将 .gba 格式的游戏 ROM 放到本目录。
+2. 将该 ROM 文件 **重命名为 `font_edit`**（或 `font_edit.gba`；若 ImHex 提示找不到文件，可尝试无后缀的 `font_edit`）。
+3. 用 ImHex 打开 `font_edit.hexproj`，即可加载工程并编辑 ROM 中的字体数据。
+
+### original.hexproj（原版 ROM 静态分析）
+
+1. 将**原版**《火影忍者 RPG》GBA ROM 放到本目录。
+2. 将该 ROM 文件 **重命名为 `original.gba`**。
+3. 用 ImHex 打开 `original.hexproj`，即可查看针对原版 ROM 的静态分析标签。
 
 ## 目录结构示例
 
 ```
 hexproj/
-├── font_edit.hexproj   # ImHex 工程文件
-├── font_edit           # 你放置并重命名后的 GBA ROM（无后缀或 .gba）
+├── font_edit.hexproj   # 字体编辑工程
+├── font_edit.gba           # 字体编辑用 ROM（你放置并重命名，无后缀或 .gba）
+├── original.hexproj    # 原版 ROM 静态分析工程
+├── original.gba        # 原版 ROM（你放置并重命名为此文件名）
 └── readme.md
 ```
 
 ## 工程内包含的标签（书签）
 
-在 ImHex 中打开工程后，侧边栏会显示以下已标注区域，便于定位字体、映射表与相关代码：
+### font_edit.hexproj
+
+在 ImHex 中打开 **font_edit.hexproj** 后，侧边栏会显示以下已标注区域，便于定位字体、映射表与相关代码：
 
 ### 8×8 相关
 - **原8*8mapping** — 原始 8×8 字模映射
@@ -59,6 +76,10 @@ hexproj/
 - **剧情第一句3个字(ここは)** — 剧情第一句 3 字样本（ここは）
 
 上述标签用于在《火影忍者 RPG》ROM 中快速定位字体与映射相关数据，便于汉化与修改。
+
+### original.hexproj
+
+**original.hexproj** 针对**原版 ROM**（需重命名为 `original.gba`），内含静态分析用标签，用于阅读与定位原版数据结构与逻辑，不修改 ROM。
 
 ## 说明
 
