@@ -5,3 +5,5 @@
 *.ttf
 *.bak
 *.sav
+node_modules
+.pnpm-store

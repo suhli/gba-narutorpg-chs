@@ -1,0 +1,5 @@
+node_modules
+dist
+*.local
+# 补丁数据以 patcher/diff.json 为准，构建时复制到 public
+public/diff.json
