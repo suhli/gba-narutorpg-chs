@@ -2,11 +2,12 @@ name: Build and deploy pages
 
 on:
   push:
-    tags:
-      - "v*"
+    branches: [main]
+    paths:
+      - "patcher/**"
 
 jobs:
-  build-and-release:
+  build-and-tag:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -43,15 +44,22 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: update pages [skip ci]"
           git push
 
-      - name: Zip pages for release
+      - name: Push next version tag
         run: |
-          cd pages && zip -r ../pages.zip . && cd ..
-
-      - name: Create Release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ github.ref_name }}
-          generate_release_notes: true
-          files: pages.zip
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git fetch --tags
+          latest=$(git tag -l 'v*' --sort=-v:refname | head -1)
+          if [ -z "$latest" ]; then
+            next="v0.0.1"
+          else
+            ver="${latest#v}"
+            x="${ver%%.*}"
+            rest="${ver#*.}"
+            y="${rest%%.*}"
+            z="${rest#*.}"
+            if [ "$z" = "$rest" ]; then
+              z="0"
+            fi
+            next="v${x}.${y}.$((z + 1))"
+          fi
+          git tag "$next"
+          git push origin "$next"
