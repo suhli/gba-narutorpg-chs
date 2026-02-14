@@ -41,6 +41,7 @@ load_dotenv(SCRIPT_DIR / ".env")
 
 TEXT_DUMP_DIR = SCRIPT_DIR / "debug" / "text_dump"
 OUTPUT_DIR = PROJECT_ROOT / "translate"  # 翻译结果保存到此目录，不写回源文件
+TRANSLATIONS_OUTPUT_PATH = OUTPUT_DIR / "translations.json"  # 唯一输出文件，每条翻译后追加保存
 INSTRUCTION_PATH = SCRIPT_DIR / "translate.instruction.md"
 MEMORI_PATH = SCRIPT_DIR / "debug" / "memori.json"
 
@@ -48,8 +49,24 @@ MEMORI_PATH = SCRIPT_DIR / "debug" / "memori.json"
 DEFAULT_BASE_URL = "https://open.bigmodel.cn/api/paas/v4"
 DEFAULT_MODEL = "glm-4-plus"  # 可选 glm-4, glm-4-plus 等
 
-# 每批条数，避免单次请求过长
-BATCH_SIZE = 25
+# 逐条翻译，每轮请求只发一条；对话历史只保留最近 N 轮，避免上下文过长
+MAX_HISTORY_TURNS = 10  # 保留最近 10 轮（每轮 = user + assistant）
+
+# Memori 作为 tool 暴露给模型，按需调用检索词条，不把 hits 塞进 prompt
+MEMORI_TOOL = {
+    "type": "function",
+    "function": {
+        "name": "memori_search",
+        "description": "从术语库（Memori）中按关键词检索日文→中文译法。翻译前若需要统一专有名词、忍术名、角色名、菜单项等可调用此工具，传入日文片段或中文关键词。",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "query": {"type": "string", "description": "检索关键词（日文或中文片段）"},
+            },
+            "required": ["query"],
+        },
+    },
+}
 
 
 def get_client() -> OpenAI:
@@ -127,129 +144,238 @@ def align_length(translated: str, original: str) -> str:
     return trans[:orig_len]
 
 
-def to_instruction_input(batch: list[dict]) -> list[dict]:
-    """转换为 instruction 规定的输入格式：仅含 offset、text 的 JSON 数组。"""
-    return [{"offset": e["offset"], "text": e["original"]} for e in batch]
+def to_instruction_input(entry: dict) -> list[dict]:
+    """转换为 instruction 规定的输入格式：仅含 offset、text 的 JSON 数组（单条）。"""
+    return [{"offset": entry["offset"], "text": entry["original"]}]
 
 
-def translate_batch_in_conversation(
+def _truncate_messages(messages: list[dict], max_turns: int = MAX_HISTORY_TURNS) -> list[dict]:
+    """只保留 system + 最近 max_turns 轮对话（每轮 = user + assistant），避免上下文过长。"""
+    if not messages or len(messages) <= 1 + max_turns * 2:
+        return messages
+    # messages[0] 为 system，其余为 user/assistant 交替
+    keep = 1 + max_turns * 2  # system + 最近 max_turns 对
+    return messages[:1] + messages[-keep + 1 :]
+
+def translate_one(
     client: OpenAI,
     model: str,
     messages: list[dict],
-    batch: list[dict],
-) -> tuple[list[dict], list[dict]]:
-    """在同一对话内发送本批条目，返回 (本批结果, 更新后的 messages)。"""
-    # 严格按 instruction 输入格式：[{ "offset": "0x...", "text": "日文" }]
-    inputs = to_instruction_input(batch)
+    entry: dict,
+    memori,
+) -> tuple[dict, list[dict]]:
+    """发送单条条目翻译，返回 (单条结果, 更新后的 messages)。Memori 通过 tool 按需调用，不注入 prompt。"""
+    inputs = to_instruction_input(entry)
     user_content = "请将以下 JSON 数组中的日文翻译成中文（仅输出 JSON 数组，不要其他说明）：\n"
     user_content += json.dumps(inputs, ensure_ascii=False, indent=2)
 
+    messages = _truncate_messages(messages)
     new_messages = messages + [{"role": "user", "content": user_content}]
-    stream = client.chat.completions.create(
-        model=model,
-        messages=new_messages,
-        temperature=0.3,
-        stream=True,
-    )
-    content_parts = []
-    for chunk in stream:
-        if not chunk.choices:
-            continue
-        delta = chunk.choices[0].delta
-        if getattr(delta, "content", None):
-            content_parts.append(delta.content)
-            print(delta.content, end="", flush=True)
-    print(flush=True)  # 流式输出后换行
-    content = "".join(content_parts).strip()
+    offset = entry["offset"]
+    orig = entry["original"]
+    out: dict = {"offset": offset, "text": orig, "skiped": False}
+
+    while True:
+        resp = client.chat.completions.create(
+            model=model,
+            messages=new_messages,
+            tools=[MEMORI_TOOL],
+            temperature=0.3,
+        )
+        choice = resp.choices[0] if resp.choices else None
+        if not choice:
+            return out, new_messages
+        msg = getattr(choice, "message", None)
+        if not msg:
+            return out, new_messages
+
+        content = (msg.content or "").strip()
+        tool_calls = getattr(msg, "tool_calls", None) or []
+
+        # 将本轮 assistant 回复追加到对话
+        assistant_msg = {"role": "assistant", "content": content or ""}
+        if tool_calls:
+            assistant_msg["tool_calls"] = [
+                {
+                    "id": tc.id,
+                    "type": "function",
+                    "function": {
+                        "name": tc.function.name,
+                        "arguments": tc.function.arguments or "{}",
+                    },
+                }
+                for tc in tool_calls
+            ]
+        new_messages = new_messages + [assistant_msg]
+
+        if not tool_calls:
+            break
+
+        # 执行 tool 调用并追加 tool 结果
+        for tc in tool_calls:
+            name = getattr(tc.function, "name", "") if hasattr(tc, "function") else ""
+            args_str = getattr(tc.function, "arguments", "{}") if hasattr(tc, "function") else "{}"
+            try:
+                args = json.loads(args_str) if args_str else {}
+            except json.JSONDecodeError:
+                args = {}
+            query = args.get("query", "").strip()
+            if name == "memori_search":
+                result = memori.search(query)
+                tool_content = json.dumps(result, ensure_ascii=False)
+            else:
+                tool_content = json.dumps({"error": "unknown tool"})
+            new_messages.append({
+                "role": "tool",
+                "tool_call_id": tc.id,
+                "content": tool_content,
+            })
+
     if not content:
-        return [], new_messages
+        return out, new_messages
     out_list = extract_json_array(content)
-    by_offset = {str(item.get("offset", "")): item.get("text", "") for item in out_list}
-    result = []
-    for e in batch:
-        offset = e["offset"]
-        orig = e["original"]
-        trans = by_offset.get(offset, "")
-        trans = align_length(trans, orig)
-        result.append({"offset": offset, "text": trans})
-    # 把本轮 assistant 回复追加到对话，下一批会带上这段历史
-    updated = new_messages + [{"role": "assistant", "content": content}]
-    return result, updated
+    item = next((x for x in out_list if str(x.get("offset", "")) == str(offset)), None)
+    if item is not None:
+        trans = item.get("text", "")
+        skiped = item.get("skiped", False)
+        if skiped:
+            out["text"] = orig
+            out["skiped"] = True
+        else:
+            out["text"] = align_length(trans, orig)
+            out["skiped"] = False
+    return out, new_messages
 
 
-def process_file(
+def load_translations_file() -> list[dict]:
+    """从唯一输出文件读取已翻译数组，不存在或异常时返回空列表。"""
+    if not TRANSLATIONS_OUTPUT_PATH.exists():
+        return []
+    try:
+        data = json.loads(TRANSLATIONS_OUTPUT_PATH.read_text(encoding="utf-8"))
+        return data if isinstance(data, list) else []
+    except (json.JSONDecodeError, IOError):
+        return []
+
+
+def save_translations_file(entries: list[dict], *, skip_filled: bool = True) -> None:
+    """将当前条目的 translation/skiped/hex 等合并到唯一输出文件并写回（JSON 数组）。
+    当 skip_filled 为 True（未传 --no-skip）时，已存在的行（含 skiped）也会用当前条目的 original/hex 更新。"""
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    existing = load_translations_file()
+    by_offset = {str(e.get("offset", "")): e for e in existing if isinstance(e, dict)}
+    for e in entries:
+        if not isinstance(e, dict):
+            continue
+        offset = e.get("offset")
+        if offset is None:
+            continue
+        key = str(offset)
+        row = by_offset.get(key)
+        if row is None:
+            row = {
+                "offset": offset,
+                "hex": e.get("hex", ""),
+                "length": e.get("length"),
+                "original": e.get("original", ""),
+                "translation": e.get("translation", ""),
+                "skiped": e.get("skiped", False),
+            }
+            by_offset[key] = row
+        else:
+            row["translation"] = e.get("translation", "")
+            row["skiped"] = e.get("skiped", False)
+            if skip_filled:
+                row["original"] = e.get("original", "")
+                row["hex"] = e.get("hex", "")
+                if "length" in e:
+                    row["length"] = e.get("length")
+            else:
+                if e.get("hex") is not None:
+                    row["hex"] = e.get("hex", "")
+                if "length" in e:
+                    row["length"] = e.get("length")
+    out_list = list(by_offset.values())
+    TRANSLATIONS_OUTPUT_PATH.write_text(
+        json.dumps(out_list, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+
+def load_all_entries(chunk_files: list[Path]) -> list[dict]:
+    """合并所有 chunk 文件为一条列表，保留 offset/hex/length/original 等字段。"""
+    all_entries: list[dict] = []
+    for path in chunk_files:
+        try:
+            raw = json.loads(path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, IOError):
+            print(f"  [{path.name}] 读取失败，跳过", file=sys.stderr)
+            continue
+        if not isinstance(raw, list):
+            continue
+        for e in raw:
+            if isinstance(e, dict) and "original" in e:
+                all_entries.append(dict(e))
+    return all_entries
+
+
+def process_all(
     client: OpenAI,
     model: str,
     instruction: str,
     memori,
-    path: Path,
+    all_entries: list[dict],
     *,
     skip_filled: bool = True,
     dry_run: bool = False,
 ) -> None:
-    """处理单个 chunk JSON 文件：从源文件读取，翻译结果写入项目目录/translate/，不修改源文件。"""
-    raw = json.loads(path.read_text(encoding="utf-8"))
-    if not isinstance(raw, list):
-        print(f"  [{path.name}] 格式错误，跳过", file=sys.stderr)
-        return
-
-    entries = [e for e in raw if isinstance(e, dict)]
-    # 若已有输出文件，先合并其中的 translation，用于 skip_filled 时跳过已译
-    output_path = OUTPUT_DIR / path.name
-    if skip_filled and output_path.exists():
-        try:
-            out_data = json.loads(output_path.read_text(encoding="utf-8"))
-            if isinstance(out_data, list):
-                by_offset = {e.get("offset"): e.get("translation", "") for e in out_data if isinstance(e, dict)}
-                for e in entries:
-                    if e.get("offset") in by_offset and by_offset[e["offset"]]:
-                        e["translation"] = by_offset[e["offset"]]
-        except (json.JSONDecodeError, IOError):
-            pass
+    """对所有条目统一循环、逐条翻译，结果写入唯一输出文件 translate/translations.json。"""
+    # 从唯一输出文件合并已有 translation/skiped
+    if skip_filled:
+        out_data = load_translations_file()
+        by_offset = {
+            e.get("offset"): {"translation": e.get("translation", ""), "skiped": e.get("skiped", False)}
+            for e in out_data if isinstance(e, dict)
+        }
+        for e in all_entries:
+            o = by_offset.get(e.get("offset"))
+            if o and (o["translation"] or o["skiped"]):
+                e["translation"] = o["translation"]
+                e["skiped"] = o["skiped"]
 
     to_translate = [
         e
-        for e in entries
+        for e in all_entries
         if "original" in e and (not skip_filled or not (e.get("translation") or "").strip())
     ]
+
     if not to_translate:
-        print(f"  [{path.name}] 无需翻译（共 {len(entries)} 条）")
+        print(f"  无需翻译（共 {len(all_entries)} 条）")
         return
 
-    print(f"  [{path.name}] 待翻译 {len(to_translate)} / {len(entries)} 条（同一对话内连续翻译）")
+    print(f"  待翻译 {len(to_translate)} / {len(all_entries)} 条（合并 chunk 逐条翻译，Memori 按需 tool 调用）")
     if dry_run:
         return
 
-    # 整份文件的术语一次性注入 system，后续批次在同一对话内沿用
-    all_texts = [e["original"] for e in to_translate]
-    memori_hits = memori.search_for_texts(all_texts).get("hits", [])
-    system = instruction
-    if memori_hits:
-        system += "\n\n当前术语库（Memori）中与本文件相关的条目，请严格采用其中译法，并在后续批次中保持一致：\n"
-        system += json.dumps(memori_hits, ensure_ascii=False, indent=2)
+    # 不再把 hits 注入 prompt；system 只放 instruction + 工具说明，模型通过 memori_search tool 按需查词
+    system = instruction + "\n\n如需查阅术语译法（角色名、忍术、菜单等），请调用 memori_search 工具传入关键词后再翻译。"
     messages = [{"role": "system", "content": system}]
 
     total_items = len(to_translate)
-    total_batches = (total_items + BATCH_SIZE - 1) // BATCH_SIZE
-    offset_to_entry = {e["offset"]: e for e in entries}
-    for i in range(0, len(to_translate), BATCH_SIZE):
-        batch = to_translate[i : i + BATCH_SIZE]
-        batch_no = i // BATCH_SIZE + 1
+    offset_to_entry = {e["offset"]: e for e in all_entries}
+    for idx, entry in enumerate(to_translate, start=1):
         try:
-            results, messages = translate_batch_in_conversation(client, model, messages, batch)
-            for r in results:
-                ent = offset_to_entry.get(r["offset"])
-                if ent is not None:
-                    ent["translation"] = r["text"]
-            done = min(i + len(batch), total_items)
-            print(f"    批次 {batch_no}/{total_batches} 完成，已翻译 {done}/{total_items} 条")
+            r, messages = translate_one(client, model, messages, entry, memori)
+            ent = offset_to_entry.get(r["offset"])
+            if ent is not None:
+                ent["translation"] = r["text"]
+                ent["skiped"] = r.get("skiped", False)
+            save_translations_file(all_entries, skip_filled=skip_filled)  # 每条翻译后立即写回；skip_filled 时连 skiped 的也更新 original/hex
+            print(f"    已翻译 {idx}/{total_items} 条")
         except Exception as exc:
-            print(f"    批次 {batch_no} 失败: {exc}", file=sys.stderr)
+            print(f"    第 {idx} 条失败: {exc}", file=sys.stderr)
             raise
 
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(json.dumps(raw, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"  [{path.name}] 已保存到 {output_path}")
+    print(f"  已写入 {TRANSLATIONS_OUTPUT_PATH}")
 
 
 def main():
@@ -276,19 +402,23 @@ def main():
         print(f"在 {TEXT_DUMP_DIR} 下未找到 text_chunk_*.json")
         return
 
+    all_entries = load_all_entries(files)
+    if not all_entries:
+        print("没有可翻译的条目")
+        return
+
     print(f"Memori 路径: {MEMORI_PATH}")
-    print(f"输出目录: {OUTPUT_DIR}")
-    print(f"待处理文件数: {len(files)}")
-    for path in files:
-        process_file(
-            client,
-            args.model,
-            instruction,
-            memori,
-            path,
-            skip_filled=not args.no_skip,
-            dry_run=args.dry_run,
-        )
+    print(f"输出文件: {TRANSLATIONS_OUTPUT_PATH}")
+    print(f"已合并 chunk 数: {len(files)}，总条数: {len(all_entries)}")
+    process_all(
+        client,
+        args.model,
+        instruction,
+        memori,
+        all_entries,
+        skip_filled=not args.no_skip,
+        dry_run=args.dry_run,
+    )
 
 
 if __name__ == "__main__":
