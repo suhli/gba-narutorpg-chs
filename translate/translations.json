@@ -1090,7 +1090,7 @@
   {
     "offset": "0x6E6DE",
     "original": "の　けいけんちをかくとく！",
-    "translation": "",
+    "translation": "获得了经验值！      ",
     "skiped": false,
     "hex": "82CC814082AF82A282AF82F182BF82F082A982AD82C682AD8149",
     "length": 26
@@ -1098,7 +1098,7 @@
   {
     "offset": "0x6E6FC",
     "original": "それぞれ",
-    "translation": "",
+    "translation": "各自  ",
     "skiped": false,
     "hex": "82BB82EA82BC82EA",
     "length": 8
@@ -1106,7 +1106,7 @@
   {
     "offset": "0x6E706",
     "original": "の　けいけんちをかくとく！",
-    "translation": "",
+    "translation": "获得了经验值！      ",
     "skiped": false,
     "hex": "82CC814082AF82A282AF82F182BF82F082A982AD82C682AD8149",
     "length": 26
@@ -1114,7 +1114,7 @@
   {
     "offset": "0x6E726",
     "original": "は　レベルが上がった！",
-    "translation": "",
+    "translation": "等级上升了！　　　　　",
     "skiped": false,
     "hex": "82CD8140838C8378838B82AA8FE382AA82C182BD8149",
     "length": 22
@@ -1122,7 +1122,7 @@
   {
     "offset": "0x6E74A",
     "original": "を　おぼえた！",
-    "translation": "",
+    "translation": "学会了！　　　",
     "skiped": false,
     "hex": "82F0814082A882DA82A682BD8149",
     "length": 14
@@ -1130,7 +1130,7 @@
   {
     "offset": "0x6E75C",
     "original": "せんとうけっかを　しゅうりょうします。",
-    "translation": "",
+    "translation": "战斗结果结束。            ",
     "skiped": false,
     "hex": "82B982F182C682A482AF82C182A982F0814082B582E382A482E882E582A482B582DC82B78142",
     "length": 38
@@ -1138,7 +1138,7 @@
   {
     "offset": "0x6E788",
     "original": "しあいじかん",
-    "translation": "",
+    "translation": "比赛时间  ",
     "skiped": false,
     "hex": "82B582A082A282B682A982F1",
     "length": 12
@@ -1146,7 +1146,7 @@
   {
     "offset": "0x6E798",
     "original": "しんきろくたっせい！",
-    "translation": "",
+    "translation": "新纪录达成！    ",
     "skiped": false,
     "hex": "82B582F182AB82EB82AD82BD82C182B982A28149",
     "length": 20
@@ -1154,7 +1154,7 @@
   {
     "offset": "0x6E7B0",
     "original": "しあいランク",
-    "translation": "",
+    "translation": "比赛排名  ",
     "skiped": false,
     "hex": "82B582A082A283898393834E",
     "length": 12
@@ -1162,7 +1162,7 @@
   {
     "offset": "0x6E7D4",
     "original": "戦いに　しょうりした！！",
-    "translation": "",
+    "translation": "战斗胜利了！！　　　　　",
     "skiped": false,
     "hex": "90ED82A282C9814082B582E582A482E882B582BD81498149",
     "length": 24
@@ -1170,7 +1170,7 @@
   {
     "offset": "0x6E7F0",
     "original": "戦いに　やぶれた・・・",
-    "translation": "",
+    "translation": "战斗失败了・・・　　　",
     "skiped": false,
     "hex": "90ED82A282C9814082E282D482EA82BD814581458145",
     "length": 22
@@ -1178,7 +1178,7 @@
   {
     "offset": "0x6E80C",
     "original": "くっ・・・　任務はしっぱいか！",
-    "translation": "",
+    "translation": "可恶...任务失败吗！　　　　",
     "skiped": false,
     "hex": "82AD82C18145814581458140944396B182CD82B582C182CF82A282A98149",
     "length": 30
@@ -1186,7 +1186,7 @@
   {
     "offset": "0x6E830",
     "original": "だれも　いなくなった・・・",
-    "translation": "",
+    "translation": "谁都不见了・・・　　　　　",
     "skiped": false,
     "hex": "82BE82EA82E0814082A282C882AD82C882C182BD814581458145",
     "length": 26
@@ -1194,7 +1194,7 @@
   {
     "offset": "0x6E852",
     "original": "「じかんぎれ！　そこまでだ！！」",
-    "translation": "",
+    "translation": "「时间到！到此为止！！」　　　　",
     "skiped": false,
     "hex": "817582B682A982F182AC82EA8149814082BB82B182DC82C582BE814981498176",
     "length": 32
@@ -1202,7 +1202,7 @@
   {
     "offset": "0x6E878",
     "original": "おつかれさまでした。",
-    "translation": "",
+    "translation": "辛苦了。      ",
     "skiped": false,
     "hex": "82A882C282A982EA82B382DC82C582B582BD8142",
     "length": 20
@@ -1210,7 +1210,7 @@
   {
     "offset": "0x6E88D",
     "original": "Ａボタンで　タイトルにもどります。",
-    "translation": "",
+    "translation": "按A键返回标题画面。       ",
     "skiped": false,
     "hex": "8260837B835E839382C58140835E83438367838B82C982E082C782E882DC82B78142",
     "length": 34
@@ -1218,7 +1218,7 @@
   {
     "offset": "0x6E8B6",
     "original": "「へへ・・・」",
-    "translation": "",
+    "translation": "「嘿嘿・・・」",
     "skiped": false,
     "hex": "817582D682D68145814581458176",
     "length": 14
@@ -1226,7 +1226,7 @@
   {
     "offset": "0x6E8CA",
     "original": "「フン・・・」",
-    "translation": "",
+    "translation": "「哼・・・」 ",
     "skiped": false,
     "hex": "8175837483938145814581458176",
     "length": 14
@@ -1234,7 +1234,7 @@
   {
     "offset": "0x6E8DE",
     "original": "「えへへっ！」",
-    "translation": "",
+    "translation": "嘿嘿嘿！   ",
     "skiped": false,
     "hex": "817582A682D682D682C181498176",
     "length": 14
@@ -1242,7 +1242,7 @@
   {
     "offset": "0x6E8F2",
     "original": "「ガキだ　ガキだと　うちのチームを」",
-    "translation": "",
+    "translation": "说小鬼　说我们队伍是小鬼　　　　　　",
     "skiped": false,
     "hex": "8175834B834C82BE8140834B834C82BE82C6814082A482BF82CC8360815B838082F08176",
     "length": 36
@@ -1250,7 +1250,7 @@
   {
     "offset": "0x6E919",
     "original": "「なめてもらっちゃあ　こまるね・・・」",
-    "translation": "",
+    "translation": "被小看了　很麻烦呢・・・　　　　　　　",
     "skiped": false,
     "hex": "817582C882DF82C482E082E782C182BF82E182A0814082B182DC82E982CB8145814581458176",
     "length": 38
@@ -1258,7 +1258,7 @@
   {
     "offset": "0x6E942",
     "original": "「サスケは　木ノ葉隠れの里いちのルーキー」",
-    "translation": "",
+    "translation": "佐助是　木叶隐村第一的新人        ",
     "skiped": false,
     "hex": "817583548358835082CD814096D8836D9774894282EA82CC97A282A282BF82CC838B815B834C815B8176",
     "length": 42
@@ -1266,7 +1266,7 @@
   {
     "offset": "0x6E96F",
     "original": "「サクラは　里いちばんのキレもの」",
-    "translation": "",
+    "translation": "小樱是　村里第一的暴脾气     ",
     "skiped": false,
     "hex": "81758354834E838982CD814097A282A282BF82CE82F182CC834C838C82E082CC8176",
     "length": 34
@@ -1274,7 +1274,7 @@
   {
     "offset": "0x6E994",
     "original": "「そして　もうひとりは」",
-    "translation": "",
+    "translation": "还有　另一个人是　　　　",
     "skiped": false,
     "hex": "817582BB82B582C4814082E082A482D082C682E882CD8176",
     "length": 24
@@ -1282,7 +1282,7 @@
   {
     "offset": "0x6E9AF",
     "original": "「めだちたがりやで　いがいせいナンバーワンの」",
-    "translation": "",
+    "translation": "爱出风头　意外性第一的            ",
     "skiped": false,
     "hex": "817582DF82BE82BF82BD82AA82E882E282C5814082A282AA82A282B982A283698393836F815B838F839382CC8176",
     "length": 46
@@ -1290,7 +1290,7 @@
   {
     "offset": "0x6E9E0",
     "original": "「ドタバタ忍者　ナルト」",
-    "translation": "",
+    "translation": "冒失忍者　鸣人　　　　　",
     "skiped": false,
     "hex": "81758368835E836F835E94458ED281408369838B83678176",
     "length": 24
@@ -1298,7 +1298,7 @@
   {
     "offset": "0x6E9FE",
     "original": "（なんだ　この術は！？　みたことがない！）",
-    "translation": "",
+    "translation": "（什么　这个忍术！？　从没见过！）　　　　",
     "skiped": false,
     "hex": "816982C882F182BE814082B182CC8F7082CD81498148814082DD82BD82B182C682AA82C882A28149816A",
     "length": 42
@@ -1306,7 +1306,7 @@
   {
     "offset": "0x6EA2E",
     "original": "（くっ・・・　なんだ　この術は！？）",
-    "translation": "",
+    "translation": "（唔……　什么　这个忍术！？）　　　",
     "skiped": false,
     "hex": "816982AD82C1814581458145814082C882F182BE814082B182CC8F7082CD81498148816A",
     "length": 36
@@ -1314,7 +1314,7 @@
   {
     "offset": "0x6EA5A",
     "original": "（いったいなんなの　この術！　みたことないわ）",
-    "translation": "",
+    "translation": "（到底是什么　这个忍术！　从没见过      ",
     "skiped": false,
     "hex": "816982A282C182BD82A282C882F182C882CC814082B182CC8F708149814082DD82BD82B182C682C882A282ED816A",
     "length": 46
@@ -1322,7 +1322,7 @@
   {
     "offset": "0x6EA8E",
     "original": "（目は・・・　ふしぎとなれてきた）",
-    "translation": "",
+    "translation": "（眼睛……变得不可思议了）    ",
     "skiped": false,
     "hex": "816996DA82CD814581458145814082D382B582AC82C682C882EA82C482AB82BD816A",
     "length": 34
