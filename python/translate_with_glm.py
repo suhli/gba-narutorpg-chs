@@ -127,40 +127,43 @@ def align_length(translated: str, original: str) -> str:
     return trans[:orig_len]
 
 
-def translate_batch(
+def to_instruction_input(batch: list[dict]) -> list[dict]:
+    """转换为 instruction 规定的输入格式：仅含 offset、text 的 JSON 数组。"""
+    return [{"offset": e["offset"], "text": e["original"]} for e in batch]
+
+
+def translate_batch_in_conversation(
     client: OpenAI,
     model: str,
-    instruction: str,
-    memori,
+    messages: list[dict],
     batch: list[dict],
-) -> list[dict]:
-    """发送一批条目给模型，返回 [{offset, text}, ...]。"""
-    inputs = [{"offset": e["offset"], "text": e["original"]} for e in batch]
-    texts = [e["original"] for e in batch]
-    memori_hits = memori.search_for_texts(texts).get("hits", [])
+) -> tuple[list[dict], list[dict]]:
+    """在同一对话内发送本批条目，返回 (本批结果, 更新后的 messages)。"""
+    # 严格按 instruction 输入格式：[{ "offset": "0x...", "text": "日文" }]
+    inputs = to_instruction_input(batch)
+    user_content = "请将以下 JSON 数组中的日文翻译成中文（仅输出 JSON 数组，不要其他说明）：\n"
+    user_content += json.dumps(inputs, ensure_ascii=False, indent=2)
 
-    system = instruction
-    if memori_hits:
-        system += "\n\n当前术语库（Memori）中与本节相关的条目，请严格采用其中译法：\n"
-        system += json.dumps(memori_hits, ensure_ascii=False, indent=2)
-
-    user = "请将以下 JSON 数组中的日文翻译成中文（仅输出 JSON 数组，不要其他说明）：\n"
-    user += json.dumps(inputs, ensure_ascii=False, indent=2)
-
-    resp = client.chat.completions.create(
+    new_messages = messages + [{"role": "user", "content": user_content}]
+    stream = client.chat.completions.create(
         model=model,
-        messages=[
-            {"role": "system", "content": system},
-            {"role": "user", "content": user},
-        ],
+        messages=new_messages,
         temperature=0.3,
+        stream=True,
     )
-    choice = resp.choices[0] if resp.choices else None
-    if not choice or not getattr(choice, "message", None):
-        return []
-    content = (choice.message.content or "").strip()
+    content_parts = []
+    for chunk in stream:
+        if not chunk.choices:
+            continue
+        delta = chunk.choices[0].delta
+        if getattr(delta, "content", None):
+            content_parts.append(delta.content)
+            print(delta.content, end="", flush=True)
+    print(flush=True)  # 流式输出后换行
+    content = "".join(content_parts).strip()
+    if not content:
+        return [], new_messages
     out_list = extract_json_array(content)
-    # 按 offset 建立映射，并做长度对齐
     by_offset = {str(item.get("offset", "")): item.get("text", "") for item in out_list}
     result = []
     for e in batch:
@@ -169,7 +172,9 @@ def translate_batch(
         trans = by_offset.get(offset, "")
         trans = align_length(trans, orig)
         result.append({"offset": offset, "text": trans})
-    return result
+    # 把本轮 assistant 回复追加到对话，下一批会带上这段历史
+    updated = new_messages + [{"role": "assistant", "content": content}]
+    return result, updated
 
 
 def process_file(
@@ -211,21 +216,35 @@ def process_file(
         print(f"  [{path.name}] 无需翻译（共 {len(entries)} 条）")
         return
 
-    print(f"  [{path.name}] 待翻译 {len(to_translate)} / {len(entries)} 条")
+    print(f"  [{path.name}] 待翻译 {len(to_translate)} / {len(entries)} 条（同一对话内连续翻译）")
     if dry_run:
         return
 
+    # 整份文件的术语一次性注入 system，后续批次在同一对话内沿用
+    all_texts = [e["original"] for e in to_translate]
+    memori_hits = memori.search_for_texts(all_texts).get("hits", [])
+    system = instruction
+    if memori_hits:
+        system += "\n\n当前术语库（Memori）中与本文件相关的条目，请严格采用其中译法，并在后续批次中保持一致：\n"
+        system += json.dumps(memori_hits, ensure_ascii=False, indent=2)
+    messages = [{"role": "system", "content": system}]
+
+    total_items = len(to_translate)
+    total_batches = (total_items + BATCH_SIZE - 1) // BATCH_SIZE
     offset_to_entry = {e["offset"]: e for e in entries}
     for i in range(0, len(to_translate), BATCH_SIZE):
         batch = to_translate[i : i + BATCH_SIZE]
+        batch_no = i // BATCH_SIZE + 1
         try:
-            results = translate_batch(client, model, instruction, memori, batch)
+            results, messages = translate_batch_in_conversation(client, model, messages, batch)
             for r in results:
                 ent = offset_to_entry.get(r["offset"])
                 if ent is not None:
                     ent["translation"] = r["text"]
+            done = min(i + len(batch), total_items)
+            print(f"    批次 {batch_no}/{total_batches} 完成，已翻译 {done}/{total_items} 条")
         except Exception as exc:
-            print(f"    批次 {i//BATCH_SIZE + 1} 失败: {exc}", file=sys.stderr)
+            print(f"    批次 {batch_no} 失败: {exc}", file=sys.stderr)
             raise
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
