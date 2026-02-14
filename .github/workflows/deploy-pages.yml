@@ -36,13 +36,10 @@ jobs:
           pnpm install --frozen-lockfile
           pnpm run build
 
-      - name: Commit and push pages
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add pages
-          git diff --staged --quiet || git commit -m "chore: update pages [skip ci]"
-          git push
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: pages
 
       - name: Push next version tag
         run: |
@@ -63,3 +60,15 @@ jobs:
           fi
           git tag "$next"
           git push origin "$next"
+
+  deploy:
+    needs: build-and-tag
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment: github.pages
+
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
