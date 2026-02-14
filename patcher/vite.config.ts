@@ -10,7 +10,7 @@ export default defineConfig({
   plugins: [vue(), UnoCSS()],
   base: '/gba-narutorpg-chs/',
   build: {
-    outDir: resolve(__dirname, '../workspace/pages'),
+    outDir: resolve(__dirname, '../pages'),
     emptyOutDir: true,
   },
 })

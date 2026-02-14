@@ -1,0 +1,42 @@
+name: Build and deploy pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "pnpm"
+          cache-dependency-path: patcher/pnpm-lock.yaml
+
+      - name: Install and build
+        run: |
+          cd patcher
+          pnpm install --frozen-lockfile
+          pnpm run build
+
+      - name: Commit and push pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pages
+          git diff --staged --quiet || git commit -m "chore: update pages [skip ci]"
+          git push
