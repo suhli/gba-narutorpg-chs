@@ -7,7 +7,8 @@
 ```
 python/
 ├── readme.md
-├── requirements.txt    # 依赖：freetype-py, pillow
+├── requirements.txt    # 依赖：freetype-py, pillow, click
+├── differ.py           # 二进制 diff：比较两个 ROM，输出 JSON 供 patcher 使用
 └── debug/              # 调试/实验用脚本
     ├── 8x8_font.py     # TTF → 8×8 字模，输出 GBA 4bpp .bin + 预览图
     ├── 8x16_font.py    # TTF → 8×16 字模（16×16 压成 8×16），输出 .bin + 预览图
@@ -33,13 +34,14 @@ python/
 
 - **字模**：封装为统一 CLI（指定 TTF、字符集、8×8/8×16），与 [hexproj](../hexproj/) 标注配合写回 ROM。
 - **文本**：在现有导出基础上，支持汉化文本写回 ROM。
-- **Binary diff**：生成「原版 ROM → 汉化 ROM」的 binary diff，供 [patcher](../patcher/) 使用；可选校验、合并等。
+- **Binary diff**：已实现。使用本目录的 `differ.py` 生成「原版 ROM → 汉化 ROM」的 binary diff，输出为 JSON（`pos` + `bytes` 数组），可直接作为 [patcher](../patcher/) 的 `diff.json` 使用。可选扩展：校验、合并等。
 
 ## 依赖与运行
 
 - **Python** 3.14+。
-- **依赖**：`pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple && pip config set global.trusted-host pypi.tuna.tsinghua.edu.cn` 并 `pip install -r requirements.txt`（当前为 `freetype-py`、`pillow`）。
+- **依赖**：`pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple && pip config set global.trusted-host pypi.tuna.tsinghua.edu.cn` 并 `pip install -r requirements.txt`（当前为 `freetype-py`、`pillow`、`click`；`differ.py` 仅需 `click`）。
 - **运行示例**（在仓库根目录或 `python` 目录下）：
+  - **Binary diff**：`python python/differ.py 原版.gba 汉化.gba -o patcher/diff.json`，将差异写入 [patcher](../patcher/) 的 `diff.json`。
   - 8×8：`python python/debug/8x8_font.py`（需在脚本中配置 `font_path`、`chars` 等）。
   - 8×16：`python python/debug/8x16_font.py`（同上，需自备如 FashionBitmap16 等 TTF）。
   - 文本导出：`python python/debug/text_dumper.py`（需在脚本中配置 `ROM_PATH` 为原版 ROM 路径，如 `hexproj/original.gba`；输出到 `OUTPUT_DIR`，默认 `python/debug/text_dump`）。
