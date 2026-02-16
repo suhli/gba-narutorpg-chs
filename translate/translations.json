@@ -30924,136 +30924,136 @@
     "hex": "817582F1815B815B814082C582E0814082C682C182C482E0814082DF82F182C782AD82B382A282F182BE82C88176",
     "length": 46,
     "original": "「んーー　でも　とっても　めんどくさいんだな」",
-    "translation": "「んーー　でも　とっても　めんどくさいんだな」",
-    "skiped": true
+    "translation": "「嗯ーー　不过　真的很　麻烦啊」       ",
+    "skiped": false
   },
   {
     "offset": "0x89EBA",
     "hex": "817582C882F182C58145814581458140",
     "length": 16,
     "original": "「なんで・・・　",
-    "translation": "「なんで・・・　",
-    "skiped": true
+    "translation": "「为什么・・・　",
+    "skiped": false
   },
   {
     "offset": "0x89ECC",
     "hex": "82C882F182C58145814581458176",
     "length": 14,
     "original": "なんで・・・」",
-    "translation": "なんで・・・」",
-    "skiped": true
+    "translation": "为什么・・・」",
+    "skiped": false
   },
   {
     "offset": "0x89EDF",
     "hex": "817582BF82C182AD82B582E582A882A882A882A882A8814981498176",
     "length": 28,
     "original": "「ちっくしょおおおおお！！」",
-    "translation": "「ちっくしょおおおおお！！」",
-    "skiped": true
+    "translation": "「可恶啊啊啊啊！！」    ",
+    "skiped": false
   },
   {
     "offset": "0x89F04",
     "hex": "817582A082A08145814581458140",
     "length": 14,
     "original": "「ああ・・・　",
-    "translation": "「ああ・・・　",
-    "skiped": true
+    "translation": "「啊・・・　　",
+    "skiped": false
   },
   {
     "offset": "0x89F14",
     "hex": "82C882AD82C882E782EA82BD82E68176",
     "length": 16,
     "original": "なくなられたよ」",
-    "translation": "なくなられたよ」",
-    "skiped": true
+    "translation": "他去世了」   ",
+    "skiped": false
   },
   {
     "offset": "0x89F2C",
     "hex": "81758E8082F182BE82CC82A981488176",
     "length": 16,
     "original": "「死んだのか？」",
-    "translation": "「死んだのか？」",
-    "skiped": true
+    "translation": "「死了吗？」  ",
+    "skiped": false
   },
   {
     "offset": "0x89F42",
     "hex": "817582A282CC82BF82AA82AF814581458145",
     "length": 18,
     "original": "「いのちがけ・・・",
-    "translation": "「いのちがけ・・・",
-    "skiped": true
+    "translation": "「拼上性命... ",
+    "skiped": false
   },
   {
     "offset": "0x89F56",
     "hex": "814082C182C4814082DC82B382A9814981488176",
     "length": 20,
     "original": "　って　まさか！？」",
-    "translation": "　って　まさか！？」",
-    "skiped": true
+    "translation": "难道　！？」　　　　",
+    "skiped": false
   },
   {
     "offset": "0x89F72",
     "hex": "817581458145814582B682C182BF82E182F18140",
     "length": 20,
     "original": "「・・・じっちゃん　",
-    "translation": "「・・・じっちゃん　",
-    "skiped": true
+    "translation": "「・・・爷爷　　　　",
+    "skiped": false
   },
   {
     "offset": "0x89F9B",
     "hex": "817581458145814582A282CC82BF82AA82AF82C582BD82BD82A982A2814091E58ED68ADB82A982E7",
     "length": 40,
     "original": "「・・・いのちがけでたたかい　大蛇丸から",
-    "translation": "「・・・いのちがけでたたかい　大蛇丸から",
-    "skiped": true
+    "translation": "「・・・拼上性命战斗　从大蛇丸手中　　　",
+    "skiped": false
   },
   {
     "offset": "0x89FC4",
     "hex": "82B182CC97A282F0814082DC82E082E782EA82BD82F182BE82E68145814581458176",
     "length": 34,
     "original": "この里を　まもられたんだよ・・・」",
-    "translation": "この里を　まもられたんだよ・・・」",
-    "skiped": true
+    "translation": "守护了　这个村子・・・」     ",
+    "skiped": false
   },
   {
     "offset": "0x89FEE",
     "hex": "817582F182C58149814097A282CD82C782A482C882C182BD82CC81488176",
     "length": 30,
     "original": "「んで！　里はどうなったの？」",
-    "translation": "「んで！　里はどうなったの？」",
-    "skiped": true
+    "translation": "「然后！村子怎么样了？」   ",
+    "skiped": false
   },
   {
     "offset": "0x8A013",
     "hex": "817582BB82EA82CD8140825291E396DA89CE896582B382DC82AA8145814581458176",
     "length": 34,
     "original": "「それは　３代目火影さまが・・・」",
-    "translation": "「それは　３代目火影さまが・・・」",
-    "skiped": true
+    "translation": "「那是　三代火影大人他・・・」  ",
+    "skiped": false
   },
   {
     "offset": "0x8A049",
     "hex": "816991E58ED68ADB82CC82A282C182C482BD814082BE82A282B682C882E682A482C682CD",
     "length": 36,
     "original": "（大蛇丸のいってた　だいじなようとは",
-    "translation": "（大蛇丸のいってた　だいじなようとは",
-    "skiped": true
+    "translation": "（大蛇丸说的　重要的东西　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8A06E",
     "hex": "82B182CC82B182C682BE82C182BD82CC82A9814581458145816A",
     "length": 26,
     "original": "このことだったのか・・・）",
-    "translation": "このことだったのか・・・）",
-    "skiped": true
+    "translation": "原来就是　这个啊・・・） ",
+    "skiped": false
   },
   {
     "offset": "0x8A08F",
     "hex": "816982B582E1815B82F182C882EB815B814981498140",
     "length": 22,
     "original": "（しゃーんなろー！！　",
-    "translation": "（しゃーんなろー！！　",
-    "skiped": true
+    "translation": "（可恶啊！！　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8A0A7",
@@ -33725,7 +33725,7 @@
     "length": 8,
     "original": "忍者学校",
     "translation": "忍者学校",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0x8CC22",
@@ -34260,656 +34260,656 @@
     "hex": "817582E082C182C682E082C182C6814082AA82F182CE82EA82CE814082A882DC82A682E782CD",
     "length": 38,
     "original": "「もっともっと　がんばれば　おまえらは",
-    "translation": "「もっともっと　がんばれば　おまえらは",
-    "skiped": true
+    "translation": "「更加更加　努力的话　你们　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D4DC",
     "hex": "8358835382A28140944582C9814082C882EA82E982BC814981498176",
     "length": 28,
     "original": "スゴい　忍に　なれるぞ！！」",
-    "translation": "スゴい　忍に　なれるぞ！！」",
-    "skiped": true
+    "translation": "能成为　厉害的　忍者！！」　",
+    "skiped": false
   },
   {
     "offset": "0x8D4FD",
     "hex": "8175834B834390E690B6815B815B815B815B814981498176",
     "length": 24,
     "original": "「ガイ先生ーーーー！！」",
-    "translation": "「ガイ先生ーーーー！！」",
-    "skiped": true
+    "translation": "「凯老师————！！」 ",
+    "skiped": false
   },
   {
     "offset": "0x8D51A",
     "hex": "817582C882F182C782C582E0814082BD82BF82A082AA82E98360834A8389",
     "length": 30,
     "original": "「なんどでも　たちあがるチカラ",
-    "translation": "「なんどでも　たちあがるチカラ",
-    "skiped": true
+    "translation": "「无论多少次　都能站起来的力量",
+    "skiped": false
   },
   {
     "offset": "0x8D54A",
     "hex": "817582E082C182C681408F438BC682B582C882AB82E182CB81498176",
     "length": 28,
     "original": "「もっと　修業しなきゃね！」",
-    "translation": "「もっと　修業しなきゃね！」",
-    "skiped": true
+    "translation": "「还得　更多修行才行呢！」　",
+    "skiped": false
   },
   {
     "offset": "0x8D56E",
     "hex": "817582A282C182BD82BE82EB8148",
     "length": 14,
     "original": "「いっただろ？",
-    "translation": "「いっただろ？",
-    "skiped": true
+    "translation": "「说过了吧？ ",
+    "skiped": false
   },
   {
     "offset": "0x8D57D",
     "hex": "82C882C982AA82A082C182C482E0814082AB82DD82F0814082DC82E082C182C482DD82B982E982C182C48176",
     "length": 44,
     "original": "なにがあっても　きみを　まもってみせるって」",
-    "translation": "なにがあっても　きみを　まもってみせるって」",
-    "skiped": true
+    "translation": "无论发生什么　都要保护你」         ",
+    "skiped": false
   },
   {
     "offset": "0x8D5AC",
     "hex": "817582DC82E082C182C482AD82EA82BD82CC82CD814094458ED282BE82AF82C782CB8176",
     "length": 36,
     "original": "「まもってくれたのは　忍者だけどね」",
-    "translation": "「まもってくれたのは　忍者だけどね」",
-    "skiped": true
+    "translation": "「保护我的　虽然是忍者呢」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D5D6",
     "hex": "817582B182CC835282E0814090ED82C182BD82CC82E68149814082A282CA82C9814082BE82C182C4",
     "length": 40,
     "original": "「このコも　戦ったのよ！　いぬに　だって",
-    "translation": "「このコも　戦ったのよ！　いぬに　だって",
-    "skiped": true
+    "translation": "「这孩子也　战斗了哦！　连狗都　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D5FF",
     "hex": "97A282F082A882E082A4814082AB82E082BF82AA814082A082E982CC82E682CB81498176",
     "length": 36,
     "original": "里をおもう　きもちが　あるのよね！」",
-    "translation": "里をおもう　きもちが　あるのよね！」",
-    "skiped": true
+    "translation": "有着　思念村子　的心情呢！」　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D62A",
     "hex": "817582ED82A982A282E082F182AA814082A882BF82B182F182C582CD814082A282A982F182BC8149",
     "length": 40,
     "original": "「わかいもんが　おちこんでは　いかんぞ！",
-    "translation": "「わかいもんが　おちこんでは　いかんぞ！",
-    "skiped": true
+    "translation": "「年轻人　消沉可　不行啊！　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D653",
     "hex": "82DE82A982B582CD814082E082C182C6814082D082C782A282B182C682E0814082A082C182BD82CC82B682E181498176",
     "length": 48,
     "original": "むかしは　もっと　ひどいことも　あったのじゃ！」",
-    "translation": "むかしは　もっと　ひどいことも　あったのじゃ！」",
-    "skiped": true
+    "translation": "过去可是　还有更　糟糕的事呢！」　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D68A",
     "hex": "817589CE896582B382DC82AA814082A282C882AD82C882C182C4814082B382DD82B582A282AF82C7",
     "length": 40,
     "original": "「火影さまが　いなくなって　さみしいけど",
-    "translation": "「火影さまが　いなくなって　さみしいけど",
-    "skiped": true
+    "translation": "「虽然火影大人　不在了　很寂寞　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D6B3",
     "hex": "82A282DC82CD814082B182CC97A282C9814082A282E982B182C682AA814082B582A082ED82B982BE82E68176",
     "length": 44,
     "original": "いまは　この里に　いることが　しあわせだよ」",
-    "translation": "いまは　この里に　いることが　しあわせだよ」",
-    "skiped": true
+    "translation": "但现在　能在这个　村子就是幸福哦」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D6E6",
     "hex": "817582BD82A282D682F182BE82C182BD82AF82C7814082DC82BE82DD82C882B382F182AA",
     "length": 36,
     "original": "「たいへんだったけど　まだみなさんが",
-    "translation": "「たいへんだったけど　まだみなさんが",
-    "skiped": true
+    "translation": "「虽然很艰难　但只要大家　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D70B",
     "hex": "82A282E982A982AC82E8814082B182CC97A282CD814082A082F182B582F182C582B782CB8176",
     "length": 38,
     "original": "いるかぎり　この里は　あんしんですね」",
-    "translation": "いるかぎり　この里は　あんしんですね」",
-    "skiped": true
+    "translation": "还在　这个村子　就很安心呢」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D736",
     "hex": "817582C282AC82CC814089CE896582B382DC82CD814082C782F182C8906C82C882F182BE82EB82A48148",
     "length": 42,
     "original": "「つぎの　火影さまは　どんな人なんだろう？",
-    "translation": "「つぎの　火影さまは　どんな人なんだろう？",
-    "skiped": true
+    "translation": "「下任　火影大人　会是什么样的人呢？   ",
+    "skiped": false
   },
   {
     "offset": "0x8D761",
     "hex": "82AB82C182C6814082E882C182CF82C88140906C82AA82C282C682DF82E982F182BE82EB82A482C88176",
     "length": 42,
     "original": "きっと　りっぱな　人がつとめるんだろうな」",
-    "translation": "きっと　りっぱな　人がつとめるんだろうな」",
-    "skiped": true
+    "translation": "一定　是个出色　的人来担任吧」      ",
+    "skiped": false
   },
   {
     "offset": "0x8D792",
     "hex": "81758343836083838370838982CC814082BC82AD82D682F1814581458145",
     "length": 30,
     "original": "「イチャパラの　ぞくへん・・・",
-    "translation": "「イチャパラの　ぞくへん・・・",
-    "skiped": true
+    "translation": "「亲热天堂的　续篇・・・　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D7B1",
     "hex": "82CD82E282AD82C582C882A282A982C883408145814581458176",
     "length": 26,
     "original": "はやくでないかなァ・・・」",
-    "translation": "はやくでないかなァ・・・」",
-    "skiped": true
+    "translation": "还没出吗・・・」     ",
+    "skiped": false
   },
   {
     "offset": "0x8D7D4",
     "hex": "817582DA82AD82E08140834B834390E690B682F0814082DD82C882E782C182C4",
     "length": 32,
     "original": "「ぼくも　ガイ先生を　みならって",
-    "translation": "「ぼくも　ガイ先生を　みならって",
-    "skiped": true
+    "translation": "「我也要　向凯老师学习　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D7F5",
     "hex": "8F438BC682B582DC82B781498176",
     "length": 14,
     "original": "修業します！」",
-    "translation": "修業します！」",
-    "skiped": true
+    "translation": "进行修行！」 ",
+    "skiped": false
   },
   {
     "offset": "0x8D80C",
     "hex": "817582AD82BB83488140834A834A835682CD814082C782B182BE815B815B814981488176",
     "length": 36,
     "original": "「くそォ　カカシは　どこだーー！？」",
-    "translation": "「くそォ　カカシは　どこだーー！？」",
-    "skiped": true
+    "translation": "「可恶　卡卡西　在哪里——！？」　　",
+    "skiped": false
   },
   {
     "offset": "0x8D838",
     "hex": "817582A083408140896689E682CE82F1814083438360838383438360838383708389835F83438358",
     "length": 40,
     "original": "「あァ　映画ばん　イチャイチャパラダイス",
-    "translation": "「あァ　映画ばん　イチャイチャパラダイス",
-    "skiped": true
+    "translation": "「啊　电影版　亲热天堂         ",
+    "skiped": false
   },
   {
     "offset": "0x8D861",
     "hex": "8145814581458CA982BD82A28140",
     "length": 14,
     "original": "・・・見たい　",
-    "translation": "・・・見たい　",
-    "skiped": true
+    "translation": "・・・想看　　",
+    "skiped": false
   },
   {
     "offset": "0x8D871",
     "hex": "81458145814582B582A982B58176",
     "length": 14,
     "original": "・・・しかし」",
-    "translation": "・・・しかし」",
-    "skiped": true
+    "translation": "・・・但是」 ",
+    "skiped": false
   },
   {
     "offset": "0x8D882",
     "hex": "817582ED82BD82B582CC82E682A482C881408347838A815B836782AB82E582A482B582AA",
     "length": 36,
     "original": "「わたしのような　エリートきょうしが",
-    "translation": "「わたしのような　エリートきょうしが",
-    "skiped": true
+    "translation": "「像我这样的　精英教师　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D8A7",
     "hex": "82B182CC82E682A482C8814083658343835D834E82C88140896689E682C882C78145814581458176",
     "length": 40,
     "original": "このような　テイゾクな　映画など・・・」",
-    "translation": "このような　テイゾクな　映画など・・・」",
-    "skiped": true
+    "translation": "看这种　低俗的电影等・・・」　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D8D2",
     "hex": "817582A08340814581458145814082C582E08145814581458176",
     "length": 26,
     "original": "「あァ・・・　でも・・・」",
-    "translation": "「あァ・・・　でも・・・」",
-    "skiped": true
+    "translation": "「啊・・・　不过・・・」　",
+    "skiped": false
   },
   {
     "offset": "0x8D8F2",
     "hex": "817582B182CC82B382AD82D082F182C982CD814082ED82B782EA82A982AF82C482A282BD",
     "length": 36,
     "original": "「このさくひんには　わすれかけていた",
-    "translation": "「このさくひんには　わすれかけていた",
-    "skiped": true
+    "translation": "「这部作品里　有着我遗忘的　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D917",
     "hex": "88A4816982A082A2816A82AA82A082E98145814581458176",
     "length": 24,
     "original": "愛（あい）がある・・・」",
-    "translation": "愛（あい）がある・・・」",
-    "skiped": true
+    "translation": "爱（あい）・・・」   ",
+    "skiped": false
   },
   {
     "offset": "0x8D932",
     "hex": "817582DC8149814082A882DC82A682E782C982E1814082DC82BE814082CD82E282A282C881498176",
     "length": 40,
     "original": "「ま！　おまえらにゃ　まだ　はやいな！」",
-    "translation": "「ま！　おまえらにゃ　まだ　はやいな！」",
-    "skiped": true
+    "translation": "「嘛！　对你们来说　还太早了！」　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8D962",
     "hex": "817582DC82BE82DC82BE814082ED82A982A282E082F182C982CD814082DC82AF82CD82B982F182BC815B815B81498176",
     "length": 48,
     "original": "「まだまだ　わかいもんには　まけはせんぞーー！」",
-    "translation": "「まだまだ　わかいもんには　まけはせんぞーー！」",
-    "skiped": true
+    "translation": "「我还不会输给　年轻人呢——！」        ",
+    "skiped": false
   },
   {
     "offset": "0x8D99A",
     "hex": "817582D382D3814581458145814082A482C582AA82C882E982BA8176",
     "length": 28,
     "original": "「ふふ・・・　うでがなるぜ」",
-    "translation": "「ふふ・・・　うでがなるぜ」",
-    "skiped": true
+    "translation": "「呵呵・・・　热血沸腾啊」　",
+    "skiped": false
   },
   {
     "offset": "0x8D9BE",
     "hex": "817582A982BC82AD82F0814581458145814082BB82B582C4814097A282F082DC82E082E782C882AF82EA82CE81498176",
     "length": 48,
     "original": "「かぞくを・・・　そして　里をまもらなければ！」",
-    "translation": "「かぞくを・・・　そして　里をまもらなければ！」",
-    "skiped": true
+    "translation": "「必须守护　家人　还有村子！」         ",
+    "skiped": false
   },
   {
     "offset": "0x8D9F6",
     "hex": "817582AD82E782C982CD814082A282EB82F182C882E082CC82AA814093FC82C182C482E982A982E782C8",
     "length": 42,
     "original": "「くらには　いろんなものが　入ってるからな",
-    "translation": "「くらには　いろんなものが　入ってるからな",
-    "skiped": true
+    "translation": "「身体里　装着各种东西啊　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DA21",
     "hex": "82CB82E782ED82EA82BD82E7814091E595CF816982BD82A282D682F1816A82BE82E68176",
     "length": 36,
     "original": "ねらわれたら　大変（たいへん）だよ」",
-    "translation": "ねらわれたら　大変（たいへん）だよ」",
-    "skiped": true
+    "translation": "被盯上的话　很麻烦（たいへん）的」 ",
+    "skiped": false
   },
   {
     "offset": "0x8DA4A",
     "hex": "817582C782B182A982E7814082C482AB82AA82AD82E982A9814082ED82A982E782C882A282A982E782C8",
     "length": 42,
     "original": "「どこから　てきがくるか　わからないからな",
-    "translation": "「どこから　てきがくるか　わからないからな",
-    "skiped": true
+    "translation": "「不知道　敌人会从哪里来啊　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DA75",
     "hex": "82AB82F082C282AF82EB8176",
     "length": 12,
     "original": "きをつけろ」",
-    "translation": "きをつけろ」",
-    "skiped": true
+    "translation": "小心点」  ",
+    "skiped": false
   },
   {
     "offset": "0x8DA86",
     "hex": "817582DD82C282AF82BD82BC814981408380835683808356837D839381498176",
     "length": 32,
     "original": "「みつけたぞ！　ムシムシマン！」",
-    "translation": "「みつけたぞ！　ムシムシマン！」",
-    "skiped": true
+    "translation": "「找到了！　虫虫男！」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DAC2",
     "hex": "817582B182CC8140825291E396DA89CE896582C68140825391E396DA89CE896582AA",
     "length": 34,
     "original": "「この　３代目火影と　４代目火影が",
-    "translation": "「この　３代目火影と　４代目火影が",
-    "skiped": true
+    "translation": "「这　三代火影和　四代火影　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DAE5",
     "hex": "82BD82A282B6814082B582C482E282E9814981498176",
     "length": 22,
     "original": "たいじ　してやる！！」",
-    "translation": "たいじ　してやる！！」",
-    "skiped": true
+    "translation": "打倒　你们！！」　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DB1C",
     "hex": "817582BB82CC814082BF82E582A482B582C5814082B282B482A282DC82B7",
     "length": 30,
     "original": "「その　ちょうしで　ございます",
-    "translation": "「その　ちょうしで　ございます",
-    "skiped": true
+    "translation": "「这　气势　真是　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DB3B",
     "hex": "82A882DC82B282B382DC81498176",
     "length": 14,
     "original": "おまごさま！」",
-    "translation": "おまごさま！」",
-    "skiped": true
+    "translation": "乖孙子！」  ",
+    "skiped": false
   },
   {
     "offset": "0x8DB50",
     "hex": "81758F438BC682B782E982F182BE82C8814981408352838C814981498176",
     "length": 30,
     "original": "「修業するんだな！　コレ！！」",
-    "translation": "「修業するんだな！　コレ！！」",
-    "skiped": true
+    "translation": "「要修行啊！　这个！！」　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DB78",
     "hex": "81758349838C82CC814083698343835882C8814083418368836F83438358",
     "length": 30,
     "original": "「オレの　ナイスな　アドバイス",
-    "translation": "「オレの　ナイスな　アドバイス",
-    "skiped": true
+    "translation": "「我的　绝佳的　建议　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DB97",
     "hex": "82ED82B782EA82E982F182B682E1814082C882A282BC81498176",
     "length": 26,
     "original": "わすれるんじゃ　ないぞ！」",
-    "translation": "わすれるんじゃ　ないぞ！」",
-    "skiped": true
+    "translation": "可别　忘了哦！」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DBB8",
     "hex": "817582CD8340814581458145814082AB82BD82A282B582C4814082BB82F182B582BD82ED8176",
     "length": 38,
     "original": "「はァ・・・　きたいして　そんしたわ」",
-    "translation": "「はァ・・・　きたいして　そんしたわ」",
-    "skiped": true
+    "translation": "「哈啊・・・　期待着　那样做了」　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DBE6",
     "hex": "817582B382B782AA82C582B7814981498140",
     "length": 18,
     "original": "「さすがです！！　",
-    "translation": "「さすがです！！　",
-    "skiped": true
+    "translation": "「不愧是！！　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DBFA",
     "hex": "834B834390E690B6814981498176",
     "length": 14,
     "original": "ガイ先生！！」",
-    "translation": "ガイ先生！！」",
-    "skiped": true
+    "translation": "凯老师！！」 ",
+    "skiped": false
   },
   {
     "offset": "0x8DC0E",
     "hex": "817581458145814582AD82BE82E782F18176",
     "length": 18,
     "original": "「・・・くだらん」",
-    "translation": "「・・・くだらん」",
-    "skiped": true
+    "translation": "「・・・无聊」  ",
+    "skiped": false
   },
   {
     "offset": "0x8DC28",
     "hex": "817582A882DC82A682BD82BF82C981408349838C82AA814082E282AA82A282B982A282A982C282CC",
     "length": 40,
     "original": "「おまえたちに　オレが　やがいせいかつの",
-    "translation": "「おまえたちに　オレが　やがいせいかつの",
-    "skiped": true
+    "translation": "「我要把我在严酷生活中　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DC51",
     "hex": "8F438BC682C5814082A682BD814082BE82EA82E082AA81408CA982CC82AA82B582BB82A482C88176",
     "length": 40,
     "original": "修業で　えた　だれもが　見のがしそうな」",
-    "translation": "修業で　えた　だれもが　見のがしそうな」",
-    "skiped": true
+    "translation": "修行得来的　谁都容易忽略的」　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DC7C",
     "hex": "817582B682E382A482E682A4814082A982C2814083698343835882C8814083418368836F83438358",
     "length": 40,
     "original": "「じゅうよう　かつ　ナイスな　アドバイス",
-    "translation": "「じゅうよう　かつ　ナイスな　アドバイス",
-    "skiped": true
+    "translation": "「重要且　Nice的　建议　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DCA5",
     "hex": "82F082B582C482E282E981498176",
     "length": 14,
     "original": "をしてやる！」",
-    "translation": "をしてやる！」",
-    "skiped": true
+    "translation": "传授给你们！」",
+    "skiped": false
   },
   {
     "offset": "0x8DCBA",
     "hex": "817583418368836F8343835881488176",
     "length": 16,
     "original": "「アドバイス？」",
-    "translation": "「アドバイス？」",
-    "skiped": true
+    "translation": "「建议？」   ",
+    "skiped": false
   },
   {
     "offset": "0x8DCCF",
     "hex": "817582A882CB82AA82A282B582DC82B781498140834B834390E690B6814981498176",
     "length": 34,
     "original": "「おねがいします！　ガイ先生！！」",
-    "translation": "「おねがいします！　ガイ先生！！」",
-    "skiped": true
+    "translation": "「拜托了！　凯老师！！」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DCF8",
     "hex": "817582A282A282A981498148814082DC82B8814082CB82E982C682AB82CD8145814581458176",
     "length": 38,
     "original": "「いいか！？　まず　ねるときは・・・」",
-    "translation": "「いいか！？　まず　ねるときは・・・」",
-    "skiped": true
+    "translation": "「听好了！？　首先睡觉时・・・」　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DD21",
     "hex": "8175928E816982DE82B5816A82B382B382EA82C9814082AB82F082C282AF82EB814981498176",
     "length": 38,
     "original": "「虫（むし）さされに　きをつけろ！！」",
-    "translation": "「虫（むし）さされに　きをつけろ！！」",
-    "skiped": true
+    "translation": "「小心虫子叮咬！！」　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DD63",
     "hex": "817582BB82EA82A982E78145814581458176",
     "length": 18,
     "original": "「それから・・・」",
-    "translation": "「それから・・・」",
-    "skiped": true
+    "translation": "「然后・・・」  ",
+    "skiped": false
   },
   {
     "offset": "0x8DD78",
     "hex": "817582B582E582AD82B682CC82A082C682CD814082CD82F082DD82AA82AF815B815B814981498176",
     "length": 40,
     "original": "「しょくじのあとは　はをみがけーー！！」",
-    "translation": "「しょくじのあとは　はをみがけーー！！」",
-    "skiped": true
+    "translation": "「饭后要刷牙——！！」         ",
+    "skiped": false
   },
   {
     "offset": "0x8DDBE",
     "hex": "817582B382A282B282C98145814581458176",
     "length": 18,
     "original": "「さいごに・・・」",
-    "translation": "「さいごに・・・」",
-    "skiped": true
+    "translation": "「最后・・・」  ",
+    "skiped": false
   },
   {
     "offset": "0x8DDD3",
     "hex": "817583678343838C82CD814082B582B082DD82C5814082A882B182C882A482CC82AA",
     "length": 34,
     "original": "「トイレは　しげみで　おこなうのが",
-    "translation": "「トイレは　しげみで　おこなうのが",
-    "skiped": true
+    "translation": "「在树丛里上厕所才是　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DDF6",
     "hex": "8347836083508362836782BE815B815B815B815B814981498176",
     "length": 26,
     "original": "エチケットだーーーー！！」",
-    "translation": "エチケットだーーーー！！」",
-    "skiped": true
+    "translation": "礼仪————！！」    ",
+    "skiped": false
   },
   {
     "offset": "0x8DE16",
     "hex": "817582BD82C682A6814082C882C982AA814082A882B182C182C482E0",
     "length": 28,
     "original": "「たとえ　なにが　おこっても",
-    "translation": "「たとえ　なにが　おこっても",
-    "skiped": true
+    "translation": "「无论发生什么　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DE33",
     "hex": "82AB82DD82F0814082DC82E082C182C482DD82B982E982E68176",
     "length": 26,
     "original": "きみを　まもってみせるよ」",
-    "translation": "きみを　まもってみせるよ」",
-    "skiped": true
+    "translation": "我都会保护你的」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DE50",
     "hex": "817582BB82EA814082B382C182AB8CA982BD8140896689E682CC835A838A837482CB8176",
     "length": 36,
     "original": "「それ　さっき見た　映画のセリフね」",
-    "translation": "「それ　さっき見た　映画のセリフね」",
-    "skiped": true
+    "translation": "「那　是刚才看的电影台词呢」　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DE7A",
     "hex": "817582A882DC82A6814083608383815B837E8393834F82C8814082D982C182D882B582C482E982C8",
     "length": 40,
     "original": "「おまえ　チャーミングな　ほっぺしてるな",
-    "translation": "「おまえ　チャーミングな　ほっぺしてるな",
-    "skiped": true
+    "translation": "「你　脸颊很迷人　　　　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DEA3",
     "hex": "82A882E082ED82B88140834C835882B582BD82AD82C882E982BA8176",
     "length": 28,
     "original": "おもわず　キスしたくなるぜ」",
-    "translation": "おもわず　キスしたくなるぜ」",
-    "skiped": true
+    "translation": "让人忍不住想亲吻」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DEC2",
     "hex": "817581458145814582A082F182BD814082A482B482A28176",
     "length": 24,
     "original": "「・・・あんた　うざい」",
-    "translation": "「・・・あんた　うざい」",
-    "skiped": true
+    "translation": "「・・・你　真烦人」　　",
+    "skiped": false
   },
   {
     "offset": "0x8DEE2",
     "hex": "817582A282DC82B182BB8140944582AF82F182CC",
     "length": 20,
     "original": "「いまこそ　忍けんの",
-    "translation": "「いまこそ　忍けんの",
-    "skiped": true
+    "translation": "「正是现在　展现　　",
+    "skiped": false
   },
   {
     "offset": "0x8DEF7",
     "hex": "8360834A838982F081408CA982B982E982C682AB82BE82ED81498176",
     "length": 28,
     "original": "チカラを　見せるときだわ！」",
-    "translation": "チカラを　見せるときだわ！」",
-    "skiped": true
+    "translation": "忍者力量的时候！」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DF1A",
     "hex": "817582B182CC835282F0814082E882C182CF82C8",
     "length": 20,
     "original": "「このコを　りっぱな",
-    "translation": "「このコを　りっぱな",
-    "skiped": true
+    "translation": "「我一定要把这孩子　",
+    "skiped": false
   },
   {
     "offset": "0x8DF2F",
     "hex": "944582AF82F182C9814082BB82BE82C482C482DD82B982E982ED81498176",
     "length": 30,
     "original": "忍けんに　そだててみせるわ！」",
-    "translation": "忍けんに　そだててみせるわ！」",
-    "skiped": true
+    "translation": "培养成优秀的忍者！」     ",
+    "skiped": false
   },
   {
     "offset": "0x8DF52",
     "hex": "8175944396B182C5814082B982ED82F0814082B582C482A282E982A482BF82C9",
     "length": 32,
     "original": "「任務で　せわを　しているうちに",
-    "translation": "「任務で　せわを　しているうちに",
-    "skiped": true
+    "translation": "「在任务中照顾它的期间　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DF73",
     "hex": "82A982ED82A282AD82C882C182BF82E182C182C48145814581458176",
     "length": 28,
     "original": "かわいくなっちゃって・・・」",
-    "translation": "かわいくなっちゃって・・・」",
-    "skiped": true
+    "translation": "变得可爱起来了・・・」   ",
+    "skiped": false
   },
   {
     "offset": "0x8DF92",
     "hex": "817582BB82EA82C5814088CB978A906C82C6814082CD82C882B582F082B582C4",
     "length": 32,
     "original": "「それで　依頼人と　はなしをして",
-    "translation": "「それで　依頼人と　はなしをして",
-    "skiped": true
+    "translation": "「于是和委托人谈了之后　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DFB3",
     "hex": "82B182CC835282F0814082B882C182C6814082BB82BE82C482E982B182C682C9814082C882C182BD82CC8176",
     "length": 44,
     "original": "このコを　ずっと　そだてることに　なったの」",
-    "translation": "このコを　ずっと　そだてることに　なったの」",
-    "skiped": true
+    "translation": "决定一直抚养这孩子」　　　　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8DFE6",
     "hex": "8175944396B182C682CD82A282A6",
     "length": 14,
     "original": "「任務とはいえ",
-    "translation": "「任務とはいえ",
-    "skiped": true
+    "translation": "「虽说是任务 ",
+    "skiped": false
   },
   {
     "offset": "0x8DFF5",
     "hex": "82A282CA82CC82B982ED82CD814091E595CF816982BD82A282D682F1816A82E682CB8176",
     "length": 36,
     "original": "いぬのせわは　大変（たいへん）よね」",
-    "translation": "いぬのせわは　大変（たいへん）よね」",
-    "skiped": true
+    "translation": "照顾狗也很辛苦呢」         ",
+    "skiped": false
   },
   {
     "offset": "0x8E01E",
     "hex": "817582A083408145814581458140896689E682CE82F1814083438360838383438360838383708389835F83438358",
     "length": 46,
     "original": "「あァ・・・　映画ばん　イチャイチャパラダイス",
-    "translation": "「あァ・・・　映画ばん　イチャイチャパラダイス",
-    "skiped": true
+    "translation": "「啊・・・　看了电影版　亲热天堂       ",
+    "skiped": false
   },
   {
     "offset": "0x8E04D",
     "hex": "82F08CA982C4814090C28F74816982B982A282B582E382F1816A82F0814082A882E082A282BE82B582BD82ED82A28176",
     "length": 48,
     "original": "を見て　青春（せいしゅん）を　おもいだしたわい」",
-    "translation": "を見て　青春（せいしゅん）を　おもいだしたわい」",
-    "skiped": true
+    "translation": "想起了青春啊」　　　　　　　　　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0x8E082",
@@ -73116,344 +73116,344 @@
     "hex": "82A082C882BD82C882CC82A9814581458145814082BB82EA82C682E08176",
     "length": 30,
     "original": "あなたなのか・・・　それとも」",
-    "translation": "あなたなのか・・・　それとも」",
-    "skiped": true
+    "translation": "是你吗・・・　还是说」　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB4294",
     "hex": "817582ED82EA82ED82EA8140944582CC82A482BF82CC814082BE82EA82A982C882CC82A9",
     "length": 36,
     "original": "「われわれ　忍のうちの　だれかなのか",
-    "translation": "「われわれ　忍のうちの　だれかなのか",
-    "skiped": true
+    "translation": "「是我们忍者中的　　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB42B9",
     "hex": "81458145814582C682A282A482B182C682C582B78176",
     "length": 22,
     "original": "・・・ということです」",
-    "translation": "・・・ということです」",
-    "skiped": true
+    "translation": "哪一个人吗・・・」  ",
+    "skiped": false
   },
   {
     "offset": "0xB42D2",
     "hex": "817582B382AB82D982C782CC814082B182A282C282E782CC",
     "length": 24,
     "original": "「さきほどの　こいつらの",
-    "translation": "「さきほどの　こいつらの",
-    "skiped": true
+    "translation": "「从刚才这些家伙的　　　",
+    "skiped": false
   },
   {
     "offset": "0xB42EB",
     "hex": "82B182A482C782A482C5814082ED82A982E882DC82B582BD8176",
     "length": 26,
     "original": "こうどうで　わかりました」",
-    "translation": "こうどうで　わかりました」",
-    "skiped": true
+    "translation": "行动中　明白了」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB4308",
     "hex": "817582ED82EA82ED82EA82CD814082A082C882BD82AA8140944582C9",
     "length": 28,
     "original": "「われわれは　あなたが　忍に",
-    "translation": "「われわれは　あなたが　忍に",
-    "skiped": true
+    "translation": "「我们没听说你被忍者　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB4325",
     "hex": "82CB82E782ED82EA82C482E982C882F182C4814082AB82A282C482C882A28176",
     "length": 32,
     "original": "ねらわれてるなんて　きいてない」",
-    "translation": "ねらわれてるなんて　きいてない」",
-    "skiped": true
+    "translation": "盯上了」　　　　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB434C",
     "hex": "817582C782A482A282A482B182C682BE81488176",
     "length": 20,
     "original": "「どういうことだ？」",
-    "translation": "「どういうことだ？」",
-    "skiped": true
+    "translation": "「怎么回事？」   ",
+    "skiped": false
   },
   {
     "offset": "0xB4368",
     "hex": "817582A082F182BD814082BB82EA82B582C182C482C4814082C882F182C5",
     "length": 30,
     "original": "「あんた　それしってて　なんで",
-    "translation": "「あんた　それしってて　なんで",
-    "skiped": true
+    "translation": "「你　既然知道　为什么　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB4387",
     "hex": "834B834C82C982E282E782B982BD81488176",
     "length": 18,
     "original": "ガキにやらせた？」",
-    "translation": "ガキにやらせた？」",
-    "skiped": true
+    "translation": "让小鬼来做？」  ",
+    "skiped": false
   },
   {
     "offset": "0xB439E",
     "hex": "817582ED82BD82B582AA8140837A8393834C82C982C882EA82CE814082B182A282C282E7",
     "length": 36,
     "original": "「わたしが　ホンキになれば　こいつら",
-    "translation": "「わたしが　ホンキになれば　こいつら",
-    "skiped": true
+    "translation": "「我认真起来的话　这些家伙　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB43C3",
     "hex": "82AD82E782A2814082B782AE82C982BD82A882B982DC82B7814081458145814582AA8176",
     "length": 36,
     "original": "くらい　すぐにたおせます　・・・が」",
-    "translation": "くらい　すぐにたおせます　・・・が」",
-    "skiped": true
+    "translation": "马上就能打倒　・・・不过」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB43EA",
     "hex": "817582ED82BD82B582C982CD814082B582E982D082C282E682A482AA",
     "length": 28,
     "original": "「わたしには　しるひつようが",
-    "translation": "「わたしには　しるひつようが",
-    "skiped": true
+    "translation": "「我有确认的必要　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB4407",
     "hex": "82A082C182BD82CC82C582B782E68176",
     "length": 16,
     "original": "あったのですよ」",
-    "translation": "あったのですよ」",
-    "skiped": true
+    "translation": "」       ",
+    "skiped": false
   },
   {
     "offset": "0xB441A",
     "hex": "817582B182CC82C482AB82CC8140835E815B83518362836782AA",
     "length": 26,
     "original": "「このてきの　ターゲットが",
-    "translation": "「このてきの　ターゲットが",
-    "skiped": true
+    "translation": "「这个敌人的目标　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB4435",
     "hex": "82BE82EA82C582A082E982A982F08145814581458176",
     "length": 22,
     "original": "だれであるかを・・・」",
-    "translation": "だれであるかを・・・」",
-    "skiped": true
+    "translation": "是谁・・・」     ",
+    "skiped": false
   },
   {
     "offset": "0xB4452",
     "hex": "817582B182A282C282E78140",
     "length": 12,
     "original": "「こいつら　",
-    "translation": "「こいつら　",
-    "skiped": true
+    "translation": "「这些家伙　",
+    "skiped": false
   },
   {
     "offset": "0xB4460",
     "hex": "96B6894282EA816982AB82E882AA82AD82EA816A82CC97A2",
     "length": 24,
     "original": "霧隠れ（きりがくれ）の里",
-    "translation": "霧隠れ（きりがくれ）の里",
-    "skiped": true
+    "translation": "雾隐村         ",
+    "skiped": false
   },
   {
     "offset": "0xB447D",
     "hex": "9286944582C182C482C682B182A98145814581458176",
     "length": 22,
     "original": "中忍ってとこか・・・」",
-    "translation": "中忍ってとこか・・・」",
-    "skiped": true
+    "translation": "中忍那档事吗・・・」 ",
+    "skiped": false
   },
   {
     "offset": "0xB449A",
     "hex": "817582C882BA814082ED82EA82ED82EA82CC82A482B282AB82F0814082DD82AB82EA82BD8176",
     "length": 38,
     "original": "「なぜ　われわれのうごきを　みきれた」",
-    "translation": "「なぜ　われわれのうごきを　みきれた」",
-    "skiped": true
+    "translation": "「为何　能看穿我们的行动」　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB44C5",
     "hex": "817582B182CC91E591908CB4816982BE82A282BB82A482B082F1816A82CD814082B382A282AB82F1",
     "length": 40,
     "original": "「この大草原（だいそうげん）は　さいきん",
-    "translation": "「この大草原（だいそうげん）は　さいきん",
-    "skiped": true
+    "translation": "「这片大草原　最近　　　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB44EE",
     "hex": "8341838182AA814082D382C182C482C882A2814081458145814582C682A282A482B182C682CD8176",
     "length": 40,
     "original": "アメが　ふってない　・・・ということは」",
-    "translation": "アメが　ふってない　・・・ということは」",
-    "skiped": true
+    "translation": "根本没下雨　・・・也就是说」      ",
+    "skiped": false
   },
   {
     "offset": "0xB4519",
     "hex": "817582DD82B882BD82DC82E882C882F182C4814082A082E982ED82AF82C882A282C582B582E5",
     "length": 38,
     "original": "「みずたまりなんて　あるわけないでしょ",
-    "translation": "「みずたまりなんて　あるわけないでしょ",
-    "skiped": true
+    "translation": "「怎么可能会有水坑啊　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB4540",
     "hex": "82BE82A982E7814090ED93AC82C982C882E982AD82E782A282ED82A982E882DC82B582BD82E68176",
     "length": 40,
     "original": "だから　戦闘になるくらいわかりましたよ」",
-    "translation": "だから　戦闘になるくらいわかりましたよ」",
-    "skiped": true
+    "translation": "所以我早就知道会开战了」        ",
+    "skiped": false
   },
   {
     "offset": "0xB456F",
     "hex": "817582AD82C1814981498176",
     "length": 12,
     "original": "「くっ！！」",
-    "translation": "「くっ！！」",
-    "skiped": true
+    "translation": "「咕！！」 ",
+    "skiped": false
   },
   {
     "offset": "0xB4584",
     "hex": "817582C8814581458145814082C882F182B682E181498176",
     "length": 24,
     "original": "「な・・・　なんじゃ！」",
-    "translation": "「な・・・　なんじゃ！」",
-    "skiped": true
+    "translation": "「什・・・　什么！」　　",
+    "skiped": false
   },
   {
     "offset": "0xB45A1",
     "hex": "817582BF82E582C182C6814082A882CD82C882B582AA82A082E882DC82B78176",
     "length": 32,
     "original": "「ちょっと　おはなしがあります」",
-    "translation": "「ちょっと　おはなしがあります」",
-    "skiped": true
+    "translation": "「我有话　想跟你说」      ",
+    "skiped": false
   },
   {
     "offset": "0xB45C6",
     "hex": "817582A082DC82E882A482B282AD82C88149814082C782AD82AA82DC82ED82E982BC8149",
     "length": 36,
     "original": "「あまりうごくな！　どくがまわるぞ！",
-    "translation": "「あまりうごくな！　どくがまわるぞ！",
-    "skiped": true
+    "translation": "「别乱动！　有毒气扩散！　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB45EB",
     "hex": "82BB82EA82A982E78145814581458140835E8359836982B382F181498176",
     "length": 30,
     "original": "それから・・・　タズナさん！」",
-    "translation": "それから・・・　タズナさん！」",
-    "skiped": true
+    "translation": "还有・・・　达兹纳先生！」　　",
+    "skiped": false
   },
   {
     "offset": "0xB460E",
     "hex": "81758369838B83678149814083508393834A82CD82A082C682BE8149814082A882DC82A682CD",
     "length": 38,
     "original": "「ナルト！　ケンカはあとだ！　おまえは",
-    "translation": "「ナルト！　ケンカはあとだ！　おまえは",
-    "skiped": true
+    "translation": "「鸣人！　打架稍后！　你需要　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB4635",
     "hex": "82C782AD82CC82BF82E882E582A482F082B782E9814082D082C282E682A482AA82A082E98176",
     "length": 38,
     "original": "どくのちりょうをする　ひつようがある」",
-    "translation": "どくのちりょうをする　ひつようがある」",
-    "skiped": true
+    "translation": "去治疗　毒伤」　　　　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB4662",
     "hex": "817582E68348814581458145",
     "length": 12,
     "original": "「よォ・・・",
-    "translation": "「よォ・・・",
-    "skiped": true
+    "translation": "「哟・・・ ",
+    "skiped": false
   },
   {
     "offset": "0xB4671",
     "hex": "8350834B82CD82CB815B82A982E6814083728372838A82AD82F18176",
     "length": 28,
     "original": "ケガはねーかよ　ビビリくん」",
-    "translation": "ケガはねーかよ　ビビリくん」",
-    "skiped": true
+    "translation": "没受伤吗　胆小鬼」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB46A6",
     "hex": "81698349838C82C182C482CE814082C882C982E082C582AB82C882A982C182BD814581458145",
     "length": 38,
     "original": "（オレってば　なにもできなかった・・・",
-    "translation": "（オレってば　なにもできなかった・・・",
-    "skiped": true
+    "translation": "（我居然　什么都做不到・・・     ",
+    "skiped": false
   },
   {
     "offset": "0xB46CD",
     "hex": "82C882CC82C9814083528343836382CD814581458145816A",
     "length": 24,
     "original": "なのに　コイツは・・・）",
-    "translation": "なのに　コイツは・・・）",
-    "skiped": true
+    "translation": "但这家伙却・・・）　　　",
+    "skiped": false
   },
   {
     "offset": "0xB46EA",
     "hex": "817582C682E882A082A682B881408354835883508149814082E682AD82E282C182BD814981498176",
     "length": 40,
     "original": "「とりあえず　サスケ！　よくやった！！」",
-    "translation": "「とりあえず　サスケ！　よくやった！！」",
-    "skiped": true
+    "translation": "「总之　佐助！　干得漂亮！！」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB471A",
     "hex": "81758369838B8367814082B782AE82C9814082BD82B782AF82C482E282E782C882AD82C4",
     "length": 36,
     "original": "「ナルト　すぐに　たすけてやらなくて",
-    "translation": "「ナルト　すぐに　たすけてやらなくて",
-    "skiped": true
+    "translation": "「鸣人　没能立刻救你　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB473F",
     "hex": "82ED82E982A982C182BD82C881408350834B82B382B982BF82DC82C182BD8176",
     "length": 32,
     "original": "わるかったな　ケガさせちまった」",
-    "translation": "わるかったな　ケガさせちまった」",
-    "skiped": true
+    "translation": "真是抱歉　让你受伤了」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB4762",
     "hex": "817582DC8149814082BB82CC814082C882F182BE82C8814083548358835082C9",
     "length": 32,
     "original": "「ま！　その　なんだな　サスケに",
-    "translation": "「ま！　その　なんだな　サスケに",
-    "skiped": true
+    "translation": "「嘛！　那个　怎么说呢　跟佐助　",
+    "skiped": false
   },
   {
     "offset": "0xB4783",
     "hex": "82AD82E782D782C4814082A882DC82A682C682AB82BD82E78145814581458176",
     "length": 32,
     "original": "くらべて　おまえときたら・・・」",
-    "translation": "くらべて　おまえときたら・・・」",
-    "skiped": true
+    "translation": "比起来　你这家伙・・・」    ",
+    "skiped": false
   },
   {
     "offset": "0xB47AA",
     "hex": "817590E690B682AA82D482B682C5814082D982F182C682A482C982E682A982C182BD8149",
     "length": 36,
     "original": "「先生がぶじで　ほんとうによかった！",
-    "translation": "「先生がぶじで　ほんとうによかった！",
-    "skiped": true
+    "translation": "「老师平安无事　真是太好了！    ",
+    "skiped": false
   },
   {
     "offset": "0xB47CF",
     "hex": "95CF82ED82E8906782CC8F70814082C282A982C182C482BD82CC82CB81498176",
     "length": 32,
     "original": "変わり身の術　つかってたのね！」",
-    "translation": "変わり身の術　つかってたのね！」",
-    "skiped": true
+    "translation": "刚才用了　替身术吧！」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xB47F4",
     "hex": "816983748393814581458145814082C582B582E182CE82E882AA8149816A",
     "length": 30,
     "original": "（フン・・・　でしゃばりが！）",
-    "translation": "（フン・・・　でしゃばりが！）",
-    "skiped": true
+    "translation": "（哼・・・　爱出风头！）　　　",
+    "skiped": false
   },
   {
     "offset": "0xB4819",
@@ -76365,7 +76365,7 @@
     "length": 14,
     "original": "「水遁・・・」",
     "translation": "「水遁・・・」",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xB76B7",
@@ -79860,312 +79860,312 @@
     "hex": "82BB82CC82B182C682C982C882E282F182C5814082A282AB82C482F182CC82B38176",
     "length": 34,
     "original": "そのことになやんで　いきてんのさ」",
-    "translation": "そのことになやんで　いきてんのさ」",
-    "skiped": true
+    "translation": "正因烦恼着那件事　才活着的啊　　　",
+    "skiped": false
   },
   {
     "offset": "0xBAE7C",
     "hex": "81758DC495738E6182E2814581458145",
     "length": 16,
     "original": "「再不斬や・・・",
-    "translation": "「再不斬や・・・",
-    "skiped": true
+    "translation": "「再不斩啊・・・",
+    "skiped": false
   },
   {
     "offset": "0xBAE8D",
     "hex": "82A082CC835282CC82E682A482C982C88145814581458176",
     "length": 24,
     "original": "あのコのようにな・・・」",
-    "translation": "あのコのようにな・・・」",
-    "skiped": true
+    "translation": "变得像那孩子一样・・・」",
+    "skiped": false
   },
   {
     "offset": "0xBAEAA",
     "hex": "8175837A83938382836D82CC94458ED282C982C882E982C182C4814082D982F182C682A482C9",
     "length": 38,
     "original": "「ホンモノの忍者になるって　ほんとうに",
-    "translation": "「ホンモノの忍者になるって　ほんとうに",
-    "skiped": true
+    "translation": "「成为真正的忍者　真的　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBAED1",
     "hex": "82BB82A482E482A482B182C682C882CC82A982C8829F8145814581458176",
     "length": 30,
     "original": "そうゆうことなのかなぁ・・・」",
-    "translation": "そうゆうことなのかなぁ・・・」",
-    "skiped": true
+    "translation": "就是那样的事情吗・・・」   ",
+    "skiped": false
   },
   {
     "offset": "0xBAEF2",
     "hex": "817582C882F182A982B38149814082C882F182A982B38149",
     "length": 24,
     "original": "「なんかさ！　なんかさ！",
-    "translation": "「なんかさ！　なんかさ！",
-    "skiped": true
+    "translation": "「总觉得！　总觉得！　　",
+    "skiped": false
   },
   {
     "offset": "0xBAF0B",
     "hex": "8349838C82C182C482CE814082BB82EA814082E282BE814981498176",
     "length": 28,
     "original": "オレってば　それ　やだ！！」",
-    "translation": "オレってば　それ　やだ！！」",
-    "skiped": true
+    "translation": "我啊　那个　不要！！」　　　",
+    "skiped": false
   },
   {
     "offset": "0xBAF2E",
     "hex": "817581458145814582C582E082B383408140834A834A835690E690B68145814581458176",
     "length": 36,
     "original": "「・・・でもさァ　カカシ先生・・・」",
-    "translation": "「・・・でもさァ　カカシ先生・・・」",
-    "skiped": true
+    "translation": "「・・・不过啊　卡卡西老师・・・」　",
+    "skiped": false
   },
   {
     "offset": "0xBAF6C",
     "hex": "817581458145814594458ED282CC82A082E882A982BD82C182C4814082E282C182CF",
     "length": 34,
     "original": "「・・・忍者のありかたって　やっぱ",
-    "translation": "「・・・忍者のありかたって　やっぱ",
-    "skiped": true
+    "translation": "「・・・忍者的生存之道　果然　　　",
+    "skiped": false
   },
   {
     "offset": "0xBAF8F",
     "hex": "82B182CC82D382BD82E882AA814082A282C182C482BD82C682A882E882C882CC82A982C8829F8176",
     "length": 40,
     "original": "このふたりが　いってたとおりなのかなぁ」",
-    "translation": "このふたりが　いってたとおりなのかなぁ」",
-    "skiped": true
+    "translation": "就像这两人　说的那样吗」        ",
+    "skiped": false
   },
   {
     "offset": "0xBAFBC",
     "hex": "8175944582C182C482CC82CD814082B682D482F182CC814082BB82F182B482A282E882E482A482F0",
     "length": 40,
     "original": "「忍ってのは　じぶんの　そんざいりゆうを",
-    "translation": "「忍ってのは　じぶんの　そんざいりゆうを",
-    "skiped": true
+    "translation": "「所谓忍者　不能追求　　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBAFE5",
     "hex": "82E082C682DF82BF82E182A082A282AF82C882A28145814581458176",
     "length": 28,
     "original": "もとめちゃあいけない・・・」",
-    "translation": "もとめちゃあいけない・・・」",
-    "skiped": true
+    "translation": "自己的存在理由・・・」   ",
+    "skiped": false
   },
   {
     "offset": "0xBB004",
     "hex": "817582BD82BE81408D9182CC82C782A482AE82C682B582C4",
     "length": 24,
     "original": "「ただ　国のどうぐとして",
-    "translation": "「ただ　国のどうぐとして",
-    "skiped": true
+    "translation": "「只是　作为国家的工具　",
+    "skiped": false
   },
   {
     "offset": "0xBB01D",
     "hex": "82BB82F182B482A282B782E982B182C682AA814082BD82A282B982C28145814581458176",
     "length": 36,
     "original": "そんざいすることが　たいせつ・・・」",
-    "translation": "そんざいすることが　たいせつ・・・」",
-    "skiped": true
+    "translation": "存在着才最重要・・・」　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBB044",
     "hex": "817582BB82EA82CD814096D8836D977482C582E082A882C882B682BE82E68176",
     "length": 32,
     "original": "「それは　木ノ葉でもおなじだよ」",
-    "translation": "「それは　木ノ葉でもおなじだよ」",
-    "skiped": true
+    "translation": "「这在　木叶也是一样的」    ",
+    "skiped": false
   },
   {
     "offset": "0xBB06C",
     "hex": "816982B882C182C6814082BB82CE82C982A282BD82F182BE814581458145",
     "length": 30,
     "original": "（ずっと　そばにいたんだ・・・",
-    "translation": "（ずっと　そばにいたんだ・・・",
-    "skiped": true
+    "translation": "（一直　都在身边啊・・・   ",
+    "skiped": false
   },
   {
     "offset": "0xBB08B",
     "hex": "82B982DF82C4814082A882DC82A682CC82BB82CE82C5814581458145816A",
     "length": 30,
     "original": "せめて　おまえのそばで・・・）",
-    "translation": "せめて　おまえのそばで・・・）",
-    "skiped": true
+    "translation": "至少　在你身边・・・）    ",
+    "skiped": false
   },
   {
     "offset": "0xBB0AC",
     "hex": "817582C582AB82E982C882E7814581458145814082A882DC82A682C6",
     "length": 28,
     "original": "「できるなら・・・　おまえと",
-    "translation": "「できるなら・・・　おまえと",
-    "skiped": true
+    "translation": "「如果可以的话・・・　想和你",
+    "skiped": false
   },
   {
     "offset": "0xBB0C9",
     "hex": "82A882C882B682C682B182EB82C9814082A282AB82C4834682C8829F8145814581458176",
     "length": 36,
     "original": "おなじところに　いきてェなぁ・・・」",
-    "translation": "おなじところに　いきてェなぁ・・・」",
-    "skiped": true
+    "translation": "在同一个地方　活下去啊・・・」   ",
+    "skiped": false
   },
   {
     "offset": "0xBB0F0",
     "hex": "81758349838C82E08145814581458176",
     "length": 16,
     "original": "「オレも・・・」",
-    "translation": "「オレも・・・」",
-    "skiped": true
+    "translation": "「我也・・・」 ",
+    "skiped": false
   },
   {
     "offset": "0xBB118",
     "hex": "817581458145814583528343836381408386834C82CC82BD82AD82B382F1",
     "length": 30,
     "original": "「・・・コイツ　ユキのたくさん",
-    "translation": "「・・・コイツ　ユキのたくさん",
-    "skiped": true
+    "translation": "「・・・这家伙　是在雪下得　　",
+    "skiped": false
   },
   {
     "offset": "0xBB137",
     "hex": "82D382E982C682B182EB82C5814082A482DC82EA82BD82F182BE8145814581458176",
     "length": 34,
     "original": "ふるところで　うまれたんだ・・・」",
-    "translation": "ふるところで　うまれたんだ・・・」",
-    "skiped": true
+    "translation": "很多的地方　出生的・・・」    ",
+    "skiped": false
   },
   {
     "offset": "0xBB15E",
     "hex": "817582BB82A482A981458145814581408386834C82CC82E682A482C9",
     "length": 28,
     "original": "「そうか・・・　ユキのように",
-    "translation": "「そうか・・・　ユキのように",
-    "skiped": true
+    "translation": "「是吗・・・　像雪一样　　　",
+    "skiped": false
   },
   {
     "offset": "0xBB17B",
     "hex": "82DC82C182B582EB82C8814082B582E582A482CB82F182BE82C182BD82C88145814581458176",
     "length": 38,
     "original": "まっしろな　しょうねんだったな・・・」",
-    "translation": "まっしろな　しょうねんだったな・・・」",
-    "skiped": true
+    "translation": "纯白的　少年啊・・・」        ",
+    "skiped": false
   },
   {
     "offset": "0xBB1A4",
     "hex": "816982A282AF82E982B381458145814581408DC495738E61",
     "length": 24,
     "original": "（いけるさ・・・　再不斬",
-    "translation": "（いけるさ・・・　再不斬",
-    "skiped": true
+    "translation": "（没问题的・・・　再不斩",
+    "skiped": false
   },
   {
     "offset": "0xBB1BD",
     "hex": "82D382BD82E8814082A282C182B582E582C9814581458145816A",
     "length": 26,
     "original": "ふたり　いっしょに・・・）",
-    "translation": "ふたり　いっしょに・・・）",
-    "skiped": true
+    "translation": "我们　一起・・・）　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBB1E0",
     "hex": "817581458145814582ED82E982A282C88140814581458145834A834A83568176",
     "length": 32,
     "original": "「・・・わるいな　・・・カカシ」",
-    "translation": "「・・・わるいな　・・・カカシ」",
-    "skiped": true
+    "translation": "「・・・抱歉啊　・・・卡卡西」　",
+    "skiped": false
   },
   {
     "offset": "0xBB206",
     "hex": "817582F1814881408145814581458386834C82BE8176",
     "length": 22,
     "original": "「ん？　・・・ユキだ」",
-    "translation": "「ん？　・・・ユキだ」",
-    "skiped": true
+    "translation": "「嗯？　・・・是雪啊」",
+    "skiped": false
   },
   {
     "offset": "0xBB223",
     "hex": "817581458145814582B182F182C882B682AB82C981408386834C82AA81488176",
     "length": 32,
     "original": "「・・・こんなじきに　ユキが？」",
-    "translation": "「・・・こんなじきに　ユキが？」",
-    "skiped": true
+    "translation": "「・・・这种时候　雪会？」　　　",
+    "skiped": false
   },
   {
     "offset": "0xBB24A",
     "hex": "8175949282E6814581458145814082C882A282C482A282E982CC82A98145814581458176",
     "length": 36,
     "original": "「白よ・・・　ないているのか・・・」",
-    "translation": "「白よ・・・　ないているのか・・・」",
-    "skiped": true
+    "translation": "「是白啊・・・　在哭吗・・・」   ",
+    "skiped": false
   },
   {
     "offset": "0xBB276",
     "hex": "817582A082A08145814581458145814581458176",
     "length": 20,
     "original": "「ああ・・・・・・」",
-    "translation": "「ああ・・・・・・」",
-    "skiped": true
+    "translation": "「啊・・・・・・」 ",
+    "skiped": false
   },
   {
     "offset": "0xBB294",
     "hex": "817581458145814582A882ED82C182BD814082DD82BD82A282BE82C8",
     "length": 28,
     "original": "「・・・おわった　みたいだな",
-    "translation": "「・・・おわった　みたいだな",
-    "skiped": true
+    "translation": "「・・・结束了　的样子啊　　",
+    "skiped": false
   },
   {
     "offset": "0xBB2B1",
     "hex": "834A834A83568145814581458176",
     "length": 14,
     "original": "カカシ・・・」",
-    "translation": "カカシ・・・」",
-    "skiped": true
+    "translation": "卡卡西・・・」",
+    "skiped": false
   },
   {
     "offset": "0xBB2C6",
     "hex": "817582A082A08145814581458176",
     "length": 14,
     "original": "「ああ・・・」",
-    "translation": "「ああ・・・」",
-    "skiped": true
+    "translation": "「啊・・・」 ",
+    "skiped": false
   },
   {
     "offset": "0xBB2DB",
     "hex": "8175834A834A8356814581458145814082BD82CC82DD82AA82A082E98176",
     "length": 30,
     "original": "「カカシ・・・　たのみがある」",
-    "translation": "「カカシ・・・　たのみがある」",
-    "skiped": true
+    "translation": "「卡卡西・・・　有个请求」　　",
+    "skiped": false
   },
   {
     "offset": "0xBB300",
     "hex": "817581458145814582C882F182BE8176",
     "length": 16,
     "original": "「・・・なんだ」",
-    "translation": "「・・・なんだ」",
-    "skiped": true
+    "translation": "「・・・什么」 ",
+    "skiped": false
   },
   {
     "offset": "0xBB317",
     "hex": "817581458145814582A082A282C282CC",
     "length": 16,
     "original": "「・・・あいつの",
-    "translation": "「・・・あいつの",
-    "skiped": true
+    "translation": "「・・・那家伙的",
+    "skiped": false
   },
   {
     "offset": "0xBB32A",
     "hex": "82A082A282C282CC82A982A882AA814082DD82C4834682F182BE8145814581458176",
     "length": 34,
     "original": "あいつのかおが　みてェんだ・・・」",
-    "translation": "あいつのかおが　みてェんだ・・・」",
-    "skiped": true
+    "translation": "那家伙的脸　我想看一眼・・・」　　",
+    "skiped": false
   },
   {
     "offset": "0xBB352",
     "hex": "817582E282C182BD829F815B815B815B815B814981498176",
     "length": 24,
     "original": "「やったぁーーーー！！」",
-    "translation": "「やったぁーーーー！！」",
-    "skiped": true
+    "translation": "「干掉啦ーーーー！！」 ",
+    "skiped": false
   },
   {
     "offset": "0xBB372",
@@ -80180,136 +80180,136 @@
     "hex": "82A482ED829F82A0814082C982B082C682AF8346815B815B815B815B814981498176",
     "length": 34,
     "original": "うわぁあ　にげとけェーーーー！！」",
-    "translation": "うわぁあ　にげとけェーーーー！！」",
-    "skiped": true
+    "translation": "哇啊啊　快逃啊ーーーー！！」   ",
+    "skiped": false
   },
   {
     "offset": "0xBB3B4",
     "hex": "817582C882C382AF82C48140834A834A8356836F815B83578387839382BE81498176",
     "length": 34,
     "original": "「なづけて　カカシバージョンだ！」",
-    "translation": "「なづけて　カカシバージョンだ！」",
-    "skiped": true
+    "translation": "「起名叫　卡卡西版吧！」     ",
+    "skiped": false
   },
   {
     "offset": "0xBB3DD",
     "hex": "816982BB82F182C882CC814082BE82B982E982C882E7814082B382C182B382C6",
     "length": 32,
     "original": "（そんなの　だせるなら　さっさと",
-    "translation": "（そんなの　だせるなら　さっさと",
-    "skiped": true
+    "translation": "（要是能　使出来的话　赶紧　　　",
+    "skiped": false
   },
   {
     "offset": "0xBB3FE",
     "hex": "82BE82B982CE82A282A282CC82C98149814082B582E1815B82F182C882EB815B81498149816A",
     "length": 38,
     "original": "だせばいいのに！　しゃーんなろー！！）",
-    "translation": "だせばいいのに！　しゃーんなろー！！）",
-    "skiped": true
+    "translation": "使出来不就好了！　真是的！！）    ",
+    "skiped": false
   },
   {
     "offset": "0xBB42B",
     "hex": "817582B3815B82A0814581458145814082E282E982A98340814981488176",
     "length": 30,
     "original": "「さーあ・・・　やるかァ！？」",
-    "translation": "「さーあ・・・　やるかァ！？」",
-    "skiped": true
+    "translation": "「来吧・・・　要上了吗！？」　",
+    "skiped": false
   },
   {
     "offset": "0xBB450",
     "hex": "8175896595AA906782CC8F70814981498176",
     "length": 18,
     "original": "「影分身の術！！」",
-    "translation": "「影分身の術！！」",
-    "skiped": true
+    "translation": "「影分身之术！！」",
+    "skiped": false
   },
   {
     "offset": "0xBB46C",
     "hex": "816982A082CC82C482A282C782C882E7814082A282DC82CC83608383834E838982C582E0",
     "length": 36,
     "original": "（あのていどなら　いまのチャクラでも",
-    "translation": "（あのていどなら　いまのチャクラでも",
-    "skiped": true
+    "translation": "（那种程度的话　现在的查克拉也　　　",
+    "skiped": false
   },
   {
     "offset": "0xBB491",
     "hex": "836E8362835E838A82C982CD814082C882E982A9814581458145816A",
     "length": 28,
     "original": "ハッタリには　なるか・・・）",
-    "translation": "ハッタリには　なるか・・・）",
-    "skiped": true
+    "translation": "足以作为　虚张声势了吧・・・",
+    "skiped": false
   },
   {
     "offset": "0xBB4B0",
     "hex": "8175835483588350814981408354834E838981498140835E8359836982B382F182F082C282EA82C4",
     "length": 40,
     "original": "「サスケ！　サクラ！　タズナさんをつれて",
-    "translation": "「サスケ！　サクラ！　タズナさんをつれて",
-    "skiped": true
+    "translation": "「佐助！　小樱！　带着达兹纳　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBB4D9",
     "hex": "82BF82E582C182C6814082A482B582EB82B382AA82C182C482EB8176",
     "length": 28,
     "original": "ちょっと　うしろさがってろ」",
-    "translation": "ちょっと　うしろさがってろ」",
-    "skiped": true
+    "translation": "稍微　往后退一点」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBB4FA",
     "hex": "817582A682C181498148814082A482F1814082ED82A982C182BD81498176",
     "length": 30,
     "original": "「えっ！？　うん　わかった！」",
-    "translation": "「えっ！？　うん　わかった！」",
-    "skiped": true
+    "translation": "「诶！？　嗯　我知道了！」　　",
+    "skiped": false
   },
   {
     "offset": "0xBB51E",
     "hex": "817582E6815B82B583428149",
     "length": 12,
     "original": "「よーしィ！",
-    "translation": "「よーしィ！",
-    "skiped": true
+    "translation": "「好ー嘞！ ",
+    "skiped": false
   },
   {
     "offset": "0xBB52B",
     "hex": "8349838C82E0814082A982B982A282B782E982C182C482CE82E681498176",
     "length": 30,
     "original": "オレも　かせいするってばよ！」",
-    "translation": "オレも　かせいするってばよ！」",
-    "skiped": true
+    "translation": "我也要　参战的的说！」    ",
+    "skiped": false
   },
   {
     "offset": "0xBB54C",
     "hex": "8175896595AA906782CC8F70814981498176",
     "length": 18,
     "original": "「影分身の術！！」",
-    "translation": "「影分身の術！！」",
-    "skiped": true
+    "translation": "「影分身之术！！」",
+    "skiped": false
   },
   {
     "offset": "0xBB566",
     "hex": "817583438369838A8342814981498176",
     "length": 16,
     "original": "「イナリィ！！」",
-    "translation": "「イナリィ！！」",
-    "skiped": true
+    "translation": "「伊纳利！！」 ",
+    "skiped": false
   },
   {
     "offset": "0xBB57D",
     "hex": "817582D682D68362814981408371815B838D815B82C182C482CC82CD",
     "length": 28,
     "original": "「へへッ！　ヒーローってのは",
-    "translation": "「へへッ！　ヒーローってのは",
-    "skiped": true
+    "translation": "「嘿嘿！　所谓的英雄　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBB59A",
     "hex": "82A882AD82EA82C482C682A482B682E582A482B782E9814082E082F182BE82A982E782CB81498176",
     "length": 40,
     "original": "おくれてとうじょうする　もんだからね！」",
-    "translation": "おくれてとうじょうする　もんだからね！」",
-    "skiped": true
+    "translation": "总是　最后登场才对嘛！」　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBB5CC",
@@ -81588,672 +81588,672 @@
     "hex": "817582C282A282C582C9944582C782A482B5814082A082A282A482BF82C982C582E082C882EA82CE",
     "length": 40,
     "original": "「ついでに忍どうし　あいうちにでもなれば",
-    "translation": "「ついでに忍どうし　あいうちにでもなれば",
-    "skiped": true
+    "translation": "「顺便忍者之间　要是能相打的话     ",
+    "skiped": false
   },
   {
     "offset": "0xBCA5D",
     "hex": "82C482DC82E0834A836C82E0814082A982A982E782B882C9814082B782F182BE82F182BE82AA8176",
     "length": 40,
     "original": "てまもカネも　かからずに　すんだんだが」",
-    "translation": "てまもカネも　かからずに　すんだんだが」",
-    "skiped": true
+    "translation": "时间也钱也　不用花　就解决了」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCA88",
     "hex": "817596B6894282EA82CC8B53906C816982AB82B682F1816A82AA82AB82A282C482A082AB82EA82E982ED",
     "length": 42,
     "original": "「霧隠れの鬼人（きじん）がきいてあきれるわ",
-    "translation": "「霧隠れの鬼人（きじん）がきいてあきれるわ",
-    "skiped": true
+    "translation": "「雾隐的鬼人　听起来真让人吃惊      ",
+    "skiped": false
   },
   {
     "offset": "0xBCAB3",
     "hex": "82ED82BD82B582A982E7814082A282ED82B982E882E182A0814082C882F182BE8176",
     "length": 34,
     "original": "わたしから　いわせりゃあ　なんだ」",
-    "translation": "わたしから　いわせりゃあ　なんだ」",
-    "skiped": true
+    "translation": "让我来说的话　算什么」　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCAD8",
     "hex": "8175834E834E814082BD82BE82CC82A982ED82A282A2",
     "length": 22,
     "original": "「クク　ただのかわいい",
-    "translation": "「クク　ただのかわいい",
-    "skiped": true
+    "translation": "「呵呵　只是个可爱的　",
+    "skiped": false
   },
   {
     "offset": "0xBCAEF",
     "hex": "8FAC8B53816982B182A882C9816A82BF82E182F1814082C182C482C682B182BE82C883408176",
     "length": 38,
     "original": "小鬼（こおに）ちゃん　ってとこだなァ」",
-    "translation": "小鬼（こおに）ちゃん　ってとこだなァ」",
-    "skiped": true
+    "translation": "小鬼　而已啊」　　　　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCB1A",
     "hex": "817582A282DC82CC8349837D834782C882E7814082B782AE814082E282EA82E982BA834681498176",
     "length": 40,
     "original": "「いまのオマエなら　すぐ　やれるぜェ！」",
-    "translation": "「いまのオマエなら　すぐ　やれるぜェ！」",
-    "skiped": true
+    "translation": "「现在的你　马上　就能做到喔！」　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCB47",
     "hex": "816982C882F182BE829F814082A082A282C282E782C182C482CE814581458145",
     "length": 32,
     "original": "（なんだぁ　あいつらってば・・・",
-    "translation": "（なんだぁ　あいつらってば・・・",
-    "skiped": true
+    "translation": "（什么啊　那家伙们・・・    ",
+    "skiped": false
   },
   {
     "offset": "0xBCB68",
     "hex": "83588351815B82C982F182B882A482BE8149816A",
     "length": 20,
     "original": "スゲーにんずうだ！）",
-    "translation": "スゲーにんずうだ！）",
-    "skiped": true
+    "translation": "好多人啊！）    ",
+    "skiped": false
   },
   {
     "offset": "0xBCB83",
     "hex": "8175834A834A8356814581458145814082B782DC82C882A282C8814581458145",
     "length": 32,
     "original": "「カカシ・・・　すまないな・・・",
-    "translation": "「カカシ・・・　すまないな・・・",
-    "skiped": true
+    "translation": "「卡卡西・・・　抱歉啊・・・　　",
+    "skiped": false
   },
   {
     "offset": "0xBCBA4",
     "hex": "82BD82BD82A982A282CD814082B182B182DC82C582BE8176",
     "length": 24,
     "original": "たたかいは　ここまでだ」",
-    "translation": "たたかいは　ここまでだ」",
-    "skiped": true
+    "translation": "战斗　到此为止了」　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCBBF",
     "hex": "81758349838C82C98140835E8359836982F082CB82E782A4",
     "length": 24,
     "original": "「オレに　タズナをねらう",
-    "translation": "「オレに　タズナをねらう",
-    "skiped": true
+    "translation": "「我　要暗杀达兹纳　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCBD8",
     "hex": "82E882E482A482AA814082C882AD82C882C182BD82A282B682E582A48176",
     "length": 30,
     "original": "りゆうが　なくなったいじょう」",
-    "translation": "りゆうが　なくなったいじょう」",
-    "skiped": true
+    "translation": "的理由　既然已经没有了」   ",
+    "skiped": false
   },
   {
     "offset": "0xBCBF9",
     "hex": "817582A882DC82A682C6814082BD82BD82A982A4",
     "length": 20,
     "original": "「おまえと　たたかう",
-    "translation": "「おまえと　たたかう",
-    "skiped": true
+    "translation": "「和你　战斗　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCC0E",
     "hex": "82E882E482A482E0814082C882AD82C882C182BD82ED82AF82BE8176",
     "length": 28,
     "original": "りゆうも　なくなったわけだ」",
-    "translation": "りゆうも　なくなったわけだ」",
-    "skiped": true
+    "translation": "的理由　也就没有了」　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCC31",
     "hex": "817582A082A0814581458145814082BB82A482BE82C88176",
     "length": 24,
     "original": "「ああ・・・　そうだな」",
-    "translation": "「ああ・・・　そうだな」",
-    "skiped": true
+    "translation": "「啊・・・　是啊」　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCC50",
     "hex": "81758145814581458DC495738E61814981498176",
     "length": 20,
     "original": "「・・・再不斬！！」",
-    "translation": "「・・・再不斬！！」",
-    "skiped": true
+    "translation": "「・・・再不斩！！」",
+    "skiped": false
   },
   {
     "offset": "0xBCC6A",
     "hex": "817582A482ED815B815B815B815B814981498176",
     "length": 20,
     "original": "「うわーーーー！！」",
-    "translation": "「うわーーーー！！」",
-    "skiped": true
+    "translation": "「哇ーーーー！！」 ",
+    "skiped": false
   },
   {
     "offset": "0xBCC83",
     "hex": "81698354834E838982BF82E182F181458145814581408354835883508346814581458145816A",
     "length": 38,
     "original": "（サクラちゃん・・・　サスケェ・・・）",
-    "translation": "（サクラちゃん・・・　サスケェ・・・）",
-    "skiped": true
+    "translation": "（小樱酱・・・　佐助・・・）　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCCAC",
     "hex": "817582AE82C1814581458145814981498176",
     "length": 18,
     "original": "「ぐっ・・・！！」",
-    "translation": "「ぐっ・・・！！」",
-    "skiped": true
+    "translation": "“呃・・・！！” ",
+    "skiped": false
   },
   {
     "offset": "0xBCCC5",
     "hex": "817582B382C182AB82A982E7814082DD82C482A282EA82CE814082C882F182BE",
     "length": 32,
     "original": "「さっきから　みていれば　なんだ",
-    "translation": "「さっきから　みていれば　なんだ",
-    "skiped": true
+    "translation": "“刚才一直看着的话　算什么　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCCE6",
     "hex": "82BB82CC8355837D82CD814581458145814082AA82C182A982E882BE82E68176",
     "length": 32,
     "original": "そのザマは・・・　がっかりだよ」",
-    "translation": "そのザマは・・・　がっかりだよ」",
-    "skiped": true
+    "translation": "这副德行・・・　真让人失望啊”　",
+    "skiped": false
   },
   {
     "offset": "0xBCD0E",
     "hex": "81758354835883508145814581458176",
     "length": 16,
     "original": "「サスケ・・・」",
-    "translation": "「サスケ・・・」",
-    "skiped": true
+    "translation": "“佐助・・・” ",
+    "skiped": false
   },
   {
     "offset": "0xBCD28",
     "hex": "8175838F835682E082A282C182B582E582C982A282B182A48145814581458176",
     "length": 32,
     "original": "「ワシもいっしょにいこう・・・」",
-    "translation": "「ワシもいっしょにいこう・・・」",
-    "skiped": true
+    "translation": "“我也一起去吧・・・”     ",
+    "skiped": false
   },
   {
     "offset": "0xBCD4B",
     "hex": "817582BB82A482B782EA82CE814090E690B682CC82A282A282C282AF82F0",
     "length": 30,
     "original": "「そうすれば　先生のいいつけを",
-    "translation": "「そうすれば　先生のいいつけを",
-    "skiped": true
+    "translation": "“这样的话　就不算违背　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCD6A",
     "hex": "82E282D482C182BD82B182C682C982CD814082C882E782F182B682E182EB8176",
     "length": 32,
     "original": "やぶったことには　ならんじゃろ」",
-    "translation": "やぶったことには　ならんじゃろ」",
-    "skiped": true
+    "translation": "老师的命令了吧”　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCD8F",
     "hex": "817581458145814581458145814582A482F18176",
     "length": 20,
     "original": "「・・・・・・うん」",
-    "translation": "「・・・・・・うん」",
-    "skiped": true
+    "translation": "“・・・・・・嗯” ",
+    "skiped": false
   },
   {
     "offset": "0xBCDAC",
     "hex": "8175834A834A83568149",
     "length": 10,
     "original": "「カカシ！",
-    "translation": "「カカシ！",
-    "skiped": true
+    "translation": "“卡卡西！",
+    "skiped": false
   },
   {
     "offset": "0xBCDB7",
     "hex": "82E682BB82DD82B582C482E981408371837D82CD82CB815B82BC81498176",
     "length": 30,
     "original": "よそみしてる　ヒマはねーぞ！」",
-    "translation": "よそみしてる　ヒマはねーぞ！」",
-    "skiped": true
+    "translation": "没空东张西望的！”　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCDDA",
     "hex": "817582AD82C18145814581458145814581458176",
     "length": 20,
     "original": "「くっ・・・・・・」",
-    "translation": "「くっ・・・・・・」",
-    "skiped": true
+    "translation": "“呃・・・・・・” ",
+    "skiped": false
   },
   {
     "offset": "0xBCE02",
     "hex": "817581458145814582A082EA81498148814083548358835082AD82F182CD81488148",
     "length": 34,
     "original": "「・・・あれ！？　サスケくんは？？",
-    "translation": "「・・・あれ！？　サスケくんは？？",
-    "skiped": true
+    "translation": "“・・・咦！？　佐助君呢？？　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCE25",
     "hex": "8369838B83678149814083548358835082AD82F182CD82C782B182C882CC834881498176",
     "length": 36,
     "original": "ナルト！　サスケくんはどこなのォ！」",
-    "translation": "ナルト！　サスケくんはどこなのォ！」",
-    "skiped": true
+    "translation": "鸣人！　佐助君在哪里啊！”     ",
+    "skiped": false
   },
   {
     "offset": "0xBCE4E",
     "hex": "81758369838B83678348815B8149814082D482B682BE82C182BD82CC82CB815B814981498176",
     "length": 38,
     "original": "「ナルトォー！　ぶじだったのねー！！」",
-    "translation": "「ナルトォー！　ぶじだったのねー！！」",
-    "skiped": true
+    "translation": "“鸣人ー！　没事真是太好了！！”   ",
+    "skiped": false
   },
   {
     "offset": "0xBCE79",
     "hex": "816982A082C181458145814581408354834E838982BF82E182F1814581458145816A",
     "length": 34,
     "original": "（あっ・・・　サクラちゃん・・・）",
-    "translation": "（あっ・・・　サクラちゃん・・・）",
-    "skiped": true
+    "translation": "（啊・・・　小樱酱・・・）    ",
+    "skiped": false
   },
   {
     "offset": "0xBCEA4",
     "hex": "817582B182A282C282CD81458145814581408349838C82CC82BD82BD82A982A282BE814981498176",
     "length": 40,
     "original": "「こいつは・・・　オレのたたかいだ！！」",
-    "translation": "「こいつは・・・　オレのたたかいだ！！」",
-    "skiped": true
+    "translation": "“这是・・・　我的战斗！！”      ",
+    "skiped": false
   },
   {
     "offset": "0xBCED4",
     "hex": "81758369838B83678149814082A882DC82A682CD814082BB82B182C582DD82C482E982F182BE8176",
     "length": 40,
     "original": "「ナルト！　おまえは　そこでみてるんだ」",
-    "translation": "「ナルト！　おまえは　そこでみてるんだ」",
-    "skiped": true
+    "translation": "“鸣人！　你在那里看着就好”　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCF02",
     "hex": "817582E482E982B982CB8346814981498176",
     "length": 18,
     "original": "「ゆるせねェ！！」",
-    "translation": "「ゆるせねェ！！」",
-    "skiped": true
+    "translation": "“绝不原谅！！” ",
+    "skiped": false
   },
   {
     "offset": "0xBCF1C",
     "hex": "816982B682D482F182CC8140834A8389835F82F082CD82C182C482C582E0814082C882A8",
     "length": 36,
     "original": "（じぶんの　カラダをはってでも　なお",
-    "translation": "（じぶんの　カラダをはってでも　なお",
-    "skiped": true
+    "translation": "（即使拼上自己的身体　也想　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCF41",
     "hex": "8DC495738E6182CC82B182C682F0814082DC82E082E882BD82A982C182BD82F182BE82C8816A",
     "length": 38,
     "original": "再不斬のことを　まもりたかったんだな）",
-    "translation": "再不斬のことを　まもりたかったんだな）",
-    "skiped": true
+    "translation": "保护再不斩啊）            ",
+    "skiped": false
   },
   {
     "offset": "0xBCF6E",
     "hex": "8175834E834E814581458145814082DD82B282C682BE814094928176",
     "length": 28,
     "original": "「クク・・・　みごとだ　白」",
-    "translation": "「クク・・・　みごとだ　白」",
-    "skiped": true
+    "translation": "“呵呵・・・　干得漂亮　白”",
+    "skiped": false
   },
   {
     "offset": "0xBCF8D",
     "hex": "817582DC82C182BD82AD81408349838C82CD",
     "length": 18,
     "original": "「まったく　オレは",
-    "translation": "「まったく　オレは",
-    "skiped": true
+    "translation": "“完全　我　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCFA0",
     "hex": "82A282A282C782A482AE82F0814082D082EB82C182BD82E082F182BE8176",
     "length": 30,
     "original": "いいどうぐを　ひろったもんだ」",
-    "translation": "いいどうぐを　ひろったもんだ」",
-    "skiped": true
+    "translation": "捡到了一个好工具啊”　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBCFC1",
     "hex": "817582B382A282B282CC82B382A282B282C5",
     "length": 18,
     "original": "「さいごのさいごで",
-    "translation": "「さいごのさいごで",
-    "skiped": true
+    "translation": "“在最后的最后  ",
+    "skiped": false
   },
   {
     "offset": "0xBCFD4",
     "hex": "82B182F182C8836083838393835882F0814082A082BD82A682C482AD82EA82E982C682CD81498176",
     "length": 40,
     "original": "こんなチャンスを　あたえてくれるとは！」",
-    "translation": "こんなチャンスを　あたえてくれるとは！」",
-    "skiped": true
+    "translation": "竟然给了我这种机会！”         ",
+    "skiped": false
   },
   {
     "offset": "0xBD00D",
     "hex": "82C7815B82E4815B82B182C682BE82C182C482CE82E681408352838C816A",
     "length": 30,
     "original": "どーゆーことだってばよ　コレ）",
-    "translation": "どーゆーことだってばよ　コレ）",
-    "skiped": true
+    "translation": "这到底是搞什么啊　这个）　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD034",
     "hex": "817582C882C9814981488176",
     "length": 12,
     "original": "「なに！？」",
-    "translation": "「なに！？」",
-    "skiped": true
+    "translation": "“什么！？”",
+    "skiped": false
   },
   {
     "offset": "0xBD047",
     "hex": "81758353837483628145814581458176",
     "length": 16,
     "original": "「ゴフッ・・・」",
-    "translation": "「ゴフッ・・・」",
-    "skiped": true
+    "translation": "“咳・・・”  ",
+    "skiped": false
   },
   {
     "offset": "0xBD05E",
     "hex": "816982DC82B382A9814581458145816A",
     "length": 16,
     "original": "（まさか・・・）",
-    "translation": "（まさか・・・）",
-    "skiped": true
+    "translation": "（难道说・・・）",
+    "skiped": false
   },
   {
     "offset": "0xBD075",
     "hex": "8175835581458145814581408DC495738E6182B382F18145814581458176",
     "length": 30,
     "original": "「ザ・・・　再不斬さん・・・」",
-    "translation": "「ザ・・・　再不斬さん・・・」",
-    "skiped": true
+    "translation": "“再・・・　再不斩先生・・・”",
+    "skiped": false
   },
   {
     "offset": "0xBD09A",
     "hex": "81698DC495738E6182F082A982CE82C182C4",
     "length": 18,
     "original": "（再不斬をかばって",
-    "translation": "（再不斬をかばって",
-    "skiped": true
+    "translation": "（为了掩护再不斩 ",
+    "skiped": false
   },
   {
     "offset": "0xBD0AD",
     "hex": "82C682D182B182F182C582AD82E982C682CD814581458145816A",
     "length": 26,
     "original": "とびこんでくるとは・・・）",
-    "translation": "とびこんでくるとは・・・）",
-    "skiped": true
+    "translation": "竟然冲了过来・・・）   ",
+    "skiped": false
   },
   {
     "offset": "0xBD0CE",
     "hex": "81758349838C82B382DC82CC82DD82E782A282AA81408E80814082BE82C6814581458145",
     "length": 36,
     "original": "「オレさまのみらいが　死　だと・・・",
-    "translation": "「オレさまのみらいが　死　だと・・・",
-    "skiped": true
+    "translation": "“本大爷的未来　是死　吗・・・　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD0F3",
     "hex": "82DC82BD8140836E835982EA82BD82C88140834A834A83568176",
     "length": 26,
     "original": "また　ハズれたな　カカシ」",
-    "translation": "また　ハズれたな　カカシ」",
-    "skiped": true
+    "translation": "又　猜错了啊　卡卡西”　　",
+    "skiped": false
   },
   {
     "offset": "0xBD114",
     "hex": "817582A882DC82A682CD814082AB82AF82F182B782AC82E98145814581458176",
     "length": 32,
     "original": "「おまえは　きけんすぎる・・・」",
-    "translation": "「おまえは　きけんすぎる・・・」",
-    "skiped": true
+    "translation": "“你　太危险了・・・”     ",
+    "skiped": false
   },
   {
     "offset": "0xBD137",
     "hex": "817582A882DC82A682AA814082CB82E782C182C482A282E98140835E8359836982B382F182CD",
     "length": 38,
     "original": "「おまえが　ねらっている　タズナさんは",
-    "translation": "「おまえが　ねらっている　タズナさんは",
-    "skiped": true
+    "translation": "“你盯上的　达兹纳先生　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD15E",
     "hex": "82B182CC8D9182CC814083868345834C82BE8176",
     "length": 20,
     "original": "この国の　ユウキだ」",
-    "translation": "この国の　ユウキだ」",
-    "skiped": true
+    "translation": "是这个国家的　勇气”",
+    "skiped": false
   },
   {
     "offset": "0xBD175",
     "hex": "8175835E8359836982B382F182CC814082A982AF82E982CD82B582CD",
     "length": 28,
     "original": "「タズナさんの　かけるはしは",
-    "translation": "「タズナさんの　かけるはしは",
-    "skiped": true
+    "translation": "“达兹纳先生　架起的桥　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD192",
     "hex": "82B182CC8D9182CC8140834C837B834582BE8176",
     "length": 20,
     "original": "この国の　キボウだ」",
-    "translation": "この国の　キボウだ」",
-    "skiped": true
+    "translation": "是这个国家的　希望”",
+    "skiped": false
   },
   {
     "offset": "0xBD1A9",
     "hex": "817582A882DC82A682CC82E282DA82A482CD",
     "length": 18,
     "original": "「おまえのやぼうは",
-    "translation": "「おまえのやぼうは",
-    "skiped": true
+    "translation": "“你的野心    ",
+    "skiped": false
   },
   {
     "offset": "0xBD1BC",
     "hex": "82A882A882AD82CC82D082C682F0814082AC82B982A282C982B782E98176",
     "length": 30,
     "original": "おおくのひとを　ぎせいにする」",
-    "translation": "おおくのひとを　ぎせいにする」",
-    "skiped": true
+    "translation": "会牺牲　很多人”　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD1DD",
     "hex": "817582BB82A482E482A482CC82CD814581458145",
     "length": 20,
     "original": "「そうゆうのは・・・",
-    "translation": "「そうゆうのは・・・",
-    "skiped": true
+    "translation": "“这种事・・・   ",
+    "skiped": false
   },
   {
     "offset": "0xBD1F2",
     "hex": "944582CC82E282E982B182C682B682E182A0814082C882A282F182BE82E68176",
     "length": 32,
     "original": "忍のやることじゃあ　ないんだよ」",
-    "translation": "忍のやることじゃあ　ないんだよ」",
-    "skiped": true
+    "translation": "不是忍者该做的事啊”　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD219",
     "hex": "817582BB82F182C882B182C682B582E982A9814581458145",
     "length": 24,
     "original": "「そんなことしるか・・・",
-    "translation": "「そんなことしるか・・・",
-    "skiped": true
+    "translation": "“那种事谁知道・・・  ",
+    "skiped": false
   },
   {
     "offset": "0xBD232",
     "hex": "8349838C82CD814082E882BB82A482CC82BD82DF82C9814082BD82BD82A982C182C482AB82BD8176",
     "length": 40,
     "original": "オレは　りそうのために　たたかってきた」",
-    "translation": "オレは　りそうのために　たたかってきた」",
-    "skiped": true
+    "translation": "我是为了理想　战斗过来的”　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD25D",
     "hex": "817582BB82B582C4814082BB82EA82CD814082B182EA82A982E782E082A982ED82E782F181498176",
     "length": 40,
     "original": "「そして　それは　これからもかわらん！」",
-    "translation": "「そして　それは　これからもかわらん！」",
-    "skiped": true
+    "translation": "“而且　那今后也不会改变！”      ",
+    "skiped": false
   },
   {
     "offset": "0xBD28C",
     "hex": "817582E082A482A282BF82C7814082A282A48176",
     "length": 20,
     "original": "「もういちど　いう」",
-    "translation": "「もういちど　いう」",
-    "skiped": true
+    "translation": "“再说一次”　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD2B6",
     "hex": "817582A082AB82E782DF82EB814581458145",
     "length": 18,
     "original": "「あきらめろ・・・",
-    "translation": "「あきらめろ・・・",
-    "skiped": true
+    "translation": "“放弃吧・・・  ",
+    "skiped": false
   },
   {
     "offset": "0xBD2CB",
     "hex": "82A882DC82A682CC82DD82E782A282CD81408E80814082BE8176",
     "length": 26,
     "original": "おまえのみらいは　死　だ」",
-    "translation": "おまえのみらいは　死　だ」",
-    "skiped": true
+    "translation": "你的未来　是死”　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD2EC",
     "hex": "817582B382A0814082E082A482A082C682AA82C882A282BC81408DC495738E618149",
     "length": 34,
     "original": "「さあ　もうあとがないぞ　再不斬！",
-    "translation": "「さあ　もうあとがないぞ　再不斬！",
-    "skiped": true
+    "translation": "「来吧　没时间了　再不斩！　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD30F",
     "hex": "82A882DC82A682CC82DD82E782A282CD814581458145",
     "length": 22,
     "original": "おまえのみらいは・・・",
-    "translation": "おまえのみらいは・・・",
-    "skiped": true
+    "translation": "你的未来是・・・   ",
+    "skiped": false
   },
   {
     "offset": "0xBD327",
     "hex": "81408E80814082BE81498176",
     "length": 12,
     "original": "　死　だ！」",
-    "translation": "　死　だ！」",
-    "skiped": true
+    "translation": "死　亡！」　",
+    "skiped": false
   },
   {
     "offset": "0xBD33A",
     "hex": "81758349838C82CC82DD82E782A282AA81408E80814082BE82C6814581458145",
     "length": 32,
     "original": "「オレのみらいが　死　だと・・・",
-    "translation": "「オレのみらいが　死　だと・・・",
-    "skiped": true
+    "translation": "「我的未来是　死　亡・・・　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD35B",
     "hex": "82A882DC82A682CC8140836E8362835E838A82CD82E082A482A282A28176",
     "length": 30,
     "original": "おまえの　ハッタリはもういい」",
-    "translation": "おまえの　ハッタリはもういい」",
-    "skiped": true
+    "translation": "你的虚张声势已经够了」    ",
+    "skiped": false
   },
   {
     "offset": "0xBD380",
     "hex": "817582C282E682AA82E982C8814581458145",
     "length": 18,
     "original": "「つよがるな・・・",
-    "translation": "「つよがるな・・・",
-    "skiped": true
+    "translation": "「别逞强了・・・ ",
+    "skiped": false
   },
   {
     "offset": "0xBD393",
     "hex": "82A882DC82A682CD814082C782A482B782E982B182C682E0814082C582AB82C882A282E68176",
     "length": 38,
     "original": "おまえは　どうすることも　できないよ」",
-    "translation": "おまえは　どうすることも　できないよ」",
-    "skiped": true
+    "translation": "你什么也　做不到的」　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD3D7",
     "hex": "81758DC495738E61814581458145814082B782B182B5814082CD82B582E182AC82B782AC82BD82C8",
     "length": 40,
     "original": "「再不斬・・・　すこし　はしゃぎすぎたな",
-    "translation": "「再不斬・・・　すこし　はしゃぎすぎたな",
-    "skiped": true
+    "translation": "「再不斩・・・　有点得意忘形了啊　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD400",
     "hex": "82A882DC82A682CC814082E282DA82A482CD814082A882A882AB82B782AC82BD8176",
     "length": 34,
     "original": "おまえの　やぼうは　おおきすぎた」",
-    "translation": "おまえの　やぼうは　おおきすぎた」",
-    "skiped": true
+    "translation": "你的野心　太大了」　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD425",
     "hex": "817594B282AF944582C682C882C182BD814082A882DC82A682CC82C882DC82A682CD",
     "length": 34,
     "original": "「抜け忍となった　おまえのなまえは",
-    "translation": "「抜け忍となった　おまえのなまえは",
-    "skiped": true
+    "translation": "「成为叛忍的　你的名字　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xBD448",
     "hex": "96D8836D977482C982E0814082B782AE82C282BD82A682E782EA82BD82E68176",
     "length": 32,
     "original": "木ノ葉にも　すぐつたえられたよ」",
-    "translation": "木ノ葉にも　すぐつたえられたよ」",
-    "skiped": true
+    "translation": "很快传到了　木叶」       ",
+    "skiped": false
   },
   {
     "offset": "0xBD46B",
     "hex": "8175834B8367815B82CC82E682A482C8814082A082AD82C982F182C982B582BD82AA82A482CC82CD",
     "length": 40,
     "original": "「ガトーのような　あくにんにしたがうのは",
-    "translation": "「ガトーのような　あくにんにしたがうのは",
-    "skiped": true
+    "translation": "「跟随卡多这种　恶人          ",
+    "skiped": false
   },
   {
     "offset": "0xBD494",
     "hex": "97A282C9814082D382AD82B582E382A482B782E982BD82DF82C68176",
     "length": 28,
     "original": "里に　ふくしゅうするためと」",
-    "translation": "里に　ふくしゅうするためと」",
-    "skiped": true
+    "translation": "是为了向　村里复仇」    ",
+    "skiped": false
   },
   {
     "offset": "0xBD4B3",
     "hex": "817592C782A2944582A982E7814082CC82AA82EA82E982BD82DF82CC814581458145",
     "length": 34,
     "original": "「追い忍から　のがれるための・・・",
-    "translation": "「追い忍から　のがれるための・・・",
-    "skiped": true
+    "translation": "「为了摆脱　追忍的・・・     ",
+    "skiped": false
   },
   {
     "offset": "0xBD4D6",
     "hex": "82A882A882A982BD814082B582AB82F182C382AD82E882CC82BD82DF82BE82EB8176",
     "length": 34,
     "original": "おおかた　しきんづくりのためだろ」",
-    "translation": "おおかた　しきんづくりのためだろ」",
-    "skiped": true
+    "translation": "多半是为了　赚钱吧」       ",
+    "skiped": false
   },
   {
     "offset": "0xBD4FE",
     "hex": "817582AB814581458145814082AB82A682BD81498148",
     "length": 22,
     "original": "「き・・・　きえた！？",
-    "translation": "「き・・・　きえた！？",
-    "skiped": true
+    "translation": "「消・・・　消失了！？",
+    "skiped": false
   },
   {
     "offset": "0xBD515",
@@ -85132,304 +85132,304 @@
     "hex": "817582BF82A982C382AD8384836382CD814082A982BD82C182CF82B582A982E7",
     "length": 32,
     "original": "「ちかづくヤツは　かたっぱしから",
-    "translation": "「ちかづくヤツは　かたっぱしから",
-    "skiped": true
+    "translation": "「靠近的家伙　一个个　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC0441",
     "hex": "82D482C182C682CE82B582C482E282E981498176",
     "length": 20,
     "original": "ぶっとばしてやる！」",
-    "translation": "ぶっとばしてやる！」",
-    "skiped": true
+    "translation": "打飞给你们看！」  ",
+    "skiped": false
   },
   {
     "offset": "0xC045A",
     "hex": "817582ED82A982E882DC82B582BD8176",
     "length": 16,
     "original": "「わかりました」",
-    "translation": "「わかりました」",
-    "skiped": true
+    "translation": "「明白了」   ",
+    "skiped": false
   },
   {
     "offset": "0xC0472",
     "hex": "817582E682B5814083548343839382B582BD82C881498140834C837E82BD82BF82CC8AAA95A882CD",
     "length": 40,
     "original": "「よし　サインしたな！　キミたちの巻物は",
-    "translation": "「よし　サインしたな！　キミたちの巻物は",
-    "skiped": true
+    "translation": "「好　签好名了！　你们的卷轴　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC049D",
     "hex": "935682CC8F91",
     "length": 6,
     "original": "天の書",
-    "translation": "天の書",
-    "skiped": true
+    "translation": "天之书",
+    "skiped": false
   },
   {
     "offset": "0xC04A5",
     "hex": "82BE814981408250825182CE82F18351815B836782A982E78140905882C982CD82A282EA81498176",
     "length": 40,
     "original": "だ！　１２ばんゲートから　森にはいれ！」",
-    "translation": "だ！　１２ばんゲートから　森にはいれ！」",
-    "skiped": true
+    "translation": "！　从12号门进入森林！」　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC04D2",
     "hex": "817582E282C182CF81408349838C82C182C482CE814082A282A982CB83468145814581458176",
     "length": 38,
     "original": "「やっぱ　オレってば　いかねェ・・・」",
-    "translation": "「やっぱ　オレってば　いかねェ・・・」",
-    "skiped": true
+    "translation": "「果然　我果然　不行啊・・・」　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC04FD",
     "hex": "817582A282DC82B382E7814082C882C982A282C182C482F182CC82E681498148",
     "length": 32,
     "original": "「いまさら　なにいってんのよ！？",
-    "translation": "「いまさら　なにいってんのよ！？",
-    "skiped": true
+    "translation": "「事到如今　你在说什么啊！？  ",
+    "skiped": false
   },
   {
     "offset": "0xC051E",
     "hex": "82B182EA82A482AF82C882AB82E181409286944582C982C882EA82C882A282CC82E68176",
     "length": 36,
     "original": "これうけなきゃ　中忍になれないのよ」",
-    "translation": "これうけなきゃ　中忍になれないのよ」",
-    "skiped": true
+    "translation": "不通过这个　可当不了中忍」     ",
+    "skiped": false
   },
   {
     "offset": "0xC0547",
     "hex": "817582BE82C182C482B3814581458145",
     "length": 16,
     "original": "「だってさ・・・",
-    "translation": "「だってさ・・・",
-    "skiped": true
+    "translation": "「因为啊・・・ ",
+    "skiped": false
   },
   {
     "offset": "0xC0558",
     "hex": "82C882F182A98149814082C882F182A98149814082E282CE82BB815B82BE82B583428176",
     "length": 36,
     "original": "なんか！　なんか！　やばそーだしィ」",
-    "translation": "なんか！　なんか！　やばそーだしィ」",
-    "skiped": true
+    "translation": "总觉得！　总觉得！　好像不妙啊」　　",
+    "skiped": false
   },
   {
     "offset": "0xC0581",
     "hex": "8175837483938149814082A882B682AF82C382A282BD82A9814083728372838A82AD82F18176",
     "length": 38,
     "original": "「フン！　おじけづいたか　ビビリくん」",
-    "translation": "「フン！　おじけづいたか　ビビリくん」",
-    "skiped": true
+    "translation": "「哼！　害怕了吗　胆小鬼」　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC05AC",
     "hex": "8175834A83628360815B8393814981408372837282C182C482C882F182A982CB815B82C182C482CE",
     "length": 40,
     "original": "「カッチーン！　ビビってなんかねーってば",
-    "translation": "「カッチーン！　ビビってなんかねーってば",
-    "skiped": true
+    "translation": "「切！　谁害怕了啊           ",
+    "skiped": false
   },
   {
     "offset": "0xC05D5",
     "hex": "83498381834682CC82B582F182CF82A2814082B582C482E282C182BD82F182BE82E681498176",
     "length": 38,
     "original": "オメェのしんぱい　してやったんだよ！」",
-    "translation": "オメェのしんぱい　してやったんだよ！」",
-    "skiped": true
+    "translation": "我是在担心你啊！」          ",
+    "skiped": false
   },
   {
     "offset": "0xC05FE",
     "hex": "817582A082B582D082C182CF82F182B682E182CB815B82A9814082C182C482C88176",
     "length": 34,
     "original": "「あしひっぱんじゃねーか　ってな」",
-    "translation": "「あしひっぱんじゃねーか　ってな」",
-    "skiped": true
+    "translation": "「别拖后腿啊　我是说」　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC0625",
     "hex": "817582BB82F182C882B582F182CF82A282CD814082DE82E682A482BE82C8814581458145",
     "length": 36,
     "original": "「そんなしんぱいは　むようだな・・・",
-    "translation": "「そんなしんぱいは　むようだな・・・",
-    "skiped": true
+    "translation": "「那种担心　没必要啊・・・　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC064A",
     "hex": "83548362835482C682A282AD82BC81498176",
     "length": 18,
     "original": "サッサといくぞ！」",
-    "translation": "サッサといくぞ！」",
-    "skiped": true
+    "translation": "快点走吧！」   ",
+    "skiped": false
   },
   {
     "offset": "0xC0662",
     "hex": "8175834983628350815B81498140834983628350815B8149",
     "length": 24,
     "original": "「オッケー！　オッケー！",
-    "translation": "「オッケー！　オッケー！",
-    "skiped": true
+    "translation": "「OK！　OK！　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC067B",
     "hex": "82A282AD82C182C482CE82E6814981498176",
     "length": 18,
     "original": "いくってばよ！！」",
-    "translation": "いくってばよ！！」",
-    "skiped": true
+    "translation": "这就走啦！！」  ",
+    "skiped": false
   },
   {
     "offset": "0xC0694",
     "hex": "816982B582E1815B82F182C882EB815B81498149816A",
     "length": 22,
     "original": "（しゃーんなろー！！）",
-    "translation": "（しゃーんなろー！！）",
-    "skiped": true
+    "translation": "（可恶！！）     ",
+    "skiped": false
   },
   {
     "offset": "0xC06B4",
     "hex": "8140834983628350815B8149",
     "length": 12,
     "original": "　オッケー！",
-    "translation": "　オッケー！",
-    "skiped": true
+    "translation": "OK！　　　",
+    "skiped": false
   },
   {
     "offset": "0xC06C1",
     "hex": "814082A282A982C882A2",
     "length": 10,
     "original": "　いかない",
-    "translation": "　いかない",
-    "skiped": true
+    "translation": "不去　　　",
+    "skiped": false
   },
   {
     "offset": "0xC06D2",
     "hex": "817583548358835082AD82F18149814082D982C682F182C782CC8360815B838082CD",
     "length": 34,
     "original": "「サスケくん！　ほとんどのチームは",
-    "translation": "「サスケくん！　ほとんどのチームは",
-    "skiped": true
+    "translation": "「佐助君！　大部分的小队　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC06F5",
     "hex": "82E082A4814082A282C182BF82E182C182BD82DD82BD82A282E68176",
     "length": 28,
     "original": "もう　いっちゃったみたいよ」",
-    "translation": "もう　いっちゃったみたいよ」",
-    "skiped": true
+    "translation": "好像已经　进去了」     ",
+    "skiped": false
   },
   {
     "offset": "0xC0716",
     "hex": "81758349838C82BD82BF82E0814082A282AD82BC8149",
     "length": 22,
     "original": "「オレたちも　いくぞ！",
-    "translation": "「オレたちも　いくぞ！",
-    "skiped": true
+    "translation": "「我们也　走吧！　　　",
+    "skiped": false
   },
   {
     "offset": "0xC072D",
     "hex": "8369838B8367814981408354834E8389814981498176",
     "length": 22,
     "original": "ナルト！　サクラ！！」",
-    "translation": "ナルト！　サクラ！！」",
-    "skiped": true
+    "translation": "鸣人！　小樱！！」　　",
+    "skiped": false
   },
   {
     "offset": "0xC074A",
     "hex": "817582B182CC82B582AF82F182C582CD8140834A8389835F82F082CD82C182BD",
     "length": 32,
     "original": "「このしけんでは　カラダをはった",
-    "translation": "「このしけんでは　カラダをはった",
-    "skiped": true
+    "translation": "「这次考试　将进行　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC076B",
     "hex": "82B682E582A482D982A482CC82A482CE82A282A082A282AA814082A882B182C882ED82EA82E98176",
     "length": 40,
     "original": "じょうほうのうばいあいが　おこなわれる」",
-    "translation": "じょうほうのうばいあいが　おこなわれる」",
-    "skiped": true
+    "translation": "赌上性命的　情报争夺」　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC0796",
     "hex": "817582B182B182C982A282E98384836382E782CC814082AF82C282A282CD82A982BD82A2",
     "length": 36,
     "original": "「ここにいるヤツらの　けついはかたい",
-    "translation": "「ここにいるヤツらの　けついはかたい",
-    "skiped": true
+    "translation": "「这里的家伙　意志坚定　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC07BB",
     "hex": "82DE82AB82B882C582A882ED82E982B182C682CD82C882A2814082C182C482ED82AF82BE8176",
     "length": 38,
     "original": "むきずでおわることはない　ってわけだ」",
-    "translation": "むきずでおわることはない　ってわけだ」",
-    "skiped": true
+    "translation": "不会毫发无伤地结束」　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC07E6",
     "hex": "817582C682A282A482B182C682CD814581458145",
     "length": 20,
     "original": "「ということは・・・",
-    "translation": "「ということは・・・",
-    "skiped": true
+    "translation": "「也就是说・・・  ",
+    "skiped": false
   },
   {
     "offset": "0xC07FB",
     "hex": "82BA82F182A282F182AA814082C482AB814981488176",
     "length": 22,
     "original": "ぜんいんが　てき！？」",
-    "translation": "ぜんいんが　てき！？」",
-    "skiped": true
+    "translation": "全员都是　敌人！？」　",
+    "skiped": false
   },
   {
     "offset": "0xC0818",
     "hex": "816983748374814581458145814082C782A482A282B582E582CC82A282DD",
     "length": 30,
     "original": "（フフ・・・　どういしょのいみ",
-    "translation": "（フフ・・・　どういしょのいみ",
-    "skiped": true
+    "translation": "（呵呵・・・　斗志的含义　　　",
+    "skiped": false
   },
   {
     "offset": "0xC0837",
     "hex": "82B782B182B582CD814082ED82A982C182BD82DD82BD82A282CB8346814581458145816A",
     "length": 36,
     "original": "すこしは　わかったみたいねェ・・・）",
-    "translation": "すこしは　わかったみたいねェ・・・）",
-    "skiped": true
+    "translation": "好像稍微　明白了啊・・・）     ",
+    "skiped": false
   },
   {
     "offset": "0xC0862",
     "hex": "8175834A815B8365839382CC82DE82B182A482C5814082ED82BD82B782CC82A9814581458145",
     "length": 38,
     "original": "「カーテンのむこうで　わたすのか・・・",
-    "translation": "「カーテンのむこうで　わたすのか・・・",
-    "skiped": true
+    "translation": "「要在帘子对面　交卷吗・・・　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC0889",
     "hex": "82A982AD8360815B838082C982ED82BD82B382EA82BD81408AAA95A882CC82B582E382E982A28176",
     "length": 40,
     "original": "かくチームにわたされた　巻物のしゅるい」",
-    "translation": "かくチームにわたされた　巻物のしゅるい」",
-    "skiped": true
+    "translation": "发给各队的　卷轴种类」　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC08B4",
     "hex": "817582BB82B582C48140825282C982F182CC82A482BF814082BE82EA82AA8AAA95A882F0",
     "length": 36,
     "original": "「そして　３にんのうち　だれが巻物を",
-    "translation": "「そして　３にんのうち　だれが巻物を",
-    "skiped": true
+    "translation": "「而且　三人之中　谁拿着卷轴　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC08D9",
     "hex": "82E082C182C482A282E982A982E0814082ED82A982E782C882A2814082C182C482ED82AF82A98176",
     "length": 40,
     "original": "もっているかも　わからない　ってわけか」",
-    "translation": "もっているかも　わからない　ってわけか」",
-    "skiped": true
+    "translation": "也不得而知　是这个意思吧」　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC0906",
@@ -85444,16 +85444,16 @@
     "hex": "82B182BF82E782D682B182A281498176",
     "length": 16,
     "original": "こちらへこい！」",
-    "translation": "こちらへこい！」",
-    "skiped": true
+    "translation": "过来这边！」  ",
+    "skiped": false
   },
   {
     "offset": "0xC0944",
     "hex": "817582C282C382A282C4814082B582C182A982AD82B682E582A482AF82F182C982C282A282C4",
     "length": 38,
     "original": "「つづいて　しっかくじょうけんについて",
-    "translation": "「つづいて　しっかくじょうけんについて",
-    "skiped": true
+    "translation": "「接着　关于淘汰条件         ",
+    "skiped": false
   },
   {
     "offset": "0xC096B",
@@ -85892,8 +85892,8 @@
     "hex": "816982BF82CC82B582E5816A",
     "length": 12,
     "original": "（ちのしょ）",
-    "translation": "（ちのしょ）",
-    "skiped": true
+    "translation": "（地之书） ",
+    "skiped": false
   },
   {
     "offset": "0xC1075",
@@ -86052,8 +86052,8 @@
     "hex": "9383816982C682A4816A",
     "length": 10,
     "original": "塔（とう）",
-    "translation": "塔（とう）",
-    "skiped": true
+    "translation": "塔（塔） ",
+    "skiped": false
   },
   {
     "offset": "0xC132C",
@@ -87060,128 +87060,128 @@
     "hex": "82AD82F18148",
     "length": 6,
     "original": "くん？",
-    "translation": "くん？",
-    "skiped": true
+    "translation": "君？ ",
+    "skiped": false
   },
   {
     "offset": "0xC2315",
     "hex": "82E082A4814082B582E582A482D482CD814082C282A282C482A282E982CC82E6814981488176",
     "length": 38,
     "original": "もう　しょうぶは　ついているのよ！？」",
-    "translation": "もう　しょうぶは　ついているのよ！？」",
-    "skiped": true
+    "translation": "胜负已分　不是吗！？」        ",
+    "skiped": false
   },
   {
     "offset": "0xC2342",
     "hex": "817582AE82A782A882A882A082A0814981498176",
     "length": 20,
     "original": "「ぐぉおおああ！！」",
-    "translation": "「ぐぉおおああ！！」",
-    "skiped": true
+    "translation": "「呜啊啊啊啊！！」 ",
+    "skiped": false
   },
   {
     "offset": "0xC235E",
     "hex": "817589B982CC82E282C282E782F0814082BD82A882B982BD82DD82BD82A282CB",
     "length": 32,
     "original": "「音のやつらを　たおせたみたいね",
-    "translation": "「音のやつらを　たおせたみたいね",
-    "skiped": true
+    "translation": "「好像打倒了　音忍的家伙　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC237F",
     "hex": "81458145814582CB8346814083548358835082AD82F181498176",
     "length": 26,
     "original": "・・・ねェ　サスケくん！」",
-    "translation": "・・・ねェ　サスケくん！」",
-    "skiped": true
+    "translation": "・・・呐　佐助君！」　　　",
+    "skiped": false
   },
   {
     "offset": "0xC239E",
     "hex": "816983608383834E838982AA81408366834A82B782AC82E98149",
     "length": 26,
     "original": "（チャクラが　デカすぎる！",
-    "translation": "（チャクラが　デカすぎる！",
-    "skiped": true
+    "translation": "（查克拉　太强了！　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC23B9",
     "hex": "82A282AD82E782C882F182C582E0814082B182EA82D982C782DC82C582C1814581458145816A",
     "length": 38,
     "original": "いくらなんでも　これほどまでっ・・・）",
-    "translation": "いくらなんでも　これほどまでっ・・・）",
-    "skiped": true
+    "translation": "不管怎么说　竟然到这种地步・・・）  ",
+    "skiped": false
   },
   {
     "offset": "0xC23E4",
     "hex": "8175836883588149814082B182F182C882E282C282C9",
     "length": 22,
     "original": "「ドス！　こんなやつに",
-    "translation": "「ドス！　こんなやつに",
-    "skiped": true
+    "translation": "「多斯！　对这种家伙　",
+    "skiped": false
   },
   {
     "offset": "0xC23FB",
     "hex": "8372837282E982B182BD829F82CB82A682C1814981498176",
     "length": 24,
     "original": "ビビるこたぁねえっ！！」",
-    "translation": "ビビるこたぁねえっ！！」",
-    "skiped": true
+    "translation": "我才不会害怕！！」   ",
+    "skiped": false
   },
   {
     "offset": "0xC2418",
     "hex": "817582E682B9814981408355834E8149814082ED82A982E782C882A282CC82A9814981498176",
     "length": 38,
     "original": "「よせ！　ザク！　わからないのか！！」",
-    "translation": "「よせ！　ザク！　わからないのか！！」",
-    "skiped": true
+    "translation": "「住手！　萨克！　还不明白吗！！」  ",
+    "skiped": false
   },
   {
     "offset": "0xC2443",
     "hex": "817582A282AD82BC82C1814981498176",
     "length": 16,
     "original": "「いくぞっ！！」",
-    "translation": "「いくぞっ！！」",
-    "skiped": true
+    "translation": "「上了！！」  ",
+    "skiped": false
   },
   {
     "offset": "0xC245C",
     "hex": "81758354834E8389814581458145814082BE82EA82BE814581458145",
     "length": 28,
     "original": "「サクラ・・・　だれだ・・・",
-    "translation": "「サクラ・・・　だれだ・・・",
-    "skiped": true
+    "translation": "「小樱・・・　是谁・・・　　",
+    "skiped": false
   },
   {
     "offset": "0xC2479",
     "hex": "82A882DC82A682F0814082BB82F182C882C982B582BD82E282C282CD8145814581458176",
     "length": 36,
     "original": "おまえを　そんなにしたやつは・・・」",
-    "translation": "おまえを　そんなにしたやつは・・・」",
-    "skiped": true
+    "translation": "把你弄成这样的家伙・・・」     ",
+    "skiped": false
   },
   {
     "offset": "0xC24A2",
     "hex": "817581458145814583548358835082AD82F18176",
     "length": 20,
     "original": "「・・・サスケくん」",
-    "translation": "「・・・サスケくん」",
-    "skiped": true
+    "translation": "「・・・佐助君」  ",
+    "skiped": false
   },
   {
     "offset": "0xC24BB",
     "hex": "81758349838C82E782BE82E68145814581458176",
     "length": 20,
     "original": "「オレらだよ・・・」",
-    "translation": "「オレらだよ・・・」",
-    "skiped": true
+    "translation": "「是我们哟・・・」 ",
+    "skiped": false
   },
   {
     "offset": "0xC24D4",
     "hex": "81698EF488F3816982B682E382A282F1816A82AA8140834A8389835F82B682E382A482F0",
     "length": 36,
     "original": "（呪印（じゅいん）が　カラダじゅうを",
-    "translation": "（呪印（じゅいん）が　カラダじゅうを",
-    "skiped": true
+    "translation": "（咒印　在全身　　　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC24F9",
@@ -88660,664 +88660,664 @@
     "hex": "817582A282C182BD82A2814082C882C982AA814082E082AD82C482AB82C882CC82E6814981488176",
     "length": 40,
     "original": "「いったい　なにが　もくてきなのよ！？」",
-    "translation": "「いったい　なにが　もくてきなのよ！？」",
-    "skiped": true
+    "translation": "「到底　目的是什么！？」        ",
+    "skiped": false
   },
   {
     "offset": "0xC3D9D",
     "hex": "817583548358835082AD82F182CC814082AD82D182B782B682CC",
     "length": 26,
     "original": "「サスケくんの　くびすじの",
-    "translation": "「サスケくんの　くびすじの",
-    "skiped": true
+    "translation": "「佐助君　脖子上的　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC3DB8",
     "hex": "82D682F182C88341835582CD814082C882F182C882CC82E681498176",
     "length": 28,
     "original": "へんなアザは　なんなのよ！」",
-    "translation": "へんなアザは　なんなのよ！」",
-    "skiped": true
+    "translation": "奇怪的印记　是什么啊！」　　",
+    "skiped": false
   },
   {
     "offset": "0xC3DD7",
     "hex": "817583548358835082AD82F182F0814082B182F182C882C982B582C682A282C4814581458145",
     "length": 38,
     "original": "「サスケくんを　こんなにしといて・・・",
-    "translation": "「サスケくんを　こんなにしといて・・・",
-    "skiped": true
+    "translation": "「把佐助君　弄成这样・・・      ",
+    "skiped": false
   },
   {
     "offset": "0xC3DFE",
     "hex": "82C882C982AA814082BD82BD82A982A282BD82A282E6814981498176",
     "length": 28,
     "original": "なにが　たたかいたいよ！！」",
-    "translation": "なにが　たたかいたいよ！！」",
-    "skiped": true
+    "translation": "还想　打什么架啊！！」   ",
+    "skiped": false
   },
   {
     "offset": "0xC3E1F",
     "hex": "817581458145814582B3815B82C4",
     "length": 14,
     "original": "「・・・さーて",
-    "translation": "「・・・さーて",
-    "skiped": true
+    "translation": "「・・・那么 ",
+    "skiped": false
   },
   {
     "offset": "0xC3E2E",
     "hex": "82C882C982F0814082A882A982F182AA82A682C882CC82A982C8814082A082CC82D082C682CD8176",
     "length": 40,
     "original": "なにを　おかんがえなのかな　あのひとは」",
-    "translation": "なにを　おかんがえなのかな　あのひとは」",
-    "skiped": true
+    "translation": "那个人　究竟在想什么呢」　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC3E5B",
     "hex": "817582A682C181488176",
     "length": 10,
     "original": "「えっ？」",
-    "translation": "「えっ？」",
-    "skiped": true
+    "translation": "「诶？」 ",
+    "skiped": false
   },
   {
     "offset": "0xC3E6A",
     "hex": "817582B582A982B5814581458145814082BB82EA82F0814082AB82A282BF82E182A0",
     "length": 34,
     "original": "「しかし・・・　それを　きいちゃあ",
-    "translation": "「しかし・・・　それを　きいちゃあ",
-    "skiped": true
+    "translation": "「不过・・・　要是听到那个　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC3E8D",
     "hex": "82BE82DC82C182BF82E182E782EA82CB815B82C88176",
     "length": 22,
     "original": "だまっちゃられねーな」",
-    "translation": "だまっちゃられねーな」",
-    "skiped": true
+    "translation": "可骗不了我啊」    ",
+    "skiped": false
   },
   {
     "offset": "0xC3EA6",
     "hex": "817582B182CC83498393836982E081408349838C82AA82E282E9",
     "length": 26,
     "original": "「このオンナも　オレがやる",
-    "translation": "「このオンナも　オレがやる",
-    "skiped": true
+    "translation": "「这个女人也　由我来解决　",
+    "skiped": false
   },
   {
     "offset": "0xC3EC1",
     "hex": "83548358835082C682E282E782E081408349838C82AA82E282E98145814581458176",
     "length": 34,
     "original": "サスケとやらも　オレがやる・・・」",
-    "translation": "サスケとやらも　オレがやる・・・」",
-    "skiped": true
+    "translation": "佐助那家伙也　由我来解决・・・」　",
+    "skiped": false
   },
   {
     "offset": "0xC3EEA",
     "hex": "817582D3815B814581458145814082C682E882A082A682B8814082B182CC82A082BD82E882C982CD",
     "length": 40,
     "original": "「ふー・・・　とりあえず　このあたりには",
-    "translation": "「ふー・・・　とりあえず　このあたりには",
-    "skiped": true
+    "translation": "「呼・・・　总之　这附近　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC3F13",
     "hex": "82C482AB8360815B838082CD814082A282C882A282DD82BD82A282CB8145814581458176",
     "length": 36,
     "original": "てきチームは　いないみたいね・・・」",
-    "translation": "てきチームは　いないみたいね・・・」",
-    "skiped": true
+    "translation": "好像没有　敌队的样子・・・」    ",
+    "skiped": false
   },
   {
     "offset": "0xC3F3A",
     "hex": "817582A282DC82CC82A482BF82C9814083548358835082AD82F182C681408369838B836782F0",
     "length": 38,
     "original": "「いまのうちに　サスケくんと　ナルトを",
-    "translation": "「いまのうちに　サスケくんと　ナルトを",
-    "skiped": true
+    "translation": "「趁现在　把佐助君和鸣人　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC3F61",
     "hex": "82B182A982B082C9814082A282C782A482B382B982DC82B582E582A48145814581458176",
     "length": 36,
     "original": "こかげに　いどうさせましょう・・・」",
-    "translation": "こかげに　いどうさせましょう・・・」",
-    "skiped": true
+    "translation": "移动到　树荫下吧・・・」      ",
+    "skiped": false
   },
   {
     "offset": "0xC3F8A",
     "hex": "81758369838B836782CD814581458145",
     "length": 16,
     "original": "「ナルトは・・・",
-    "translation": "「ナルトは・・・",
-    "skiped": true
+    "translation": "「鸣人他・・・ ",
+    "skiped": false
   },
   {
     "offset": "0xC3F9D",
     "hex": "82AB82BA82C282B582C482E982BE82AF814082DD82BD82A282CB8176",
     "length": 28,
     "original": "きぜつしてるだけ　みたいね」",
-    "translation": "きぜつしてるだけ　みたいね」",
-    "skiped": true
+    "translation": "好像只是　昏迷了」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC3FBC",
     "hex": "817582ED82BD82B582AA814581458145",
     "length": 16,
     "original": "「わたしが・・・",
-    "translation": "「わたしが・・・",
-    "skiped": true
+    "translation": "「我・・・   ",
+    "skiped": false
   },
   {
     "offset": "0xC3FCF",
     "hex": "82ED82BD82B582AA814082D382BD82E882F082DC82E082E782C882AB82E18145814581458176",
     "length": 38,
     "original": "わたしが　ふたりをまもらなきゃ・・・」",
-    "translation": "わたしが　ふたりをまもらなきゃ・・・」",
-    "skiped": true
+    "translation": "我必须　保护两个人・・・」      ",
+    "skiped": false
   },
   {
     "offset": "0xC3FF8",
     "hex": "817582D382BD82E882F0814082A882A282C482AD82CC82CD814082B582F182CF82A282BE82AF82C7",
     "length": 40,
     "original": "「ふたりを　おいてくのは　しんぱいだけど",
-    "translation": "「ふたりを　おいてくのは　しんぱいだけど",
-    "skiped": true
+    "translation": "「虽然把两个人　留在这里很担心　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC4021",
     "hex": "82A082BD82E882CC82E682A482B782F0814082A982AD82C982F182B582C882AB82E18176",
     "length": 36,
     "original": "あたりのようすを　かくにんしなきゃ」",
-    "translation": "あたりのようすを　かくにんしなきゃ」",
-    "skiped": true
+    "translation": "但必须　确认周围的情况」　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC4048",
     "hex": "817582BB82A482E68149814082A282DC82CD8354836F8343836F838B82BF82E382A482BE82A982E7",
     "length": 40,
     "original": "「そうよ！　いまはサバイバルちゅうだから",
-    "translation": "「そうよ！　いまはサバイバルちゅうだから",
-    "skiped": true
+    "translation": "「没错！　现在是生存演习中       ",
+    "skiped": false
   },
   {
     "offset": "0xC4071",
     "hex": "82C882C982AA82A882B182E982A9814082ED82A982E782C882A282E082CC8176",
     "length": 32,
     "original": "なにがおこるか　わからないもの」",
-    "translation": "なにがおこるか　わからないもの」",
-    "skiped": true
+    "translation": "不知道　会发生什么」　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC4094",
     "hex": "817582BD82A282B982A282F0814082C682C682CC82A682C4814082C682E882A082A682B8",
     "length": 36,
     "original": "「たいせいを　ととのえて　とりあえず",
-    "translation": "「たいせいを　ととのえて　とりあえず",
-    "skiped": true
+    "translation": "「整顿好态势　总之　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC40B9",
     "hex": "82B582BD82CC82D982A482A982E7814082B582E782D782DC82B582E582A48176",
     "length": 32,
     "original": "したのほうから　しらべましょう」",
-    "translation": "したのほうから　しらべましょう」",
-    "skiped": true
+    "translation": "从下面开始　搜索吧」　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC40DE",
     "hex": "817583548358835082AD82F182CD8145814581458140",
     "length": 22,
     "original": "「サスケくんは・・・　",
-    "translation": "「サスケくんは・・・　",
-    "skiped": true
+    "translation": "「佐助君是・・・　　　",
+    "skiped": false
   },
   {
     "offset": "0xC40F6",
     "hex": "82BE82A282B682E582A482D4",
     "length": 12,
     "original": "だいじょうぶ",
-    "translation": "だいじょうぶ",
-    "skiped": true
+    "translation": "没问题   ",
+    "skiped": false
   },
   {
     "offset": "0xC4103",
     "hex": "82B182AB82E382A482CD814082A882BF82C282A282C482AB82C482E98176",
     "length": 30,
     "original": "こきゅうは　おちついてきてる」",
-    "translation": "こきゅうは　おちついてきてる」",
-    "skiped": true
+    "translation": "呼吸已经　平稳下来了」　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC4126",
     "hex": "81758369838B83678149814082BB82F182C882C682B182C582CB82C482C882A282C5",
     "length": 34,
     "original": "「ナルト！　そんなとこでねてないで",
-    "translation": "「ナルト！　そんなとこでねてないで",
-    "skiped": true
+    "translation": "「鸣人！　别在那睡觉       ",
+    "skiped": false
   },
   {
     "offset": "0xC4149",
     "hex": "82A882AB82C4814082B182C182BF82AB82C482E6814981498176",
     "length": 26,
     "original": "おきて　こっちきてよ！！」",
-    "translation": "おきて　こっちきてよ！！」",
-    "skiped": true
+    "translation": "快起来　过来啊！！」　　　",
+    "skiped": false
   },
   {
     "offset": "0xC4166",
     "hex": "817582A482C1814581458145814082A482C1814581458145",
     "length": 24,
     "original": "「うっ・・・　うっ・・・",
-    "translation": "「うっ・・・　うっ・・・",
-    "skiped": true
+    "translation": "「呜・・・　呜・・・　　",
+    "skiped": false
   },
   {
     "offset": "0xC417F",
     "hex": "82ED82BD82B5814581458145814082C782A482B582BD82E782A282A282CC814981488176",
     "length": 36,
     "original": "わたし・・・　どうしたらいいの！？」",
-    "translation": "わたし・・・　どうしたらいいの！？」",
-    "skiped": true
+    "translation": "我・・・　该怎么办啊！？」     ",
+    "skiped": false
   },
   {
     "offset": "0xC41A6",
     "hex": "817582A482C1814581458145814082A482C18145814581458176",
     "length": 26,
     "original": "「うっ・・・　うっ・・・」",
-    "translation": "「うっ・・・　うっ・・・」",
-    "skiped": true
+    "translation": "「呜・・・　呜・・・」　　",
+    "skiped": false
   },
   {
     "offset": "0xC41C3",
     "hex": "816982A882BF82C282A282C4814581458145",
     "length": 18,
     "original": "（おちついて・・・",
-    "translation": "（おちついて・・・",
-    "skiped": true
+    "translation": "（冷静点・・・  ",
+    "skiped": false
   },
   {
     "offset": "0xC41D6",
     "hex": "82A882BF82C282A282C4814082A982F182AA82A682E982CC82E68149816A",
     "length": 30,
     "original": "おちついて　かんがえるのよ！）",
-    "translation": "おちついて　かんがえるのよ！）",
-    "skiped": true
+    "translation": "冷静下来　好好思考！）　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC41FA",
     "hex": "817582A482C1814581458145814082A482C1814581458145",
     "length": 24,
     "original": "「うっ・・・　うっ・・・",
-    "translation": "「うっ・・・　うっ・・・",
-    "skiped": true
+    "translation": "「呜・・・　呜・・・　　",
+    "skiped": false
   },
   {
     "offset": "0xC4213",
     "hex": "8369838B8367814581458145814083548358835082AD82F182AA8145814581458176",
     "length": 34,
     "original": "ナルト・・・　サスケくんが・・・」",
-    "translation": "ナルト・・・　サスケくんが・・・」",
-    "skiped": true
+    "translation": "鸣人・・・　佐助君他・・・」   ",
+    "skiped": false
   },
   {
     "offset": "0xC423A",
     "hex": "817582AE82A082A082A082A082A082A082A082A082A082A082A082A0814981498176",
     "length": 34,
     "original": "「ぐああああああああああああ！！」",
-    "translation": "「ぐああああああああああああ！！」",
-    "skiped": true
+    "translation": "「啊啊啊啊啊啊啊啊啊啊！！」   ",
+    "skiped": false
   },
   {
     "offset": "0xC4261",
     "hex": "817582B582C182A982E882B582C4814083548358835082AD82F181498176",
     "length": 30,
     "original": "「しっかりして　サスケくん！」",
-    "translation": "「しっかりして　サスケくん！」",
-    "skiped": true
+    "translation": "「振作点　佐助君！」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC4284",
     "hex": "8175834F834483498349834983498349834983498349834983498349814981498176",
     "length": 34,
     "original": "「グゥオオオオオオオオオオオ！！」",
-    "translation": "「グゥオオオオオオオオオオオ！！」",
-    "skiped": true
+    "translation": "「呃噢噢噢噢噢噢噢噢噢噢！！」  ",
+    "skiped": false
   },
   {
     "offset": "0xC42AE",
     "hex": "817583418393835E8149",
     "length": 10,
     "original": "「アンタ！",
-    "translation": "「アンタ！",
-    "skiped": true
+    "translation": "「你！  ",
+    "skiped": false
   },
   {
     "offset": "0xC42B9",
     "hex": "83548358835082AD82F182C9814082C882C982F082B582BD82CC82E681498176",
     "length": 32,
     "original": "サスケくんに　なにをしたのよ！」",
-    "translation": "サスケくんに　なにをしたのよ！」",
-    "skiped": true
+    "translation": "你对佐助君　做了什么！」　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC42E0",
     "hex": "817582ED82A982EA82CC81408376838C835B8393836782F0",
     "length": 24,
     "original": "「わかれの　プレゼントを",
-    "translation": "「わかれの　プレゼントを",
-    "skiped": true
+    "translation": "「离别　的礼物　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC42F9",
     "hex": "82A082B082BD82CC82E68145814581458176",
     "length": 18,
     "original": "あげたのよ・・・」",
-    "translation": "あげたのよ・・・」",
-    "skiped": true
+    "translation": "送给他了・・・」 ",
+    "skiped": false
   },
   {
     "offset": "0xC4312",
     "hex": "816982C882C981458145814581408352838C81498148",
     "length": 22,
     "original": "（なに・・・　コレ！？",
-    "translation": "（なに・・・　コレ！？",
-    "skiped": true
+    "translation": "（什么・・・　这个！？",
+    "skiped": false
   },
   {
     "offset": "0xC4329",
     "hex": "82AD82D182B782B682C9814082D682F182C88341835582AA82C582AB82C482E9816A",
     "length": 34,
     "original": "くびすじに　へんなアザができてる）",
-    "translation": "くびすじに　へんなアザができてる）",
-    "skiped": true
+    "translation": "脖子上　出现了奇怪的印记）    ",
+    "skiped": false
   },
   {
     "offset": "0xC4354",
     "hex": "817583548358835082AD82F182CD814082A982C882E782B88140838F835E835682F0",
     "length": 34,
     "original": "「サスケくんは　かならず　ワタシを",
-    "translation": "「サスケくんは　かならず　ワタシを",
-    "skiped": true
+    "translation": "「佐助君　一定会　来找我　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC4377",
     "hex": "82E082C682DF82E98149",
     "length": 10,
     "original": "もとめる！",
-    "translation": "もとめる！",
-    "skiped": true
+    "translation": "寻求力量！",
+    "skiped": false
   },
   {
     "offset": "0xC4383",
     "hex": "81408360834A838982F0814082E082C682DF82C482CB8145814581458176",
     "length": 30,
     "original": "　チカラを　もとめてね・・・」",
-    "translation": "　チカラを　もとめてね・・・」",
-    "skiped": true
+    "translation": "寻求力量・・・」　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC43A6",
     "hex": "817582AE82C18149814082C8814581458145814082C882F182BE814581458145",
     "length": 32,
     "original": "「ぐっ！　な・・・　なんだ・・・",
-    "translation": "「ぐっ！　な・・・　なんだ・・・",
-    "skiped": true
+    "translation": "「咕！　怎・・・　怎么回事・・・",
+    "skiped": false
   },
   {
     "offset": "0xC43C7",
     "hex": "82AB82E382A482C9814581458145814082AD82E982B58145814581458176",
     "length": 30,
     "original": "きゅうに・・・　くるし・・・」",
-    "translation": "きゅうに・・・　くるし・・・」",
-    "skiped": true
+    "translation": "突然・・・　好痛苦・・・」　　",
+    "skiped": false
   },
   {
     "offset": "0xC43EA",
     "hex": "816982C882C982C18149814083528343836381408349838C82CC82AD82D182B782B682C9",
     "length": 36,
     "original": "（なにっ！　コイツ　オレのくびすじに",
-    "translation": "（なにっ！　コイツ　オレのくびすじに",
-    "skiped": true
+    "translation": "（什么！　这家伙　咬了我的脖子　　　",
+    "skiped": false
   },
   {
     "offset": "0xC440F",
     "hex": "82A982DD82C282AB82E282AA82C182BD81498149816A",
     "length": 22,
     "original": "かみつきやがった！！）",
-    "translation": "かみつきやがった！！）",
-    "skiped": true
+    "translation": "一口！！）      ",
+    "skiped": false
   },
   {
     "offset": "0xC442C",
     "hex": "81758EF488F38F70816982B682E382A282F182B682E382C2816A8176",
     "length": 28,
     "original": "「呪印術（じゅいんじゅつ）」",
-    "translation": "「呪印術（じゅいんじゅつ）」",
-    "skiped": true
+    "translation": "「咒印术」         ",
+    "skiped": false
   },
   {
     "offset": "0xC444E",
     "hex": "817582A082C18149814881408AAA95A882AA814082A082A282C282CC",
     "length": 28,
     "original": "「あっ！？　巻物が　あいつの",
-    "translation": "「あっ！？　巻物が　あいつの",
-    "skiped": true
+    "translation": "「啊！？　卷轴　钻进了　　　",
+    "skiped": false
   },
   {
     "offset": "0xC446B",
     "hex": "834A8389835F82CC82C882A982C9814082CD82A282C182BF82E182C182BD8145814581458176",
     "length": 38,
     "original": "カラダのなかに　はいっちゃった・・・」",
-    "translation": "カラダのなかに　はいっちゃった・・・」",
-    "skiped": true
+    "translation": "那家伙的　身体里去了・・・」     ",
+    "skiped": false
   },
   {
     "offset": "0xC4498",
     "hex": "817582ED82BD82B582CC814082CD82A282A982C582A082E9",
     "length": 24,
     "original": "「わたしの　はいかである",
-    "translation": "「わたしの　はいかである",
-    "skiped": true
+    "translation": "「我的　部下　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC44B1",
     "hex": "89B982CC825282C982F182B582E382A482F0814082E282D482C182C482CB8145814581458176",
     "length": 38,
     "original": "音の３にんしゅうを　やぶってね・・・」",
-    "translation": "音の３にんしゅうを　やぶってね・・・」",
-    "skiped": true
+    "translation": "音隐三人众　被打败了・・・」　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC44DC",
     "hex": "817583418393835E82C882F182A982CC82A982A8814082B182C182BF82CD",
     "length": 30,
     "original": "「アンタなんかのかお　こっちは",
-    "translation": "「アンタなんかのかお　こっちは",
-    "skiped": true
+    "translation": "「你这种人的脸　我　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC44FB",
     "hex": "82E082A4825182C782C6814082DD82BD82AD82C882A282C182C482A282A482CC82E681498176",
     "length": 38,
     "original": "もう２どと　みたくないっていうのよ！」",
-    "translation": "もう２どと　みたくないっていうのよ！」",
-    "skiped": true
+    "translation": "绝对不想　再看到第二次！」      ",
+    "skiped": false
   },
   {
     "offset": "0xC4528",
     "hex": "817583748374814581458145",
     "length": 12,
     "original": "「フフ・・・",
-    "translation": "「フフ・・・",
-    "skiped": true
+    "translation": "「呵呵・・・",
+    "skiped": false
   },
   {
     "offset": "0xC4535",
     "hex": "82BB82A482CD814082A282A982C882A282CC82E68145814581458176",
     "length": 28,
     "original": "そうは　いかないのよ・・・」",
-    "translation": "そうは　いかないのよ・・・」",
-    "skiped": true
+    "translation": "那可　由不得你哦・・・」  ",
+    "skiped": false
   },
   {
     "offset": "0xC4556",
     "hex": "817582A482AE82C18149",
     "length": 10,
     "original": "「うぐっ！",
-    "translation": "「うぐっ！",
-    "skiped": true
+    "translation": "「呜咕！ ",
+    "skiped": false
   },
   {
     "offset": "0xC4561",
     "hex": "834A8145814581458140834A8389835F82AA82A482B282A982C882A281498176",
     "length": 32,
     "original": "カ・・・　カラダがうごかない！」",
-    "translation": "カ・・・　カラダがうごかない！」",
-    "skiped": true
+    "translation": "身・・・　身体动不了！」    ",
+    "skiped": false
   },
   {
     "offset": "0xC4588",
     "hex": "817582E282C182CF82E88140",
     "length": 12,
     "original": "「やっぱり　",
-    "translation": "「やっぱり　",
-    "skiped": true
+    "translation": "「果然　　　",
+    "skiped": false
   },
   {
     "offset": "0xC4596",
     "hex": "82AB82E582A482BE82A2",
     "length": 10,
     "original": "きょうだい",
-    "translation": "きょうだい",
-    "skiped": true
+    "translation": "兄弟   ",
+    "skiped": false
   },
   {
     "offset": "0xC45A2",
     "hex": "82BE82ED82CB8145814581458176",
     "length": 14,
     "original": "だわね・・・」",
-    "translation": "だわね・・・」",
-    "skiped": true
+    "translation": "呢・・・」  ",
+    "skiped": false
   },
   {
     "offset": "0xC45B3",
     "hex": "817582A082CC8140",
     "length": 8,
     "original": "「あの　",
-    "translation": "「あの　",
-    "skiped": true
+    "translation": "「那个　",
+    "skiped": false
   },
   {
     "offset": "0xC45BD",
     "hex": "81678343835E83608168",
     "length": 10,
     "original": "“イタチ”",
-    "translation": "“イタチ”",
-    "skiped": true
+    "translation": "“鼬”  ",
+    "skiped": false
   },
   {
     "offset": "0xC45C9",
     "hex": "82A282B682E582A482CC",
     "length": 10,
     "original": "いじょうの",
-    "translation": "いじょうの",
-    "skiped": true
+    "translation": "以上   ",
+    "skiped": false
   },
   {
     "offset": "0xC45D4",
     "hex": "8360834A838982F082D082DF82BD814096DA82F082B582C482A282E98176",
     "length": 30,
     "original": "チカラをひめた　目をしている」",
-    "translation": "チカラをひめた　目をしている」",
-    "skiped": true
+    "translation": "蕴含力量　的眼睛」　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC45F7",
     "hex": "817582A882DC82A682CD814082A282C182BD82A2814082C882C982E082CC82BE814981488176",
     "length": 38,
     "original": "「おまえは　いったい　なにものだ！？」",
-    "translation": "「おまえは　いったい　なにものだ！？」",
-    "skiped": true
+    "translation": "「你　到底是　什么人！？」　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC4624",
     "hex": "817581458145814582ED82BD82B582CC814082C882DC82A682CD",
     "length": 26,
     "original": "「・・・わたしの　なまえは",
-    "translation": "「・・・わたしの　なまえは",
-    "skiped": true
+    "translation": "「・・・我的　名字是　　　",
+    "skiped": false
   },
   {
     "offset": "0xC4641",
     "hex": "91E58ED68ADB81698349838D836082DC82E9816A",
     "length": 20,
     "original": "大蛇丸（オロチまる）",
-    "translation": "大蛇丸（オロチまる）",
-    "skiped": true
+    "translation": "大蛇丸       ",
+    "skiped": false
   },
   {
     "offset": "0xC465C",
     "hex": "817582E082B5834C837E82AA814082ED82BD82B582C982D382BD82BD82D1",
     "length": 30,
     "original": "「もしキミが　わたしにふたたび",
-    "translation": "「もしキミが　わたしにふたたび",
-    "skiped": true
+    "translation": "「如果你　再次对我　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC467B",
     "hex": "82C582A082A282BD82A282C6814082A882E082A482C882E78145814581458176",
     "length": 32,
     "original": "であいたいと　おもうなら・・・」",
-    "translation": "であいたいと　おもうなら・・・」",
-    "skiped": true
+    "translation": "若想相见的话・・・」　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC469E",
     "hex": "817582B182CC82B582AF82F182F0814082B582C982E082CC82AE82E982A282C5",
     "length": 32,
     "original": "「このしけんを　しにものぐるいで",
-    "translation": "「このしけんを　しにものぐるいで",
-    "skiped": true
+    "translation": "「拼上性命去通过　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC46BF",
     "hex": "82A982AF82A082AA82C182C482A882A282C58145814581458176",
     "length": 26,
     "original": "かけあがっておいで・・・」",
-    "translation": "かけあがっておいで・・・」",
-    "skiped": true
+    "translation": "这场考试吧・・・」    ",
+    "skiped": false
   },
   {
     "offset": "0xC46E0",
     "hex": "817582B182EA82C5814082B582CE82E782AD81408369838B836782AD82F182CD",
     "length": 32,
     "original": "「これで　しばらく　ナルトくんは",
-    "translation": "「これで　しばらく　ナルトくんは",
-    "skiped": true
+    "translation": "「这样　鸣人君一时半会　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC4701",
     "hex": "82A482B282AF82C882A282C582B582E582A48145814581458176",
     "length": 26,
     "original": "うごけないでしょう・・・」",
-    "translation": "うごけないでしょう・・・」",
-    "skiped": true
+    "translation": "应该动不了了吧・・・」  ",
+    "skiped": false
   },
   {
     "offset": "0xC4720",
     "hex": "817582C882C982B582E282AA82C182BD814981498176",
     "length": 22,
     "original": "「なにしやがった！！」",
-    "translation": "「なにしやがった！！」",
-    "skiped": true
+    "translation": "「你干了什么！！」  ",
+    "skiped": false
   },
   {
     "offset": "0xC473D",
     "hex": "817582A282EB82A282EB82C68140834C837E82CC8360834A838982AA82DD82EA82C4",
     "length": 34,
     "original": "「いろいろと　キミのチカラがみれて",
-    "translation": "「いろいろと　キミのチカラがみれて",
-    "skiped": true
+    "translation": "「见识了你的各种力量       ",
+    "skiped": false
   },
   {
     "offset": "0xC4760",
@@ -89340,7 +89340,7 @@
     "hex": "81758CDC8D73959588F3816982B282AC82E582A482D382A482A282F1816A8176",
     "length": 32,
     "original": "「五行封印（ごぎょうふういん）」",
-    "translation": "「五行封印（ごぎょうふういん）」",
+    "translation": "「五行封印」          ",
     "skiped": false
   },
   {
@@ -93900,360 +93900,360 @@
     "hex": "817582A082C882BD82CC8360834A838982AA814082D082C282E682A482C882CC82C582B7",
     "length": 36,
     "original": "「あなたのチカラが　ひつようなのです",
-    "translation": "「あなたのチカラが　ひつようなのです",
-    "skiped": true
+    "translation": "「我们需要你的力量　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC92FE",
     "hex": "8145814581458EA9978896E782B382DC814981498176",
     "length": 22,
     "original": "・・・自来也さま！！」",
-    "translation": "・・・自来也さま！！」",
-    "skiped": true
+    "translation": "・・・自来也大人！！」",
+    "skiped": false
   },
   {
     "offset": "0xC932E",
     "hex": "817582ED82E982A282CC8140834783728358814581458145814082A882B582A682B282F0",
     "length": 36,
     "original": "「わるいの　エビス・・・　おしえごを",
-    "translation": "「わるいの　エビス・・・　おしえごを",
-    "skiped": true
+    "translation": "“抱歉　惠比寿・・・　抢了你的　　　",
+    "skiped": false
   },
   {
     "offset": "0xC9353",
     "hex": "82E682B182C782E882B582BF82DC82C182C482CC83488145814581458176",
     "length": 30,
     "original": "よこどりしちまってのォ・・・」",
-    "translation": "よこどりしちまってのォ・・・」",
-    "skiped": true
+    "translation": "学生来教・・・”       ",
+    "skiped": false
   },
   {
     "offset": "0xC9378",
     "hex": "817582A282A6814082BB82EA82E682E8814082A882C782EB82AB82DC82B582BD814082E482AD82A6",
     "length": 40,
     "original": "「いえ　それより　おどろきました　ゆくえ",
-    "translation": "「いえ　それより　おどろきました　ゆくえ",
-    "skiped": true
+    "translation": "“不　比起那个　我很惊讶　行踪　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC93A1",
     "hex": "82B582EA82B882CC814083418369835E82AA814097A282C982A882E782EA82BD82C682CD8176",
     "length": 38,
     "original": "しれずの　アナタが　里におられたとは」",
-    "translation": "しれずの　アナタが　里におられたとは」",
-    "skiped": true
+    "translation": "不明的您　竟然在村里”　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC93CA",
     "hex": "817582E282CD82E8814581458145814091E58ED68ADB82CC82B182C682C58145814581458176",
     "length": 38,
     "original": "「やはり・・・　大蛇丸のことで・・・」",
-    "translation": "「やはり・・・　大蛇丸のことで・・・」",
-    "skiped": true
+    "translation": "“果然・・・　是因为大蛇丸的事・・・”",
+    "skiped": false
   },
   {
     "offset": "0xC93F5",
     "hex": "817583438384814581458145",
     "length": 12,
     "original": "「イヤ・・・",
-    "translation": "「イヤ・・・",
-    "skiped": true
+    "translation": "“不・・・ ",
+    "skiped": false
   },
   {
     "offset": "0xC9402",
     "hex": "82B482F182CB82F182C882AA82E7814082BF82AA82A482C182C482CC8176",
     "length": 30,
     "original": "ざんねんながら　ちがうっての」",
-    "translation": "ざんねんながら　ちがうっての」",
-    "skiped": true
+    "translation": "很遗憾　并不是”　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC9423",
     "hex": "8175838F835682CD82BD82BE814082B582E582A482B982C282CC836C835E82B382AA82B582C9",
     "length": 38,
     "original": "「ワシはただ　しょうせつのネタさがしに",
-    "translation": "「ワシはただ　しょうせつのネタさがしに",
-    "skiped": true
+    "translation": "“老夫只是来找小说的素材       ",
+    "skiped": false
   },
   {
     "offset": "0xC944A",
     "hex": "82E682C182BD82BE82AF82BE8145814581458176",
     "length": 20,
     "original": "よっただけだ・・・」",
-    "translation": "よっただけだ・・・」",
-    "skiped": true
+    "translation": "路过而已・・・”  ",
+    "skiped": false
   },
   {
     "offset": "0xC9461",
     "hex": "817582DF82F182C782A482C982CD814082AD82D182F082C282C182B182DC82CB8346815B",
     "length": 36,
     "original": "「めんどうには　くびをつっこまねェー",
-    "translation": "「めんどうには　くびをつっこまねェー",
-    "skiped": true
+    "translation": "“我可不想　把头伸进        ",
+    "skiped": false
   },
   {
     "offset": "0xC9486",
     "hex": "835E8343837682C882F182C582CC834881498176",
     "length": 20,
     "original": "タイプなんでのォ！」",
-    "translation": "タイプなんでのォ！」",
-    "skiped": true
+    "translation": "麻烦事里！”    ",
+    "skiped": false
   },
   {
     "offset": "0xC94A2",
     "hex": "8175834983628350815B81498140834983628350815B8149",
     "length": 24,
     "original": "「オッケー！　オッケー！",
-    "translation": "「オッケー！　オッケー！",
-    "skiped": true
+    "translation": "“OK！　OK！　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC94BB",
     "hex": "82B182EA82C58140836F83628360838A82BE82C182C482CE82E6814981498176",
     "length": 32,
     "original": "これで　バッチリだってばよ！！」",
-    "translation": "これで　バッチリだってばよ！！」",
-    "skiped": true
+    "translation": "这下万无一失了的说！！”    ",
+    "skiped": false
   },
   {
     "offset": "0xC94E0",
     "hex": "817582BB82EB82C182BD82E682A482BE82CC8348814581458145",
     "length": 26,
     "original": "「そろったようだのォ・・・",
-    "translation": "「そろったようだのォ・・・",
-    "skiped": true
+    "translation": "“看来都到齐了啊・・・  ",
+    "skiped": false
   },
   {
     "offset": "0xC94FB",
     "hex": "82C582CD814082A282DC82A982E781408F438BC682F082A982A282B582B782E9814981498176",
     "length": 38,
     "original": "では　いまから　修業をかいしする！！」",
-    "translation": "では　いまから　修業をかいしする！！」",
-    "skiped": true
+    "translation": "那么　现在开始　修行！！”      ",
+    "skiped": false
   },
   {
     "offset": "0xC9526",
     "hex": "817582E6815B82B5834281498140",
     "length": 14,
     "original": "「よーしィ！　",
-    "translation": "「よーしィ！　",
-    "skiped": true
+    "translation": "“好！　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC9536",
     "hex": "82BF82AC82EA82BD8379815B8357",
     "length": 14,
     "original": "ちぎれたページ",
-    "translation": "ちぎれたページ",
-    "skiped": true
+    "translation": "缺页     ",
+    "skiped": false
   },
   {
     "offset": "0xC9546",
     "hex": "814082B382AA82B582C9",
     "length": 10,
     "original": "　さがしに",
-    "translation": "　さがしに",
-    "skiped": true
+    "translation": "去找　　　",
+    "skiped": false
   },
   {
     "offset": "0xC9551",
     "hex": "82B582E382C182CF82C282BE82C182C482CE82E6814981498176",
     "length": 26,
     "original": "しゅっぱつだってばよ！！」",
-    "translation": "しゅっぱつだってばよ！！」",
-    "skiped": true
+    "translation": "出发了的说！！”     ",
+    "skiped": false
   },
   {
     "offset": "0xC9572",
     "hex": "817582E682B58149814082AB82DC82E882BE82C88149",
     "length": 22,
     "original": "「よし！　きまりだな！",
-    "translation": "「よし！　きまりだな！",
-    "skiped": true
+    "translation": "“好！　决定了！　　　",
+    "skiped": false
   },
   {
     "offset": "0xC958B",
     "hex": "82BF82AC82EA82BD8379815B8357",
     "length": 14,
     "original": "ちぎれたページ",
-    "translation": "ちぎれたページ",
-    "skiped": true
+    "translation": "缺页     ",
+    "skiped": false
   },
   {
     "offset": "0xC959B",
     "hex": "82CD814082BA82F182D482C5",
     "length": 12,
     "original": "は　ぜんぶで",
-    "translation": "は　ぜんぶで",
-    "skiped": true
+    "translation": "一共有　　　",
+    "skiped": false
   },
   {
     "offset": "0xC95AD",
     "hex": "82DC82A282A082E98176",
     "length": 10,
     "original": "まいある」",
-    "translation": "まいある」",
-    "skiped": true
+    "translation": "3枚”  ",
+    "skiped": false
   },
   {
     "offset": "0xC95BE",
     "hex": "82BF82AC82EA82BD8379815B8357",
     "length": 14,
     "original": "ちぎれたページ",
-    "translation": "ちぎれたページ",
-    "skiped": true
+    "translation": "缺页     ",
+    "skiped": false
   },
   {
     "offset": "0xC95CE",
     "hex": "82CD814082A882DC82A682AA814082A282DC82DC82C5",
     "length": 22,
     "original": "は　おまえが　いままで",
-    "translation": "は　おまえが　いままで",
-    "skiped": true
+    "translation": "就在你　至今　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC95E5",
     "hex": "82A282AF82C882A982C182BD82C682B182EB82C9814082A082E9836E835982B682E18176",
     "length": 36,
     "original": "いけなかったところに　あるハズじゃ」",
-    "translation": "いけなかったところに　あるハズじゃ」",
-    "skiped": true
+    "translation": "没能去的地方”　　　　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC960C",
     "hex": "817582BB82A482BE82CC8348814581458145814082A882DC82A682A282AA82A282C982E0",
     "length": 36,
     "original": "「そうだのォ・・・　おまえいがいにも",
-    "translation": "「そうだのォ・・・　おまえいがいにも",
-    "skiped": true
+    "translation": "“没错啊・・・　除了你之外　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC9631",
     "hex": "82A082C682D382BD82E8814082B382BB82C182C4814082A282C182C482E082A282A282BC8176",
     "length": 38,
     "original": "あとふたり　さそって　いってもいいぞ」",
-    "translation": "あとふたり　さそって　いってもいいぞ」",
-    "skiped": true
+    "translation": "还可以再叫两个人去哦”　　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC965A",
     "hex": "817581458145814582C682A282C182C482E0814082AB82DF82E982B682A982F182F0",
     "length": 34,
     "original": "「・・・といっても　きめるじかんを",
-    "translation": "「・・・といっても　きめるじかんを",
-    "skiped": true
+    "translation": "“・・・虽说如此　还是稍微　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC967D",
     "hex": "82BF82E582C182AD82E782E282EB82A481768140",
     "length": 20,
     "original": "ちょっくらやろう」　",
-    "translation": "ちょっくらやろう」　",
-    "skiped": true
+    "translation": "定个时间吧”　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC9694",
     "hex": "817582BB82CC82A082A282BE82C9814082BE82EA82F082B382BB82A482A9",
     "length": 30,
     "original": "「そのあいだに　だれをさそうか",
-    "translation": "「そのあいだに　だれをさそうか",
-    "skiped": true
+    "translation": "“在那期间　好好考虑　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC96B3",
     "hex": "82E6815B82AD814082A982F182AA82A682EB8176",
     "length": 20,
     "original": "よーく　かんがえろ」",
-    "translation": "よーく　かんがえろ」",
-    "skiped": true
+    "translation": "要叫谁吧”　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC96CE",
     "hex": "817582E282E98149814082E282E982C182C482CE82E6814981498176",
     "length": 28,
     "original": "「やる！　やるってばよ！！」",
-    "translation": "「やる！　やるってばよ！！」",
-    "skiped": true
+    "translation": "“我要做！　我会做的说！！”",
+    "skiped": false
   },
   {
     "offset": "0xC96F2",
     "hex": "817582DC82A0814082B182EA82C582A882DC82A682E08140908582CC82A482A682F0",
     "length": 34,
     "original": "「まあ　これでおまえも　水のうえを",
-    "translation": "「まあ　これでおまえも　水のうえを",
-    "skiped": true
+    "translation": "“嘛　这样你也能在水面　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC9715",
     "hex": "82A082E982AF82E982B682E182EB815B82C481498176",
     "length": 22,
     "original": "あるけるじゃろーて！」",
-    "translation": "あるけるじゃろーて！」",
-    "skiped": true
+    "translation": "行走了吧！”     ",
+    "skiped": false
   },
   {
     "offset": "0xC9730",
     "hex": "817582C582E082B383408140908596CA95E08D7382CC8BC682AA814082C582AB82BD82F182C882E7",
     "length": 40,
     "original": "「でもさァ　水面歩行の業が　できたんなら",
-    "translation": "「でもさァ　水面歩行の業が　できたんなら",
-    "skiped": true
+    "translation": "“但是　既然学会了水面行走的术　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC9759",
     "hex": "8F438BC682B182EA82C582A882ED82E882B682E182F181498176",
     "length": 26,
     "original": "修業これでおわりじゃん！」",
-    "translation": "修業これでおわりじゃん！」",
-    "skiped": true
+    "translation": "修行不就结束了吗！”   ",
+    "skiped": false
   },
   {
     "offset": "0xC9778",
     "hex": "817582B682C282CD814082B582C182D282C282BF82E382A482CC814082B382AD82D082F182AA",
     "length": 38,
     "original": "「じつは　しっぴつちゅうの　さくひんが",
-    "translation": "「じつは　しっぴつちゅうの　さくひんが",
-    "skiped": true
+    "translation": "“其实　正在创作中的作品　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC979F",
     "hex": "82C682B182EB82C782B182EB814082C882AD82C882C182C482CC83488176",
     "length": 30,
     "original": "ところどころ　なくなってのォ」",
-    "translation": "ところどころ　なくなってのォ」",
-    "skiped": true
+    "translation": "这里那里都丢了啊”　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC97C2",
     "hex": "8175836E83408148814082BB82EA82AA814082C882F182BE82C182C482F182BE82E68149",
     "length": 36,
     "original": "「ハァ？　それが　なんだってんだよ！",
-    "translation": "「ハァ？　それが　なんだってんだよ！",
-    "skiped": true
+    "translation": "“哈？　那又怎么样啊！　　　　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC97E7",
     "hex": "8349838C82C982CD814082A982F182AF82A282CB815B82C182C482CC81498176",
     "length": 32,
     "original": "オレには　かんけいねーっての！」",
-    "translation": "オレには　かんけいねーっての！」",
-    "skiped": true
+    "translation": "跟我没关系啊！”        ",
+    "skiped": false
   },
   {
     "offset": "0xC980C",
     "hex": "8175836E8340814581458145814082B482F182CB82F18149814082BB82CC82C882AD82C882C182BD",
     "length": 40,
     "original": "「ハァ・・・　ざんねん！　そのなくなった",
-    "translation": "「ハァ・・・　ざんねん！　そのなくなった",
-    "skiped": true
+    "translation": "「哈啊……　遗憾！　那已经消失的　　　　",
+    "skiped": false
   },
   {
     "offset": "0xC9837",
     "hex": "82BF82AC82EA82BD8379815B8357",
     "length": 14,
     "original": "ちぎれたページ",
-    "translation": "ちぎれたページ",
-    "skiped": true
+    "translation": "残缺的页面  ",
+    "skiped": false
   },
   {
     "offset": "0xC9847",
@@ -94716,8 +94716,8 @@
     "hex": "816982B782A282DF82F182D982B182A482CC82AC82E582A4816A",
     "length": 26,
     "original": "（すいめんほこうのぎょう）",
-    "translation": "（すいめんほこうのぎょう）",
-    "skiped": true
+    "translation": "（水面步行之术）     ",
+    "skiped": false
   },
   {
     "offset": "0xC9FDF",
@@ -94836,8 +94836,8 @@
     "hex": "8EA9978896E7816982B682E782A282E2816A",
     "length": 18,
     "original": "自来也（じらいや）",
-    "translation": "自来也（じらいや）",
-    "skiped": true
+    "translation": "自来也      ",
+    "skiped": false
   },
   {
     "offset": "0xCA1FF",
@@ -100373,7 +100373,7 @@
     "length": 20,
     "original": "０１７　忍者学校３Ｆ",
     "translation": "０１７　忍者学校３Ｆ",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xCF8B0",
@@ -100381,7 +100381,7 @@
     "length": 20,
     "original": "０１６　忍者学校３Ｆ",
     "translation": "０１６　忍者学校３Ｆ",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xCF8D0",
@@ -100389,7 +100389,7 @@
     "length": 20,
     "original": "０１５　忍者学校３Ｆ",
     "translation": "０１５　忍者学校３Ｆ",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xCF8F8",
@@ -100397,7 +100397,7 @@
     "length": 20,
     "original": "０１４　忍者学校３Ｆ",
     "translation": "０１４　忍者学校３Ｆ",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xCF918",
@@ -100405,7 +100405,7 @@
     "length": 20,
     "original": "０１３　忍者学校２Ｆ",
     "translation": "０１３　忍者学校２Ｆ",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xCF940",
@@ -100413,7 +100413,7 @@
     "length": 20,
     "original": "０１２　忍者学校２Ｆ",
     "translation": "０１２　忍者学校２Ｆ",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xCF960",
@@ -100421,7 +100421,7 @@
     "length": 20,
     "original": "０１１　忍者学校２Ｆ",
     "translation": "０１１　忍者学校２Ｆ",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xCF988",
@@ -100429,31 +100429,31 @@
     "length": 20,
     "original": "０１０　忍者学校２Ｆ",
     "translation": "０１０　忍者学校２Ｆ",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xCF9AE",
     "hex": "814094458ED28A778D5A82508265",
     "length": 14,
     "original": "　忍者学校１Ｆ",
-    "translation": "　忍者学校１Ｆ",
-    "skiped": true
+    "translation": "忍者学校１Ｆ　",
+    "skiped": false
   },
   {
     "offset": "0xCF9D6",
     "hex": "814094458ED28A778D5A82508265",
     "length": 14,
     "original": "　忍者学校１Ｆ",
-    "translation": "　忍者学校１Ｆ",
-    "skiped": true
+    "translation": "忍者学校１Ｆ　",
+    "skiped": false
   },
   {
     "offset": "0xCF9F6",
     "hex": "814094458ED28A778D5A825082658FE39445",
     "length": 18,
     "original": "　忍者学校１Ｆ上忍",
-    "translation": "　忍者学校１Ｆ上忍",
-    "skiped": true
+    "translation": "忍者学校１Ｆ上忍　",
+    "skiped": false
   },
   {
     "offset": "0xCFA19",
@@ -100468,8 +100468,8 @@
     "hex": "814094458ED28A778D5A82508265",
     "length": 14,
     "original": "　忍者学校１Ｆ",
-    "translation": "　忍者学校１Ｆ",
-    "skiped": true
+    "translation": "忍者学校１Ｆ　",
+    "skiped": false
   },
   {
     "offset": "0xCFA5E",
@@ -100797,7 +100797,7 @@
     "length": 12,
     "original": "００４　道具",
     "translation": "００４　道具",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xCFFE6",
@@ -100805,7 +100805,7 @@
     "length": 4,
     "original": "忍具",
     "translation": "忍具",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xCFFF4",
@@ -100821,7 +100821,7 @@
     "length": 16,
     "original": "００２　武器防具",
     "translation": "００２　武器防具",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xD0030",
@@ -100893,7 +100893,7 @@
     "length": 6,
     "original": "道具１",
     "translation": "道具１",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xD011C",
@@ -100901,7 +100901,7 @@
     "length": 6,
     "original": "道具２",
     "translation": "道具２",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xD0124",
@@ -100909,7 +100909,7 @@
     "length": 6,
     "original": "道具３",
     "translation": "道具３",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xD012C",
@@ -100917,7 +100917,7 @@
     "length": 6,
     "original": "道具４",
     "translation": "道具４",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xD0134",
@@ -100925,7 +100925,7 @@
     "length": 6,
     "original": "道具５",
     "translation": "道具５",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xD013C",
@@ -100933,7 +100933,7 @@
     "length": 6,
     "original": "道具６",
     "translation": "道具６",
-    "skiped": true
+    "skiped": false
   },
   {
     "offset": "0xD0184",
