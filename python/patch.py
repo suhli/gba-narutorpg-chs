@@ -1,5 +1,6 @@
 import importlib.util
 import json
+import shutil
 import struct
 from pathlib import Path
 from typing import Any
@@ -234,8 +235,9 @@ def validate_translations(data: list[dict]):
 @click.argument("rom_path", type=click.Path(exists=True, path_type=Path))
 @click.argument("font_8x8", type=click.Path(exists=True, path_type=Path))
 @click.argument("font_8x16", type=click.Path(exists=True, path_type=Path))
-@click.option("--out-mapping", "-o", type=click.Path(path_type=Path), help="将返回的字符→位置 dict 写入此 JSON 文件，供后续 ROM 文本使用")
-def main(rom_path: Path, font_8x8: Path, font_8x16: Path, out_mapping: Path | None) -> None:
+@click.option("--out-rom", "-o", type=click.Path(path_type=Path), help="输出到此 ROM 文件，不修改原 ROM")
+@click.option("--out-mapping", "-m", type=click.Path(path_type=Path), help="将返回的字符→位置 dict 写入此 JSON 文件，供后续 ROM 文本使用")
+def main(rom_path: Path, font_8x8: Path, font_8x16: Path, out_rom: Path | None, out_mapping: Path | None) -> None:
   """
   校验译文并向 ROM 注入扩展字模与映射，返回字符位置 dict 供后续文本用。
 
@@ -243,21 +245,28 @@ def main(rom_path: Path, font_8x8: Path, font_8x16: Path, out_mapping: Path | No
     rom_path: GBA ROM 文件路径。
     font_8x8: 8x8 字体文件路径（如 TTF），用于渲染小字。
     font_8x16: 8x16 字体文件路径（如 TTF），用于渲染大字。
+    out_rom: 可选。指定则输出到此 ROM 文件，不修改原 ROM。
     out_mapping: 可选。将字符→位置 dict 写入的 JSON 路径，供后续 ROM 文本使用。
 
   Example:
-    python patch.py rom.gba debug/fusion-pixel-8px-monospaced-zh_hans.ttf debug/FashionBitmap16_0.092.ttf
-    python patch.py rom.gba font_8x8.ttf font_8x16.ttf -o font_mapping.json
+    python patch.py rom.gba debug/fusion-pixel-8px-monospaced-zh_hans.ttf debug/FashionBitmap16_0.092.ttf -o patched.gba  -m font_mapping.json
+    python patch.py rom.gba debug/SourceHanSansSC-VF.ttf debug/SourceHanSansSC-VF.ttf -o patched.gba  -m font_mapping.json
+    python patch.py rom.gba font_8x8.ttf font_8x16.ttf -o patched.gba -m font_mapping.json
   """
   data = load_translations()
   validate_translations(data)
   chars = take_chars(data)
   click.echo(f"chars count: {len(chars)}")
 
-  mapping = inject_fonts(rom_path, chars, font_8x8, font_8x16)
-  click.echo(f"已向 {rom_path} 注入 {len(chars)} 字 8x8/8x16 字模与映射表")
+  target_rom = out_rom if out_rom else rom_path
+  if out_rom:
+    shutil.copy2(rom_path, out_rom)
+    click.echo(f"已复制 {rom_path} -> {out_rom}")
 
-  patch_translations_to_rom(rom_path, data, mapping)
+  mapping = inject_fonts(target_rom, chars, font_8x8, font_8x16)
+  click.echo(f"已向 {target_rom} 注入 {len(chars)} 字 8x8/8x16 字模与映射表")
+
+  patch_translations_to_rom(target_rom, data, mapping)
   click.echo("已根据 translations.json 的 offset 与 mapping 替换 ROM 内对应文本")
 
   if out_mapping:

@@ -1082,7 +1082,7 @@
   {
     "offset": "0x6E6B6",
     "original": "の　けいけんちをかくとくした！",
-    "translation": "的经验值获得了！       ",
+    "translation": "经验值获得了！        ",
     "skiped": false,
     "hex": "82CC814082AF82A282AF82F182BF82F082A982AD82C682AD82B582BD8149",
     "length": 30
@@ -1090,7 +1090,7 @@
   {
     "offset": "0x6E6DE",
     "original": "の　けいけんちをかくとく！",
-    "translation": "的经验值获得！      ",
+    "translation": "经验值获得！       ",
     "skiped": false,
     "hex": "82CC814082AF82A282AF82F182BF82F082A982AD82C682AD8149",
     "length": 26
@@ -1442,7 +1442,7 @@
   {
     "offset": "0x6EC70",
     "original": "スタミナ　チャクラ　こうげき　ぼうぎょ　",
-    "translation": "体力　　查克拉　攻击　　防御　　　　　　",
+    "translation": "体力　　　查克拉　　攻击　　　防御　　　",
     "skiped": false,
     "hex": "8358835E837E8369814083608383834E8389814082B182A482B082AB814082DA82A482AC82E58140",
     "length": 40
@@ -1450,7 +1450,7 @@
   {
     "offset": "0x6EC9C",
     "original": "すばやさ　にんりょくどうさつ　",
-    "translation": "速度　　忍力　　洞察　　　　　",
+    "translation": "速度　　　忍力　　　洞察　　　",
     "skiped": false,
     "hex": "82B782CE82E282B3814082C982F182E882E582AD82C782A482B382C28140",
     "length": 30
@@ -1458,7 +1458,7 @@
   {
     "offset": "0x6ECD0",
     "original": "どうぐ　　そうび　　じゅつ　　スキル　　ステータス",
-    "translation": "道具　　装备　　忍术　技能　　状态　　　　　　　　",
+    "translation": "道　具　　装　备　　忍　术　　技　能　　状态　　　",
     "skiped": false,
     "hex": "82C782A482AE8140814082BB82A482D18140814082B682E382C2814081408358834C838B8140814083588365815B835E8358",
     "length": 50
