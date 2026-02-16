@@ -19,8 +19,10 @@ gba-narutorpg-chs/
 │   └── readme.md
 ├── python/                # Python 工具脚本
 │   ├── readme.md
-│   ├── requirements.txt   # freetype-py, pillow
-│   └── debug/             # 字模、文本导出等实验脚本
+│   ├── requirements.txt   # freetype-py, pillow, click
+│   ├── patch.py           # 构建汉化 ROM：字模注入 + 译文写回（产出供 differ 生成 diff）
+│   ├── differ.py          # 生成原版→汉化 ROM 的 diff.json（供网页 Patcher 使用）
+│   └── debug/             # 字模、文本导出等脚本
 │       ├── 8x8_font.py    # TTF → 8×8 GBA 字模
 │       ├── 8x16_font.py   # TTF → 8×16 GBA 字模
 │       ├── text_dumper.py # ROM 文本导出为 JSON（Shift-JIS）
@@ -32,8 +34,8 @@ gba-narutorpg-chs/
 | 模块 | 说明 | 状态 |
 |------|------|------|
 | **hexproj** | ImHex 工程：ROM 内字体、mapping、二分查找等区域标注，便于分析与手工编辑 | ✅ 已有 |
-| **python** | 字模脚本（8×8/8×16）、ROM 文本导出（text_dumper）、binary diff 等；当前已有 debug 字模与文本导出脚本 | 🚧 部分就绪 |
-| **patcher** | 网页端 Patcher：加载用户 ROM + 应用 diff，输出汉化 ROM；在线地址见下方 | ✅ 可用 |
+| **python** | 构建汉化 ROM（patch.py）与生成 diff.json（differ.py）的流水线；字模/文本导出脚本 | ✅ 就绪 |
+| **patcher** | 网页端 Patcher：用户在本机用 **diff.json** 对原版 ROM 打补丁得到汉化 ROM（含 ROM 内预制 patch）；在线地址见下方 | ✅ 可用 |
 
 ## 各模块说明
 
@@ -44,14 +46,13 @@ gba-narutorpg-chs/
 
 ### python（脚本工具）
 
-- **已实现**：`debug/` 下 8×8、8×16 字模脚本（TTF → GBA 4bpp，输出 `.bin` 与预览图）；`text_dumper.py` 从 ROM 按 Shift-JIS 扫描并导出剧情/菜单文本为 `text_dump/text_chunk_*.json`。**字模字体**：8×8 与 8×16 均使用**思源黑体**（Source Han Sans）渲染。依赖见 `requirements.txt`（freetype-py、pillow）。
-- **计划**：封装字模为统一工具、汉化文本写回 ROM、生成/校验与原版 ROM 的 binary diff（供 Patcher 使用）。详见 [python/readme.md](python/readme.md)。
+- **用途**：用于**制作**汉化数据与 diff，而非用户打补丁。`patch.py` 在本地将字模与译文写回 ROM，产出完整汉化 ROM；`differ.py` 比较原版与汉化 ROM，生成 **diff.json**。该 diff 供网页 Patcher 使用；用户实际打补丁请使用下方 Patcher 页面。另含 `debug/` 下 8×8/8×16 字模脚本、`text_dumper.py` 文本导出。**字模字体**：8×8 与 8×16 均使用**思源黑体**（Source Han Sans）渲染。依赖见 `requirements.txt`（freetype-py、pillow、click）。详见 [python/readme.md](python/readme.md)。
 
 ### patcher（HTML Patcher）
 
 - **在线 Patcher**：[https://suhli.github.io/gba-narutorpg-chs/](https://suhli.github.io/gba-narutorpg-chs/)
-- 纯前端 HTML/JS：选择本地原版 ROM 文件，应用预置的 binary diff，在浏览器内生成汉化 ROM 并触发下载。
-- 无后端、无上传 ROM，所有处理在用户本机完成。
+- 用户在本机选择原版 ROM，网页加载 **diff.json** 对其打补丁，在浏览器内生成汉化 ROM 并下载。补丁内容包含 ROM 内预制修改与字模/译文等汉化数据。
+- 纯前端 HTML/JS，无后端、无上传 ROM，所有处理在用户本机完成。
 
 ## 法律与免责
 
