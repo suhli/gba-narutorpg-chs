@@ -16,6 +16,7 @@
   cd python && python translate_with_glm.py              # 翻译所有 chunk，每批 100 条（结构化 JSON），跳过已有译文
   python translate_with_glm.py --batch-size 100 --dry-run
   python translate_with_glm.py --no-skip                  # 全部重翻（已 skiped 的条仍不重发）
+  python translate_with_glm.py --skiped-only              # 仅对已标记为跳过的条目重新翻译，无需 skip 则覆盖原记录
   python translate_with_glm.py --model glm-4-plus --files text_chunk_001.json
 """
 
@@ -207,6 +208,11 @@ def translate_batch(
         model=model,
         messages=new_messages,
         temperature=0.3,
+        extra_body={
+            "thinking":{
+                "type":"disabled"
+            }
+        }
     )
     choice = resp.choices[0] if resp.choices else None
     content = (choice.message.content or "").strip() if choice and getattr(choice, "message", None) else ""
@@ -309,6 +315,7 @@ def process_all(
     batch_size: int = BATCH_SIZE,
     skip_filled: bool = True,
     dry_run: bool = False,
+    skiped_only: bool = False,
 ) -> None:
     """对所有条目按批翻译（结构化 JSON），结果写入 translate/translations.json。"""
     # 始终加载已有结果，合并 translation/skiped；--no-skip 时已 skiped 的条也不重发
@@ -323,13 +330,16 @@ def process_all(
             e["translation"] = o["translation"]
             e["skiped"] = o["skiped"]
 
-    to_translate = [
-        e
-        for e in all_entries
-        if "original" in e
-        and not e.get("skiped")
-        and (not skip_filled or not (e.get("translation") or "").strip())
-    ]
+    if skiped_only:
+        to_translate = [e for e in all_entries if "original" in e and e.get("skiped")]
+    else:
+        to_translate = [
+            e
+            for e in all_entries
+            if "original" in e
+            and not e.get("skiped")
+            and (not skip_filled or not (e.get("translation") or "").strip())
+        ]
 
     if not to_translate:
         print(f"  无需翻译（共 {len(all_entries)} 条）")
@@ -369,6 +379,7 @@ def main():
     )
     parser.add_argument("--batch-size", type=int, default=BATCH_SIZE, help=f"每批条数（默认 {BATCH_SIZE}）")
     parser.add_argument("--no-skip", action="store_true", help="不跳过已有 translation 的条目，全部重翻")
+    parser.add_argument("--skiped-only", action="store_true", help="仅对已标记为跳过的条目重新翻译；若新结果无需跳过则覆盖原记录")
     parser.add_argument("--dry-run", action="store_true", help="只列出待翻译文件与条数，不请求 API")
     parser.add_argument("--files", nargs="*", help="仅处理这些 chunk 文件（例如 text_chunk_001.json）")
     args = parser.parse_args()
@@ -398,6 +409,7 @@ def main():
         batch_size=args.batch_size,
         skip_filled=not args.no_skip,
         dry_run=args.dry_run,
+        skiped_only=args.skiped_only,
     )
 
 
