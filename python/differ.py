@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Diff two binary files and output differing regions as JSON array."""
+"""
+Diff two binary files and output differing regions as JSON array.
+
+Example:
+    python differ.py patched.gba rom.gba -o ../patcher/diff.json
+"""
 
 import json
 from pathlib import Path
@@ -12,6 +17,12 @@ def diff_binaries(data_a: bytes, data_b: bytes) -> list[dict]:
     比较两个二进制数据，返回差异列表。
     每个元素: {"pos": "0x1234", "bytes": [u16, ...]}
     pos 为起始位置的十六进制地址，bytes 为该段差异的字节值（以 u16 形式存储 0-255）。
+
+    Example:
+        data_a = bytes([0x00, 0x01, 0x02, 0x03])
+        data_b = bytes([0x00, 0xFF, 0xFE, 0x03])
+        diff_binaries(data_a, data_b)
+        # => [{"pos": "0x0001", "bytes": [255, 254]}]
     """
     result = []
     i = 0

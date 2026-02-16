@@ -15,6 +15,7 @@ if str(PYTHON_DIR) not in sys.path:
     sys.path.insert(0, str(PYTHON_DIR))
 
 TRANSLATIONS_FILE_PATH = SCRIPT_DIR / "translate" / "translations.json"
+PREPATCH_FILE_PATH = PYTHON_DIR / "prepatch.json"
 LAST_MAPPING_OFFSET_8x16 = 0xE5B0
 LAST_MAPPING_OFFSET_8x8 = 0x97bd
 LAST_FONT_OFFSET_8x16 = 0x300
@@ -131,6 +132,31 @@ def load_translations():
   with open(TRANSLATIONS_FILE_PATH, 'rb') as f:
     data = json.load(f)
   return data
+
+
+def apply_prepatch(rom_path: str | Path, prepatch_path: str | Path | None = None) -> int:
+  """
+  从 prepatch.json 读取差异列表（与 differ.py 输出格式一致：pos + bytes），
+  按顺序写入 ROM 对应位置。若 prepatch_path 未指定则使用默认 PREPATCH_FILE_PATH。
+  返回写入的 patch 条数；若文件不存在则返回 0。
+  """
+  path = Path(prepatch_path or PREPATCH_FILE_PATH)
+  if not path.exists():
+    return 0
+  with open(path, "r", encoding="utf-8") as f:
+    patches = json.load(f)
+  if not patches:
+    return 0
+  rom_path = Path(rom_path)
+  with open(rom_path, "r+b") as f:
+    for item in patches:
+      pos = item["pos"]
+      offset = int(pos, 16) if isinstance(pos, str) else int(pos)
+      raw = item["bytes"]
+      data = bytes(b & 0xFF for b in raw)
+      f.seek(offset)
+      f.write(data)
+  return len(patches)
 
 def take_chars(data: list[dict]):
   fonts = set()
@@ -262,6 +288,10 @@ def main(rom_path: Path, font_8x8: Path, font_8x16: Path, out_rom: Path | None, 
   if out_rom:
     shutil.copy2(rom_path, out_rom)
     click.echo(f"已复制 {rom_path} -> {out_rom}")
+
+  n_prepatch = apply_prepatch(target_rom)
+  if n_prepatch:
+    click.echo(f"已从 prepatch.json 应用 {n_prepatch} 处 prepatch 到 {target_rom}")
 
   mapping = inject_fonts(target_rom, chars, font_8x8, font_8x16)
   click.echo(f"已向 {target_rom} 注入 {len(chars)} 字 8x8/8x16 字模与映射表")
