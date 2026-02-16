@@ -89109,7 +89109,7 @@
     "length": 38,
     "original": "カラダのなかに　はいっちゃった・・・」",
     "translation": "カラダのなかに　はいっちゃった・・・」",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC4498",
@@ -89117,7 +89117,7 @@
     "length": 24,
     "original": "「わたしの　はいかである",
     "translation": "「わたしの　はいかである",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC44B1",
@@ -89125,7 +89125,7 @@
     "length": 38,
     "original": "音の３にんしゅうを　やぶってね・・・」",
     "translation": "音の３にんしゅうを　やぶってね・・・」",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC44DC",
@@ -89133,7 +89133,7 @@
     "length": 30,
     "original": "「アンタなんかのかお　こっちは",
     "translation": "「アンタなんかのかお　こっちは",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC44FB",
@@ -89141,7 +89141,7 @@
     "length": 38,
     "original": "もう２どと　みたくないっていうのよ！」",
     "translation": "もう２どと　みたくないっていうのよ！」",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC4528",
@@ -89149,7 +89149,7 @@
     "length": 12,
     "original": "「フフ・・・",
     "translation": "「フフ・・・",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC4535",
@@ -89157,7 +89157,7 @@
     "length": 28,
     "original": "そうは　いかないのよ・・・」",
     "translation": "そうは　いかないのよ・・・」",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC4556",
@@ -89165,7 +89165,7 @@
     "length": 10,
     "original": "「うぐっ！",
     "translation": "「うぐっ！",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC4561",
@@ -89173,7 +89173,7 @@
     "length": 32,
     "original": "カ・・・　カラダがうごかない！」",
     "translation": "カ・・・　カラダがうごかない！」",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC4588",
@@ -89181,7 +89181,7 @@
     "length": 12,
     "original": "「やっぱり　",
     "translation": "「やっぱり　",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC4596",
@@ -89189,7 +89189,7 @@
     "length": 10,
     "original": "きょうだい",
     "translation": "きょうだい",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC45A2",
@@ -89197,7 +89197,7 @@
     "length": 14,
     "original": "だわね・・・」",
     "translation": "だわね・・・」",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC45B3",
@@ -89205,7 +89205,7 @@
     "length": 8,
     "original": "「あの　",
     "translation": "「あの　",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC45BD",
@@ -89213,7 +89213,7 @@
     "length": 10,
     "original": "“イタチ”",
     "translation": "“イタチ”",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC45C9",
@@ -89221,7 +89221,7 @@
     "length": 10,
     "original": "いじょうの",
     "translation": "いじょうの",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC45D4",
@@ -89229,7 +89229,7 @@
     "length": 30,
     "original": "チカラをひめた　目をしている」",
     "translation": "チカラをひめた　目をしている」",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC45F7",
@@ -89237,7 +89237,7 @@
     "length": 38,
     "original": "「おまえは　いったい　なにものだ！？」",
     "translation": "「おまえは　いったい　なにものだ！？」",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC4624",
@@ -89245,7 +89245,7 @@
     "length": 26,
     "original": "「・・・わたしの　なまえは",
     "translation": "「・・・わたしの　なまえは",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC4641",
@@ -89253,7 +89253,7 @@
     "length": 20,
     "original": "大蛇丸（オロチまる）",
     "translation": "大蛇丸（オロチまる）",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC465C",
@@ -89261,7 +89261,7 @@
     "length": 30,
     "original": "「もしキミが　わたしにふたたび",
     "translation": "「もしキミが　わたしにふたたび",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC467B",
@@ -89269,7 +89269,7 @@
     "length": 32,
     "original": "であいたいと　おもうなら・・・」",
     "translation": "であいたいと　おもうなら・・・」",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC469E",
@@ -89277,7 +89277,7 @@
     "length": 32,
     "original": "「このしけんを　しにものぐるいで",
     "translation": "「このしけんを　しにものぐるいで",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC46BF",
@@ -89285,7 +89285,7 @@
     "length": 26,
     "original": "かけあがっておいで・・・」",
     "translation": "かけあがっておいで・・・」",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC46E0",
@@ -89293,7 +89293,7 @@
     "length": 32,
     "original": "「これで　しばらく　ナルトくんは",
     "translation": "「これで　しばらく　ナルトくんは",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC4701",
@@ -89301,7 +89301,7 @@
     "length": 26,
     "original": "うごけないでしょう・・・」",
     "translation": "うごけないでしょう・・・」",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC4720",
@@ -89309,7 +89309,7 @@
     "length": 22,
     "original": "「なにしやがった！！」",
     "translation": "「なにしやがった！！」",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC473D",
@@ -89317,14 +89317,14 @@
     "length": 34,
     "original": "「いろいろと　キミのチカラがみれて",
     "translation": "「いろいろと　キミのチカラがみれて",
-    "skiped": false
+    "skiped": true
   },
   {
     "offset": "0xC4760",
     "hex": "82BD82CC82B582A982C182BD82ED8176",
     "length": 16,
     "original": "たのしかったわ」",
-    "translation": "たのしかったわ」",
+    "translation": "真开心啊」   ",
     "skiped": false
   },
   {
@@ -89332,7 +89332,7 @@
     "hex": "81758BE0949B82E882CC8F70816982A982C882B582CE82E882CC82B682E382C2816A8176",
     "length": 36,
     "original": "「金縛りの術（かなしばりのじゅつ）」",
-    "translation": "「金縛りの術（かなしばりのじゅつ）」",
+    "translation": "「金缚之术（かなしばりのじゅつ）」 ",
     "skiped": false
   },
   {
@@ -89348,7 +89348,7 @@
     "hex": "817582A482ED82A0829F829F814981498176",
     "length": 18,
     "original": "「うわあぁぁ！！」",
-    "translation": "「うわあぁぁ！！」",
+    "translation": "「哇啊啊啊！！」 ",
     "skiped": false
   },
   {
@@ -89356,7 +89356,7 @@
     "hex": "817582D682D682C18149814082E282C182BD82C182C482CE82E681498149",
     "length": 30,
     "original": "「へへっ！　やったってばよ！！",
-    "translation": "「へへっ！　やったってばよ！！",
+    "translation": "「嘿嘿！　我做到了的说！！　　",
     "skiped": false
   },
   {
@@ -89364,7 +89364,7 @@
     "hex": "82B482DC815B82DD82EB82C182C482F182BE81498176",
     "length": 22,
     "original": "ざまーみろってんだ！」",
-    "translation": "ざまーみろってんだ！」",
+    "translation": "这就是给你们的教训！」",
     "skiped": false
   },
   {
@@ -89372,7 +89372,7 @@
     "hex": "817583748374814581458145",
     "length": 12,
     "original": "「フフ・・・",
-    "translation": "「フフ・・・",
+    "translation": "「呵呵・・・",
     "skiped": false
   },
   {
@@ -89380,7 +89380,7 @@
     "hex": "82C882A982C882A9814082E282E982DD82BD82A282CB8145814581458176",
     "length": 30,
     "original": "なかなか　やるみたいね・・・」",
-    "translation": "なかなか　やるみたいね・・・」",
+    "translation": "看来还挺能干的嘛・・・」   ",
     "skiped": false
   },
   {
@@ -89388,7 +89388,7 @@
     "hex": "817582C882A982C582E082E282CD82E8814083548358835082AD82F18149814082B382B782AA",
     "length": 38,
     "original": "「なかでもやはり　サスケくん！　さすが",
-    "translation": "「なかでもやはり　サスケくん！　さすが",
+    "translation": "「其中果然还是　佐助君！　不愧　　　　",
     "skiped": false
   },
   {
@@ -89396,7 +89396,7 @@
     "hex": "82A482BF82CD82CC82C882DC82A682F0814082C282AE82A882C682B182BE82ED8176",
     "length": 34,
     "original": "うちはのなまえを　つぐおとこだわ」",
-    "translation": "うちはのなまえを　つぐおとこだわ」",
+    "translation": "是继承宇智波之名的男子汉」　　　　",
     "skiped": false
   },
   {
@@ -89404,7 +89404,7 @@
     "hex": "817582E282C182CF82E8838F835E835682CD8140834C837E82AA82D982B582A28145814581458176",
     "length": 40,
     "original": "「やっぱりワタシは　キミがほしい・・・」",
-    "translation": "「やっぱりワタシは　キミがほしい・・・」",
+    "translation": "「果然我还是　想要你・・・」      ",
     "skiped": false
   },
   {
@@ -89412,7 +89412,7 @@
     "hex": "817582C882C9814981488176",
     "length": 12,
     "original": "「なに！？」",
-    "translation": "「なに！？」",
+    "translation": "「什么！？」",
     "skiped": false
   },
   {
@@ -89420,7 +89420,7 @@
     "hex": "817582C482DF815B8149814082ED82AF82ED82A982F182CB815B82B182C6",
     "length": 30,
     "original": "「てめー！　わけわかんねーこと",
-    "translation": "「てめー！　わけわかんねーこと",
+    "translation": "「混蛋！　别说什么　　　　　　",
     "skiped": false
   },
   {
@@ -89428,7 +89428,7 @@
     "hex": "82A282C182C482F182B682E182CB815B82C182C482CE82E6814981498176",
     "length": 30,
     "original": "いってんじゃねーってばよ！！」",
-    "translation": "いってんじゃねーってばよ！！」",
+    "translation": "莫名其妙的话啊！！」     ",
     "skiped": false
   },
   {
@@ -89436,7 +89436,7 @@
     "hex": "816982A082CC835282CC96DA814581458145814082DC82BF82AA82A282C882A282ED",
     "length": 34,
     "original": "（あのコの目・・・　まちがいないわ",
-    "translation": "（あのコの目・・・　まちがいないわ",
+    "translation": "（那家伙的眼睛・・・　没错　　　　",
     "skiped": false
   },
   {
@@ -89444,7 +89444,7 @@
     "hex": "8BE394F682CC834B834C82AA814082A282AB82C482A282BD82C682CD82CB816A",
     "length": 32,
     "original": "九尾のガキが　いきていたとはね）",
-    "translation": "九尾のガキが　いきていたとはね）",
+    "translation": "九尾的小鬼　竟然还活着）　　　　",
     "skiped": false
   },
   {
@@ -89452,7 +89452,7 @@
     "hex": "816982C582E0814082A282DC82CD814083418369835E82CD814082B682E182DC814581458145816A",
     "length": 40,
     "original": "（でも　いまは　アナタは　じゃま・・・）",
-    "translation": "（でも　いまは　アナタは　じゃま・・・）",
+    "translation": "（不过　现在　你　是个阻碍・・・）　　　",
     "skiped": false
   },
   {
@@ -93460,7 +93460,7 @@
     "hex": "817582BD82C682A682CE81488176",
     "length": 14,
     "original": "「たとえば？」",
-    "translation": "「たとえば？」",
+    "translation": "「比如说？」 ",
     "skiped": false
   },
   {
@@ -93468,7 +93468,7 @@
     "hex": "817582A282DC82A982E7814082A882DC82A682C982A882B582A682E9814581458145",
     "length": 34,
     "original": "「いまから　おまえにおしえる・・・",
-    "translation": "「いまから　おまえにおしえる・・・",
+    "translation": "「现在　我就教你・・・      ",
     "skiped": false
   },
   {
@@ -93476,7 +93476,7 @@
     "hex": "8CFB8AF182B982CC8F70816982AD82BF82E682B982CC82B682E382C2816A",
     "length": 30,
     "original": "口寄せの術（くちよせのじゅつ）",
-    "translation": "口寄せの術（くちよせのじゅつ）",
+    "translation": "通灵之术（くちよせのじゅつ） ",
     "skiped": false
   },
   {
@@ -93484,7 +93484,7 @@
     "hex": "817582AD82BF82E682B98148814082C882F182BE814082BB82EA81488176",
     "length": 30,
     "original": "「くちよせ？　なんだ　それ？」",
-    "translation": "「くちよせ？　なんだ　それ？」",
+    "translation": "「通灵？　那是什么？」　　　　",
     "skiped": false
   },
   {
@@ -93492,7 +93492,7 @@
     "hex": "817582A282AB82E082CC82C6814082BF82C582AF82A282E282AD82F082A982ED82B582C482A882AB",
     "length": 40,
     "original": "「いきものと　ちでけいやくをかわしておき",
-    "translation": "「いきものと　ちでけいやくをかわしておき",
+    "translation": "「与生物　缔结血之契约         ",
     "skiped": false
   },
   {
@@ -93500,7 +93500,7 @@
     "hex": "82B782AB82C882C682AB82C9814094458F7082C582E682D182BE82B78145814581458176",
     "length": 36,
     "original": "すきなときに　忍術でよびだす・・・」",
-    "translation": "すきなときに　忍術でよびだす・・・」",
+    "translation": "随时用忍术召唤出来・・・」     ",
     "skiped": false
   },
   {
@@ -93508,7 +93508,7 @@
     "hex": "817582A882A8815B8149814082C882F182A9814082B782B282BB815B8149814082CD82E282AD8149",
     "length": 40,
     "original": "「おおー！　なんか　すごそー！　はやく！",
-    "translation": "「おおー！　なんか　すごそー！　はやく！",
+    "translation": "「噢噢！　感觉　好厉害！　快点！　　　　",
     "skiped": false
   },
   {
@@ -93516,7 +93516,7 @@
     "hex": "82CD82E282AD8149814082A882B9815B82C482AD82EA82C182C482CE82E68176",
     "length": 32,
     "original": "はやく！　おせーてくれってばよ」",
-    "translation": "はやく！　おせーてくれってばよ」",
+    "translation": "快点！　教教我啊」       ",
     "skiped": false
   },
   {
@@ -93524,7 +93524,7 @@
     "hex": "817582C782A482BE81488176",
     "length": 12,
     "original": "「どうだ？」",
-    "translation": "「どうだ？」",
+    "translation": "「怎么样？」",
     "skiped": false
   },
   {
@@ -93532,7 +93532,7 @@
     "hex": "817582F1815B814581458145814082E282C182CF82BF82AA82A4",
     "length": 26,
     "original": "「んー・・・　やっぱちがう",
-    "translation": "「んー・・・　やっぱちがう",
+    "translation": "「嗯ー・・・　果然不对　　",
     "skiped": false
   },
   {
@@ -93540,7 +93540,7 @@
     "hex": "82A282C282E082CC814083608383834E838982BE82C182C482CE82E681498176",
     "length": 32,
     "original": "いつもの　チャクラだってばよ！」",
-    "translation": "いつもの　チャクラだってばよ！」",
+    "translation": "还是平时的查克拉啊！」     ",
     "skiped": false
   },
   {
@@ -93548,7 +93548,7 @@
     "hex": "817582C182BD82AD814082B382A282CC82A482C882A282CC8348",
     "length": 26,
     "original": "「ったく　さいのうないのォ",
-    "translation": "「ったく　さいのうないのォ",
+    "translation": "「真是的　一点才能都没有　",
     "skiped": false
   },
   {
@@ -93556,7 +93556,7 @@
     "hex": "82A882DC82A68145814581458176",
     "length": 14,
     "original": "おまえ・・・」",
-    "translation": "おまえ・・・」",
+    "translation": "你这家伙・・・",
     "skiped": false
   },
   {
@@ -93564,7 +93564,7 @@
     "hex": "817582DC82B8814082BB82CC82DC82A682C9814581458145814082A882DC82A682CD",
     "length": 34,
     "original": "「まず　そのまえに・・・　おまえは",
-    "translation": "「まず　そのまえに・・・　おまえは",
+    "translation": "「首先　在此之前・・・　你　　　　",
     "skiped": false
   },
   {
@@ -93572,7 +93572,7 @@
     "hex": "83608383834E838982F08140825182B582E382E982A282E082C182C682E981498176",
     "length": 34,
     "original": "チャクラを　２しゅるいもっとる！」",
-    "translation": "チャクラを　２しゅるいもっとる！」",
+    "translation": "拥有着　2种查克拉！」      ",
     "skiped": false
   },
   {
@@ -93580,7 +93580,7 @@
     "hex": "817582A282DC82DC82C5814082C682AD82D782C282C883608383834E838982F0",
     "length": 32,
     "original": "「いままで　とくべつなチャクラを",
-    "translation": "「いままで　とくべつなチャクラを",
+    "translation": "「至今为止　有没有       ",
     "skiped": false
   },
   {
@@ -93588,7 +93588,7 @@
     "hex": "82A982F182B682BD82B182C682CD814082C882A282A981488176",
     "length": 26,
     "original": "かんじたことは　ないか？」",
-    "translation": "かんじたことは　ないか？」",
+    "translation": "感觉到　特殊的查克拉？」　",
     "skiped": false
   },
   {
@@ -93596,7 +93596,7 @@
     "hex": "817582A4815B82F1814082BB82A482A282A682CE814082AB82E382A482C983608383834E838982AA",
     "length": 40,
     "original": "「うーん　そういえば　きゅうにチャクラが",
-    "translation": "「うーん　そういえば　きゅうにチャクラが",
+    "translation": "「嗯ー　这么一说　突然查克拉　　　　　　",
     "skiped": false
   },
   {
@@ -93604,7 +93604,7 @@
     "hex": "82ED82A282C482AB82C48140835883628351815B8360834A838982AA82C582BD82C682AB82E08176",
     "length": 40,
     "original": "わいてきて　スッゲーチカラがでたときも」",
-    "translation": "わいてきて　スッゲーチカラがでたときも」",
+    "translation": "涌出来　爆发出力量的时候」       ",
     "skiped": false
   },
   {
@@ -93612,7 +93612,7 @@
     "hex": "817582A082C182BD82E6815B82C8814082AB834282B782C182AF82C7814082BB82F182C682AB82CC",
     "length": 40,
     "original": "「あったよーな　きィすっけど　そんときの",
-    "translation": "「あったよーな　きィすっけど　そんときの",
+    "translation": "「好像有过　那种感觉　不过　　　　　　　",
     "skiped": false
   },
   {
@@ -93620,7 +93620,7 @@
     "hex": "82B182C6814082A082F182DC82E8814082A882DA82A682C482CB815B82F182BE82E682C88176",
     "length": 38,
     "original": "こと　あんまり　おぼえてねーんだよな」",
-    "translation": "こと　あんまり　おぼえてねーんだよな」",
+    "translation": "那时候的事　不太记得了啊」      ",
     "skiped": false
   },
   {
@@ -93628,7 +93628,7 @@
     "hex": "817582BB82A482A98145814581458176",
     "length": 16,
     "original": "「そうか・・・」",
-    "translation": "「そうか・・・」",
+    "translation": "「是吗・・・」 ",
     "skiped": false
   },
   {
@@ -93636,7 +93636,7 @@
     "hex": "817582C582E0814082A282C282E082CB82C182C482E983608383834E838982C6814082BF82AA82A4",
     "length": 40,
     "original": "「でも　いつもねってるチャクラと　ちがう",
-    "translation": "「でも　いつもねってるチャクラと　ちがう",
+    "translation": "「但是　和平时　缠绕的查克拉不同　　　　",
     "skiped": false
   },
   {
@@ -93644,7 +93644,7 @@
     "hex": "82A982F182B682AA82B582BD82CC82CD814082A882DA82A682C482E982C182C482CE82E681498176",
     "length": 40,
     "original": "かんじがしたのは　おぼえてるってばよ！」",
-    "translation": "かんじがしたのは　おぼえてるってばよ！」",
+    "translation": "的感觉　我记得啊！」          ",
     "skiped": false
   },
   {
@@ -93652,7 +93652,7 @@
     "hex": "817582A282C282E082CD814082AB82A282EB82C882CC82C9814082A082A982A282EB82CC",
     "length": 36,
     "original": "「いつもは　きいろなのに　あかいろの",
-    "translation": "「いつもは　きいろなのに　あかいろの",
+    "translation": "「平时是　黄色的　感觉是红色的　　　",
     "skiped": false
   },
   {
@@ -93660,7 +93660,7 @@
     "hex": "82A982F182B682C182C2815B82A9814082C882F182C2815B82A98145814581458176",
     "length": 34,
     "original": "かんじっつーか　なんつーか・・・」",
-    "translation": "かんじっつーか　なんつーか・・・」",
+    "translation": "这种感觉　怎么说呢・・・」　　　　",
     "skiped": false
   },
   {
@@ -93668,7 +93668,7 @@
     "hex": "817582BB82A482A981498149814081458145814582C582CD814082BB82CC82A082A982A2",
     "length": 36,
     "original": "「そうか！！　・・・では　そのあかい",
-    "translation": "「そうか！！　・・・では　そのあかい",
+    "translation": "「是吗！！　・・・那么　把那个红色　",
     "skiped": false
   },
   {
@@ -93676,7 +93676,7 @@
     "hex": "83608383834E838982F0814082A282DC82B782AE814082CB82E882B182F182C582DD82EB8176",
     "length": 38,
     "original": "チャクラを　いますぐ　ねりこんでみろ」",
-    "translation": "チャクラを　いますぐ　ねりこんでみろ」",
+    "translation": "查克拉　立刻　提炼出来试试」　　　　　",
     "skiped": false
   },
   {
@@ -93684,7 +93684,7 @@
     "hex": "817582A4815B82F18149814082BB82A4814082A282ED82EA82C482E082C8829F814581458145",
     "length": 38,
     "original": "「うーん！　そう　いわれてもなぁ・・・",
-    "translation": "「うーん！　そう　いわれてもなぁ・・・",
+    "translation": "「嗯ー！　就算　你这么说・・・    ",
     "skiped": false
   },
   {
@@ -93692,7 +93692,7 @@
     "hex": "82DC814581458145814082E282C182C482DD82E982AF82C78176",
     "length": 26,
     "original": "ま・・・　やってみるけど」",
-    "translation": "ま・・・　やってみるけど」",
+    "translation": "嘛・・・　我试试看」　　　",
     "skiped": false
   },
   {
@@ -93700,7 +93700,7 @@
     "hex": "817582C8814581458145814082C882C982B782E982F182BE82C182C482CE82E681498176",
     "length": 36,
     "original": "「な・・・　なにするんだってばよ！」",
-    "translation": "「な・・・　なにするんだってばよ！」",
+    "translation": "「什・・・　什么啊这是！」     ",
     "skiped": false
   },
   {
@@ -93708,7 +93708,7 @@
     "hex": "8175838A83898362834E835882B782E981408363837B82F082C282A282BD",
     "length": 30,
     "original": "「リラックスする　ツボをついた",
-    "translation": "「リラックスする　ツボをついた",
+    "translation": "「刺激了　放松的穴位　　　　　",
     "skiped": false
   },
   {
@@ -93716,7 +93716,7 @@
     "hex": "82C582CD814082CD82B682DF82E982A982CC83488176",
     "length": 22,
     "original": "では　はじめるかのォ」",
-    "translation": "では　はじめるかのォ」",
+    "translation": "那么　就开始吧」　　　",
     "skiped": false
   },
   {
@@ -93724,7 +93724,7 @@
     "hex": "81758CDC8D7389F088F3816982B282AC82E582A482A982A282A282F1816A814981498176",
     "length": 36,
     "original": "「五行解印（ごぎょうかいいん）！！」",
-    "translation": "「五行解印（ごぎょうかいいん）！！」",
+    "translation": "「五行解印！！」          ",
     "skiped": false
   },
   {
@@ -93732,7 +93732,7 @@
     "hex": "817582B382A0814082E282AD82BB82AD82BE82C182C482CE82E68149",
     "length": 28,
     "original": "「さあ　やくそくだってばよ！",
-    "translation": "「さあ　やくそくだってばよ！",
+    "translation": "「来吧　说好的啊！     ",
     "skiped": false
   },
   {
@@ -93740,7 +93740,7 @@
     "hex": "83588362835183468F70814082A882B9815B82C4814981498176",
     "length": 26,
     "original": "スッゲェ術　おせーて！！」",
-    "translation": "スッゲェ術　おせーて！！」",
+    "translation": "超厉害的术　快教我！！」　",
     "skiped": false
   },
   {
@@ -93748,7 +93748,7 @@
     "hex": "816981458145814582C182C6814082B182A282C282C9",
     "length": 22,
     "original": "（・・・っと　こいつに",
-    "translation": "（・・・っと　こいつに",
+    "translation": "（……嗯　在教这小子　",
     "skiped": false
   },
   {
@@ -93756,7 +93756,7 @@
     "hex": "82A082CC8F7082F0814082A882B582A682E982DC82A682C9816A",
     "length": 26,
     "original": "あの術を　おしえるまえに）",
-    "translation": "あの術を　おしえるまえに）",
+    "translation": "那个术之前）　　　　　　　",
     "skiped": false
   },
   {
@@ -93764,7 +93764,7 @@
     "hex": "816991E58ED68ADB82AA82B582BD81408BE394F682CC83608383834E838982CC",
     "length": 32,
     "original": "（大蛇丸がした　九尾のチャクラの",
-    "translation": "（大蛇丸がした　九尾のチャクラの",
+    "translation": "（先把大蛇丸施加的九尾查克拉　　",
     "skiped": false
   },
   {
@@ -93772,7 +93772,7 @@
     "hex": "959588F382B582AB82F0814082C682A282C682AD82A9814581458145816A",
     "length": 30,
     "original": "封印しきを　といとくか・・・）",
-    "translation": "封印しきを　といとくか・・・）",
+    "translation": "封印解开吧……）　　　　　　　",
     "skiped": false
   },
   {
@@ -93780,7 +93780,7 @@
     "hex": "8175837B83458359814082BF82E582C182C6814082B182C182BF82E782B182A28176",
     "length": 34,
     "original": "「ボウズ　ちょっと　こっちらこい」",
-    "translation": "「ボウズ　ちょっと　こっちらこい」",
+    "translation": "「小鬼　过来一下」　　　　　　　　",
     "skiped": false
   },
   {
@@ -93788,7 +93788,7 @@
     "hex": "817582C282AB82A082C182C482AD82EA82C4814082B382F182AB82E3815B814981498176",
     "length": 36,
     "original": "「つきあってくれて　さんきゅー！！」",
-    "translation": "「つきあってくれて　さんきゅー！！」",
+    "translation": "「谢谢你陪我！！」　　　　　　　　　",
     "skiped": false
   },
   {
@@ -93796,7 +93796,7 @@
     "hex": "817582D682D681498140836F83628360838A814082BA815B82F182D4",
     "length": 28,
     "original": "「へへ！　バッチリ　ぜーんぶ",
-    "translation": "「へへ！　バッチリ　ぜーんぶ",
+    "translation": "「嘿嘿！　全都　　　　　　　",
     "skiped": false
   },
   {
@@ -93804,7 +93804,7 @@
     "hex": "82DD82C282AF82C482AB82BD82C182C482CE82E681498176",
     "length": 24,
     "original": "みつけてきたってばよ！」",
-    "translation": "みつけてきたってばよ！」",
+    "translation": "找到了的说！」     ",
     "skiped": false
   },
   {
@@ -93812,7 +93812,7 @@
     "hex": "817582A88149814082B282AD82EB82A482BE82C182BD82CC83488149",
     "length": 28,
     "original": "「お！　ごくろうだったのォ！",
-    "translation": "「お！　ごくろうだったのォ！",
+    "translation": "「哦！　辛苦了啊！     ",
     "skiped": false
   },
   {
@@ -93820,7 +93820,7 @@
     "hex": "82A882EA82A282C9814082B182EA82F082E282EB82A48145814581458176",
     "length": 30,
     "original": "おれいに　これをやろう・・・」",
-    "translation": "おれいに　これをやろう・・・」",
+    "translation": "作为谢礼　给你这个……」   ",
     "skiped": false
   },
   {
@@ -93828,7 +93828,7 @@
     "hex": "8369838B836782CD814083438360838383438360838383898343835A8393835882F0",
     "length": 34,
     "original": "ナルトは　イチャイチャライセンスを",
-    "translation": "ナルトは　イチャイチャライセンスを",
+    "translation": "鸣人得到了　亲热天堂许可证    ",
     "skiped": false
   },
   {
@@ -93836,7 +93836,7 @@
     "hex": "82C482C982A282EA82BD",
     "length": 10,
     "original": "てにいれた",
-    "translation": "てにいれた",
+    "translation": "入手了  ",
     "skiped": false
   },
   {
@@ -93844,7 +93844,7 @@
     "hex": "817582CD82C282CE82A282DC82A682CC8140838C834182C882E082F182B682E182A982E782CC8348",
     "length": 40,
     "original": "「はつばいまえの　レアなもんじゃからのォ",
-    "translation": "「はつばいまえの　レアなもんじゃからのォ",
+    "translation": "「这可是　发售前的稀有货啊       ",
     "skiped": false
   },
   {
@@ -93852,7 +93852,7 @@
     "hex": "82BD82A282B982C282C982B582EB82E681498176",
     "length": 20,
     "original": "たいせつにしろよ！」",
-    "translation": "たいせつにしろよ！」",
+    "translation": "要好好珍惜啊！」  ",
     "skiped": false
   },
   {
@@ -93860,7 +93860,7 @@
     "hex": "817582B182C182A982E782CD814082A882DC82A682BE82AF82CC8F438BC682C982C882E982A982E7",
     "length": 40,
     "original": "「こっからは　おまえだけの修業になるから",
-    "translation": "「こっからは　おまえだけの修業になるから",
+    "translation": "「接下来　是你一个人的修行       ",
     "skiped": false
   },
   {
@@ -93868,7 +93868,7 @@
     "hex": "82A082C682CC82D382BD82E882CD814082B182B182DC82C582BE81498176",
     "length": 30,
     "original": "あとのふたりは　ここまでだ！」",
-    "translation": "あとのふたりは　ここまでだ！」",
+    "translation": "你们两个　就到这里！」　　　　",
     "skiped": false
   },
   {
@@ -93876,7 +93876,7 @@
     "hex": "817582A082C882BD82E0814082ED82A982C182C482A282E9836E835982C582B781498176",
     "length": 36,
     "original": "「あなたも　わかっているハズです！」",
-    "translation": "「あなたも　わかっているハズです！」",
+    "translation": "「你应该也　明白吧！」       ",
     "skiped": false
   },
   {
@@ -93884,7 +93884,7 @@
     "hex": "81758E4F9445816982B382F182C982F1816A82C682A482BD82ED82EA82BD814091E58ED68ADB82F0",
     "length": 40,
     "original": "「三忍（さんにん）とうたわれた　大蛇丸を",
-    "translation": "「三忍（さんにん）とうたわれた　大蛇丸を",
+    "translation": "「要阻止　被称为三忍的大蛇丸　　　　　　",
     "skiped": false
   },
   {
@@ -93892,7 +93892,7 @@
     "hex": "82C682DF82E982C982CD814082A882C882B68E4F944582CC82D082C682E88145814581458176",
     "length": 38,
     "original": "とめるには　おなじ三忍のひとり・・・」",
-    "translation": "とめるには　おなじ三忍のひとり・・・」",
+    "translation": "就必须是　同为三忍的一人……」    ",
     "skiped": false
   },
   {
