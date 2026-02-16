@@ -17,6 +17,7 @@
   python translate_with_glm.py --batch-size 100 --dry-run
   python translate_with_glm.py --no-skip                  # 全部重翻（已 skiped 的条仍不重发）
   python translate_with_glm.py --skiped-only              # 仅对已标记为跳过的条目重新翻译，无需 skip 则覆盖原记录
+  python translate_with_glm.py --same-only                # 仅对 skip=false 且原文与译文相同的条目重新翻译
   python translate_with_glm.py --model glm-4-plus --files text_chunk_001.json
 """
 
@@ -317,6 +318,7 @@ def process_all(
     skip_filled: bool = True,
     dry_run: bool = False,
     skiped_only: bool = False,
+    same_only: bool = False,
 ) -> None:
     """对所有条目按批翻译（结构化 JSON），结果写入 translate/translations.json。"""
     # 始终加载已有结果，合并 translation/skiped；--no-skip 时已 skiped 的条也不重发
@@ -333,6 +335,15 @@ def process_all(
 
     if skiped_only:
         to_translate = [e for e in all_entries if "original" in e and e.get("skiped")]
+    elif same_only:
+        # skip=false 且原文与译文相同（含 strip 比较）的条目，再处理一遍
+        to_translate = [
+            e
+            for e in all_entries
+            if "original" in e
+            and not e.get("skiped")
+            and (e.get("original") or "").strip() == (e.get("translation") or "").strip()
+        ]
     else:
         to_translate = [
             e
@@ -381,6 +392,7 @@ def main():
     parser.add_argument("--batch-size", type=int, default=BATCH_SIZE, help=f"每批条数（默认 {BATCH_SIZE}）")
     parser.add_argument("--no-skip", action="store_true", help="不跳过已有 translation 的条目，全部重翻")
     parser.add_argument("--skiped-only", action="store_true", help="仅对已标记为跳过的条目重新翻译；若新结果无需跳过则覆盖原记录")
+    parser.add_argument("--same-only", action="store_true", help="仅对 skip=false 且原文与译文相同的条目重新翻译")
     parser.add_argument("--dry-run", action="store_true", help="只列出待翻译文件与条数，不请求 API")
     parser.add_argument("--files", nargs="*", help="仅处理这些 chunk 文件（例如 text_chunk_001.json）")
     args = parser.parse_args()
@@ -411,6 +423,7 @@ def main():
         skip_filled=not args.no_skip,
         dry_run=args.dry_run,
         skiped_only=args.skiped_only,
+        same_only=args.same_only,
     )
 
 
