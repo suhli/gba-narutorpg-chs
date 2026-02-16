@@ -44,7 +44,7 @@ gba-narutorpg-chs/
 
 ### python（脚本工具）
 
-- **已实现**：`debug/` 下 8×8、8×16 字模脚本（TTF → GBA 4bpp，输出 `.bin` 与预览图）；`text_dumper.py` 从 ROM 按 Shift-JIS 扫描并导出剧情/菜单文本为 `text_dump/text_chunk_*.json`。依赖见 `requirements.txt`（freetype-py、pillow）。
+- **已实现**：`debug/` 下 8×8、8×16 字模脚本（TTF → GBA 4bpp，输出 `.bin` 与预览图）；`text_dumper.py` 从 ROM 按 Shift-JIS 扫描并导出剧情/菜单文本为 `text_dump/text_chunk_*.json`。**字模字体**：8×8 与 8×16 均使用**思源黑体**（Source Han Sans）渲染。依赖见 `requirements.txt`（freetype-py、pillow）。
 - **计划**：封装字模为统一工具、汉化文本写回 ROM、生成/校验与原版 ROM 的 binary diff（供 Patcher 使用）。详见 [python/readme.md](python/readme.md)。
 
 ### patcher（HTML Patcher）

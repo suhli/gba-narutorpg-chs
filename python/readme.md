@@ -24,6 +24,8 @@ python/
 - **8×8 字模**（`debug/8x8_font.py`）：使用 FreeType MONO 渲染 TTF 为 8×8 像素，转为 GBA 4bpp tile，输出 `.bin` 及 `_preview.png`。
 - **8×16 字模**（`debug/8x16_font.py`）：渲染 16×16 后按列压缩为 8×16，转为 GBA 4bpp（每字 64 字节），输出 `.bin` 及预览图。
 
+**字体**：当前 8×8 与 8×16 字模均使用**思源黑体**（Source Han Sans，如 `SourceHanSansSC-VF.ttf`）渲染。
+
 上述脚本为实验用途，字体路径、字符列表需在脚本内修改；后续会抽成可配置的 CLI 或工具库。
 
 ### 文本导出（debug 脚本）
@@ -43,7 +45,7 @@ python/
 - **运行示例**（在仓库根目录或 `python` 目录下）：
   - **Binary diff**：`python python/differ.py 原版.gba 汉化.gba -o patcher/diff.json`，将差异写入 [patcher](../patcher/) 的 `diff.json`。
   - 8×8：`python python/debug/8x8_font.py`（需在脚本中配置 `font_path`、`chars` 等）。
-  - 8×16：`python python/debug/8x16_font.py`（同上，需自备如 FashionBitmap16 等 TTF）。
+  - 8×16：`python python/debug/8x16_font.py`（同上，与 8×8 一样可使用思源黑体 TTF）。
   - 文本导出：`python python/debug/text_dumper.py`（需在脚本中配置 `ROM_PATH` 为原版 ROM 路径，如 `hexproj/original.gba`；输出到 `OUTPUT_DIR`，默认 `python/debug/text_dump`）。
 
 字模输出为同目录或脚本内 `out_prefix` 指定的 `.bin` 与 `_preview.png`；文本导出为 `text_dump/text_chunk_*.json`。
