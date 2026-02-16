@@ -18,7 +18,7 @@
   {
     "offset": "0x6DAAC",
     "original": "ファイルさくじょ　かげぶんしんバトル",
-    "translation": "删除存档　　影分身对战　　　　　　　",
+    "translation": "删除存档　　　　　影分身对战　　　　",
     "skiped": false,
     "hex": "837483408343838B82B382AD82B682E5814082A982B082D482F182B582F1836F8367838B",
     "length": 36
@@ -690,7 +690,7 @@
   {
     "offset": "0x6E1D1",
     "original": "　はい　　　　いいえ",
-    "translation": "是　　　　　否　　　",
+    "translation": "　是　　　　　否　　",
     "skiped": false,
     "hex": "814082CD82A2814081408140814082A282A282A6",
     "length": 20
@@ -978,7 +978,7 @@
   {
     "offset": "0x6E4C4",
     "original": "はい　いいえ",
-    "translation": "是　否　　　",
+    "translation": "是　　否　　",
     "skiped": false,
     "hex": "82CD82A2814082A282A282A6",
     "length": 12
@@ -1538,7 +1538,7 @@
   {
     "offset": "0x6EDFD",
     "original": "　はい　　　　いいえ",
-    "translation": "是　　　　否　　　　",
+    "translation": "　是　　　　　否　　",
     "skiped": false,
     "hex": "814082CD82A2814081408140814082A282A282A6",
     "length": 20
@@ -1714,7 +1714,7 @@
   {
     "offset": "0x6F121",
     "original": "　はい　　　　いいえ",
-    "translation": "是　　　　否　　　　",
+    "translation": "　是　　　　　否　　",
     "skiped": false,
     "hex": "814082CD82A2814081408140814082A282A282A6",
     "length": 20
@@ -1754,7 +1754,7 @@
   {
     "offset": "0x6F1BC",
     "original": "はい　いいえ",
-    "translation": "是　否　　　",
+    "translation": "是　　否　　",
     "skiped": false,
     "hex": "82CD82A2814082A282A282A6",
     "length": 12
@@ -2130,7 +2130,7 @@
   {
     "offset": "0x6F66B",
     "original": "　はい　　　　いいえ",
-    "translation": "是　　　　否　　　　",
+    "translation": "　是　　　　　否　　",
     "skiped": false,
     "hex": "814082CD82A2814081408140814082A282A282A6",
     "length": 20
@@ -2218,7 +2218,7 @@
   {
     "offset": "0x6F805",
     "original": "　はい　　　　いいえ",
-    "translation": "是　　　　否　　　　",
+    "translation": "　是　　　　　否　　",
     "skiped": false,
     "hex": "814082CD82A2814081408140814082A282A282A6",
     "length": 20
@@ -2258,7 +2258,7 @@
   {
     "offset": "0x6F87F",
     "original": "　はい　　　　いいえ",
-    "translation": "是　　　　　否　　　",
+    "translation": "　是　　　　　否　　",
     "skiped": false,
     "hex": "814082CD82A2814081408140814082A282A282A6",
     "length": 20
@@ -2306,7 +2306,7 @@
   {
     "offset": "0x6F92D",
     "original": "　はい　　　　いいえ",
-    "translation": "是　　　　　否　　　",
+    "translation": "　是　　　　　否　　",
     "skiped": false,
     "hex": "814082CD82A2814081408140814082A282A282A6",
     "length": 20
@@ -2322,7 +2322,7 @@
   {
     "offset": "0x6F960",
     "original": "かう　　うる　　やめる　",
-    "translation": "买　　卖　　取消　　　　",
+    "translation": "买　　　卖　　　取消　　",
     "skiped": false,
     "hex": "82A982A48140814082A482E98140814082E282DF82E98140",
     "length": 24
@@ -2330,7 +2330,7 @@
   {
     "offset": "0x6F97C",
     "original": "ぶき　　ぼうぐ　うる　　やめる　",
-    "translation": "武器　防具　卖　　取消　　　　　",
+    "translation": "武器　　防具　　卖　　　取消　　",
     "skiped": false,
     "hex": "82D482AB8140814082DA82A482AE814082A482E98140814082E282DF82E98140",
     "length": 32
@@ -2338,7 +2338,7 @@
   {
     "offset": "0x6F9A8",
     "original": "いれかえるやめる　　",
-    "translation": "更换　　取消　　　　",
+    "translation": "更换　　　取消　　　",
     "skiped": false,
     "hex": "82A282EA82A982A682E982E282DF82E981408140",
     "length": 20
@@ -2386,7 +2386,7 @@
   {
     "offset": "0x6FA98",
     "original": "たたかうやめる　",
-    "translation": "战斗　取消　　　",
+    "translation": "战斗　　取消　　",
     "skiped": false,
     "hex": "82BD82BD82A982A482E282DF82E98140",
     "length": 16
@@ -2826,7 +2826,7 @@
   {
     "offset": "0x6FFC3",
     "original": "　はい　　　　いいえ",
-    "translation": "是　　　　　否　　　",
+    "translation": "　是　　　　　否　　",
     "skiped": false,
     "hex": "814082CD82A2814081408140814082A282A282A6",
     "length": 20
@@ -2858,7 +2858,7 @@
   {
     "offset": "0x70038",
     "original": "あずけるひきだすやめる　",
-    "translation": "存放　取出　取消　　　　",
+    "translation": "存放　　取出　　取消　　",
     "skiped": false,
     "hex": "82A082B882AF82E982D082AB82BE82B782E282DF82E98140",
     "length": 24
@@ -29780,7 +29780,7 @@
     "hex": "814082CD82A2814081408140814082A282A282A6",
     "length": 20,
     "original": "　はい　　　　いいえ",
-    "translation": "是　　　　否　　　　",
+    "translation": "　是　　　　　否　　",
     "skiped": false
   },
   {
@@ -29892,7 +29892,7 @@
     "hex": "814082CD82A2814081408140814082A282A282A6",
     "length": 20,
     "original": "　はい　　　　いいえ",
-    "translation": "是　　　　否　　　　",
+    "translation": "　是　　　　　否　　",
     "skiped": false
   },
   {
@@ -29908,7 +29908,7 @@
     "hex": "814082CD82A2814081408140814082A282A282A6",
     "length": 20,
     "original": "　はい　　　　いいえ",
-    "translation": "是　　　　否　　　　",
+    "translation": "　是　　　　　否　　",
     "skiped": false
   },
   {
