@@ -14,10 +14,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCB2E9",
-    "length": 33,
-    "hex": "23817582A282A2814581458145814082D082C682E882C5814082A282AF82E98176",
-    "original": "#「いい・・・　ひとりで　いける」",
+    "offset": "0xCB2EA",
+    "length": 32,
+    "hex": "817582A282A2814581458145814082D082C682E882C5814082A282AF82E98176",
+    "original": "「いい・・・　ひとりで　いける」",
     "translation": ""
   },
   {
@@ -28,10 +28,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCB32D",
-    "length": 15,
-    "hex": "23817582A482C18145814581458176",
-    "original": "#「うっ・・・」",
+    "offset": "0xCB32E",
+    "length": 14,
+    "hex": "817582A482C18145814581458176",
+    "original": "「うっ・・・」",
     "translation": ""
   },
   {
@@ -476,10 +476,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCBB71",
-    "length": 21,
-    "hex": "23816981458145814582A082A282B682E582A48148",
-    "original": "#（・・・あいじょう？",
+    "offset": "0xCBB72",
+    "length": 20,
+    "hex": "816981458145814582A082A282B682E582A48148",
+    "original": "（・・・あいじょう？",
     "translation": ""
   },
   {
@@ -693,10 +693,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCBF45",
-    "length": 39,
-    "hex": "25816981458145814582B182F182C8814082E682ED82E882AB82C182BD814089E488A4978582CD",
-    "original": "%（・・・こんな　よわりきった　我愛羅は",
+    "offset": "0xCBF46",
+    "length": 38,
+    "hex": "816981458145814582B182F182C8814082E682ED82E882AB82C182BD814089E488A4978582CD",
+    "original": "（・・・こんな　よわりきった　我愛羅は",
     "translation": ""
   },
   {
@@ -721,10 +721,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCBFB9",
-    "length": 19,
-    "hex": "23817582E082A482A282A28145814581458140",
-    "original": "#「もういい・・・　",
+    "offset": "0xCBFBA",
+    "length": 18,
+    "hex": "817582E082A482A282A28145814581458140",
+    "original": "「もういい・・・　",
     "translation": ""
   },
   {
@@ -854,17 +854,17 @@
     "translation": ""
   },
   {
-    "offset": "0xCC225",
-    "length": 27,
-    "hex": "23817582AD82C1814581458145814082AD82E982C8814981498176",
-    "original": "#「くっ・・・　くるな！！」",
+    "offset": "0xCC226",
+    "length": 26,
+    "hex": "817582AD82C1814581458145814082AD82E982C8814981498176",
+    "original": "「くっ・・・　くるな！！」",
     "translation": ""
   },
   {
-    "offset": "0xCC245",
-    "length": 23,
-    "hex": "23816982C882BA814581458145814082B182A282C282CD",
-    "original": "#（なぜ・・・　こいつは",
+    "offset": "0xCC246",
+    "length": 22,
+    "hex": "816982C882BA814581458145814082B182A282C282CD",
+    "original": "（なぜ・・・　こいつは",
     "translation": ""
   },
   {
@@ -994,10 +994,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCC49A",
-    "length": 19,
-    "hex": "23817582AD82BD82CE82EA815B814981498176",
-    "original": "#「くたばれー！！」",
+    "offset": "0xCC49B",
+    "length": 18,
+    "hex": "817582AD82BD82CE82EA815B814981498176",
+    "original": "「くたばれー！！」",
     "translation": ""
   },
   {
@@ -1036,10 +1036,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCC551",
-    "length": 15,
-    "hex": "3081758F7082AA8145814581458140",
-    "original": "0「術が・・・　",
+    "offset": "0xCC552",
+    "length": 14,
+    "hex": "81758F7082AA8145814581458140",
+    "original": "「術が・・・　",
     "translation": ""
   },
   {
@@ -1071,10 +1071,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCC5C7",
-    "length": 25,
-    "hex": "23817581458145814582C882DF82E982C88145814581458176",
-    "original": "#「・・・なめるな・・・」",
+    "offset": "0xCC5C8",
+    "length": 24,
+    "hex": "817581458145814582C882DF82E982C88145814581458176",
+    "original": "「・・・なめるな・・・」",
     "translation": ""
   },
   {
@@ -1099,10 +1099,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCC659",
-    "length": 19,
-    "hex": "30817582B182EA82C5814082B682E482A482C9",
-    "original": "0「これで　じゆうに",
+    "offset": "0xCC65A",
+    "length": 18,
+    "hex": "817582B182EA82C5814082B682E482A482C9",
+    "original": "「これで　じゆうに",
     "translation": ""
   },
   {
@@ -1155,10 +1155,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCC72E",
-    "length": 27,
-    "hex": "30817582D082E182CD8340815B815B8149814082A282AB82C882E8",
-    "original": "0「ひゃはァーー！　いきなり",
+    "offset": "0xCC72F",
+    "length": 26,
+    "hex": "817582D082E182CD8340815B815B8149814082A282AB82C882E8",
+    "original": "「ひゃはァーー！　いきなり",
     "translation": ""
   },
   {
@@ -1204,10 +1204,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCC7F3",
-    "length": 27,
-    "hex": "23817582B182CC82B782AA82BD82F0814082B382E782B782DC82C5",
-    "original": "#「このすがたを　さらすまで",
+    "offset": "0xCC7F4",
+    "length": 26,
+    "hex": "817582B182CC82B782AA82BD82F0814082B382E782B782DC82C5",
+    "original": "「このすがたを　さらすまで",
     "translation": ""
   },
   {
@@ -1260,10 +1260,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCC91C",
-    "length": 25,
-    "hex": "30817583568383836E836E836E836E836E8341834081498149",
-    "original": "0「シャハハハハハアァ！！",
+    "offset": "0xCC91D",
+    "length": 24,
+    "hex": "817583568383836E836E836E836E836E8341834081498149",
+    "original": "「シャハハハハハアァ！！",
     "translation": ""
   },
   {
@@ -1295,10 +1295,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCC9CF",
-    "length": 27,
-    "hex": "23817582AE82C1814581458145814082A482C18145814581458176",
-    "original": "#「ぐっ・・・　うっ・・・」",
+    "offset": "0xCC9D0",
+    "length": 26,
+    "hex": "817582AE82C1814581458145814082A482C18145814581458176",
+    "original": "「ぐっ・・・　うっ・・・」",
     "translation": ""
   },
   {
@@ -1316,10 +1316,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCCA22",
-    "length": 33,
-    "hex": "23817582B182CC8349838C82AA814581458145814082B182F182C8814581458145",
-    "original": "#「このオレが・・・　こんな・・・",
+    "offset": "0xCCA23",
+    "length": 32,
+    "hex": "817582B182CC8349838C82AA814581458145814082B182F182C8814581458145",
+    "original": "「このオレが・・・　こんな・・・",
     "translation": ""
   },
   {
@@ -1610,10 +1610,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCCF67",
-    "length": 39,
-    "hex": "23817582AE82C181458145814581408369838182B782AC82BD82A9814581458145814082A282E2",
-    "original": "#「ぐっ・・・　ナメすぎたか・・・　いや",
+    "offset": "0xCCF68",
+    "length": 38,
+    "hex": "817582AE82C181458145814581408369838182B782AC82BD82A9814581458145814082A282E2",
+    "original": "「ぐっ・・・　ナメすぎたか・・・　いや",
     "translation": ""
   },
   {
@@ -1638,10 +1638,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCCFF3",
-    "length": 23,
-    "hex": "23817582B3829F8149814082C782A482B582BD81498140",
-    "original": "#「さぁ！　どうした！　",
+    "offset": "0xCCFF4",
+    "length": 22,
+    "hex": "817582B3829F8149814082C782A482B582BD81498140",
+    "original": "「さぁ！　どうした！　",
     "translation": ""
   },
   {
@@ -1666,17 +1666,17 @@
     "translation": ""
   },
   {
-    "offset": "0xCD070",
-    "length": 29,
-    "hex": "208E8082F182C582E0814082DC82AF82BD82AD82CB82A5814981498176",
-    "original": " 死んでも　まけたくねぇ！！」",
+    "offset": "0xCD071",
+    "length": 28,
+    "hex": "8E8082F182C582E0814082DC82AF82BD82AD82CB82A5814981498176",
+    "original": "死んでも　まけたくねぇ！！」",
     "translation": ""
   },
   {
-    "offset": "0xCD093",
-    "length": 33,
-    "hex": "23816981458145814596DA82C282AB82AA814082A982ED82C182BD81498148816A",
-    "original": "#（・・・目つきが　かわった！？）",
+    "offset": "0xCD094",
+    "length": 32,
+    "hex": "816981458145814596DA82C282AB82AA814082A982ED82C182BD81498148816A",
+    "original": "（・・・目つきが　かわった！？）",
     "translation": ""
   },
   {
@@ -1694,10 +1694,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCD10F",
-    "length": 29,
-    "hex": "23817582B3829F814981408349838C82C682BD82BD82A982A681498140",
-    "original": "#「さぁ！　オレとたたかえ！　",
+    "offset": "0xCD110",
+    "length": 28,
+    "hex": "817582B3829F814981408349838C82C682BD82BD82A982A681498140",
+    "original": "「さぁ！　オレとたたかえ！　",
     "translation": ""
   },
   {
@@ -1771,10 +1771,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCD283",
-    "length": 35,
-    "hex": "23817581458145814582A882DC82A682C9814082A882B582A682C482E282EB82A48176",
-    "original": "#「・・・おまえに　おしえてやろう」",
+    "offset": "0xCD284",
+    "length": 34,
+    "hex": "817581458145814582A882DC82A682C9814082A882B582A682C482E282EB82A48176",
+    "original": "「・・・おまえに　おしえてやろう」",
     "translation": ""
   },
   {
@@ -1855,10 +1855,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCD413",
-    "length": 25,
-    "hex": "23817582B3829F814581458145814082C782A482B582BD8148",
-    "original": "#「さぁ・・・　どうした？",
+    "offset": "0xCD414",
+    "length": 24,
+    "hex": "817582B3829F814581458145814082C782A482B582BD8148",
+    "original": "「さぁ・・・　どうした？",
     "translation": ""
   },
   {
@@ -2065,17 +2065,17 @@
     "translation": ""
   },
   {
-    "offset": "0xCD867",
-    "length": 21,
-    "hex": "238175834F83488349834983498349814981498176",
-    "original": "#「グォオオオオ！！」",
+    "offset": "0xCD868",
+    "length": 20,
+    "hex": "8175834F83488349834983498349814981498176",
+    "original": "「グォオオオオ！！」",
     "translation": ""
   },
   {
-    "offset": "0xCD881",
-    "length": 21,
-    "hex": "23817582C882A982DC814581458145814981488140",
-    "original": "#「なかま・・・！？　",
+    "offset": "0xCD882",
+    "length": 20,
+    "hex": "817582C882A982DC814581458145814981488140",
+    "original": "「なかま・・・！？　",
     "translation": ""
   },
   {
@@ -2114,10 +2114,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCD91D",
-    "length": 25,
-    "hex": "23817581458145814581458145814582B182A282C282E782CD",
-    "original": "#「・・・・・・こいつらは",
+    "offset": "0xCD91E",
+    "length": 24,
+    "hex": "817581458145814581458145814582B182A282C282E782CD",
+    "original": "「・・・・・・こいつらは",
     "translation": ""
   },
   {
@@ -2156,10 +2156,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCD9CD",
-    "length": 25,
-    "hex": "23816982A4814581458145814082A482C182C1814581458145",
-    "original": "#（う・・・　うっっ・・・",
+    "offset": "0xCD9CE",
+    "length": 24,
+    "hex": "816982A4814581458145814082A482C182C1814581458145",
+    "original": "（う・・・　うっっ・・・",
     "translation": ""
   },
   {
@@ -2212,10 +2212,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCDAB1",
-    "length": 29,
-    "hex": "2381758365837D838A8145814581458140834A8393834E838D83458149",
-    "original": "#「テマリ・・・　カンクロウ！",
+    "offset": "0xCDAB2",
+    "length": 28,
+    "hex": "81758365837D838A8145814581458140834A8393834E838D83458149",
+    "original": "「テマリ・・・　カンクロウ！",
     "translation": ""
   },
   {
@@ -2233,17 +2233,17 @@
     "translation": ""
   },
   {
-    "offset": "0xCDAFD",
-    "length": 25,
-    "hex": "2381758345834F834983488349814581458145814981498176",
-    "original": "#「ウグオォオ・・・！！」",
+    "offset": "0xCDAFE",
+    "length": 24,
+    "hex": "81758345834F834983488349814581458145814981498176",
+    "original": "「ウグオォオ・・・！！」",
     "translation": ""
   },
   {
-    "offset": "0xCDB1D",
-    "length": 37,
-    "hex": "23817582C982AD82B582DD82CC8360834A838982CD814082B382C282A282CC8360834A8389",
-    "original": "#「にくしみのチカラは　さついのチカラ",
+    "offset": "0xCDB1E",
+    "length": 36,
+    "hex": "817582C982AD82B582DD82CC8360834A838982CD814082B382C282A282CC8360834A8389",
+    "original": "「にくしみのチカラは　さついのチカラ",
     "translation": ""
   },
   {
@@ -2275,10 +2275,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCDBCA",
-    "length": 25,
-    "hex": "23817582BB82EA82CD814082A882DC82A682AA814581458145",
-    "original": "#「それは　おまえが・・・",
+    "offset": "0xCDBCB",
+    "length": 24,
+    "hex": "817582BB82EA82CD814082A882DC82A682AA814581458145",
+    "original": "「それは　おまえが・・・",
     "translation": ""
   },
   {
@@ -2296,10 +2296,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCDC34",
-    "length": 15,
-    "hex": "2381758341836E8145814581458140",
-    "original": "#「アハ・・・　",
+    "offset": "0xCDC35",
+    "length": 14,
+    "hex": "81758341836E8145814581458140",
+    "original": "「アハ・・・　",
     "translation": ""
   },
   {
@@ -2310,10 +2310,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCDC70",
-    "length": 27,
-    "hex": "23817582A882DC82A682CC814082BB82F182B482A282A982BF82CD",
-    "original": "#「おまえの　そんざいかちは",
+    "offset": "0xCDC71",
+    "length": 26,
+    "hex": "817582A882DC82A682CC814082BB82F182B482A282A982BF82CD",
+    "original": "「おまえの　そんざいかちは",
     "translation": ""
   },
   {
@@ -2443,10 +2443,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCDEA1",
-    "length": 39,
-    "hex": "23817582C782A482B582BD814581458145814082C882BA814082A982A982C182C482B182C882A2",
-    "original": "#「どうした・・・　なぜ　かかってこない",
+    "offset": "0xCDEA2",
+    "length": 38,
+    "hex": "817582C782A482B582BD814581458145814082C882BA814082A982A982C182C482B182C882A2",
+    "original": "「どうした・・・　なぜ　かかってこない",
     "translation": ""
   },
   {
@@ -2499,10 +2499,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCDF81",
-    "length": 35,
-    "hex": "23817582BB82CC96DA814581458145814082A882DC82A682E0814082B182B182EB82CC",
-    "original": "#「その目・・・　おまえも　こころの",
+    "offset": "0xCDF82",
+    "length": 34,
+    "hex": "817582BB82CC96DA814581458145814082A882DC82A682E0814082B182B182EB82CC",
+    "original": "「その目・・・　おまえも　こころの",
     "translation": ""
   },
   {
@@ -2548,10 +2548,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCE083",
-    "length": 35,
-    "hex": "23817581458145814582D982F182C682A482CC814082B182C782AD82F082B582E996DA",
-    "original": "#「・・・ほんとうの　こどくをしる目",
+    "offset": "0xCE084",
+    "length": 34,
+    "hex": "817581458145814582D982F182C682A482CC814082B182C782AD82F082B582E996DA",
+    "original": "「・・・ほんとうの　こどくをしる目",
     "translation": ""
   },
   {
@@ -2625,10 +2625,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCE211",
-    "length": 39,
-    "hex": "23817582B182CC8349838C82AA814082B182ED82A282A98148814082A482BF82CD835483588350",
-    "original": "#「このオレが　こわいか？　うちはサスケ",
+    "offset": "0xCE212",
+    "length": 38,
+    "hex": "817582B182CC8349838C82AA814082B182ED82A282A98148814082A482BF82CD835483588350",
+    "original": "「このオレが　こわいか？　うちはサスケ",
     "translation": ""
   },
   {
@@ -2660,10 +2660,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCE2CD",
-    "length": 15,
-    "hex": "23817582B382A08145814581458140",
-    "original": "#「さあ・・・　",
+    "offset": "0xCE2CE",
+    "length": 14,
+    "hex": "817582B382A08145814581458140",
+    "original": "「さあ・・・　",
     "translation": ""
   },
   {
@@ -2709,10 +2709,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCE392",
-    "length": 23,
-    "hex": "23817582C282E682A2814082A882DC82A6814581458145",
-    "original": "#「つよい　おまえ・・・",
+    "offset": "0xCE393",
+    "length": 22,
+    "hex": "817582C282E682A2814082A882DC82A6814581458145",
+    "original": "「つよい　おまえ・・・",
     "translation": ""
   },
   {

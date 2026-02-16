@@ -2114,10 +2114,10 @@
     "translation": ""
   },
   {
-    "offset": "0x8D7D3",
-    "length": 33,
-    "hex": "31817582DA82AD82E08140834B834390E690B682F0814082DD82C882E782C182C4",
-    "original": "1「ぼくも　ガイ先生を　みならって",
+    "offset": "0x8D7D4",
+    "length": 32,
+    "hex": "817582DA82AD82E08140834B834390E690B682F0814082DD82C882E782C182C4",
+    "original": "「ぼくも　ガイ先生を　みならって",
     "translation": ""
   },
   {
@@ -2128,10 +2128,10 @@
     "translation": ""
   },
   {
-    "offset": "0x8D80B",
-    "length": 37,
-    "hex": "31817582AD82BB83488140834A834A835682CD814082C782B182BE815B815B814981488176",
-    "original": "1「くそォ　カカシは　どこだーー！？」",
+    "offset": "0x8D80C",
+    "length": 36,
+    "hex": "817582AD82BB83488140834A834A835682CD814082C782B182BE815B815B814981488176",
+    "original": "「くそォ　カカシは　どこだーー！？」",
     "translation": ""
   },
   {
@@ -2702,10 +2702,10 @@
     "translation": ""
   },
   {
-    "offset": "0x8E39B",
-    "length": 33,
-    "hex": "3181758EA995AA816982B682D482F1816A838B815B838B82C5814082AB82DF82BD",
-    "original": "1「自分（じぶん）ルールで　きめた",
+    "offset": "0x8E39C",
+    "length": 32,
+    "hex": "81758EA995AA816982B682D482F1816A838B815B838B82C5814082AB82DF82BD",
+    "original": "「自分（じぶん）ルールで　きめた",
     "translation": ""
   },
   {
@@ -2716,10 +2716,10 @@
     "translation": ""
   },
   {
-    "offset": "0x8E3EB",
-    "length": 11,
-    "hex": "31817582A882DC82A682E7",
-    "original": "1「おまえら",
+    "offset": "0x8E3EC",
+    "length": 10,
+    "hex": "817582A882DC82A682E7",
+    "original": "「おまえら",
     "translation": ""
   },
   {
@@ -3353,10 +3353,10 @@
     "translation": ""
   },
   {
-    "offset": "0x8EFAB",
-    "length": 41,
-    "hex": "31817582ED82BD82B582CD814082D782C282C9814082AF82F182B182A4814082C582B782A982E78176",
-    "original": "1「わたしは　べつに　けんこう　ですから」",
+    "offset": "0x8EFAC",
+    "length": 40,
+    "hex": "817582ED82BD82B582CD814082D782C282C9814082AF82F182B182A4814082C582B782A982E78176",
+    "original": "「わたしは　べつに　けんこう　ですから」",
     "translation": ""
   },
   {
@@ -3402,10 +3402,10 @@
     "translation": ""
   },
   {
-    "offset": "0x8F067",
-    "length": 7,
-    "hex": "3181758353837A",
-    "original": "1「ゴホ",
+    "offset": "0x8F068",
+    "length": 6,
+    "hex": "81758353837A",
+    "original": "「ゴホ",
     "translation": ""
   },
   {

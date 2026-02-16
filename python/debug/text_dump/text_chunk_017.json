@@ -2555,10 +2555,10 @@
     "translation": ""
   },
   {
-    "offset": "0xADE87",
-    "length": 39,
-    "hex": "31817590ED82A482C682AB82CD814082CE82F182BA82F182CC814082BD82A282BF82E582A482C5",
-    "original": "1「戦うときは　ばんぜんの　たいちょうで",
+    "offset": "0xADE88",
+    "length": 38,
+    "hex": "817590ED82A482C682AB82CD814082CE82F182BA82F182CC814082BD82A282BF82E582A482C5",
+    "original": "「戦うときは　ばんぜんの　たいちょうで",
     "translation": ""
   },
   {
@@ -3409,10 +3409,10 @@
     "translation": ""
   },
   {
-    "offset": "0xAEF45",
-    "length": 13,
-    "hex": "31817583418393835E82BD82BF",
-    "original": "1「アンタたち",
+    "offset": "0xAEF46",
+    "length": 12,
+    "hex": "817583418393835E82BD82BF",
+    "original": "「アンタたち",
     "translation": ""
   },
   {

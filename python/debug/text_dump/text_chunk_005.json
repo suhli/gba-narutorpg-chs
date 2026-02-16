@@ -1575,17 +1575,17 @@
     "translation": ""
   },
   {
-    "offset": "0x7C583",
-    "length": 33,
-    "hex": "31817582A4815B815B82F1814082C782EA82C982B582E682C182A982C881488176",
-    "original": "1「うーーん　どれにしよっかな？」",
+    "offset": "0x7C584",
+    "length": 32,
+    "hex": "817582A4815B815B82F1814082C782EA82C982B582E682C182A982C881488176",
+    "original": "「うーーん　どれにしよっかな？」",
     "translation": ""
   },
   {
-    "offset": "0x7C5AB",
-    "length": 29,
-    "hex": "3181758F7082F0814082AB82ED82DF82EA82CE814082D482AB82C882C7",
-    "original": "1「術を　きわめれば　ぶきなど",
+    "offset": "0x7C5AC",
+    "length": 28,
+    "hex": "81758F7082F0814082AB82ED82DF82EA82CE814082D482AB82C882C7",
+    "original": "「術を　きわめれば　ぶきなど",
     "translation": ""
   },
   {
@@ -1757,10 +1757,10 @@
     "translation": ""
   },
   {
-    "offset": "0x7C8BB",
-    "length": 35,
-    "hex": "31817582E282C182CF814082B582E582A482C9814082A082ED82C882AD82C482CB815B",
-    "original": "1「やっぱ　しょうに　あわなくてねー",
+    "offset": "0x7C8BC",
+    "length": 34,
+    "hex": "817582E282C182CF814082B582E582A482C9814082A082ED82C882AD82C482CB815B",
+    "original": "「やっぱ　しょうに　あわなくてねー",
     "translation": ""
   },
   {
@@ -1771,10 +1771,10 @@
     "translation": ""
   },
   {
-    "offset": "0x7C90F",
-    "length": 37,
-    "hex": "31817582A082BD82B582E0814082B182F182B282CC82B182C6814082A982F182AA82A682C4",
-    "original": "1「あたしも　こんごのこと　かんがえて",
+    "offset": "0x7C910",
+    "length": 36,
+    "hex": "817582A082BD82B582E0814082B182F182B282CC82B182C6814082A982F182AA82A682C4",
+    "original": "「あたしも　こんごのこと　かんがえて",
     "translation": ""
   },
   {
@@ -3122,10 +3122,10 @@
     "translation": ""
   },
   {
-    "offset": "0x7E3BB",
-    "length": 37,
-    "hex": "31817582C882F182A9814082DE82B182A482CC82B982AB82CC814082DB82C182BF82E182E8",
-    "original": "1「なんか　むこうのせきの　ぽっちゃり",
+    "offset": "0x7E3BC",
+    "length": 36,
+    "hex": "817582C882F182A9814082DE82B182A482CC82B982AB82CC814082DB82C182BF82E182E8",
+    "original": "「なんか　むこうのせきの　ぽっちゃり",
     "translation": ""
   },
   {
@@ -3136,10 +3136,10 @@
     "translation": ""
   },
   {
-    "offset": "0x7E40B",
-    "length": 39,
-    "hex": "31817582E282C182CF814082BE82F182B282C9814082A882B582E982B182E682CB815B81498176",
-    "original": "1「やっぱ　だんごに　おしるこよねー！」",
+    "offset": "0x7E40C",
+    "length": 38,
+    "hex": "817582E282C182CF814082BE82F182B282C9814082A882B582E982B182E682CB815B81498176",
+    "original": "「やっぱ　だんごに　おしるこよねー！」",
     "translation": ""
   },
   {
@@ -3178,10 +3178,10 @@
     "translation": ""
   },
   {
-    "offset": "0x7E4F7",
-    "length": 35,
-    "hex": "31817582A6815B82C68140838A815B82C68140836C835782C6814082ED82BD82B582C5",
-    "original": "1「えーと　リーと　ネジと　わたしで",
+    "offset": "0x7E4F8",
+    "length": 34,
+    "hex": "817582A6815B82C68140838A815B82C68140836C835782C6814082ED82BD82B582C5",
+    "original": "「えーと　リーと　ネジと　わたしで",
     "translation": ""
   },
   {

@@ -217,10 +217,10 @@
     "translation": ""
   },
   {
-    "offset": "0x976C7",
-    "length": 39,
-    "hex": "31817582F1815B815B814082C882F182C482A282A482CC82A982C8814082A882DC82A682E782CC",
-    "original": "1「んーー　なんていうのかな　おまえらの",
+    "offset": "0x976C8",
+    "length": 38,
+    "hex": "817582F1815B815B814082C882F182C482A282A482CC82A982C8814082A882DC82A682E782CC",
+    "original": "「んーー　なんていうのかな　おまえらの",
     "translation": ""
   },
   {
@@ -259,10 +259,10 @@
     "translation": ""
   },
   {
-    "offset": "0x977A1",
-    "length": 29,
-    "hex": "31817581458145814582BB82E882E182A0814082B782AB82C882E082CC",
-    "original": "1「・・・そりゃあ　すきなもの",
+    "offset": "0x977A2",
+    "length": 28,
+    "hex": "817581458145814582BB82E882E182A0814082B782AB82C882E082CC",
+    "original": "「・・・そりゃあ　すきなもの",
     "translation": ""
   },
   {
@@ -441,10 +441,10 @@
     "translation": ""
   },
   {
-    "offset": "0x97AA7",
-    "length": 27,
-    "hex": "31817582E2815B815B814082B582E582AD82F18145814581458176",
-    "original": "1「やーー　しょくん・・・」",
+    "offset": "0x97AA8",
+    "length": 26,
+    "hex": "817582E2815B815B814082B582E582AD82F18145814581458176",
+    "original": "「やーー　しょくん・・・」",
     "translation": ""
   },
   {
@@ -896,17 +896,17 @@
     "translation": ""
   },
   {
-    "offset": "0x9831B",
-    "length": 41,
-    "hex": "31817582C282AC82CC814082B582AF82F182AA814082DC82BF82C782A882B582A282C582B782CB8176",
-    "original": "1「つぎの　しけんが　まちどおしいですね」",
+    "offset": "0x9831C",
+    "length": 40,
+    "hex": "817582C282AC82CC814082B582AF82F182AA814082DC82BF82C782A882B582A282C582B782CB8176",
+    "original": "「つぎの　しけんが　まちどおしいですね」",
     "translation": ""
   },
   {
-    "offset": "0x9834A",
-    "length": 35,
-    "hex": "31817582B182C682B582CD8140838B815B834C815B814082C582E982CC82A982C88148",
-    "original": "1「ことしは　ルーキー　でるのかな？",
+    "offset": "0x9834B",
+    "length": 34,
+    "hex": "817582B182C682B582CD8140838B815B834C815B814082C582E982CC82A982C88148",
+    "original": "「ことしは　ルーキー　でるのかな？",
     "translation": ""
   },
   {
@@ -917,10 +917,10 @@
     "translation": ""
   },
   {
-    "offset": "0x9839A",
-    "length": 37,
-    "hex": "31817582DC829F814082A282B882EA82C982B582C482E08140838B815B834C815B82C982CD",
-    "original": "1「まぁ　いずれにしても　ルーキーには",
+    "offset": "0x9839B",
+    "length": 36,
+    "hex": "817582DC829F814082A282B882EA82C982B582C482E08140838B815B834C815B82C982CD",
+    "original": "「まぁ　いずれにしても　ルーキーには",
     "translation": ""
   },
   {
@@ -2709,10 +2709,10 @@
     "translation": ""
   },
   {
-    "offset": "0x9A2F3",
-    "length": 21,
-    "hex": "3181758354834E8389814082A482B582EB81498176",
-    "original": "1「サクラ　うしろ！」",
+    "offset": "0x9A2F4",
+    "length": 20,
+    "hex": "81758354834E8389814082A482B582EB81498176",
+    "original": "「サクラ　うしろ！」",
     "translation": ""
   },
   {

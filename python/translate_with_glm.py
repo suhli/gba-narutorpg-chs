@@ -226,6 +226,7 @@ def translate_batch(
         if item is not None:
             trans = item.get("text", "")
             skiped = item.get("skiped", False)
+            print(f"offset: {offset}, trans: {trans}, orig: {orig}, skiped: {skiped}")
             if skiped:
                 results.append({"offset": offset, "text": orig, "skiped": True})
             else:

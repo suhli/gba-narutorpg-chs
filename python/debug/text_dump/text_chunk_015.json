@@ -147,10 +147,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA34BD",
-    "length": 21,
-    "hex": "2581758349838C82CD82AB82AF82F182B782E98149",
-    "original": "%「オレはきけんする！",
+    "offset": "0xA34BE",
+    "length": 20,
+    "hex": "81758349838C82CD82AB82AF82F182B782E98149",
+    "original": "「オレはきけんする！",
     "translation": ""
   },
   {
@@ -161,17 +161,17 @@
     "translation": ""
   },
   {
-    "offset": "0xA34F1",
-    "length": 39,
-    "hex": "25817582B582AF82F182A982F1814981408349838C82CD82AB82AF82F182B782E9814981498176",
-    "original": "%「しけんかん！　オレはきけんする！！」",
+    "offset": "0xA34F2",
+    "length": 38,
+    "hex": "817582B582AF82F182A982F1814981408349838C82CD82AB82AF82F182B782E9814981498176",
+    "original": "「しけんかん！　オレはきけんする！！」",
     "translation": ""
   },
   {
-    "offset": "0xA351D",
-    "length": 21,
-    "hex": "25816982B182F182C882B582A082A2814581458145",
-    "original": "%（こんなしあい・・・",
+    "offset": "0xA351E",
+    "length": 20,
+    "hex": "816982B182F182C882B582A082A2814581458145",
+    "original": "（こんなしあい・・・",
     "translation": ""
   },
   {
@@ -357,10 +357,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA38C2",
-    "length": 39,
-    "hex": "25817582AD82C1814581458145814082A282C182BD82A2814082C782A482B782F182BE82E68149",
-    "original": "%「くっ・・・　いったい　どうすんだよ！",
+    "offset": "0xA38C3",
+    "length": 38,
+    "hex": "817582AD82C1814581458145814082A282C182BD82A2814082C782A482B782F182BE82E68149",
+    "original": "「くっ・・・　いったい　どうすんだよ！",
     "translation": ""
   },
   {
@@ -2156,10 +2156,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA5968",
-    "length": 17,
-    "hex": "31817582A282A282A982C482DF815B82E7",
-    "original": "1「いいかてめーら",
+    "offset": "0xA5969",
+    "length": 16,
+    "hex": "817582A282A282A982C482DF815B82E7",
+    "original": "「いいかてめーら",
     "translation": ""
   },
   {
@@ -2303,10 +2303,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA5BF3",
-    "length": 35,
-    "hex": "31817582B682D482F182CC82B582A082A282DC82C582C9814082C682A482BF82E182AD",
-    "original": "1「じぶんのしあいまでに　とうちゃく",
+    "offset": "0xA5BF4",
+    "length": 34,
+    "hex": "817582B682D482F182CC82B582A082A282DC82C582C9814082C682A482BF82E182AD",
+    "original": "「じぶんのしあいまでに　とうちゃく",
     "translation": ""
   },
   {
@@ -2317,17 +2317,17 @@
     "translation": ""
   },
   {
-    "offset": "0xA5C3F",
-    "length": 11,
-    "hex": "31817582C882F182BE8176",
-    "original": "1「なんだ」",
+    "offset": "0xA5C40",
+    "length": 10,
+    "hex": "817582C882F182BE8176",
+    "original": "「なんだ」",
     "translation": ""
   },
   {
-    "offset": "0xA5C53",
-    "length": 33,
-    "hex": "31817582B582A082A282F082CD82B682DF82E982DC82A682C9814082B782B182B5",
-    "original": "1「しあいをはじめるまえに　すこし",
+    "offset": "0xA5C54",
+    "length": 32,
+    "hex": "817582B582A082A282F082CD82B682DF82E982DC82A682C9814082B782B182B5",
+    "original": "「しあいをはじめるまえに　すこし",
     "translation": ""
   },
   {
@@ -2471,10 +2471,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA5EC7",
-    "length": 35,
-    "hex": "31817582B182E7814981408349838D8349838D82B582C482F182B682E182CB815B8149",
-    "original": "1「こら！　オロオロしてんじゃねー！",
+    "offset": "0xA5EC8",
+    "length": 34,
+    "hex": "817582B182E7814981408349838D8349838D82B582C482F182B682E182CB815B8149",
+    "original": "「こら！　オロオロしてんじゃねー！",
     "translation": ""
   },
   {
@@ -3178,10 +3178,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA6C42",
-    "length": 25,
-    "hex": "31817582A282DC814082E282EB82A482C682B582BD8F7082CD",
-    "original": "1「いま　やろうとした術は",
+    "offset": "0xA6C43",
+    "length": 24,
+    "hex": "817582A282DC814082E282EB82A482C682B582BD8F7082CD",
+    "original": "「いま　やろうとした術は",
     "translation": ""
   },
   {
@@ -3213,10 +3213,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA6CD9",
-    "length": 23,
-    "hex": "31817582BB82B182DC82C582BE8140838A815B81498176",
-    "original": "1「そこまでだ　リー！」",
+    "offset": "0xA6CDA",
+    "length": 22,
+    "hex": "817582BB82B182DC82C582BE8140838A815B81498176",
+    "original": "「そこまでだ　リー！」",
     "translation": ""
   },
   {

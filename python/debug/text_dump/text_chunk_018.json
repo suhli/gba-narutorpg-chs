@@ -441,10 +441,10 @@
     "translation": ""
   },
   {
-    "offset": "0xAF75F",
-    "length": 39,
-    "hex": "31817582DC82BD82B982BD82C8814082C782AE82B382EA8384838D815B82C782E0814981498176",
-    "original": "1「またせたな　どぐされヤローども！！」",
+    "offset": "0xAF760",
+    "length": 38,
+    "hex": "817582DC82BD82B982BD82C8814082C782AE82B382EA8384838D815B82C782E0814981498176",
+    "original": "「またせたな　どぐされヤローども！！」",
     "translation": ""
   },
   {
@@ -630,10 +630,10 @@
     "translation": ""
   },
   {
-    "offset": "0xAFB0B",
-    "length": 33,
-    "hex": "2B817582DC8149814082D082C682C282A282A682E982B182C682CD814581458145",
-    "original": "+「ま！　ひとついえることは・・・",
+    "offset": "0xAFB0C",
+    "length": 32,
+    "hex": "817582DC8149814082D082C682C282A282A682E982B182C682CD814581458145",
+    "original": "「ま！　ひとついえることは・・・",
     "translation": ""
   },
   {
@@ -721,10 +721,10 @@
     "translation": ""
   },
   {
-    "offset": "0xAFCB1",
-    "length": 37,
-    "hex": "2B8175837B834E82CD814094468EAF8E44816982C982F182B582AB834A815B8368816A82F0",
-    "original": "+「ボクは　認識札（にんしきカード）を",
+    "offset": "0xAFCB2",
+    "length": 36,
+    "hex": "8175837B834E82CD814094468EAF8E44816982C982F182B582AB834A815B8368816A82F0",
+    "original": "「ボクは　認識札（にんしきカード）を",
     "translation": ""
   },
   {
@@ -777,10 +777,10 @@
     "translation": ""
   },
   {
-    "offset": "0xAFD9B",
-    "length": 35,
-    "hex": "2B8175838D8362834E8145838A815B82BE82AA814581458145814082B382AD82CB82F1",
-    "original": "+「ロック・リーだが・・・　さくねん",
+    "offset": "0xAFD9C",
+    "length": 34,
+    "hex": "8175838D8362834E8145838A815B82BE82AA814581458145814082B382AD82CB82F1",
+    "original": "「ロック・リーだが・・・　さくねん",
     "translation": ""
   },
   {
@@ -833,10 +833,10 @@
     "translation": ""
   },
   {
-    "offset": "0xAFEBE",
-    "length": 33,
-    "hex": "2B817596D8836D977482F082CD82B682DF81408DBB8140894A816982A082DF816A",
-    "original": "+「木ノ葉をはじめ　砂　雨（あめ）",
+    "offset": "0xAFEBF",
+    "length": 32,
+    "hex": "817596D8836D977482F082CD82B682DF81408DBB8140894A816982A082DF816A",
+    "original": "「木ノ葉をはじめ　砂　雨（あめ）",
     "translation": ""
   },
   {
@@ -875,10 +875,10 @@
     "translation": ""
   },
   {
-    "offset": "0xAFF8C",
-    "length": 39,
-    "hex": "2B8175838A815B82E289E488A4978582CC82E682A482C8814082BB82EA82BC82EA82CC8D9182CC",
-    "original": "+「リーや我愛羅のような　それぞれの国の",
+    "offset": "0xAFF8D",
+    "length": 38,
+    "hex": "8175838A815B82E289E488A4978582CC82E682A482C8814082BB82EA82BC82EA82CC8D9182CC",
+    "original": "「リーや我愛羅のような　それぞれの国の",
     "translation": ""
   },
   {
@@ -917,10 +917,10 @@
     "translation": ""
   },
   {
-    "offset": "0xB0027",
-    "length": 37,
-    "hex": "2B8175834C837E82BD82BF82AA814094458ED28A778D5A82F0814082BB82C282AC82E582A4",
-    "original": "+「キミたちが　忍者学校を　そつぎょう",
+    "offset": "0xB0028",
+    "length": 36,
+    "hex": "8175834C837E82BD82BF82AA814094458ED28A778D5A82F0814082BB82C282AC82E582A4",
+    "original": "「キミたちが　忍者学校を　そつぎょう",
     "translation": ""
   },
   {
@@ -952,10 +952,10 @@
     "translation": ""
   },
   {
-    "offset": "0xB00F0",
-    "length": 11,
-    "hex": "2B8175837B834E82CD8140",
-    "original": "+「ボクは　",
+    "offset": "0xB00F1",
+    "length": 10,
+    "hex": "8175837B834E82CD8140",
+    "original": "「ボクは　",
     "translation": ""
   },
   {
@@ -1043,10 +1043,10 @@
     "translation": ""
   },
   {
-    "offset": "0xB02D0",
-    "length": 19,
-    "hex": "2B817582A882A28140834C837E82BD82BF8149",
-    "original": "+「おい　キミたち！",
+    "offset": "0xB02D1",
+    "length": 18,
+    "hex": "817582A882A28140834C837E82BD82BF8149",
+    "original": "「おい　キミたち！",
     "translation": ""
   },
   {
@@ -1456,10 +1456,10 @@
     "translation": ""
   },
   {
-    "offset": "0xB0A8D",
-    "length": 9,
-    "hex": "268175834E835C8149",
-    "original": "&「クソ！",
+    "offset": "0xB0A8E",
+    "length": 8,
+    "hex": "8175834E835C8149",
+    "original": "「クソ！",
     "translation": ""
   },
   {

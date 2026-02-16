@@ -770,10 +770,10 @@
     "translation": ""
   },
   {
-    "offset": "0xBBF06",
-    "length": 41,
-    "hex": "20817582BB82F182C882C9814082C882A982DC82CC82E082C682D6814082A282AB82BD82A282C882E7",
-    "original": " 「そんなに　なかまのもとへ　いきたいなら",
+    "offset": "0xBBF07",
+    "length": 40,
+    "hex": "817582BB82F182C882C9814082C882A982DC82CC82E082C682D6814082A282AB82BD82A282C882E7",
+    "original": "「そんなに　なかまのもとへ　いきたいなら",
     "translation": ""
   },
   {
@@ -798,10 +798,10 @@
     "translation": ""
   },
   {
-    "offset": "0xBBFA4",
-    "length": 39,
-    "hex": "20817582C8814082C882F182BE82C6814581458145814082C282E682AA82E882A882C182C48176",
-    "original": " 「な　なんだと・・・　つよがりおって」",
+    "offset": "0xBBFA5",
+    "length": 38,
+    "hex": "817582C8814082C882F182BE82C6814581458145814082C282E682AA82E882A882C182C48176",
+    "original": "「な　なんだと・・・　つよがりおって」",
     "translation": ""
   },
   {
@@ -833,10 +833,10 @@
     "translation": ""
   },
   {
-    "offset": "0xBC059",
-    "length": 15,
-    "hex": "20817582D082A282C1814981498176",
-    "original": " 「ひいっ！！」",
+    "offset": "0xBC05A",
+    "length": 14,
+    "hex": "817582D082A282C1814981498176",
+    "original": "「ひいっ！！」",
     "translation": ""
   },
   {
@@ -847,17 +847,17 @@
     "translation": ""
   },
   {
-    "offset": "0xBC096",
-    "length": 41,
-    "hex": "20817582A882DC82A682BD82BF814082C882C982B582C482E98149814082A982A982EA814981498176",
-    "original": " 「おまえたち　なにしてる！　かかれ！！」",
+    "offset": "0xBC097",
+    "length": 40,
+    "hex": "817582A882DC82A682BD82BF814082C882C982B582C482E98149814082A982A982EA814981498176",
+    "original": "「おまえたち　なにしてる！　かかれ！！」",
     "translation": ""
   },
   {
-    "offset": "0xBC0C7",
-    "length": 35,
-    "hex": "20817582C882C1814581458145814082E082A482A282A2814082A882DC82A682E78149",
-    "original": " 「なっ・・・　もういい　おまえら！",
+    "offset": "0xBC0C8",
+    "length": 34,
+    "hex": "817582C882C1814581458145814082E082A482A282A2814082A882DC82A682E78149",
+    "original": "「なっ・・・　もういい　おまえら！",
     "translation": ""
   },
   {
@@ -889,10 +889,10 @@
     "translation": ""
   },
   {
-    "offset": "0xBC16C",
-    "length": 21,
-    "hex": "2082C882C982E082A282A482C88145814581458176",
-    "original": " なにもいうな・・・」",
+    "offset": "0xBC16D",
+    "length": 20,
+    "hex": "82C882C982E082A282A482C88145814581458176",
+    "original": "なにもいうな・・・」",
     "translation": ""
   },
   {
@@ -1281,10 +1281,10 @@
     "translation": ""
   },
   {
-    "offset": "0xBC857",
-    "length": 33,
-    "hex": "20817582B182CC8369837D8343834C82C8834B834C8149814082BB82EB82A282E0",
-    "original": " 「このナマイキなガキ！　そろいも",
+    "offset": "0xBC858",
+    "length": 32,
+    "hex": "817582B182CC8369837D8343834C82C8834B834C8149814082BB82EB82A282E0",
+    "original": "「このナマイキなガキ！　そろいも",
     "translation": ""
   },
   {
@@ -1323,10 +1323,10 @@
     "translation": ""
   },
   {
-    "offset": "0xBC90B",
-    "length": 21,
-    "hex": "20817581458145814582BB82A482A282A682CE8176",
-    "original": " 「・・・そういえば」",
+    "offset": "0xBC90C",
+    "length": 20,
+    "hex": "817581458145814582BB82A482A282A682CE8176",
+    "original": "「・・・そういえば」",
     "translation": ""
   },
   {
@@ -1344,10 +1344,10 @@
     "translation": ""
   },
   {
-    "offset": "0xBC97D",
-    "length": 15,
-    "hex": "208175834E834E834E814581458145",
-    "original": " 「ククク・・・",
+    "offset": "0xBC97E",
+    "length": 14,
+    "hex": "8175834E834E834E814581458145",
+    "original": "「ククク・・・",
     "translation": ""
   },
   {
@@ -1498,10 +1498,10 @@
     "translation": ""
   },
   {
-    "offset": "0xBCC4F",
-    "length": 21,
-    "hex": "2081758145814581458DC495738E61814981498176",
-    "original": " 「・・・再不斬！！」",
+    "offset": "0xBCC50",
+    "length": 20,
+    "hex": "81758145814581458DC495738E61814981498176",
+    "original": "「・・・再不斬！！」",
     "translation": ""
   },
   {
@@ -1526,10 +1526,10 @@
     "translation": ""
   },
   {
-    "offset": "0xBCCC4",
-    "length": 33,
-    "hex": "20817582B382C182AB82A982E7814082DD82C482A282EA82CE814082C882F182BE",
-    "original": " 「さっきから　みていれば　なんだ",
+    "offset": "0xBCCC5",
+    "length": 32,
+    "hex": "817582B382C182AB82A982E7814082DD82C482A282EA82CE814082C882F182BE",
+    "original": "「さっきから　みていれば　なんだ",
     "translation": ""
   },
   {
@@ -1855,10 +1855,10 @@
     "translation": ""
   },
   {
-    "offset": "0xBD2CA",
-    "length": 27,
-    "hex": "2082A882DC82A682CC82DD82E782A282CD81408E80814082BE8176",
-    "original": " おまえのみらいは　死　だ」",
+    "offset": "0xBD2CB",
+    "length": 26,
+    "hex": "82A882DC82A682CC82DD82E782A282CD81408E80814082BE8176",
+    "original": "おまえのみらいは　死　だ」",
     "translation": ""
   },
   {
@@ -2142,10 +2142,10 @@
     "translation": ""
   },
   {
-    "offset": "0xBD844",
-    "length": 11,
-    "hex": "20814082BB82EA82B582A9",
-    "original": " 　それしか",
+    "offset": "0xBD845",
+    "length": 10,
+    "hex": "814082BB82EA82B582A9",
+    "original": "　それしか",
     "translation": ""
   },
   {

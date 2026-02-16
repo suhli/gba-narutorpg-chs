@@ -2058,10 +2058,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85259",
-    "length": 39,
-    "hex": "23817582A882DC82A682BD82BF82CD814082A982C882E782B881408349838C82AA814082E282E9",
-    "original": "#「おまえたちは　かならず　オレが　やる",
+    "offset": "0x8525A",
+    "length": 38,
+    "hex": "817582A882DC82A682BD82BF82CD814082A982C882E782B881408349838C82AA814082E282E9",
+    "original": "「おまえたちは　かならず　オレが　やる",
     "translation": ""
   },
   {
@@ -2072,10 +2072,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85299",
-    "length": 31,
-    "hex": "23816982AD82C1814581458145814082A082A282C282A9814581458145816A",
-    "original": "#（くっ・・・　あいつか・・・）",
+    "offset": "0x8529A",
+    "length": 30,
+    "hex": "816982AD82C1814581458145814082A082A282C282A9814581458145816A",
+    "original": "（くっ・・・　あいつか・・・）",
     "translation": ""
   },
   {
@@ -2100,10 +2100,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85315",
-    "length": 33,
-    "hex": "23817581458145814582B382A0814082A982F182B682B382B982C482AD82EA8176",
-    "original": "#「・・・さあ　かんじさせてくれ」",
+    "offset": "0x85316",
+    "length": 32,
+    "hex": "817581458145814582B382A0814082A982F182B682B382B982C482AD82EA8176",
+    "original": "「・・・さあ　かんじさせてくれ」",
     "translation": ""
   },
   {
@@ -2205,10 +2205,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85544",
-    "length": 37,
-    "hex": "2381758349838C82CD82AB82C382A282BD814082B682D482F182CC82BD82DF82BE82AF82C9",
-    "original": "#「オレはきづいた　じぶんのためだけに",
+    "offset": "0x85545",
+    "length": 36,
+    "hex": "81758349838C82CD82AB82C382A282BD814082B682D482F182CC82BD82DF82BE82AF82C9",
+    "original": "「オレはきづいた　じぶんのためだけに",
     "translation": ""
   },
   {
@@ -2254,10 +2254,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85639",
-    "length": 33,
-    "hex": "23817582BB82CC82A882A982B082C5814082B682C282CC82BF82BF82A882E282C9",
-    "original": "#「そのおかげで　じつのちちおやに",
+    "offset": "0x8563A",
+    "length": 32,
+    "hex": "817582BB82CC82A882A982B082C5814082B682C282CC82BF82BF82A882E282C9",
+    "original": "「そのおかげで　じつのちちおやに",
     "translation": ""
   },
   {
@@ -2324,10 +2324,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85793",
-    "length": 31,
-    "hex": "238175836F83508382836D82A9814581458145814082BB82EA82C882E782CE",
-    "original": "#「バケモノか・・・　それならば",
+    "offset": "0x85794",
+    "length": 30,
+    "hex": "8175836F83508382836D82A9814581458145814082BB82EA82C882E782CE",
+    "original": "「バケモノか・・・　それならば",
     "translation": ""
   },
   {
@@ -2366,10 +2366,10 @@
     "translation": ""
   },
   {
-    "offset": "0x8587D",
-    "length": 23,
-    "hex": "23817582E082A482A282BF82C782A282A4814581458145",
-    "original": "#「もういちどいう・・・",
+    "offset": "0x8587E",
+    "length": 22,
+    "hex": "817582E082A482A282BF82C782A282A4814581458145",
+    "original": "「もういちどいう・・・",
     "translation": ""
   },
   {
@@ -2394,10 +2394,10 @@
     "translation": ""
   },
   {
-    "offset": "0x858F1",
-    "length": 33,
-    "hex": "2381758349838C82CC82B682E182DC82F0814082B782E982C88145814581458176",
-    "original": "#「オレのじゃまを　するな・・・」",
+    "offset": "0x858F2",
+    "length": 32,
+    "hex": "81758349838C82CC82B682E182DC82F0814082B782E982C88145814581458176",
+    "original": "「オレのじゃまを　するな・・・」",
     "translation": ""
   },
   {
@@ -2464,10 +2464,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85A2F",
-    "length": 35,
-    "hex": "23817582A982F182AF82A282C882A2814081458145814582BD82BE81408349838C82AA",
-    "original": "#「かんけいない　・・・ただ　オレが",
+    "offset": "0x85A30",
+    "length": 34,
+    "hex": "817582A982F182AF82A282C882A2814081458145814582BD82BE81408349838C82AA",
+    "original": "「かんけいない　・・・ただ　オレが",
     "translation": ""
   },
   {
@@ -2492,10 +2492,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85AA5",
-    "length": 33,
-    "hex": "23817582C682C782DF82F0814082B382BB82A482C682B582BD8145814581458176",
-    "original": "#「とどめを　さそうとした・・・」",
+    "offset": "0x85AA6",
+    "length": 32,
+    "hex": "817582C682C782DF82F0814082B382BB82A482C682B582BD8145814581458176",
+    "original": "「とどめを　さそうとした・・・」",
     "translation": ""
   },
   {
@@ -2513,10 +2513,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85B09",
-    "length": 25,
-    "hex": "2381698349838C82C682CC814082B582A082A282CC82C682AB",
-    "original": "#（オレとの　しあいのとき",
+    "offset": "0x85B0A",
+    "length": 24,
+    "hex": "81698349838C82C682CC814082B582A082A282CC82C682AB",
+    "original": "（オレとの　しあいのとき",
     "translation": ""
   },
   {
@@ -2583,10 +2583,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85C4B",
-    "length": 39,
-    "hex": "2A817582E082AD82C482AB82CC82BD82DF8140816782C782F182C8814082B682E182A082AD82C8",
-    "original": "*「もくてきのため　“どんな　じゃあくな",
+    "offset": "0x85C4C",
+    "length": 38,
+    "hex": "817582E082AD82C482AB82CC82BD82DF8140816782C782F182C8814082B682E182A082AD82C8",
+    "original": "「もくてきのため　“どんな　じゃあくな",
     "translation": ""
   },
   {
@@ -2625,10 +2625,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85D19",
-    "length": 35,
-    "hex": "2A817582A282B882EA814082A982EA82CD814082ED82BD82B582F082E082C682DF82E9",
-    "original": "*「いずれ　かれは　わたしをもとめる",
+    "offset": "0x85D1A",
+    "length": 34,
+    "hex": "817582A282B882EA814082A982EA82CD814082ED82BD82B582F082E082C682DF82E9",
+    "original": "「いずれ　かれは　わたしをもとめる",
     "translation": ""
   },
   {
@@ -2702,10 +2702,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85E47",
-    "length": 17,
-    "hex": "2A817582AD82AD82C18145814581458176",
-    "original": "*「くくっ・・・」",
+    "offset": "0x85E48",
+    "length": 16,
+    "hex": "817582AD82AD82C18145814581458176",
+    "original": "「くくっ・・・」",
     "translation": ""
   },
   {
@@ -2723,10 +2723,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85EA6",
-    "length": 21,
-    "hex": "2A817582B782E982B182C6814082A282A482B182C6",
-    "original": "*「すること　いうこと",
+    "offset": "0x85EA7",
+    "length": 20,
+    "hex": "817582B782E982B182C6814082A282A482B182C6",
+    "original": "「すること　いうこと",
     "translation": ""
   },
   {
@@ -2744,10 +2744,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85EE9",
-    "length": 33,
-    "hex": "2A817582BB82F182C88140959588F382B582C482DD82C482E0814082DC82E982C5",
-    "original": "*「そんな　封印してみても　まるで",
+    "offset": "0x85EEA",
+    "length": 32,
+    "hex": "817582BB82F182C88140959588F382B582C482DD82C482E0814082DC82E982C5",
+    "original": "「そんな　封印してみても　まるで",
     "translation": ""
   },
   {
@@ -2772,10 +2772,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85F63",
-    "length": 31,
-    "hex": "2A817582A882D082B382B582D482E882CB8140834A834A835682AD82F18176",
-    "original": "*「おひさしぶりね　カカシくん」",
+    "offset": "0x85F64",
+    "length": 30,
+    "hex": "817582A882D082B382B582D482E882CB8140834A834A835682AD82F18176",
+    "original": "「おひさしぶりね　カカシくん」",
     "translation": ""
   },
   {
@@ -2786,10 +2786,10 @@
     "translation": ""
   },
   {
-    "offset": "0x85FA3",
-    "length": 35,
-    "hex": "2A817582C582E0814082ED82E982A282AF82C78140834A834A835682AD82F182C982CD",
-    "original": "*「でも　わるいけど　カカシくんには",
+    "offset": "0x85FA4",
+    "length": 34,
+    "hex": "817582C582E0814082ED82E982A282AF82C78140834A834A835682AD82F182C982CD",
+    "original": "「でも　わるいけど　カカシくんには",
     "translation": ""
   },
   {
@@ -2807,10 +2807,10 @@
     "translation": ""
   },
   {
-    "offset": "0x86020",
-    "length": 39,
-    "hex": "2A817583748393814581458145814082AB82DD82CD814082A282A282ED82E682CB814581458145",
-    "original": "*「フン・・・　きみは　いいわよね・・・",
+    "offset": "0x86021",
+    "length": 38,
+    "hex": "817583748393814581458145814082AB82DD82CD814082A282A282ED82E682CB814581458145",
+    "original": "「フン・・・　きみは　いいわよね・・・",
     "translation": ""
   },
   {
@@ -2821,10 +2821,10 @@
     "translation": ""
   },
   {
-    "offset": "0x8607D",
-    "length": 35,
-    "hex": "2A817582DE82A982B582CD814082E082C182C482C882A982C182BD82B682E182C882A2",
-    "original": "*「むかしは　もってなかったじゃない",
+    "offset": "0x8607E",
+    "length": 34,
+    "hex": "817582DE82A982B582CD814082E082C182C482C882A982C182BD82B682E182C882A2",
+    "original": "「むかしは　もってなかったじゃない",
     "translation": ""
   },
   {
@@ -2835,10 +2835,10 @@
     "translation": ""
   },
   {
-    "offset": "0x860BE",
-    "length": 27,
-    "hex": "2A817582D082BE82E882DF82CC81408ECA97D68AE1814981498176",
-    "original": "*「ひだりめの　写輪眼！！」",
+    "offset": "0x860BF",
+    "length": 26,
+    "hex": "817582D082BE82E882DF82CC81408ECA97D68AE1814981498176",
+    "original": "「ひだりめの　写輪眼！！」",
     "translation": ""
   },
   {
@@ -2863,10 +2863,10 @@
     "translation": ""
   },
   {
-    "offset": "0x8612E",
-    "length": 35,
-    "hex": "2A817582B382A282AB82F182C582AB82BD814089B9894282EA82CC97A2814581458145",
-    "original": "*「さいきんできた　音隠れの里・・・",
+    "offset": "0x8612F",
+    "length": 34,
+    "hex": "817582B382A282AB82F182C582AB82BD814089B9894282EA82CC97A2814581458145",
+    "original": "「さいきんできた　音隠れの里・・・",
     "translation": ""
   },
   {
@@ -2891,10 +2891,10 @@
     "translation": ""
   },
   {
-    "offset": "0x861BA",
-    "length": 37,
-    "hex": "2A817582DC829F814082BB82F182C882E6815B82C8814082E082F182CB8145814581458176",
-    "original": "*「まぁ　そんなよーな　もんね・・・」",
+    "offset": "0x861BB",
+    "length": 36,
+    "hex": "817582DC829F814082BB82F182C882E6815B82C8814082E082F182CB8145814581458176",
+    "original": "「まぁ　そんなよーな　もんね・・・」",
     "translation": ""
   },
   {
@@ -2926,10 +2926,10 @@
     "translation": ""
   },
   {
-    "offset": "0x8625D",
-    "length": 31,
-    "hex": "2A817582BF82AA82A482ED814083548358835082AD82F182CD814581458145",
-    "original": "*「ちがうわ　サスケくんは・・・",
+    "offset": "0x8625E",
+    "length": 30,
+    "hex": "817582BF82AA82A482ED814083548358835082AD82F182CD814581458145",
+    "original": "「ちがうわ　サスケくんは・・・",
     "translation": ""
   },
   {
@@ -2954,10 +2954,10 @@
     "translation": ""
   },
   {
-    "offset": "0x862CD",
-    "length": 33,
-    "hex": "318175959588F382CC8F7082DC82C5814082A082C282A982A682E982E682A482C9",
-    "original": "1「封印の術まで　あつかえるように",
+    "offset": "0x862CE",
+    "length": 32,
+    "hex": "8175959588F382CC8F7082DC82C5814082A082C282A982A682E982E682A482C9",
+    "original": "「封印の術まで　あつかえるように",
     "translation": ""
   },
   {

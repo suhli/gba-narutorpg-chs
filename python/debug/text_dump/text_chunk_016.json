@@ -231,10 +231,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA7647",
-    "length": 41,
-    "hex": "31817582A882DC82A6814082E282AD82BB82AD82AA814082BF82AA82A482B682E182C882A282A98176",
-    "original": "1「おまえ　やくそくが　ちがうじゃないか」",
+    "offset": "0xA7648",
+    "length": 40,
+    "hex": "817582A882DC82A6814082E282AD82BB82AD82AA814082BF82AA82A482B682E182C882A282A98176",
+    "original": "「おまえ　やくそくが　ちがうじゃないか」",
     "translation": ""
   },
   {
@@ -252,10 +252,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA76C6",
-    "length": 33,
-    "hex": "31817583658393836583938140836C83578145814581458140837B834E82C982CD",
-    "original": "1「テンテン　ネジ・・・　ボクには",
+    "offset": "0xA76C7",
+    "length": 32,
+    "hex": "817583658393836583938140836C83578145814581458140837B834E82C982CD",
+    "original": "「テンテン　ネジ・・・　ボクには",
     "translation": ""
   },
   {
@@ -273,10 +273,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA772E",
-    "length": 15,
-    "hex": "31817582A282DC814082B182B182C5",
-    "original": "1「いま　ここで",
+    "offset": "0xA772F",
+    "length": 14,
+    "hex": "817582A282DC814082B182B182C5",
+    "original": "「いま　ここで",
     "translation": ""
   },
   {
@@ -294,10 +294,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA778B",
-    "length": 9,
-    "hex": "318175836E83438176",
-    "original": "1「ハイ」",
+    "offset": "0xA778C",
+    "length": 8,
+    "hex": "8175836E83438176",
+    "original": "「ハイ」",
     "translation": ""
   },
   {
@@ -308,10 +308,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA77BA",
-    "length": 25,
-    "hex": "2082BF82E582C182C6814082DC82C182C482AD82EA81498176",
-    "original": " ちょっと　まってくれ！」",
+    "offset": "0xA77BB",
+    "length": 24,
+    "hex": "82BF82E582C182C6814082DC82C182C482AD82EA81498176",
+    "original": "ちょっと　まってくれ！」",
     "translation": ""
   },
   {
@@ -560,10 +560,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA7BE7",
-    "length": 31,
-    "hex": "31817582DC82B882A282C582B782CB8140836583938365839382BD82BF82C9",
-    "original": "1「まずいですね　テンテンたちに",
+    "offset": "0xA7BE8",
+    "length": 30,
+    "hex": "817582DC82B882A282C582B782CB8140836583938365839382BD82BF82C9",
+    "original": "「まずいですね　テンテンたちに",
     "translation": ""
   },
   {
@@ -574,17 +574,17 @@
     "translation": ""
   },
   {
-    "offset": "0xA7C2B",
-    "length": 33,
-    "hex": "31817589BA944582CC8140944396B182C882C7814082BD82E282B782A282C88176",
-    "original": "1「下忍の　任務など　たやすいな」",
+    "offset": "0xA7C2C",
+    "length": 32,
+    "hex": "817589BA944582CC8140944396B182C882C7814082BD82E282B782A282C88176",
+    "original": "「下忍の　任務など　たやすいな」",
     "translation": ""
   },
   {
-    "offset": "0xA7C53",
-    "length": 39,
-    "hex": "31817582A882A982C182CF82CC814094458ED282F081408CA982C882A982C182BD82A981488176",
-    "original": "1「おかっぱの　忍者を　見なかったか？」",
+    "offset": "0xA7C54",
+    "length": 38,
+    "hex": "817582A882A982C182CF82CC814094458ED282F081408CA982C882A982C182BD82A981488176",
+    "original": "「おかっぱの　忍者を　見なかったか？」",
     "translation": ""
   },
   {
@@ -721,10 +721,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA7F7F",
-    "length": 23,
-    "hex": "31817582DC82C182BD82AD8140838A815B82C182BD82E7",
-    "original": "1「まったく　リーったら",
+    "offset": "0xA7F80",
+    "length": 22,
+    "hex": "817582DC82C182BD82AD8140838A815B82C182BD82E7",
+    "original": "「まったく　リーったら",
     "translation": ""
   },
   {
@@ -2058,10 +2058,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA963F",
-    "length": 35,
-    "hex": "31817582C682AD82C9814082BB82B182CC814082A282BF82CE82F182BF82C182B182A2",
-    "original": "1「とくに　そこの　いちばんちっこい",
+    "offset": "0xA9640",
+    "length": 34,
+    "hex": "817582C682AD82C9814082BB82B182CC814082A282BF82CE82F182BF82C182B182A2",
+    "original": "「とくに　そこの　いちばんちっこい",
     "translation": ""
   },
   {
@@ -2086,10 +2086,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA96A7",
-    "length": 13,
-    "hex": "31817582C882F182BE83408148",
-    "original": "1「なんだァ？",
+    "offset": "0xA96A8",
+    "length": 12,
+    "hex": "817582C882F182BE83408148",
+    "original": "「なんだァ？",
     "translation": ""
   },
   {

@@ -140,10 +140,10 @@
     "translation": ""
   },
   {
-    "offset": "0x7ED23",
-    "length": 15,
-    "hex": "31817582A882C682B582E682E882CD",
-    "original": "1「おとしよりは",
+    "offset": "0x7ED24",
+    "length": 14,
+    "hex": "817582A882C682B582E682E882CD",
+    "original": "「おとしよりは",
     "translation": ""
   },
   {
@@ -294,10 +294,10 @@
     "translation": ""
   },
   {
-    "offset": "0x7F01F",
-    "length": 33,
-    "hex": "31817582B182CC814082A882AD82C982CD814082DC82BE814082BD82AD82B382F1",
-    "original": "1「この　おくには　まだ　たくさん",
+    "offset": "0x7F020",
+    "length": 32,
+    "hex": "817582B182CC814082A882AD82C982CD814082DC82BE814082BD82AD82B382F1",
+    "original": "「この　おくには　まだ　たくさん",
     "translation": ""
   },
   {
@@ -322,10 +322,10 @@
     "translation": ""
   },
   {
-    "offset": "0x7F0A7",
-    "length": 33,
-    "hex": "31817582A282C282C582E08140944396B182C9814082BB82C882A682C682AF82E6",
-    "original": "1「いつでも　任務に　そなえとけよ",
+    "offset": "0x7F0A8",
+    "length": 32,
+    "hex": "817582A282C282C582E08140944396B182C9814082BB82C882A682C682AF82E6",
+    "original": "「いつでも　任務に　そなえとけよ",
     "translation": ""
   },
   {
@@ -357,10 +357,10 @@
     "translation": ""
   },
   {
-    "offset": "0x7F157",
-    "length": 41,
-    "hex": "31817582B682E582A482AB82E582A482F0814082DD82C4814082D082AB82A982A682B7814581458145",
-    "original": "1「じょうきょうを　みて　ひきかえす・・・",
+    "offset": "0x7F158",
+    "length": 40,
+    "hex": "817582B682E582A482AB82E582A482F0814082DD82C4814082D082AB82A982A682B7814581458145",
+    "original": "「じょうきょうを　みて　ひきかえす・・・",
     "translation": ""
   },
   {
@@ -378,10 +378,10 @@
     "translation": ""
   },
   {
-    "offset": "0x7F1DB",
-    "length": 37,
-    "hex": "31817582C782F182C8814082C882A982DC82C582E081408360815B8380838F815B834E82CD",
-    "original": "1「どんな　なかまでも　チームワークは",
+    "offset": "0x7F1DC",
+    "length": 36,
+    "hex": "817582C782F182C8814082C882A982DC82C582E081408360815B8380838F815B834E82CD",
+    "original": "「どんな　なかまでも　チームワークは",
     "translation": ""
   },
   {
@@ -406,10 +406,10 @@
     "translation": ""
   },
   {
-    "offset": "0x7F263",
-    "length": 37,
-    "hex": "31817582C482AB82F0814082B582E982DC82A682C9814082A882CC82EA82F0814082B582E9",
-    "original": "1「てきを　しるまえに　おのれを　しる",
+    "offset": "0x7F264",
+    "length": 36,
+    "hex": "817582C482AB82F0814082B582E982DC82A682C9814082A882CC82EA82F0814082B582E9",
+    "original": "「てきを　しるまえに　おのれを　しる",
     "translation": ""
   },
   {
@@ -1862,10 +1862,10 @@
     "translation": ""
   },
   {
-    "offset": "0x80D1E",
-    "length": 27,
-    "hex": "31817582A882E082B582EB82AD82C882F182A982C882A282E68176",
-    "original": "1「おもしろくなんかないよ」",
+    "offset": "0x80D1F",
+    "length": 26,
+    "hex": "817582A882E082B582EB82AD82C882F182A982C882A282E68176",
+    "original": "「おもしろくなんかないよ」",
     "translation": ""
   },
   {

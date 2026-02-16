@@ -630,10 +630,10 @@
     "translation": ""
   },
   {
-    "offset": "0x9BCFE",
-    "length": 31,
-    "hex": "23816982A482BF82CD8145814581458140835483588350814581458145816A",
-    "original": "#（うちは・・・　サスケ・・・）",
+    "offset": "0x9BCFF",
+    "length": 30,
+    "hex": "816982A482BF82CD8145814581458140835483588350814581458145816A",
+    "original": "（うちは・・・　サスケ・・・）",
     "translation": ""
   },
   {
@@ -700,10 +700,10 @@
     "translation": ""
   },
   {
-    "offset": "0x9BE8A",
-    "length": 23,
-    "hex": "28816982C682A882A282C582B782CB814581458145816A",
-    "original": "(（とおいですね・・・）",
+    "offset": "0x9BE8B",
+    "length": 22,
+    "hex": "816982C682A882A282C582B782CB814581458145816A",
+    "original": "（とおいですね・・・）",
     "translation": ""
   },
   {
@@ -3241,10 +3241,10 @@
     "translation": ""
   },
   {
-    "offset": "0x9EE26",
-    "length": 21,
-    "hex": "29817582ED814581458145814082ED82BD82B582AA",
-    "original": ")「わ・・・　わたしが",
+    "offset": "0x9EE27",
+    "length": 20,
+    "hex": "817582ED814581458145814082ED82BD82B582AA",
+    "original": "「わ・・・　わたしが",
     "translation": ""
   },
   {
@@ -3353,10 +3353,10 @@
     "translation": ""
   },
   {
-    "offset": "0x9F067",
-    "length": 13,
-    "hex": "29817582A282B182A482A98176",
-    "original": ")「いこうか」",
+    "offset": "0x9F068",
+    "length": 12,
+    "hex": "817582A282B182A482A98176",
+    "original": "「いこうか」",
     "translation": ""
   },
   {
@@ -3458,10 +3458,10 @@
     "translation": ""
   },
   {
-    "offset": "0x9F222",
-    "length": 39,
-    "hex": "2981698374837481458145814581408EF488F382AA814082A282BD82DE82E682A482BE82C8816A",
-    "original": ")（フフ・・・　呪印が　いたむようだな）",
+    "offset": "0x9F223",
+    "length": 38,
+    "hex": "81698374837481458145814581408EF488F382AA814082A282BD82DE82E682A482BE82C8816A",
+    "original": "（フフ・・・　呪印が　いたむようだな）",
     "translation": ""
   },
   {
