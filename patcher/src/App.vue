@@ -2,6 +2,8 @@
 import { ref, onMounted } from 'vue'
 import { applyDiff, type DiffItem } from './patcher'
 
+const version = import.meta.env.VITE_VERSION ?? ''
+
 const diff = ref<DiffItem[] | null>(null)
 const diffError = ref<string | null>(null)
 const loading = ref(true)
@@ -61,6 +63,9 @@ async function runPatch() {
         <span class="i-mdi-file-document-edit text-amber-400" />
         火影忍者 RPG · 汉化补丁
       </h1>
+      <p v-if="version" class="text-zinc-500 text-xs text-center mb-1">
+        版本 {{ version }}
+      </p>
       <p class="text-zinc-400 text-sm text-center mb-6">
         选择原版 GBA ROM，在浏览器内打补丁并下载，不上传任何文件。
       </p>

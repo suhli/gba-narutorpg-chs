@@ -2,7 +2,7 @@ import { defineConfig, presetUno, presetIcons } from 'unocss'
 
 export default defineConfig({
   presets: [
-    presetUno(),
+    presetUno({ preflight: false }),
     presetIcons({
       extraProperties: {
         display: 'inline-block',

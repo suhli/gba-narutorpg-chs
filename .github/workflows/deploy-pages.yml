@@ -30,18 +30,8 @@ jobs:
           cache: "pnpm"
           cache-dependency-path: patcher/pnpm-lock.yaml
 
-      - name: Install and build
-        run: |
-          cd patcher
-          pnpm install --frozen-lockfile
-          pnpm run build
-
-      - name: Upload pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: pages
-
-      - name: Push next version tag
+      - name: Compute next version tag
+        id: version
         run: |
           git fetch --tags
           latest=$(git tag -l 'v*' --sort=-v:refname | head -1)
@@ -58,8 +48,25 @@ jobs:
             fi
             next="v${x}.${y}.$((z + 1))"
           fi
-          git tag "$next"
-          git push origin "$next"
+          echo "tag=$next" >> $GITHUB_OUTPUT
+
+      - name: Install and build
+        env:
+          VITE_VERSION: ${{ steps.version.outputs.tag }}
+        run: |
+          cd patcher
+          pnpm install --frozen-lockfile
+          pnpm run build
+
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: pages
+
+      - name: Push version tag
+        run: |
+          git tag "${{ steps.version.outputs.tag }}"
+          git push origin "${{ steps.version.outputs.tag }}"
 
   deploy:
     needs: build-and-tag
