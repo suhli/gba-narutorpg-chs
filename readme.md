@@ -82,6 +82,23 @@ pip install -r python/requirements.txt   # freetype-py, pillow, click
 
 字模输出为 `.bin` 与 `_preview.png`；文本导出为 `text_dump/text_chunk_*.json`。
 
+**汉化导入流程**：从 `python/debug/text_dump/` 的 chunk 运行 `python python/translate_with_glm.py` 可生成/合并 `translate/translations.json`（需配置 `.env` 中的智谱 API Key）。`patch.py` 读取该文件将译文写回 ROM。
+
+**直接优化汉化（修改 `translate/translations.json`）**：
+
+- **手工或脚本编辑**：直接改 `translate/translations.json` 里对应条目的 `translation` 等字段即可生效，下次运行 `patch.py` 会使用新译文。编辑时须遵守下方「汉化原则」：**长度与 `original` 对齐**、**符号与控制符原样保留**。
+- **批量重翻部分条目**（脚本会合并进现有 `translations.json`，无需从 text_dump 重新导出全部）：
+  | 目的 | 命令 |
+  |------|------|
+  | 只重翻此前标为「不翻译」的条目 | `python python/translate_with_glm.py --skiped-only` |
+  | 只重翻「原文与译文相同」的条目 | `python python/translate_with_glm.py --same-only` |
+  | 全部重翻 | `python python/translate_with_glm.py --no-skip` |
+  | 仅处理指定 chunk | `python python/translate_with_glm.py --files text_chunk_001.json` |
+  | 仅统计待翻条数 | `python python/translate_with_glm.py --dry-run` |
+  | 调整每批条数 | `python python/translate_with_glm.py --batch-size 200` |
+
+完整翻译 prompt 见 `python/translate.instruction.md`。
+
 ### patcher（网页 Patcher）
 
 - **技术栈**：Vite + Vue 3 + TypeScript，UnoCSS，包管理器 **pnpm**。
@@ -98,6 +115,15 @@ pnpm preview  # 预览构建结果
 ```
 
 用户打开部署页面或本地 `pnpm preview`，选择原版 GBA ROM，点击「打补丁并下载」即可；ROM 不上传，全部在浏览器内完成。
+
+---
+
+## 汉化原则
+
+修改或生成 `translate/translations.json` 中的译文时，须遵守以下两点，否则 `patch.py` 写回 ROM 可能错位或乱码：
+
+- **长度对齐**：每条 `translation` 的**字符数**（Unicode，含空格）必须与对应 `original` 完全一致。不足则在译文末尾补空格（全角/半角与原文一致）；过长则压缩表达或删减，最后才考虑删空格。同一句内多段（如菜单多项）时，每段译文字数与该段原文一致，段末用空格补足。
+- **符号**：原文中的标点、控制符、占位符（如 `\n`、`%d`、`{name}`、`♥`、`…`、`！` 等）必须原样保留，不得删改或替换。
 
 ---
 
