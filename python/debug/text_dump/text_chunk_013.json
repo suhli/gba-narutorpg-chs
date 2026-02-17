@@ -413,10 +413,10 @@
     "translation": ""
   },
   {
-    "offset": "0x9B87B",
-    "length": 39,
-    "hex": "24817582C682A282A482B182C682CD814082B182B182C982A282E9814082BA82F182A282F182AA",
-    "original": "$「ということは　ここにいる　ぜんいんが",
+    "offset": "0x9B87C",
+    "length": 38,
+    "hex": "817582C682A282A482B182C682CD814082B182B182C982A282E9814082BA82F182A282F182AA",
+    "original": "「ということは　ここにいる　ぜんいんが",
     "translation": ""
   },
   {
@@ -672,10 +672,10 @@
     "translation": ""
   },
   {
-    "offset": "0x9BDEA",
-    "length": 35,
-    "hex": "24817582A68148814082ED82BD82B582CD814082BE82EA82C682E282E982F182BE8149",
-    "original": "$「え？　わたしは　だれとやるんだ！",
+    "offset": "0x9BDEB",
+    "length": 34,
+    "hex": "817582A68148814082ED82BD82B582CD814082BE82EA82C682E282E982F182BE8149",
+    "original": "「え？　わたしは　だれとやるんだ！",
     "translation": ""
   },
   {

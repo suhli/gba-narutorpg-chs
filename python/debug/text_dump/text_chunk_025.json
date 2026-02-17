@@ -21,10 +21,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCB311",
-    "length": 23,
-    "hex": "248175834B814581458145814089E488A4978581488176",
-    "original": "$「ガ・・・　我愛羅？」",
+    "offset": "0xCB312",
+    "length": 22,
+    "hex": "8175834B814581458145814089E488A4978581488176",
+    "original": "「ガ・・・　我愛羅？」",
     "translation": ""
   },
   {
@@ -2226,10 +2226,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCDAE9",
-    "length": 15,
-    "hex": "24817589E488A49785814981498176",
-    "original": "$「我愛羅！！」",
+    "offset": "0xCDAEA",
+    "length": 14,
+    "hex": "817589E488A49785814981498176",
+    "original": "「我愛羅！！」",
     "translation": ""
   },
   {
@@ -2779,10 +2779,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCE4D1",
-    "length": 15,
-    "hex": "248175836083428145814581458176",
-    "original": "$「チィ・・・」",
+    "offset": "0xCE4D2",
+    "length": 14,
+    "hex": "8175836083428145814581458176",
+    "original": "「チィ・・・」",
     "translation": ""
   },
   {
@@ -3325,38 +3325,38 @@
     "translation": ""
   },
   {
-    "offset": "0xCF1A5",
-    "length": 15,
-    "hex": "798140814081408351815B838082F0",
-    "original": "y　　　ゲームを",
+    "offset": "0xCF1A6",
+    "length": 14,
+    "hex": "8140814081408351815B838082F0",
+    "original": "　　　ゲームを",
     "translation": ""
   },
   {
-    "offset": "0xCF1B5",
-    "length": 13,
-    "hex": "6E82DF82E98140814081408140",
-    "original": "nめる　　　　",
+    "offset": "0xCF1B6",
+    "length": 12,
+    "hex": "82DF82E98140814081408140",
+    "original": "める　　　　",
     "translation": ""
   },
   {
-    "offset": "0xCF1C9",
-    "length": 23,
-    "hex": "7981408140837D83628376837083798362836782F0955C",
-    "original": "y　　マップパペットを表",
+    "offset": "0xCF1CA",
+    "length": 22,
+    "hex": "81408140837D83628376837083798362836782F0955C",
+    "original": "　　マップパペットを表",
     "translation": ""
   },
   {
-    "offset": "0xCF1ED",
-    "length": 21,
-    "hex": "79814081408140838283938358835E815B82F0955C",
-    "original": "y　　　モンスターを表",
+    "offset": "0xCF1EE",
+    "length": 20,
+    "hex": "814081408140838283938358835E815B82F0955C",
+    "original": "　　　モンスターを表",
     "translation": ""
   },
   {
-    "offset": "0xCF211",
-    "length": 29,
-    "hex": "7981408140814083548345839383688365835883678140814081408140",
-    "original": "y　　　サウンドテスト　　　　",
+    "offset": "0xCF212",
+    "length": 28,
+    "hex": "81408140814083548345839383688365835883678140814081408140",
+    "original": "　　　サウンドテスト　　　　",
     "translation": ""
   },
   {
@@ -3374,17 +3374,17 @@
     "translation": ""
   },
   {
-    "offset": "0xCF29D",
-    "length": 9,
-    "hex": "468268826382F095CF",
-    "original": "FＩＤを変",
+    "offset": "0xCF29E",
+    "length": 8,
+    "hex": "8268826382F095CF",
+    "original": "ＩＤを変",
     "translation": ""
   },
   {
-    "offset": "0xCF2A7",
-    "length": 5,
-    "hex": "5882B782E9",
-    "original": "Xする",
+    "offset": "0xCF2A8",
+    "length": 4,
+    "hex": "82B782E9",
+    "original": "する",
     "translation": ""
   },
   {
@@ -3395,10 +3395,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCF2B9",
-    "length": 15,
-    "hex": "468376838D834F8389838090D882E8",
-    "original": "Fプログラム切り",
+    "offset": "0xCF2BA",
+    "length": 14,
+    "hex": "8376838D834F8389838090D882E8",
+    "original": "プログラム切り",
     "translation": ""
   },
   {
@@ -3409,10 +3409,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCF2D9",
-    "length": 11,
-    "hex": "468381836A8385815B82D6",
-    "original": "Fメニューへ",
+    "offset": "0xCF2DA",
+    "length": 10,
+    "hex": "8381836A8385815B82D6",
+    "original": "メニューへ",
     "translation": ""
   },
   {

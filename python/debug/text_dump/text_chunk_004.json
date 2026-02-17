@@ -301,24 +301,24 @@
     "translation": ""
   },
   {
-    "offset": "0x774E5",
-    "length": 15,
-    "hex": "2481758380835F82BE814981498176",
-    "original": "$「ムダだ！！」",
+    "offset": "0x774E6",
+    "length": 14,
+    "hex": "81758380835F82BE814981498176",
+    "original": "「ムダだ！！」",
     "translation": ""
   },
   {
-    "offset": "0x774F9",
-    "length": 23,
-    "hex": "24817582C282AC82C5814082AB82DF82E9814981498176",
-    "original": "$「つぎで　きめる！！」",
+    "offset": "0x774FA",
+    "length": 22,
+    "hex": "817582C282AC82C5814082AB82DF82E9814981498176",
+    "original": "「つぎで　きめる！！」",
     "translation": ""
   },
   {
-    "offset": "0x77515",
-    "length": 23,
-    "hex": "24817594459640834A837D8343835E8360814981498176",
-    "original": "$「忍法カマイタチ！！」",
+    "offset": "0x77516",
+    "length": 22,
+    "hex": "817594459640834A837D8343835E8360814981498176",
+    "original": "「忍法カマイタチ！！」",
     "translation": ""
   },
   {

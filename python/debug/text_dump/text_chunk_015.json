@@ -91,10 +91,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA33CA",
-    "length": 23,
-    "hex": "24817582A082BD82B582CC82CE82F182BE82EB81488176",
-    "original": "$「あたしのばんだろ？」",
+    "offset": "0xA33CB",
+    "length": 22,
+    "hex": "817582A082BD82B582CC82CE82F182BE82EB81488176",
+    "original": "「あたしのばんだろ？」",
     "translation": ""
   },
   {
@@ -140,10 +140,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA34AB",
-    "length": 11,
-    "hex": "2481758360834281498176",
-    "original": "$「チィ！」",
+    "offset": "0xA34AC",
+    "length": 10,
+    "hex": "81758360834281498176",
+    "original": "「チィ！」",
     "translation": ""
   },
   {
@@ -287,10 +287,10 @@
     "translation": ""
   },
   {
-    "offset": "0xA3751",
-    "length": 35,
-    "hex": "24817582C8829F814082B182EA82C182C4814082E282CE82A282F182B682E181488176",
-    "original": "$「なぁ　これって　やばいんじゃ？」",
+    "offset": "0xA3752",
+    "length": 34,
+    "hex": "817582C8829F814082B182EA82C182C4814082E282CE82A282F182B682E181488176",
+    "original": "「なぁ　これって　やばいんじゃ？」",
     "translation": ""
   },
   {

@@ -28,10 +28,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCF479",
-    "length": 11,
-    "hex": "83814089E488A4978592C7",
-    "original": "メ@我愛羅追",
+    "offset": "0xCF47A",
+    "length": 10,
+    "hex": "814089E488A4978592C7",
+    "original": "@我愛羅追",
     "translation": ""
   },
   {
@@ -161,10 +161,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCF639",
-    "length": 9,
-    "hex": "838140946782CC8D91",
-    "original": "メ@波の国",
+    "offset": "0xCF63A",
+    "length": 8,
+    "hex": "8140946782CC8D91",
+    "original": "@波の国",
     "translation": ""
   },
   {
@@ -287,10 +287,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCF805",
-    "length": 15,
-    "hex": "83814096D8836D977482CC90588253",
-    "original": "メ@木ノ葉の森４",
+    "offset": "0xCF806",
+    "length": 14,
+    "hex": "814096D8836D977482CC90588253",
+    "original": "@木ノ葉の森４",
     "translation": ""
   },
   {
@@ -399,10 +399,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCFA19",
-    "length": 25,
-    "hex": "83814094458ED28A778D5A8250826588CB978A8EF395748F88",
-    "original": "メ@忍者学校１Ｆ依頼受付処",
+    "offset": "0xCFA1A",
+    "length": 24,
+    "hex": "814094458ED28A778D5A8250826588CB978A8EF395748F88",
+    "original": "@忍者学校１Ｆ依頼受付処",
     "translation": ""
   },
   {
@@ -497,10 +497,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCFC47",
-    "length": 11,
-    "hex": "7882CC89CE8E9E8C769594",
-    "original": "xの火時計部",
+    "offset": "0xCFC48",
+    "length": 10,
+    "hex": "82CC89CE8E9E8C769594",
+    "original": "の火時計部",
     "translation": ""
   },
   {
@@ -539,10 +539,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCFCE9",
-    "length": 15,
-    "hex": "83814096D8836D9774956189408CC2",
-    "original": "メ@木ノ葉病院個",
+    "offset": "0xCFCEA",
+    "length": 14,
+    "hex": "814096D8836D9774956189408CC2",
+    "original": "@木ノ葉病院個",
     "translation": ""
   },
   {
@@ -735,17 +735,17 @@
     "translation": ""
   },
   {
-    "offset": "0xD00AD",
-    "length": 15,
-    "hex": "46837083898381815B835E82F095CF",
-    "original": "Fパラメータを変",
+    "offset": "0xD00AE",
+    "length": 14,
+    "hex": "837083898381815B835E82F095CF",
+    "original": "パラメータを変",
     "translation": ""
   },
   {
-    "offset": "0xD00BD",
-    "length": 5,
-    "hex": "5882B782E9",
-    "original": "Xする",
+    "offset": "0xD00BE",
+    "length": 4,
+    "hex": "82B782E9",
+    "original": "する",
     "translation": ""
   },
   {
@@ -756,10 +756,10 @@
     "translation": ""
   },
   {
-    "offset": "0xD00CD",
-    "length": 9,
-    "hex": "468351815B83808A4A",
-    "original": "Fゲーム開",
+    "offset": "0xD00CE",
+    "length": 8,
+    "hex": "8351815B83808A4A",
+    "original": "ゲーム開",
     "translation": ""
   },
   {
@@ -833,17 +833,17 @@
     "translation": ""
   },
   {
-    "offset": "0xD01A9",
-    "length": 13,
-    "hex": "46837083798362836782F095CF",
-    "original": "Fパペットを変",
+    "offset": "0xD01AA",
+    "length": 12,
+    "hex": "837083798362836782F095CF",
+    "original": "パペットを変",
     "translation": ""
   },
   {
-    "offset": "0xD01B7",
-    "length": 5,
-    "hex": "5882B782E9",
-    "original": "Xする",
+    "offset": "0xD01B8",
+    "length": 4,
+    "hex": "82B782E9",
+    "original": "する",
     "translation": ""
   },
   {
@@ -875,10 +875,10 @@
     "translation": ""
   },
   {
-    "offset": "0xD0247",
-    "length": 5,
-    "hex": "5882B782E9",
-    "original": "Xする",
+    "offset": "0xD0248",
+    "length": 4,
+    "hex": "82B782E9",
+    "original": "する",
     "translation": ""
   },
   {
@@ -889,10 +889,10 @@
     "translation": ""
   },
   {
-    "offset": "0xD0259",
-    "length": 17,
-    "hex": "46835483458393836882F096C282E782B7",
-    "original": "Fサウンドを鳴らす",
+    "offset": "0xD025A",
+    "length": 16,
+    "hex": "835483458393836882F096C282E782B7",
+    "original": "サウンドを鳴らす",
     "translation": ""
   }
 ]
