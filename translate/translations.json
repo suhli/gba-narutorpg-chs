@@ -100232,11 +100232,11 @@
     "skiped": false
   },
   {
-    "offset": "0xCF6D7",
-    "hex": "63837C834383938367",
-    "length": 9,
-    "original": "cポイント",
-    "translation": "c点   ",
+    "offset": "0xCF6D8",
+    "hex": "837C834383938367",
+    "length": 8,
+    "original": "ポイント",
+    "translation": "点   ",
     "skiped": false
   },
   {
@@ -100256,11 +100256,11 @@
     "skiped": false
   },
   {
-    "offset": "0xCF71B",
-    "hex": "65837C834383938367",
-    "length": 9,
-    "original": "eポイント",
-    "translation": "e点   ",
+    "offset": "0xCF71C",
+    "hex": "837C834383938367",
+    "length": 8,
+    "original": "ポイント",
+    "translation": "点   ",
     "skiped": false
   },
   {
@@ -100488,11 +100488,11 @@
     "skiped": false
   },
   {
-    "offset": "0xCFAA3",
-    "hex": "4989EF8FEA",
-    "length": 5,
-    "original": "I会場",
-    "translation": "I会场",
+    "offset": "0xCFAA4",
+    "hex": "89EF8FEA",
+    "length": 4,
+    "original": "会場",
+    "translation": "会场",
     "skiped": false
   },
   {

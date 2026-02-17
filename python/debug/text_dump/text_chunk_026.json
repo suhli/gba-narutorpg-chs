@@ -203,10 +203,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCF6D7",
-    "length": 9,
-    "hex": "63837C834383938367",
-    "original": "cポイント",
+    "offset": "0xCF6D8",
+    "length": 8,
+    "hex": "837C834383938367",
+    "original": "ポイント",
     "translation": ""
   },
   {
@@ -224,10 +224,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCF71B",
-    "length": 9,
-    "hex": "65837C834383938367",
-    "original": "eポイント",
+    "offset": "0xCF71C",
+    "length": 8,
+    "hex": "837C834383938367",
+    "original": "ポイント",
     "translation": ""
   },
   {
@@ -427,10 +427,10 @@
     "translation": ""
   },
   {
-    "offset": "0xCFAA3",
-    "length": 5,
-    "hex": "4989EF8FEA",
-    "original": "I会場",
+    "offset": "0xCFAA4",
+    "length": 4,
+    "hex": "89EF8FEA",
+    "original": "会場",
     "translation": ""
   },
   {
