@@ -55,11 +55,11 @@ def fix_leading_in_data(data, require_translation_leading=True):
         for hex_prefix, char in LEADING_HEX_TO_CHAR.items():
             if not hex_str.startswith(hex_prefix) or not original.startswith(char):
                 continue
-            need_translation_ok = (
-                translation.startswith(char) if require_translation_leading else True
-            )
-            if not need_translation_ok:
-                continue
+            # need_translation_ok = (
+            #     translation.startswith(char) if require_translation_leading else True
+            # )
+            # if not need_translation_ok:
+            #     continue
 
             # 去掉 hex 前两字符（一个字节）
             item["hex"] = hex_str[2:]

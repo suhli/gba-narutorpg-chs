@@ -36576,10 +36576,10 @@
     "skiped": false
   },
   {
-    "offset": "0x8FD10",
-    "hex": "20944582F082E282DF82EB81498176",
-    "length": 15,
-    "original": " 忍をやめろ！」",
+    "offset": "0x8FD11",
+    "hex": "944582F082E282DF82EB81498176",
+    "length": 14,
+    "original": "忍をやめろ！」",
     "translation": "别当忍者了！」　",
     "skiped": false
   },
@@ -60352,10 +60352,10 @@
     "skiped": false
   },
   {
-    "offset": "0xA77BA",
-    "hex": "2082BF82E582C182C6814082DC82C182C482AD82EA81498176",
-    "length": 25,
-    "original": " ちょっと　まってくれ！」",
+    "offset": "0xA77BB",
+    "hex": "82BF82E582C182C6814082DC82C182C482AD82EA81498176",
+    "length": 24,
+    "original": "ちょっと　まってくれ！」",
     "translation": "稍微等一下！」　　　　　　",
     "skiped": false
   },
@@ -82448,10 +82448,10 @@
     "skiped": false
   },
   {
-    "offset": "0xBD844",
-    "hex": "20814082BB82EA82B582A9",
-    "length": 11,
-    "original": " 　それしか",
+    "offset": "0xBD845",
+    "hex": "814082BB82EA82B582A9",
+    "length": 10,
+    "original": "　それしか",
     "translation": "只有　　　　",
     "skiped": false
   },
@@ -97904,10 +97904,10 @@
     "skiped": false
   },
   {
-    "offset": "0xCD070",
-    "hex": "208E8082F182C582E0814082DC82AF82BD82AD82CB82A5814981498176",
-    "length": 29,
-    "original": " 死んでも　まけたくねぇ！！」",
+    "offset": "0xCD071",
+    "hex": "8E8082F182C582E0814082DC82AF82BD82AD82CB82A5814981498176",
+    "length": 28,
+    "original": "死んでも　まけたくねぇ！！」",
     "translation": "死也不　想输啊！！」　　　　　",
     "skiped": false
   },
