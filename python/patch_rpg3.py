@@ -95,12 +95,13 @@ def _append_font_and_tbl(
     write_chr: bool = True,
     write_1x1: bool = True,
     write_1x2: bool = True,
-) -> tuple[dict[str, int], int]:
+    max_chars_chr: int | None = None,
+    max_chars_tbl: int | None = None,
+) -> tuple[dict[str, int], int, int, int]:
     """
     向 extract_dir/data/font 追加 8x8/8x16 字模与/或码表。
-    write_tbl/write_chr: 是否写 tbl/chr；write_1x1/write_1x2: 是否写 1x1/1x2。
-    新 key 从 font_1x2.tbl 的最后一个 key+1 起算。
-    返回 (char -> mapping_key, font_1x1_last_key)。
+    max_chars_chr: 仅前 N 字写入 chr；max_chars_tbl: 仅前 N 字写入 tbl。mapping 始终含全部 chars。
+    返回 (mapping, font_1x1_last_key, n_chr_written, n_tbl_written)。
     """
     font_dir = extract_dir / "data" / "font"
     font_dir.mkdir(parents=True, exist_ok=True)
@@ -121,22 +122,26 @@ def _append_font_and_tbl(
     tile_count_8x8 = len_1x1 // BYTES_PER_CHAR_8x8
     tile_count_8x16 = len_1x2 // BYTES_PER_CHAR_8x16
 
+    chars_for_chr = chars[:max_chars_chr] if max_chars_chr is not None and max_chars_chr > 0 else chars
+    chars_for_tbl = chars[:max_chars_tbl] if max_chars_tbl is not None and max_chars_tbl > 0 else chars
+
     if write_chr and write_1x1:
-        data_8x8 = _render_8x8(chars, font_path_8x8)
+        data_8x8 = _render_8x8(chars_for_chr, font_path_8x8)
     else:
         data_8x8 = b""
     if write_chr and write_1x2:
-        data_8x16 = _render_8x16(chars, font_path_8x16, scale_8x16_mode=scale_8x16_mode)
+        data_8x16 = _render_8x16(chars_for_chr, font_path_8x16, scale_8x16_mode=scale_8x16_mode)
     else:
         data_8x16 = b""
 
     mapping: dict[str, int] = {}
+    for i, ch in enumerate(chars):
+        mapping[ch] = (first_new_key + i) & 0xFFFF
+
     tbl_append_1x1 = bytearray()
     tbl_append_1x2 = bytearray()
-
-    for i, ch in enumerate(chars):
+    for i, ch in enumerate(chars_for_tbl):
         key = first_new_key + i
-        mapping[ch] = key
         val_8x8 = tile_count_8x8 + i
         val_8x16 = tile_count_8x16 + i
         tbl_append_1x1 += struct.pack("<HH", key & 0xFFFF, val_8x8 & 0xFFFF)
@@ -156,7 +161,9 @@ def _append_font_and_tbl(
             f.write(tbl_append_1x2)
 
     font_1x1_last_key = first_new_key + len(chars) - 1 if chars else last_key_1x2
-    return mapping, font_1x1_last_key
+    n_chr_written = len(chars_for_chr)
+    n_tbl_written = len(chars_for_tbl)
+    return mapping, font_1x1_last_key, n_chr_written, n_tbl_written
 
 
 def _take_chars_from_entries(entries: list[dict]) -> list[str]:
@@ -185,11 +192,11 @@ def _translation_to_fixed_length(translation: str, original: str) -> str:
 
 
 def _encode_char_nds(ch: str, mapping: dict[str, int]) -> bytes:
-    """单字编码：空格 0x8140，在 mapping 中为 key 小端 2 字节，否则 Shift-JIS。"""
+    """单字编码：空格 0x8140，在 mapping 中为 key 大端 2 字节，否则 Shift-JIS。"""
     if ch in (" ", FULL_WIDTH_SPACE):
         return SPACE_ROM_BYTES
     if ch in mapping:
-        return struct.pack("<H", mapping[ch] & 0xFFFF)
+        return struct.pack(">H", mapping[ch] & 0xFFFF)
     return ch.encode("shift_jis", errors="replace")[:2].ljust(2, b"\x00")
 
 
@@ -299,8 +306,9 @@ def _run_nds_pack(input_dir: Path, output_rom: Path, verbose: bool = False) -> N
   python patch_rpg3.py rom3.nds -o patched.nds --font-8x8 font.ttf --font-write tbl
   python patch_rpg3.py rom3.nds -o patched.nds --font-8x8 font.ttf --font-write chr --font-size 1x2
   python patch_rpg3.py rom3.nds -o patched.nds --font-8x8 font.ttf --no-translation
+  python patch_rpg3.py rom3.nds -o patched.nds --font-8x8 font.ttf --max-chars-chr 50 --max-chars-tbl 100
   python patch_rpg3.py rom3.nds -o patched.nds --debug
-  python patch_rpg3.py rom3.nds -o patched3.nds --font-8x8 debug/fusion-pixel-8px-monospaced-zh_hans.ttf --font-8x16 debug/MZPXflat.ttf --8x16-scale pad --temp-dir ./rpg3_patch -m rpg3_mapping.json --font-write chr --no-translation --font-size 1x2
+  python patch_rpg3.py rom3.nds -o patched3.nds --font-8x8 debug/fusion-pixel-8px-monospaced-zh_hans.ttf --font-8x16 debug/MZPXflat.ttf --8x16-scale pad --temp-dir ./rpg3_patch -m rpg3_mapping.json --only overlay --max-chars-chr 50 --font-write chr
 """,
 )
 @click.argument("rom", type=click.Path(exists=True, path_type=Path))
@@ -344,6 +352,8 @@ def _run_nds_pack(input_dir: Path, output_rom: Path, verbose: bool = False) -> N
     help="只写 1x1(8x8) / 只写 1x2(8x16) / 两者都写（默认 both）",
 )
 @click.option("--no-translation", "no_translation", is_flag=True, help="不写入 overlay/text 译文，仅更新码表与字模")
+@click.option("--max-chars-chr", "max_chars_chr", type=int, default=None, help="chr 字模上限（调试用）：仅前 N 字写入 chr，超出不写字模")
+@click.option("--max-chars-tbl", "max_chars_tbl", type=int, default=None, help="tbl 码表上限（调试用）：仅前 N 字写入 tbl，超出不写码表条目；译文仍用全部字编码")
 @click.option("--debug", "debug_mode", is_flag=True, help="debug：仅解压后打包，不写码表/字模/译文")
 @click.option("-v", "--verbose", is_flag=True, help="解压/打包时显示详细信息")
 def main(
@@ -359,6 +369,8 @@ def main(
     font_write: str,
     font_size: str,
     no_translation: bool,
+    max_chars_chr: int | None,
+    max_chars_tbl: int | None,
     debug_mode: bool,
     verbose: bool,
 ) -> None:
@@ -419,6 +431,11 @@ def main(
         chars = _take_chars_from_entries(all_entries)
         click.echo(f"从 JSON 收集到 {len(chars)} 个扩展字符")
 
+        if max_chars_chr is not None or max_chars_tbl is not None:
+            n_chr_limit = len(chars[:max_chars_chr]) if max_chars_chr and max_chars_chr > 0 else len(chars)
+            n_tbl_limit = len(chars[:max_chars_tbl]) if max_chars_tbl and max_chars_tbl > 0 else len(chars)
+            click.echo(f"上限：chr 前 {n_chr_limit} 字，tbl 前 {n_tbl_limit} 字；全部 {len(chars)} 字参与译文编码")
+
         if not chars:
             click.echo("没有需要追加的字符，仅解压、写入现有译文、打包。")
 
@@ -428,31 +445,31 @@ def main(
         mapping: dict[str, int] = {}
         font_1x1_last_key = -1
         if chars:
-            n_chars = len(chars)
             write_tbl = font_write.lower() in ("both", "tbl")
             write_chr = font_write.lower() in ("both", "chr")
             write_1x1 = font_size.lower() in ("both", "1x1")
             write_1x2 = font_size.lower() in ("both", "1x2")
-            mapping, font_1x1_last_key = _append_font_and_tbl(
+            mapping, font_1x1_last_key, n_chr_written, n_tbl_written = _append_font_and_tbl(
                 extract_dir, chars, font_8x8, font_16, scale_8x16,
                 write_tbl=write_tbl, write_chr=write_chr,
                 write_1x1=write_1x1, write_1x2=write_1x2,
+                max_chars_chr=max_chars_chr, max_chars_tbl=max_chars_tbl,
             )
             click.echo(f"font_1x1 最后 key（小端序）= {font_1x1_last_key} (0x{font_1x1_last_key:X})")
             if write_tbl:
                 if write_1x1 and write_1x2:
-                    click.echo(f"码表：font_1x1.tbl / font_1x2.tbl 各追加 {n_chars} 条（每条 4 字节，共 {n_chars * 4 * 2} 字节）")
+                    click.echo(f"码表：font_1x1.tbl / font_1x2.tbl 各追加 {n_tbl_written} 条（每条 4 字节，共 {n_tbl_written * 4 * 2} 字节）")
                 elif write_1x1:
-                    click.echo(f"码表：font_1x1.tbl 追加 {n_chars} 条（{n_chars * 4} 字节）")
+                    click.echo(f"码表：font_1x1.tbl 追加 {n_tbl_written} 条（{n_tbl_written * 4} 字节）")
                 else:
-                    click.echo(f"码表：font_1x2.tbl 追加 {n_chars} 条（{n_chars * 4} 字节）")
+                    click.echo(f"码表：font_1x2.tbl 追加 {n_tbl_written} 条（{n_tbl_written * 4} 字节）")
             if write_chr:
                 if write_1x1 and write_1x2:
-                    click.echo(f"字模：font_1x1.chr 追加 {n_chars} 字（{n_chars * BYTES_PER_CHAR_8x8} 字节），font_1x2.chr 追加 {n_chars} 字（{n_chars * BYTES_PER_CHAR_8x16} 字节）")
+                    click.echo(f"字模：font_1x1.chr 追加 {n_chr_written} 字（{n_chr_written * BYTES_PER_CHAR_8x8} 字节），font_1x2.chr 追加 {n_chr_written} 字（{n_chr_written * BYTES_PER_CHAR_8x16} 字节）")
                 elif write_1x1:
-                    click.echo(f"字模：font_1x1.chr 追加 {n_chars} 字（{n_chars * BYTES_PER_CHAR_8x8} 字节）")
+                    click.echo(f"字模：font_1x1.chr 追加 {n_chr_written} 字（{n_chr_written * BYTES_PER_CHAR_8x8} 字节）")
                 else:
-                    click.echo(f"字模：font_1x2.chr 追加 {n_chars} 字（{n_chars * BYTES_PER_CHAR_8x16} 字节）")
+                    click.echo(f"字模：font_1x2.chr 追加 {n_chr_written} 字（{n_chr_written * BYTES_PER_CHAR_8x16} 字节）")
 
         if out_mapping is not None:
             with open(out_mapping, "w", encoding="utf-8") as f:
