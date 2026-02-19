@@ -1,0 +1,2486 @@
+[
+  {
+    "offset": 194220,
+    "hex": "83478389815B8352815B83688140",
+    "length": 14,
+    "original": "エラーコード　",
+    "translation": "错误代码　　　",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195732,
+    "hex": "82BD82A282B982F1836C815B8380",
+    "length": 14,
+    "original": "たいせんネーム",
+    "translation": "对战名称   ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195748,
+    "hex": "82A082F182D4",
+    "length": 6,
+    "original": "あんぶ",
+    "translation": "暗部 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195756,
+    "hex": "836C8357",
+    "length": 4,
+    "original": "ネジ",
+    "translation": "宁次",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195764,
+    "hex": "834C836F",
+    "length": 4,
+    "original": "キバ",
+    "translation": "牙 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195772,
+    "hex": "898E9682",
+    "length": 4,
+    "original": "猿魔",
+    "translation": "猿魔",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195780,
+    "hex": "8EE792DF",
+    "length": 4,
+    "original": "守鶴",
+    "translation": "守鹤",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195788,
+    "hex": "834B8343",
+    "length": 4,
+    "original": "ガイ",
+    "translation": "凯 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195804,
+    "hex": "836E834E",
+    "length": 4,
+    "original": "ハク",
+    "translation": "白 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195812,
+    "hex": "8356836D",
+    "length": 4,
+    "original": "シノ",
+    "translation": "志乃",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195820,
+    "hex": "82A282CC",
+    "length": 4,
+    "original": "いの",
+    "translation": "井野",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195828,
+    "hex": "834B83418389",
+    "length": 6,
+    "original": "ガアラ",
+    "translation": "我爱罗",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195836,
+    "hex": "835583758355",
+    "length": 6,
+    "original": "ザブザ",
+    "translation": "再不斩",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195844,
+    "hex": "82BD82A982A2",
+    "length": 6,
+    "original": "たかい",
+    "translation": "高  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195852,
+    "hex": "8343838B834A",
+    "length": 6,
+    "original": "イルカ",
+    "translation": "伊鲁卡",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195860,
+    "hex": "8354834E8389",
+    "length": 6,
+    "original": "サクラ",
+    "translation": "小樱 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195868,
+    "hex": "82D382C282A4",
+    "length": 6,
+    "original": "ふつう",
+    "translation": "普通 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195876,
+    "hex": "834B837D9289",
+    "length": 6,
+    "original": "ガマ忠",
+    "translation": "蛤蟆忠",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195884,
+    "hex": "834B837D97B3",
+    "length": 6,
+    "original": "ガマ竜",
+    "translation": "蛤蟆龙",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195892,
+    "hex": "8E4F91E396DA",
+    "length": 6,
+    "original": "三代目",
+    "translation": "三代目",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195900,
+    "hex": "8365837D838A",
+    "length": 6,
+    "original": "テマリ",
+    "translation": "手鞠 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195908,
+    "hex": "8369838B8367",
+    "length": 6,
+    "original": "ナルト",
+    "translation": "鸣人 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195916,
+    "hex": "834B837D8B67",
+    "length": 6,
+    "original": "ガマ吉",
+    "translation": "蛤蟆吉",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195924,
+    "hex": "83718369835E",
+    "length": 6,
+    "original": "ヒナタ",
+    "translation": "雏田 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195932,
+    "hex": "82BD82A982A2",
+    "length": 6,
+    "original": "たかい",
+    "translation": "高  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195940,
+    "hex": "834A83638386",
+    "length": 6,
+    "original": "カツユ",
+    "translation": "蛞蝓 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195948,
+    "hex": "94AA94458CA2",
+    "length": 6,
+    "original": "八忍犬",
+    "translation": "八忍犬",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195956,
+    "hex": "82D082AD82A2",
+    "length": 6,
+    "original": "ひくい",
+    "translation": "低  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195964,
+    "hex": "8343835E8360",
+    "length": 6,
+    "original": "イタチ",
+    "translation": "鼬  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195972,
+    "hex": "82A082F182D4",
+    "length": 6,
+    "original": "あんぶ",
+    "translation": "暗部 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195980,
+    "hex": "82D082AD82A2",
+    "length": 6,
+    "original": "ひくい",
+    "translation": "低  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195988,
+    "hex": "82A082F182D4",
+    "length": 6,
+    "original": "あんぶ",
+    "translation": "暗部 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 195996,
+    "hex": "8369838B8367",
+    "length": 6,
+    "original": "ナルト",
+    "translation": "鸣人 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196004,
+    "hex": "837D8393835F",
+    "length": 6,
+    "original": "マンダ",
+    "translation": "万蛇 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196012,
+    "hex": "835483588350",
+    "length": 6,
+    "original": "サスケ",
+    "translation": "佐助 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196020,
+    "hex": "834A834A8356",
+    "length": 6,
+    "original": "カカシ",
+    "translation": "卡卡西",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196028,
+    "hex": "834C83548381",
+    "length": 6,
+    "original": "キサメ",
+    "translation": "鬼鲛 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196036,
+    "hex": "836383698366",
+    "length": 6,
+    "original": "ツナデ",
+    "translation": "纲手 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196044,
+    "hex": "82D382C282A4",
+    "length": 6,
+    "original": "ふつう",
+    "translation": "普通 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196052,
+    "hex": "835483588350",
+    "length": 6,
+    "original": "サスケ",
+    "translation": "佐助 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196060,
+    "hex": "83708362834E8393",
+    "length": 8,
+    "original": "パックン",
+    "translation": "赤丸  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196072,
+    "hex": "82B382A282C482A2",
+    "length": 8,
+    "original": "さいてい",
+    "translation": "最低  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196084,
+    "hex": "8356834A837D838B",
+    "length": 8,
+    "original": "シカマル",
+    "translation": "鹿丸  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196096,
+    "hex": "8360838783458357",
+    "length": 8,
+    "original": "チョウジ",
+    "translation": "丁次  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196108,
+    "hex": "8365839383658393",
+    "length": 8,
+    "original": "テンテン",
+    "translation": "天天  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196120,
+    "hex": "82B682E782A282E2",
+    "length": 8,
+    "original": "じらいや",
+    "translation": "自来也 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196132,
+    "hex": "82B382A282C482A2",
+    "length": 8,
+    "original": "さいてい",
+    "translation": "最低  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196144,
+    "hex": "834A837D835E838A",
+    "length": 8,
+    "original": "カマタリ",
+    "translation": "镰多利 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196156,
+    "hex": "82B382A282B182A48149",
+    "length": 10,
+    "original": "さいこう！",
+    "translation": "最高！  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196168,
+    "hex": "82B382A282B182A48149",
+    "length": 10,
+    "original": "さいこう！",
+    "translation": "最高！  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196180,
+    "hex": "834A8393834E838D8345",
+    "length": 10,
+    "original": "カンクロウ",
+    "translation": "勘九郎  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196192,
+    "hex": "834B834382CC9445",
+    "length": 8,
+    "original": "ガイの忍",
+    "translation": "凯的忍 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196204,
+    "hex": "834A8393834E838D8345",
+    "length": 10,
+    "original": "カンクロウ",
+    "translation": "勘九郎  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196216,
+    "hex": "834B837D8375839391BE",
+    "length": 10,
+    "original": "ガマブン太",
+    "translation": "蛤蟆文太 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196228,
+    "hex": "837E836A834A83638386",
+    "length": 10,
+    "original": "ミニカツユ",
+    "translation": "小蛞蝓  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196240,
+    "hex": "8349838D836082DC82E9",
+    "length": 10,
+    "original": "オロチまる",
+    "translation": "大蛇丸  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196716,
+    "hex": "82BD82A282BF82E582A4",
+    "length": 10,
+    "original": "たいちょう",
+    "translation": "队长   ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196840,
+    "hex": "81408140814082BB82A482D182BF82E382A48140",
+    "length": 20,
+    "original": "　　　そうびちゅう　",
+    "translation": "装备中　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196864,
+    "hex": "81408140814082A082AA82E981408140814082A882C882B68140814081408140814081408140814082B382AA82E981408140814082BB82A482D182BF82E382A48140",
+    "length": 66,
+    "original": "　　　あがる　　　おなじ　　　　　　　　さがる　　　そうびちゅう　",
+    "translation": "上升　　　相同　　　　　　　　下降　　　装备中　　　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196932,
+    "hex": "835A8362836782C582AB82E9834C83838389834E835E815B",
+    "length": 24,
+    "original": "セットできるキャラクター",
+    "translation": "可装备的角色      ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196960,
+    "hex": "82BB82A482D182B682E582A482BD82A2",
+    "length": 16,
+    "original": "そうびじょうたい",
+    "translation": "装备状态    ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 196984,
+    "hex": "82BD82A282BF82E582A482B182A482A9",
+    "length": 16,
+    "original": "たいちょうこうか",
+    "translation": "队长效果    ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 197008,
+    "hex": "82E282E982AB",
+    "length": 6,
+    "original": "やるき",
+    "translation": "干劲 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 197112,
+    "hex": "82B082F182B482A282CC82AF82A282AF82F182BF814081408140",
+    "length": 26,
+    "original": "げんざいのけいけんち　　　",
+    "translation": "现在的经验值　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 197140,
+    "hex": "82C282AC82CC838C8378838B82DC82C5814082A082C681408140",
+    "length": 26,
+    "original": "つぎのレベルまで　あと　　",
+    "translation": "下一级还需　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 197220,
+    "hex": "8140814081408140814081408140814081408140814081408140814081408140814081408358835E837E83698140814083608383834E83898140814081408140814081408140814082B182A482B082AB8140814082DA82A482AC82E58140814082B782CE82E282B38140814081408140814081408140814082C982F182E882E582AD8140",
+    "length": 132,
+    "original": "　　　　　　　　　　　　　　　　　　スタミナ　　チャクラ　　　　　　　　こうげき　　ぼうぎょ　　すばやさ　　　　　　　　にんりょく　",
+    "translation": "体力　　查克拉　　　　　　　　攻击　　防御　　速度　　　　　　　　忍力　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 197684,
+    "hex": "82CD82A2",
+    "length": 4,
+    "original": "はい",
+    "translation": "是 ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 197692,
+    "hex": "82A282A282A6",
+    "length": 6,
+    "original": "いいえ",
+    "translation": "否  ",
+    "skiped": false,
+    "file": "overlay_0000.bin"
+  },
+  {
+    "offset": 126048,
+    "hex": "82C282A482B582F183478389815B82AA814082CD82C182B982A282B582DC82B582BD",
+    "length": 34,
+    "original": "つうしんエラーが　はっせいしました",
+    "translation": "发生了通信错误　　　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126084,
+    "hex": "82C282A482B582F183478389815B82AA814082CD82C182B982A282B582DC82B582BD8149",
+    "length": 36,
+    "original": "つうしんエラーが　はっせいしました！",
+    "translation": "发生了通信错误！　　　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126148,
+    "hex": "83608383834E838982AA82BD82E882C882A28149",
+    "length": 20,
+    "original": "チャクラがたりない！",
+    "translation": "查克拉不足！    ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126172,
+    "hex": "8F7082AA82D382A482B682E782EA82C482A282E98149",
+    "length": 22,
+    "original": "術がふうじられている！",
+    "translation": "术被封印了！     ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126196,
+    "hex": "82C982B082E782EA82C882A982C182BD814581458145",
+    "length": 22,
+    "original": "にげられなかった・・・",
+    "translation": "没能逃掉・・・    ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126220,
+    "hex": "82C982B082E782EA82C882A28149",
+    "length": 14,
+    "original": "にげられない！",
+    "translation": "无法逃跑！  ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126236,
+    "hex": "82CD814082A882BF82B182F182C582A282E9814581458145",
+    "length": 24,
+    "original": "は　おちこんでいる・・・",
+    "translation": "很沮丧・・・      ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126264,
+    "hex": "82CD814095408C8C82F082D382A282BD81498149",
+    "length": 20,
+    "original": "は　鼻血をふいた！！",
+    "translation": "擦了鼻血！！　　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126288,
+    "hex": "82B582E382C182AF82C282BD82E882E582A482C5814093AE82AF82C882A2814581458145",
+    "length": 36,
+    "original": "しゅっけつたりょうで　動けない・・・",
+    "translation": "失血过多　动弹不得・・・　　　　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126328,
+    "hex": "82CD814082B182C182BB82E882DD82C482A282E9",
+    "length": 20,
+    "original": "は　こっそりみている",
+    "translation": "在偷偷看着　　　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126352,
+    "hex": "82CD8140954082CC89BA82AA82CC82D182C482A282E9",
+    "length": 22,
+    "original": "は　鼻の下がのびている",
+    "translation": "鼻子变长了　　　　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126524,
+    "hex": "82A282C782A4",
+    "length": 6,
+    "original": "いどう",
+    "translation": "移动 ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126532,
+    "hex": "82B182A482BD82A2",
+    "length": 8,
+    "original": "こうたい",
+    "translation": "替换  ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126544,
+    "hex": "82E082C782E9",
+    "length": 6,
+    "original": "もどる",
+    "translation": "返回 ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126552,
+    "hex": "82DA82A482AC82E5",
+    "length": 8,
+    "original": "ぼうぎょ",
+    "translation": "防御  ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126564,
+    "hex": "82C982B082E9",
+    "length": 6,
+    "original": "にげる",
+    "translation": "逃跑 ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126572,
+    "hex": "82BA82F182BD82A2",
+    "length": 8,
+    "original": "ぜんたい",
+    "translation": "全体  ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126584,
+    "hex": "83608383834E83898140",
+    "length": 10,
+    "original": "チャクラ　",
+    "translation": "查克拉　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126596,
+    "hex": "82B182B782A481408140",
+    "length": 10,
+    "original": "こすう　　",
+    "translation": "次数　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126608,
+    "hex": "8F7082AA814082D382A482B682E782EA82C482A282DC82B78149",
+    "length": 26,
+    "original": "術が　ふうじられています！",
+    "translation": "术被封印了！       ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126636,
+    "hex": "83608383834E838982AA814082BD82E882DC82B982F18149",
+    "length": 24,
+    "original": "チャクラが　たりません！",
+    "translation": "查克拉不足！　　　　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126664,
+    "hex": "82BB82A482D182C581408F7082AA814082D382A482B682E782EA82C482A282DC82B78149",
+    "length": 36,
+    "original": "そうびで　術が　ふうじられています！",
+    "translation": "装备导致术被封印了！        ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126704,
+    "hex": "82BD82A282B982F182C582CD814082C282A982A682DC82B982F1",
+    "length": 26,
+    "original": "たいせんでは　つかえません",
+    "translation": "对战时无法使用　　　　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126732,
+    "hex": "82AB82F182B682E382C282CD814082C282A982A682DC82B982F1",
+    "length": 26,
+    "original": "きんじゅつは　つかえません",
+    "translation": "禁术无法使用　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126760,
+    "hex": "82A282DC82CD814082C282A982A682DC82B982F1",
+    "length": 20,
+    "original": "いまは　つかえません",
+    "translation": "现在无法使用　　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126784,
+    "hex": "82A982B095AA9067",
+    "length": 8,
+    "original": "かげ分身",
+    "translation": "影分身 ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126796,
+    "hex": "82B582E182E882F182AA82F1",
+    "length": 12,
+    "original": "しゃりんがん",
+    "translation": "写轮眼   ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126812,
+    "hex": "82D182E182AD82AA82F1",
+    "length": 10,
+    "original": "びゃくがん",
+    "translation": "白眼   ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126824,
+    "hex": "94AA96E582C682F182B182A4",
+    "length": 12,
+    "original": "八門とんこう",
+    "translation": "八门遁甲  ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126840,
+    "hex": "82A482BF82C882E98354834E8389",
+    "length": 14,
+    "original": "うちなるサクラ",
+    "translation": "内中的小樱  ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126856,
+    "hex": "82B682E582A482BD82A282C5814082C282A982A682DC82B7",
+    "length": 24,
+    "original": "じょうたいで　つかえます",
+    "translation": "该状态下可使用　　　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126884,
+    "hex": "83608383834E838982CB82E8814082C882B5",
+    "length": 18,
+    "original": "チャクラねり　なし",
+    "translation": "无查克拉积蓄　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126904,
+    "hex": "83608383834E838982CB82E8814082A082E8",
+    "length": 18,
+    "original": "チャクラねり　あり",
+    "translation": "查克拉练　有　　　",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126924,
+    "hex": "82B182A482B082AB",
+    "length": 8,
+    "original": "こうげき",
+    "translation": "攻击  ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126936,
+    "hex": "82B682E382C2",
+    "length": 6,
+    "original": "じゅつ",
+    "translation": "术  ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126944,
+    "hex": "82C782A482AE",
+    "length": 6,
+    "original": "どうぐ",
+    "translation": "道具 ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126952,
+    "hex": "82B182A482BD82A2",
+    "length": 8,
+    "original": "こうたい",
+    "translation": "交替  ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126964,
+    "hex": "82C982B082E9",
+    "length": 6,
+    "original": "にげる",
+    "translation": "逃跑 ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126972,
+    "hex": "82DA82A482AC82E5",
+    "length": 8,
+    "original": "ぼうぎょ",
+    "translation": "防御  ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126984,
+    "hex": "82A282C782A4",
+    "length": 6,
+    "original": "いどう",
+    "translation": "移动 ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 126992,
+    "hex": "82E082C782B7",
+    "length": 6,
+    "original": "もどす",
+    "translation": "返回 ",
+    "skiped": false,
+    "file": "overlay_0001.bin"
+  },
+  {
+    "offset": 75960,
+    "hex": "8140814081408140814081408140814081408140814082F0814082C482C982A282EA82BD8149",
+    "length": 38,
+    "original": "　　　　　　　　　　　を　てにいれた！",
+    "translation": "を　入手了！　　　　　　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76092,
+    "hex": "8140834B837D82BF82E182F182F082B782D782C482A082C282DF82DC82B582BD81498149",
+    "length": 36,
+    "original": "　ガマちゃんをすべてあつめました！！",
+    "translation": "蛤蟆小子全部收集齐了！！      ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76812,
+    "hex": "82CD82A2",
+    "length": 4,
+    "original": "はい",
+    "translation": "是 ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76818,
+    "hex": "82A282A282A6",
+    "length": 6,
+    "original": "いいえ",
+    "translation": "否  ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76828,
+    "hex": "82A982E782C182DB82BE814581458145",
+    "length": 16,
+    "original": "からっぽだ・・・",
+    "translation": "是空的・・・  ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76852,
+    "hex": "82C782A482AE",
+    "length": 6,
+    "original": "どうぐ",
+    "translation": "道具 ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76860,
+    "hex": "82A482E9",
+    "length": 4,
+    "original": "うる",
+    "translation": "卖 ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76866,
+    "hex": "82E282DF82E9",
+    "length": 6,
+    "original": "やめる",
+    "translation": "取消 ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76900,
+    "hex": "82D482AB",
+    "length": 4,
+    "original": "ぶき",
+    "translation": "武器",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76906,
+    "hex": "82DA82A482AE",
+    "length": 6,
+    "original": "ぼうぐ",
+    "translation": "防具 ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76914,
+    "hex": "82A482E9",
+    "length": 4,
+    "original": "うる",
+    "translation": "卖 ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76920,
+    "hex": "82E282DF82E9",
+    "length": 6,
+    "original": "やめる",
+    "translation": "取消 ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76938,
+    "hex": "82CD82A282C182C482A282BD8149",
+    "length": 14,
+    "original": "はいっていた！",
+    "translation": "里面有！   ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76962,
+    "hex": "82C482C982A282EA82BD8149",
+    "length": 12,
+    "original": "てにいれた！",
+    "translation": "入手了！  ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 76994,
+    "hex": "82CD82A282C182C482A282BD8149",
+    "length": 14,
+    "original": "はいっていた！",
+    "translation": "里面有！   ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 77026,
+    "hex": "82C482C982A282EA82BD8149",
+    "length": 12,
+    "original": "てにいれた！",
+    "translation": "入手了！  ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 77058,
+    "hex": "82CD82A282C182C482A282BD8149",
+    "length": 14,
+    "original": "はいっていた！",
+    "translation": "里面有！   ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 77076,
+    "hex": "82E082BF82E082CC82AA814082A282C182CF82A282C582B78149",
+    "length": 26,
+    "original": "もちものが　いっぱいです！",
+    "translation": "物品栏已满！　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 77122,
+    "hex": "82CD82A282C182C482A282BD8149",
+    "length": 14,
+    "original": "はいっていた！",
+    "translation": "里面有！   ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 77154,
+    "hex": "82C482C982A282EA82BD8149",
+    "length": 12,
+    "original": "てにいれた！",
+    "translation": "入手了！  ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 77186,
+    "hex": "82CD82A282C182C482A282BD8149",
+    "length": 14,
+    "original": "はいっていた！",
+    "translation": "里面有！   ",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 77204,
+    "hex": "82E082BF82E082CC82AA814082A282C182CF82A282C582B78149",
+    "length": 26,
+    "original": "もちものが　いっぱいです！",
+    "translation": "物品栏已满！　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0002.bin"
+  },
+  {
+    "offset": 273032,
+    "hex": "82C682E082BE82BF8352815B836882CD8148",
+    "length": 18,
+    "original": "ともだちコードは？",
+    "translation": "好友代码是？   ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 277832,
+    "hex": "82DD82E9",
+    "length": 4,
+    "original": "みる",
+    "translation": "查看",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 277840,
+    "hex": "82C282A982A4",
+    "length": 6,
+    "original": "つかう",
+    "translation": "使用 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 277860,
+    "hex": "82BE82A282B682C882E082CC",
+    "length": 12,
+    "original": "だいじなもの",
+    "translation": "重要物品  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 277892,
+    "hex": "915391CC82CC8140",
+    "length": 8,
+    "original": "全体の　",
+    "translation": "全体　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 277904,
+    "hex": "25738358835E837E836982C6814083608383834E838982AA814082A982A282D382AD82B582BD8149",
+    "length": 40,
+    "original": "%sスタミナと　チャクラが　かいふくした！",
+    "translation": "%s体力与　查克拉恢复了！　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 277948,
+    "hex": "25738358835E837E836982AA814082A982A282D382AD82B582BD8149",
+    "length": 28,
+    "original": "%sスタミナが　かいふくした！",
+    "translation": "%s体力恢复了！　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 277980,
+    "hex": "257383608383834E838982AA814082A982A282D382AD82B582BD8149",
+    "length": 28,
+    "original": "%sチャクラが　かいふくした！",
+    "translation": "%s查克拉恢复了！　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278012,
+    "hex": "257382B382A282BE82A28358835E837E836982AA8140257382D382A682BD8149",
+    "length": 32,
+    "original": "%sさいだいスタミナが　%sふえた！",
+    "translation": "%s最大体力　%s增加了！　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278048,
+    "hex": "257382B382A282BE82A283608383834E838982AA8140257382D382A682BD8149",
+    "length": 32,
+    "original": "%sさいだいチャクラが　%sふえた！",
+    "translation": "%s最大查克拉%s增加了！　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278084,
+    "hex": "257382B182A482B082AB97CD82AA8140257382D382A682BD8149",
+    "length": 26,
+    "original": "%sこうげき力が　%sふえた！",
+    "translation": "%s攻击力　%s增加了！　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278112,
+    "hex": "257382DA82A482AC82E597CD82AA8140257382D382A682BD8149",
+    "length": 26,
+    "original": "%sぼうぎょ力が　%sふえた！",
+    "translation": "%s防御力　%s增加了！　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278140,
+    "hex": "257382B782CE82E282B382AA8140257382D382A682BD8149",
+    "length": 24,
+    "original": "%sすばやさが　%sふえた！",
+    "translation": "%s敏捷度　%s增加了！　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278168,
+    "hex": "257382C982F182E882E582AD82AA8140257382D382A682BD8149",
+    "length": 26,
+    "original": "%sにんりょくが　%sふえた！",
+    "translation": "%s忍力　　%s增加了！　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278196,
+    "hex": "257382E282E982AB82AA814082A082AA82C182BD8149",
+    "length": 22,
+    "original": "%sやるきが　あがった！",
+    "translation": "%s干劲　提升了！　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278220,
+    "hex": "257382E282E982AB82AA814082B382AA82C182BD8149",
+    "length": 22,
+    "original": "%sやるきが　さがった！",
+    "translation": "%s干劲　下降了！　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278304,
+    "hex": "82B182B782A4",
+    "length": 6,
+    "original": "こすう",
+    "translation": "个数 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278356,
+    "hex": "8367839383678393",
+    "length": 8,
+    "original": "トントン",
+    "translation": "咚咚  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278408,
+    "hex": "834A83638386",
+    "length": 6,
+    "original": "カツユ",
+    "translation": "胜由 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278424,
+    "hex": "83708362834E8393",
+    "length": 8,
+    "original": "パックン",
+    "translation": "咬咬  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278436,
+    "hex": "25738CFB82E682B982B582BD8149",
+    "length": 14,
+    "original": "%s口よせした！",
+    "translation": "%s凑齐了！  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278460,
+    "hex": "915391CC82CC8140",
+    "length": 8,
+    "original": "全体の　",
+    "translation": "全体　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278472,
+    "hex": "25738358835E837E836982AA814082A982A282D382AD82B582BD8149",
+    "length": 28,
+    "original": "%sスタミナが　かいふくした！",
+    "translation": "%s体力恢复了！　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278520,
+    "hex": "82B582E582A482D0",
+    "length": 8,
+    "original": "しょうひ",
+    "translation": "消耗  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278568,
+    "hex": "82C982F182E882E582AD8146",
+    "length": 12,
+    "original": "にんりょく：",
+    "translation": "忍力：   ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278680,
+    "hex": "8D558C8297CD2573",
+    "length": 8,
+    "original": "攻撃力%s",
+    "translation": "攻击力%s",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278700,
+    "hex": "96688CE497CD2573",
+    "length": 8,
+    "original": "防御力%s",
+    "translation": "防御力%s",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278720,
+    "hex": "82B782CE82E282B32573",
+    "length": 10,
+    "original": "すばやさ%s",
+    "translation": "敏捷度%s ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 278948,
+    "hex": "82B182B782A4",
+    "length": 6,
+    "original": "こすう",
+    "translation": "个数 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279000,
+    "hex": "8F7082F082DD82E9",
+    "length": 8,
+    "original": "術をみる",
+    "translation": "查看术 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279024,
+    "hex": "82BB82A482D182F082DD82E9",
+    "length": 12,
+    "original": "そうびをみる",
+    "translation": "查看装备  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279040,
+    "hex": "82B582CC82D18E4482F082DD82E9",
+    "length": 14,
+    "original": "しのび札をみる",
+    "translation": "查看忍卡   ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279100,
+    "hex": "82B182B782A4",
+    "length": 6,
+    "original": "こすう",
+    "translation": "个数 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279108,
+    "hex": "82B182B782A4",
+    "length": 6,
+    "original": "こすう",
+    "translation": "个数 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279116,
+    "hex": "82B582E582A482D0",
+    "length": 8,
+    "original": "しょうひ",
+    "translation": "消耗  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279128,
+    "hex": "82B582E582A482D0",
+    "length": 8,
+    "original": "しょうひ",
+    "translation": "消耗  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279140,
+    "hex": "82B182B782A4",
+    "length": 6,
+    "original": "こすう",
+    "translation": "个数 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279148,
+    "hex": "82B182B782A4",
+    "length": 6,
+    "original": "こすう",
+    "translation": "个数 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279156,
+    "hex": "82B582E582A482D0",
+    "length": 8,
+    "original": "しょうひ",
+    "translation": "消耗  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279200,
+    "hex": "82B182A482B082AB814082DA82A482AC82E5814082B782CE82E282B3",
+    "length": 28,
+    "original": "こうげき　ぼうぎょ　すばやさ",
+    "translation": "攻击　防御　敏捷　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279284,
+    "hex": "838283938358835E815B",
+    "length": 10,
+    "original": "モンスター",
+    "translation": "怪物   ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279296,
+    "hex": "82BB82A482D182C882B5",
+    "length": 10,
+    "original": "そうびなし",
+    "translation": "无装备  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279308,
+    "hex": "82D482AB814081408140814081408140814081408140814081408140814081408140814081408140814082DA82A482AE81408140814081408140814081408140814081408140814081408140814081408140814082AB82E182CD82F1814081408140",
+    "length": 98,
+    "original": "ぶき　　　　　　　　　　　　　　　　　　　ぼうぐ　　　　　　　　　　　　　　　　　　きゃはん　　　",
+    "translation": "武器　　　　　　　　　　　　　　　　　　　防具　　　　　　　　　　　　　　　　　　腿甲　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279440,
+    "hex": "8140814081408140814082C782A482AE",
+    "length": 16,
+    "original": "　　　　　どうぐ",
+    "translation": "道具　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279460,
+    "hex": "8140814081408140814082BB82A482D1",
+    "length": 16,
+    "original": "　　　　　そうび",
+    "translation": "装备　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279480,
+    "hex": "8140814081408140814082B682E382C2",
+    "length": 16,
+    "original": "　　　　　じゅつ",
+    "translation": "术　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279500,
+    "hex": "8140814081408140814083818393836F815B",
+    "length": 18,
+    "original": "　　　　　メンバー",
+    "translation": "成员　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279520,
+    "hex": "8140814081408140814082B682F182AF82A2",
+    "length": 18,
+    "original": "　　　　　じんけい",
+    "translation": "阵型　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279540,
+    "hex": "814081408140814081408386815B8355815B",
+    "length": 18,
+    "original": "　　　　　ユーザー",
+    "translation": "用户　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279560,
+    "hex": "8140814081408140814082B582CC82D18E44",
+    "length": 18,
+    "original": "　　　　　しのび札",
+    "translation": "忍卡　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279580,
+    "hex": "8140814081408140814083588365815B835E8358",
+    "length": 20,
+    "original": "　　　　　ステータス",
+    "translation": "状态　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279708,
+    "hex": "82CD82B882B7",
+    "length": 6,
+    "original": "はずす",
+    "translation": "卸下 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279716,
+    "hex": "82BD82A282B982A282AF82A282B582CC82D18E44",
+    "length": 20,
+    "original": "たいせいけいしのび札",
+    "translation": "体型系忍卡     ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279740,
+    "hex": "82C682AD82B582E382AF82A282B582CC82D18E44",
+    "length": 20,
+    "original": "とくしゅけいしのび札",
+    "translation": "特殊系忍卡     ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279764,
+    "hex": "83588365815B835E835882AF82A282B582CC82D18E44",
+    "length": 22,
+    "original": "ステータスけいしのび札",
+    "translation": "状态系忍卡      ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279788,
+    "hex": "82C982F182B682E382C282AF82A282B582CC82D18E44",
+    "length": 22,
+    "original": "にんじゅつけいしのび札",
+    "translation": "忍术系忍卡      ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279884,
+    "hex": "82B182B782A4",
+    "length": 6,
+    "original": "こすう",
+    "translation": "个数 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 279940,
+    "hex": "81408140814081408140814081408140814081408358835E837E8369814083608383834E838981408140814081408140814082B182A482B082AB814082DA82A482AC82E5814082B782CE82E282B381408140814081408140814082C982F182E882E582AD",
+    "length": 100,
+    "original": "　　　　　　　　　　スタミナ　チャクラ　　　　　　こうげき　ぼうぎょ　すばやさ　　　　　　にんりょく",
+    "translation": "体力　查克拉　　　　　　攻击　防御　敏捷　　　　　　忍力　　　　　　　　　　　　　　　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280088,
+    "hex": "83818393836F815B82B982C182C482A2",
+    "length": 16,
+    "original": "メンバーせってい",
+    "translation": "成员设置    ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280108,
+    "hex": "82BD82A282BF82E582A482B982C182C482A2",
+    "length": 18,
+    "original": "たいちょうせってい",
+    "translation": "队长设置     ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280224,
+    "hex": "82CD82A28140",
+    "length": 6,
+    "original": "はい　",
+    "translation": "是　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280232,
+    "hex": "82A282A282A6",
+    "length": 6,
+    "original": "いいえ",
+    "translation": "否  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280300,
+    "hex": "82B382C6",
+    "length": 4,
+    "original": "さと",
+    "translation": "里 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280308,
+    "hex": "82C882DC82A6",
+    "length": 6,
+    "original": "なまえ",
+    "translation": "名字 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280316,
+    "hex": "82D082C682B182C6",
+    "length": 8,
+    "original": "ひとこと",
+    "translation": "简介  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280328,
+    "hex": "97A282CC82B982C182C482A2",
+    "length": 12,
+    "original": "里のせってい",
+    "translation": "里的设置  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280344,
+    "hex": "838A8358836782F082DD82E9",
+    "length": 12,
+    "original": "リストをみる",
+    "translation": "查看列表  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280360,
+    "hex": "82C682E082BE82BF838A83588367",
+    "length": 14,
+    "original": "ともだちリスト",
+    "translation": "好友列表   ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280376,
+    "hex": "82C882DC82A682CC82B982C182C482A2",
+    "length": 16,
+    "original": "なまえのせってい",
+    "translation": "名字设置    ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280396,
+    "hex": "82BD82A282B982F182B982A282B982AB",
+    "length": 16,
+    "original": "たいせんせいせき",
+    "translation": "对战成绩    ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280416,
+    "hex": "82C882DC82A682CC82D682F182B182A4",
+    "length": 16,
+    "original": "なまえのへんこう",
+    "translation": "更改名称    ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280436,
+    "hex": "838A8358836782A982E782CD82B882B7",
+    "length": 16,
+    "original": "リストからはずす",
+    "translation": "从列表移除   ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280456,
+    "hex": "82BD82A282B982F182B982C182C482A2",
+    "length": 16,
+    "original": "たいせんせってい",
+    "translation": "对战设定    ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280476,
+    "hex": "82B982A282B982AB82A982AD82C982F1",
+    "length": 16,
+    "original": "せいせきかくにん",
+    "translation": "确认战绩    ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280496,
+    "hex": "82D082C682B182C682CC82B982C182C482A2",
+    "length": 18,
+    "original": "ひとことのせってい",
+    "translation": "一言设置     ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280516,
+    "hex": "82768289815B82658289837C834383938367",
+    "length": 18,
+    "original": "ＷｉーＦｉポイント",
+    "translation": "ＷｉーＦｉポイント",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280536,
+    "hex": "82A082C882BD82CC82C682E082BE82BF8352815B8368",
+    "length": 22,
+    "original": "あなたのともだちコード",
+    "translation": "你的好友码      ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280560,
+    "hex": "82C682E082BE82BF8352815B836882C682A482EB82AD",
+    "length": 22,
+    "original": "ともだちコードとうろく",
+    "translation": "好友码注册      ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 280584,
+    "hex": "82C682E082BE82BF8352815B836882A982AD82C982F1",
+    "length": 22,
+    "original": "ともだちコードかくにん",
+    "translation": "好友码确认      ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281000,
+    "hex": "82CB82BE82F1",
+    "length": 6,
+    "original": "ねだん",
+    "translation": "价格 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281032,
+    "hex": "82B282A482AF82A2",
+    "length": 8,
+    "original": "ごうけい",
+    "translation": "合计  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281044,
+    "hex": "82B482F182AB82F1",
+    "length": 8,
+    "original": "ざんきん",
+    "translation": "余额  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281056,
+    "hex": "82B182A482C982E382A482B782E982A982B8",
+    "length": 18,
+    "original": "こうにゅうするかず",
+    "translation": "购买数量     ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281176,
+    "hex": "82CB82BE82F1",
+    "length": 6,
+    "original": "ねだん",
+    "translation": "价格 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281208,
+    "hex": "82B282A482AF82A2",
+    "length": 8,
+    "original": "ごうけい",
+    "translation": "合计  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281220,
+    "hex": "82B482F182AB82F1",
+    "length": 8,
+    "original": "ざんきん",
+    "translation": "余额  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281248,
+    "hex": "82B182A482C982E382A482B782E982A982B8",
+    "length": 18,
+    "original": "こうにゅうするかず",
+    "translation": "购买数量     ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281268,
+    "hex": "82BD82A282B982A282AF82A282B582CC82D18E44",
+    "length": 20,
+    "original": "たいせいけいしのび札",
+    "translation": "体力系忍者卡    ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281292,
+    "hex": "82C682AD82B582E382AF82A282B582CC82D18E44",
+    "length": 20,
+    "original": "とくしゅけいしのび札",
+    "translation": "特殊系忍者卡    ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281316,
+    "hex": "82C982F182B682E382C282AF82A282B582CC82D18E44",
+    "length": 22,
+    "original": "にんじゅつけいしのび札",
+    "translation": "忍术系忍者卡     ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281340,
+    "hex": "83588365815B835E835882AF82A282B582CC82D18E44",
+    "length": 22,
+    "original": "ステータスけいしのび札",
+    "translation": "状态系忍者卡     ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281476,
+    "hex": "82CB82BE82F1",
+    "length": 6,
+    "original": "ねだん",
+    "translation": "价格 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281508,
+    "hex": "82B282A482AF82A2",
+    "length": 8,
+    "original": "ごうけい",
+    "translation": "合计  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281520,
+    "hex": "82B482F182AB82F1",
+    "length": 8,
+    "original": "ざんきん",
+    "translation": "余额  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281532,
+    "hex": "82B182A482C982E382A482B782E982A982B8",
+    "length": 18,
+    "original": "こうにゅうするかず",
+    "translation": "购买数量     ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281644,
+    "hex": "82C982F182E882E582AD8146",
+    "length": 12,
+    "original": "にんりょく：",
+    "translation": "忍力：   ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281684,
+    "hex": "82C482C982A282EA82BD",
+    "length": 10,
+    "original": "てにいれた",
+    "translation": "入手   ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281732,
+    "hex": "82D382BD82E882DF",
+    "length": 8,
+    "original": "ふたりめ",
+    "translation": "第二人 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281744,
+    "hex": "82E682C982F182DF",
+    "length": 8,
+    "original": "よにんめ",
+    "translation": "第四人 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281756,
+    "hex": "82D082C682E882DF",
+    "length": 8,
+    "original": "ひとりめ",
+    "translation": "第一人 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281768,
+    "hex": "82B382F182C982F182DF",
+    "length": 10,
+    "original": "さんにんめ",
+    "translation": "第三人  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281900,
+    "hex": "82E082C182C482A282E982A982B8",
+    "length": 14,
+    "original": "もっているかず",
+    "translation": "持有数量   ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281956,
+    "hex": "82CB82BE82F1",
+    "length": 6,
+    "original": "ねだん",
+    "translation": "价格 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281972,
+    "hex": "82A482E982A982B8",
+    "length": 8,
+    "original": "うるかず",
+    "translation": "出售数 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281984,
+    "hex": "82B282A482AF82A2",
+    "length": 8,
+    "original": "ごうけい",
+    "translation": "合计  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 281996,
+    "hex": "82B482F182AB82F1",
+    "length": 8,
+    "original": "ざんきん",
+    "translation": "余额  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 282600,
+    "hex": "826B827583418362837682DC82C5",
+    "length": 14,
+    "original": "ＬＶアップまで",
+    "translation": "至升级    ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 282616,
+    "hex": "82BB82EA82BC82EA2573",
+    "length": 10,
+    "original": "それぞれ%s",
+    "translation": "各%s   ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 282656,
+    "hex": "82CD8140838C8378838B82AA82A082AA82C182BD8149",
+    "length": 22,
+    "original": "は　レベルがあがった！",
+    "translation": "等级上升了！　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 282784,
+    "hex": "838C8378838B81408140814081408358835E837E836981408140814083608383834E838981408140814082B182A482B082AB81408140814082DA82A482AC82E581408140814082B782CE82E282B381408140814082C982F182E882E582AD81408140814081408140814081408140814082A882DA82A682BD82B682E382C2",
+    "length": 126,
+    "original": "レベル　　　　スタミナ　　　チャクラ　　　こうげき　　　ぼうぎょ　　　すばやさ　　　にんりょく　　　　　　　　　おぼえたじゅつ",
+    "translation": "等级　　　　体力　　　　查克拉　　　攻击　　　　防御　　　　速度　　　　忍力　　　　　　　　　习得忍术　　　　　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283008,
+    "hex": "82CC814082E282E982AB82AA8140",
+    "length": 14,
+    "original": "の　やるきが　",
+    "translation": "的干劲　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283048,
+    "hex": "82E282E982AB",
+    "length": 6,
+    "original": "やるき",
+    "translation": "干劲 ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283176,
+    "hex": "8140814082AD82BF82E682B98356815B836782F0814082A882A282C481408140814081408140814082A082F182B282A482F0814082C982E382A482E882E582AD82B982E68149",
+    "length": 70,
+    "original": "　　くちよせシートを　おいて　　　　　　あんごうを　にゅうりょくせよ！",
+    "translation": "放置口令卡　　　　　　输入密码！　　　　　　　　　　　　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283300,
+    "hex": "82B582E582A4",
+    "length": 6,
+    "original": "しょう",
+    "translation": "胜  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283308,
+    "hex": "837C834383938367",
+    "length": 8,
+    "original": "ポイント",
+    "translation": "点数  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283320,
+    "hex": "8140835A815B8375837483408343838B814597D58140814081408140",
+    "length": 28,
+    "original": "　セーブファイル・臨　　　　",
+    "translation": "存档文件・临　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283352,
+    "hex": "8140835A815B8375837483408343838B814595BA8140814081408140",
+    "length": 28,
+    "original": "　セーブファイル・兵　　　　",
+    "translation": "存档文件・兵　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283428,
+    "hex": "81408140814081408140814081408140814081408140814081408140814081408140814081408140814081408140814081408140814082BD82A282B982F182B982A282B982AB814081408140814081408140814081408140814081408140814081408140814081408140814082768289815B82658289837C834383938367",
+    "length": 126,
+    "original": "　　　　　　　　　　　　　　　　　　　　　　　　　　　たいせんせいせき　　　　　　　　　　　　　　　　　　　ＷｉーＦｉポイント",
+    "translation": "对战成绩　　　　　　　　　　　　　　　　　　　ＷｉーＦｉポイント　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283652,
+    "hex": "835A815B8375837483408343838B814597D5",
+    "length": 18,
+    "original": "セーブファイル・臨",
+    "translation": "存档文件・临   ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283672,
+    "hex": "835A815B8375837483408343838B814595BA",
+    "length": 18,
+    "original": "セーブファイル・兵",
+    "translation": "存档文件・兵   ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283720,
+    "hex": "8366815B835E82AA814082A082E882DC82B982F1",
+    "length": 20,
+    "original": "データが　ありません",
+    "translation": "没有数据　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283744,
+    "hex": "8366815B835E82AA814082B182ED82EA82C482A282DC82B7",
+    "length": 24,
+    "original": "データが　こわれています",
+    "translation": "数据已损坏　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283832,
+    "hex": "8366815B835E82C882B5",
+    "length": 10,
+    "original": "データなし",
+    "translation": "无数据  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 283852,
+    "hex": "82CD82BB82F18366815B835E837483408343838B",
+    "length": 20,
+    "original": "はそんデータファイル",
+    "translation": "损坏数据文件    ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 284188,
+    "hex": "92869445",
+    "length": 4,
+    "original": "中忍",
+    "translation": "中忍",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 284196,
+    "hex": "89BA9445",
+    "length": 4,
+    "original": "下忍",
+    "translation": "下忍",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 284204,
+    "hex": "8FE39445",
+    "length": 4,
+    "original": "上忍",
+    "translation": "上忍",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 284324,
+    "hex": "82A282A282A6",
+    "length": 6,
+    "original": "いいえ",
+    "translation": "否  ",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 284332,
+    "hex": "82CD82A28140",
+    "length": 6,
+    "original": "はい　",
+    "translation": "是　　",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 284432,
+    "hex": "25738140814081408140257398418F9F",
+    "length": 16,
+    "original": "%s　　　　%s連勝",
+    "translation": "%s　　　　%s连胜",
+    "skiped": false,
+    "file": "overlay_0003.bin"
+  },
+  {
+    "offset": 21104,
+    "hex": "814082CD82B682DF82A982E7",
+    "length": 12,
+    "original": "　はじめから",
+    "translation": "开始游戏　　",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21120,
+    "hex": "814082768289815B8265828982B982C182C482A2",
+    "length": 20,
+    "original": "　ＷｉーＦｉせってい",
+    "translation": "ＷｉーＦｉ设定　　　",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21144,
+    "hex": "814082C682E082BE82BF82C982AD82CE82E9",
+    "length": 18,
+    "original": "　ともだちにくばる",
+    "translation": "发给好友　　　　　",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21164,
+    "hex": "814082C282C382AB82A982E7",
+    "length": 12,
+    "original": "　つづきから",
+    "translation": "　つづきから",
+    "skiped": true,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21180,
+    "hex": "814082CD82B682DF82A982E7",
+    "length": 12,
+    "original": "　はじめから",
+    "translation": "开始游戏　　",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21196,
+    "hex": "8140837483408343838B82B382AD82B682E5",
+    "length": 18,
+    "original": "　ファイルさくじょ",
+    "translation": "删除文件　　　　　",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21216,
+    "hex": "814082768289815B8265828982B982C182C482A2",
+    "length": 20,
+    "original": "　ＷｉーＦｉせってい",
+    "translation": "ＷｉーＦｉ设定　　　",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21240,
+    "hex": "814082C682E082BE82BF82C982AD82CE82E9",
+    "length": 18,
+    "original": "　ともだちにくばる",
+    "translation": "发给好友　　　　　",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21260,
+    "hex": "81408354834583938368836583588367",
+    "length": 16,
+    "original": "　サウンドテスト",
+    "translation": "声音测试　　　　",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21296,
+    "hex": "834C83838389834E835E815B",
+    "length": 12,
+    "original": "キャラクター",
+    "translation": "角色    ",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21312,
+    "hex": "837B83438358814081408140",
+    "length": 12,
+    "original": "ボイス　　　",
+    "translation": "语音　　　　",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21328,
+    "hex": "814082C482A282B581408140",
+    "length": 12,
+    "original": "　ていし　　",
+    "translation": "停止　　　　",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21344,
+    "hex": "814082B382A282B982A28140",
+    "length": 12,
+    "original": "　さいせい　",
+    "translation": "播放　　　　",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21360,
+    "hex": "81408354834583938368836583588367",
+    "length": 16,
+    "original": "　サウンドテスト",
+    "translation": "声音测试　　　　",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  },
+  {
+    "offset": 21408,
+    "hex": "826082C582B382A282B982A28140827782C582C482A282B58140826182C582E082C782E882DC82B7",
+    "length": 40,
+    "original": "Ａでさいせい　Ｘでていし　Ｂでもどります",
+    "translation": "Ａ播放　Ｘ停止　Ｂ返回　　　　　　　　　",
+    "skiped": false,
+    "file": "overlay_0004.bin"
+  }
+]

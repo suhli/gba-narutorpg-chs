@@ -1,0 +1,2210 @@
+[
+  {
+    "file": "overlay_0000.bin",
+    "offset": 194220,
+    "length": 14,
+    "hex": "83478389815B8352815B83688140",
+    "original": "エラーコード　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195732,
+    "length": 14,
+    "hex": "82BD82A282B982F1836C815B8380",
+    "original": "たいせんネーム",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195748,
+    "length": 6,
+    "hex": "82A082F182D4",
+    "original": "あんぶ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195756,
+    "length": 4,
+    "hex": "836C8357",
+    "original": "ネジ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195764,
+    "length": 4,
+    "hex": "834C836F",
+    "original": "キバ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195772,
+    "length": 4,
+    "hex": "898E9682",
+    "original": "猿魔",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195780,
+    "length": 4,
+    "hex": "8EE792DF",
+    "original": "守鶴",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195788,
+    "length": 4,
+    "hex": "834B8343",
+    "original": "ガイ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195804,
+    "length": 4,
+    "hex": "836E834E",
+    "original": "ハク",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195812,
+    "length": 4,
+    "hex": "8356836D",
+    "original": "シノ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195820,
+    "length": 4,
+    "hex": "82A282CC",
+    "original": "いの",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195828,
+    "length": 6,
+    "hex": "834B83418389",
+    "original": "ガアラ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195836,
+    "length": 6,
+    "hex": "835583758355",
+    "original": "ザブザ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195844,
+    "length": 6,
+    "hex": "82BD82A982A2",
+    "original": "たかい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195852,
+    "length": 6,
+    "hex": "8343838B834A",
+    "original": "イルカ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195860,
+    "length": 6,
+    "hex": "8354834E8389",
+    "original": "サクラ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195868,
+    "length": 6,
+    "hex": "82D382C282A4",
+    "original": "ふつう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195876,
+    "length": 6,
+    "hex": "834B837D9289",
+    "original": "ガマ忠",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195884,
+    "length": 6,
+    "hex": "834B837D97B3",
+    "original": "ガマ竜",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195892,
+    "length": 6,
+    "hex": "8E4F91E396DA",
+    "original": "三代目",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195900,
+    "length": 6,
+    "hex": "8365837D838A",
+    "original": "テマリ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195908,
+    "length": 6,
+    "hex": "8369838B8367",
+    "original": "ナルト",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195916,
+    "length": 6,
+    "hex": "834B837D8B67",
+    "original": "ガマ吉",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195924,
+    "length": 6,
+    "hex": "83718369835E",
+    "original": "ヒナタ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195932,
+    "length": 6,
+    "hex": "82BD82A982A2",
+    "original": "たかい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195940,
+    "length": 6,
+    "hex": "834A83638386",
+    "original": "カツユ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195948,
+    "length": 6,
+    "hex": "94AA94458CA2",
+    "original": "八忍犬",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195956,
+    "length": 6,
+    "hex": "82D082AD82A2",
+    "original": "ひくい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195964,
+    "length": 6,
+    "hex": "8343835E8360",
+    "original": "イタチ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195972,
+    "length": 6,
+    "hex": "82A082F182D4",
+    "original": "あんぶ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195980,
+    "length": 6,
+    "hex": "82D082AD82A2",
+    "original": "ひくい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195988,
+    "length": 6,
+    "hex": "82A082F182D4",
+    "original": "あんぶ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 195996,
+    "length": 6,
+    "hex": "8369838B8367",
+    "original": "ナルト",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196004,
+    "length": 6,
+    "hex": "837D8393835F",
+    "original": "マンダ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196012,
+    "length": 6,
+    "hex": "835483588350",
+    "original": "サスケ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196020,
+    "length": 6,
+    "hex": "834A834A8356",
+    "original": "カカシ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196028,
+    "length": 6,
+    "hex": "834C83548381",
+    "original": "キサメ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196036,
+    "length": 6,
+    "hex": "836383698366",
+    "original": "ツナデ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196044,
+    "length": 6,
+    "hex": "82D382C282A4",
+    "original": "ふつう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196052,
+    "length": 6,
+    "hex": "835483588350",
+    "original": "サスケ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196060,
+    "length": 8,
+    "hex": "83708362834E8393",
+    "original": "パックン",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196072,
+    "length": 8,
+    "hex": "82B382A282C482A2",
+    "original": "さいてい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196084,
+    "length": 8,
+    "hex": "8356834A837D838B",
+    "original": "シカマル",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196096,
+    "length": 8,
+    "hex": "8360838783458357",
+    "original": "チョウジ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196108,
+    "length": 8,
+    "hex": "8365839383658393",
+    "original": "テンテン",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196120,
+    "length": 8,
+    "hex": "82B682E782A282E2",
+    "original": "じらいや",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196132,
+    "length": 8,
+    "hex": "82B382A282C482A2",
+    "original": "さいてい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196144,
+    "length": 8,
+    "hex": "834A837D835E838A",
+    "original": "カマタリ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196156,
+    "length": 10,
+    "hex": "82B382A282B182A48149",
+    "original": "さいこう！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196168,
+    "length": 10,
+    "hex": "82B382A282B182A48149",
+    "original": "さいこう！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196180,
+    "length": 10,
+    "hex": "834A8393834E838D8345",
+    "original": "カンクロウ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196192,
+    "length": 8,
+    "hex": "834B834382CC9445",
+    "original": "ガイの忍",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196204,
+    "length": 10,
+    "hex": "834A8393834E838D8345",
+    "original": "カンクロウ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196216,
+    "length": 10,
+    "hex": "834B837D8375839391BE",
+    "original": "ガマブン太",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196228,
+    "length": 10,
+    "hex": "837E836A834A83638386",
+    "original": "ミニカツユ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196240,
+    "length": 10,
+    "hex": "8349838D836082DC82E9",
+    "original": "オロチまる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196716,
+    "length": 10,
+    "hex": "82BD82A282BF82E582A4",
+    "original": "たいちょう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196840,
+    "length": 20,
+    "hex": "81408140814082BB82A482D182BF82E382A48140",
+    "original": "　　　そうびちゅう　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196864,
+    "length": 66,
+    "hex": "81408140814082A082AA82E981408140814082A882C882B68140814081408140814081408140814082B382AA82E981408140814082BB82A482D182BF82E382A48140",
+    "original": "　　　あがる　　　おなじ　　　　　　　　さがる　　　そうびちゅう　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196932,
+    "length": 24,
+    "hex": "835A8362836782C582AB82E9834C83838389834E835E815B",
+    "original": "セットできるキャラクター",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196960,
+    "length": 16,
+    "hex": "82BB82A482D182B682E582A482BD82A2",
+    "original": "そうびじょうたい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 196984,
+    "length": 16,
+    "hex": "82BD82A282BF82E582A482B182A482A9",
+    "original": "たいちょうこうか",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 197008,
+    "length": 6,
+    "hex": "82E282E982AB",
+    "original": "やるき",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 197112,
+    "length": 26,
+    "hex": "82B082F182B482A282CC82AF82A282AF82F182BF814081408140",
+    "original": "げんざいのけいけんち　　　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 197140,
+    "length": 26,
+    "hex": "82C282AC82CC838C8378838B82DC82C5814082A082C681408140",
+    "original": "つぎのレベルまで　あと　　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 197220,
+    "length": 132,
+    "hex": "8140814081408140814081408140814081408140814081408140814081408140814081408358835E837E83698140814083608383834E83898140814081408140814081408140814082B182A482B082AB8140814082DA82A482AC82E58140814082B782CE82E282B38140814081408140814081408140814082C982F182E882E582AD8140",
+    "original": "　　　　　　　　　　　　　　　　　　スタミナ　　チャクラ　　　　　　　　こうげき　　ぼうぎょ　　すばやさ　　　　　　　　にんりょく　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 197684,
+    "length": 4,
+    "hex": "82CD82A2",
+    "original": "はい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0000.bin",
+    "offset": 197692,
+    "length": 6,
+    "hex": "82A282A282A6",
+    "original": "いいえ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126048,
+    "length": 34,
+    "hex": "82C282A482B582F183478389815B82AA814082CD82C182B982A282B582DC82B582BD",
+    "original": "つうしんエラーが　はっせいしました",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126084,
+    "length": 36,
+    "hex": "82C282A482B582F183478389815B82AA814082CD82C182B982A282B582DC82B582BD8149",
+    "original": "つうしんエラーが　はっせいしました！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126148,
+    "length": 20,
+    "hex": "83608383834E838982AA82BD82E882C882A28149",
+    "original": "チャクラがたりない！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126172,
+    "length": 22,
+    "hex": "8F7082AA82D382A482B682E782EA82C482A282E98149",
+    "original": "術がふうじられている！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126196,
+    "length": 22,
+    "hex": "82C982B082E782EA82C882A982C182BD814581458145",
+    "original": "にげられなかった・・・",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126220,
+    "length": 14,
+    "hex": "82C982B082E782EA82C882A28149",
+    "original": "にげられない！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126236,
+    "length": 24,
+    "hex": "82CD814082A882BF82B182F182C582A282E9814581458145",
+    "original": "は　おちこんでいる・・・",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126264,
+    "length": 20,
+    "hex": "82CD814095408C8C82F082D382A282BD81498149",
+    "original": "は　鼻血をふいた！！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126288,
+    "length": 36,
+    "hex": "82B582E382C182AF82C282BD82E882E582A482C5814093AE82AF82C882A2814581458145",
+    "original": "しゅっけつたりょうで　動けない・・・",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126328,
+    "length": 20,
+    "hex": "82CD814082B182C182BB82E882DD82C482A282E9",
+    "original": "は　こっそりみている",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126352,
+    "length": 22,
+    "hex": "82CD8140954082CC89BA82AA82CC82D182C482A282E9",
+    "original": "は　鼻の下がのびている",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126524,
+    "length": 6,
+    "hex": "82A282C782A4",
+    "original": "いどう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126532,
+    "length": 8,
+    "hex": "82B182A482BD82A2",
+    "original": "こうたい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126544,
+    "length": 6,
+    "hex": "82E082C782E9",
+    "original": "もどる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126552,
+    "length": 8,
+    "hex": "82DA82A482AC82E5",
+    "original": "ぼうぎょ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126564,
+    "length": 6,
+    "hex": "82C982B082E9",
+    "original": "にげる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126572,
+    "length": 8,
+    "hex": "82BA82F182BD82A2",
+    "original": "ぜんたい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126584,
+    "length": 10,
+    "hex": "83608383834E83898140",
+    "original": "チャクラ　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126596,
+    "length": 10,
+    "hex": "82B182B782A481408140",
+    "original": "こすう　　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126608,
+    "length": 26,
+    "hex": "8F7082AA814082D382A482B682E782EA82C482A282DC82B78149",
+    "original": "術が　ふうじられています！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126636,
+    "length": 24,
+    "hex": "83608383834E838982AA814082BD82E882DC82B982F18149",
+    "original": "チャクラが　たりません！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126664,
+    "length": 36,
+    "hex": "82BB82A482D182C581408F7082AA814082D382A482B682E782EA82C482A282DC82B78149",
+    "original": "そうびで　術が　ふうじられています！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126704,
+    "length": 26,
+    "hex": "82BD82A282B982F182C582CD814082C282A982A682DC82B982F1",
+    "original": "たいせんでは　つかえません",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126732,
+    "length": 26,
+    "hex": "82AB82F182B682E382C282CD814082C282A982A682DC82B982F1",
+    "original": "きんじゅつは　つかえません",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126760,
+    "length": 20,
+    "hex": "82A282DC82CD814082C282A982A682DC82B982F1",
+    "original": "いまは　つかえません",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126784,
+    "length": 8,
+    "hex": "82A982B095AA9067",
+    "original": "かげ分身",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126796,
+    "length": 12,
+    "hex": "82B582E182E882F182AA82F1",
+    "original": "しゃりんがん",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126812,
+    "length": 10,
+    "hex": "82D182E182AD82AA82F1",
+    "original": "びゃくがん",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126824,
+    "length": 12,
+    "hex": "94AA96E582C682F182B182A4",
+    "original": "八門とんこう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126840,
+    "length": 14,
+    "hex": "82A482BF82C882E98354834E8389",
+    "original": "うちなるサクラ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126856,
+    "length": 24,
+    "hex": "82B682E582A482BD82A282C5814082C282A982A682DC82B7",
+    "original": "じょうたいで　つかえます",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126884,
+    "length": 18,
+    "hex": "83608383834E838982CB82E8814082C882B5",
+    "original": "チャクラねり　なし",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126904,
+    "length": 18,
+    "hex": "83608383834E838982CB82E8814082A082E8",
+    "original": "チャクラねり　あり",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126924,
+    "length": 8,
+    "hex": "82B182A482B082AB",
+    "original": "こうげき",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126936,
+    "length": 6,
+    "hex": "82B682E382C2",
+    "original": "じゅつ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126944,
+    "length": 6,
+    "hex": "82C782A482AE",
+    "original": "どうぐ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126952,
+    "length": 8,
+    "hex": "82B182A482BD82A2",
+    "original": "こうたい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126964,
+    "length": 6,
+    "hex": "82C982B082E9",
+    "original": "にげる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126972,
+    "length": 8,
+    "hex": "82DA82A482AC82E5",
+    "original": "ぼうぎょ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126984,
+    "length": 6,
+    "hex": "82A282C782A4",
+    "original": "いどう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0001.bin",
+    "offset": 126992,
+    "length": 6,
+    "hex": "82E082C782B7",
+    "original": "もどす",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 75960,
+    "length": 38,
+    "hex": "8140814081408140814081408140814081408140814082F0814082C482C982A282EA82BD8149",
+    "original": "　　　　　　　　　　　を　てにいれた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76092,
+    "length": 36,
+    "hex": "8140834B837D82BF82E182F182F082B782D782C482A082C282DF82DC82B582BD81498149",
+    "original": "　ガマちゃんをすべてあつめました！！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76812,
+    "length": 4,
+    "hex": "82CD82A2",
+    "original": "はい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76818,
+    "length": 6,
+    "hex": "82A282A282A6",
+    "original": "いいえ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76828,
+    "length": 16,
+    "hex": "82A982E782C182DB82BE814581458145",
+    "original": "からっぽだ・・・",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76852,
+    "length": 6,
+    "hex": "82C782A482AE",
+    "original": "どうぐ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76860,
+    "length": 4,
+    "hex": "82A482E9",
+    "original": "うる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76866,
+    "length": 6,
+    "hex": "82E282DF82E9",
+    "original": "やめる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76900,
+    "length": 4,
+    "hex": "82D482AB",
+    "original": "ぶき",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76906,
+    "length": 6,
+    "hex": "82DA82A482AE",
+    "original": "ぼうぐ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76914,
+    "length": 4,
+    "hex": "82A482E9",
+    "original": "うる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76920,
+    "length": 6,
+    "hex": "82E282DF82E9",
+    "original": "やめる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76938,
+    "length": 14,
+    "hex": "82CD82A282C182C482A282BD8149",
+    "original": "はいっていた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76962,
+    "length": 12,
+    "hex": "82C482C982A282EA82BD8149",
+    "original": "てにいれた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 76994,
+    "length": 14,
+    "hex": "82CD82A282C182C482A282BD8149",
+    "original": "はいっていた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 77026,
+    "length": 12,
+    "hex": "82C482C982A282EA82BD8149",
+    "original": "てにいれた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 77058,
+    "length": 14,
+    "hex": "82CD82A282C182C482A282BD8149",
+    "original": "はいっていた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 77076,
+    "length": 26,
+    "hex": "82E082BF82E082CC82AA814082A282C182CF82A282C582B78149",
+    "original": "もちものが　いっぱいです！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 77122,
+    "length": 14,
+    "hex": "82CD82A282C182C482A282BD8149",
+    "original": "はいっていた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 77154,
+    "length": 12,
+    "hex": "82C482C982A282EA82BD8149",
+    "original": "てにいれた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 77186,
+    "length": 14,
+    "hex": "82CD82A282C182C482A282BD8149",
+    "original": "はいっていた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0002.bin",
+    "offset": 77204,
+    "length": 26,
+    "hex": "82E082BF82E082CC82AA814082A282C182CF82A282C582B78149",
+    "original": "もちものが　いっぱいです！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 273032,
+    "length": 18,
+    "hex": "82C682E082BE82BF8352815B836882CD8148",
+    "original": "ともだちコードは？",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 277832,
+    "length": 4,
+    "hex": "82DD82E9",
+    "original": "みる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 277840,
+    "length": 6,
+    "hex": "82C282A982A4",
+    "original": "つかう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 277860,
+    "length": 12,
+    "hex": "82BE82A282B682C882E082CC",
+    "original": "だいじなもの",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 277892,
+    "length": 8,
+    "hex": "915391CC82CC8140",
+    "original": "全体の　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 277904,
+    "length": 40,
+    "hex": "25738358835E837E836982C6814083608383834E838982AA814082A982A282D382AD82B582BD8149",
+    "original": "%sスタミナと　チャクラが　かいふくした！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 277948,
+    "length": 28,
+    "hex": "25738358835E837E836982AA814082A982A282D382AD82B582BD8149",
+    "original": "%sスタミナが　かいふくした！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 277980,
+    "length": 28,
+    "hex": "257383608383834E838982AA814082A982A282D382AD82B582BD8149",
+    "original": "%sチャクラが　かいふくした！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278012,
+    "length": 32,
+    "hex": "257382B382A282BE82A28358835E837E836982AA8140257382D382A682BD8149",
+    "original": "%sさいだいスタミナが　%sふえた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278048,
+    "length": 32,
+    "hex": "257382B382A282BE82A283608383834E838982AA8140257382D382A682BD8149",
+    "original": "%sさいだいチャクラが　%sふえた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278084,
+    "length": 26,
+    "hex": "257382B182A482B082AB97CD82AA8140257382D382A682BD8149",
+    "original": "%sこうげき力が　%sふえた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278112,
+    "length": 26,
+    "hex": "257382DA82A482AC82E597CD82AA8140257382D382A682BD8149",
+    "original": "%sぼうぎょ力が　%sふえた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278140,
+    "length": 24,
+    "hex": "257382B782CE82E282B382AA8140257382D382A682BD8149",
+    "original": "%sすばやさが　%sふえた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278168,
+    "length": 26,
+    "hex": "257382C982F182E882E582AD82AA8140257382D382A682BD8149",
+    "original": "%sにんりょくが　%sふえた！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278196,
+    "length": 22,
+    "hex": "257382E282E982AB82AA814082A082AA82C182BD8149",
+    "original": "%sやるきが　あがった！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278220,
+    "length": 22,
+    "hex": "257382E282E982AB82AA814082B382AA82C182BD8149",
+    "original": "%sやるきが　さがった！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278304,
+    "length": 6,
+    "hex": "82B182B782A4",
+    "original": "こすう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278356,
+    "length": 8,
+    "hex": "8367839383678393",
+    "original": "トントン",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278408,
+    "length": 6,
+    "hex": "834A83638386",
+    "original": "カツユ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278424,
+    "length": 8,
+    "hex": "83708362834E8393",
+    "original": "パックン",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278436,
+    "length": 14,
+    "hex": "25738CFB82E682B982B582BD8149",
+    "original": "%s口よせした！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278460,
+    "length": 8,
+    "hex": "915391CC82CC8140",
+    "original": "全体の　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278472,
+    "length": 28,
+    "hex": "25738358835E837E836982AA814082A982A282D382AD82B582BD8149",
+    "original": "%sスタミナが　かいふくした！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278520,
+    "length": 8,
+    "hex": "82B582E582A482D0",
+    "original": "しょうひ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278568,
+    "length": 12,
+    "hex": "82C982F182E882E582AD8146",
+    "original": "にんりょく：",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278680,
+    "length": 8,
+    "hex": "8D558C8297CD2573",
+    "original": "攻撃力%s",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278700,
+    "length": 8,
+    "hex": "96688CE497CD2573",
+    "original": "防御力%s",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278720,
+    "length": 10,
+    "hex": "82B782CE82E282B32573",
+    "original": "すばやさ%s",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 278948,
+    "length": 6,
+    "hex": "82B182B782A4",
+    "original": "こすう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279000,
+    "length": 8,
+    "hex": "8F7082F082DD82E9",
+    "original": "術をみる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279024,
+    "length": 12,
+    "hex": "82BB82A482D182F082DD82E9",
+    "original": "そうびをみる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279040,
+    "length": 14,
+    "hex": "82B582CC82D18E4482F082DD82E9",
+    "original": "しのび札をみる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279100,
+    "length": 6,
+    "hex": "82B182B782A4",
+    "original": "こすう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279108,
+    "length": 6,
+    "hex": "82B182B782A4",
+    "original": "こすう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279116,
+    "length": 8,
+    "hex": "82B582E582A482D0",
+    "original": "しょうひ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279128,
+    "length": 8,
+    "hex": "82B582E582A482D0",
+    "original": "しょうひ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279140,
+    "length": 6,
+    "hex": "82B182B782A4",
+    "original": "こすう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279148,
+    "length": 6,
+    "hex": "82B182B782A4",
+    "original": "こすう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279156,
+    "length": 8,
+    "hex": "82B582E582A482D0",
+    "original": "しょうひ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279200,
+    "length": 28,
+    "hex": "82B182A482B082AB814082DA82A482AC82E5814082B782CE82E282B3",
+    "original": "こうげき　ぼうぎょ　すばやさ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279284,
+    "length": 10,
+    "hex": "838283938358835E815B",
+    "original": "モンスター",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279296,
+    "length": 10,
+    "hex": "82BB82A482D182C882B5",
+    "original": "そうびなし",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279308,
+    "length": 98,
+    "hex": "82D482AB814081408140814081408140814081408140814081408140814081408140814081408140814082DA82A482AE81408140814081408140814081408140814081408140814081408140814081408140814082AB82E182CD82F1814081408140",
+    "original": "ぶき　　　　　　　　　　　　　　　　　　　ぼうぐ　　　　　　　　　　　　　　　　　　きゃはん　　　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279440,
+    "length": 16,
+    "hex": "8140814081408140814082C782A482AE",
+    "original": "　　　　　どうぐ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279460,
+    "length": 16,
+    "hex": "8140814081408140814082BB82A482D1",
+    "original": "　　　　　そうび",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279480,
+    "length": 16,
+    "hex": "8140814081408140814082B682E382C2",
+    "original": "　　　　　じゅつ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279500,
+    "length": 18,
+    "hex": "8140814081408140814083818393836F815B",
+    "original": "　　　　　メンバー",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279520,
+    "length": 18,
+    "hex": "8140814081408140814082B682F182AF82A2",
+    "original": "　　　　　じんけい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279540,
+    "length": 18,
+    "hex": "814081408140814081408386815B8355815B",
+    "original": "　　　　　ユーザー",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279560,
+    "length": 18,
+    "hex": "8140814081408140814082B582CC82D18E44",
+    "original": "　　　　　しのび札",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279580,
+    "length": 20,
+    "hex": "8140814081408140814083588365815B835E8358",
+    "original": "　　　　　ステータス",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279708,
+    "length": 6,
+    "hex": "82CD82B882B7",
+    "original": "はずす",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279716,
+    "length": 20,
+    "hex": "82BD82A282B982A282AF82A282B582CC82D18E44",
+    "original": "たいせいけいしのび札",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279740,
+    "length": 20,
+    "hex": "82C682AD82B582E382AF82A282B582CC82D18E44",
+    "original": "とくしゅけいしのび札",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279764,
+    "length": 22,
+    "hex": "83588365815B835E835882AF82A282B582CC82D18E44",
+    "original": "ステータスけいしのび札",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279788,
+    "length": 22,
+    "hex": "82C982F182B682E382C282AF82A282B582CC82D18E44",
+    "original": "にんじゅつけいしのび札",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279884,
+    "length": 6,
+    "hex": "82B182B782A4",
+    "original": "こすう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 279940,
+    "length": 100,
+    "hex": "81408140814081408140814081408140814081408358835E837E8369814083608383834E838981408140814081408140814082B182A482B082AB814082DA82A482AC82E5814082B782CE82E282B381408140814081408140814082C982F182E882E582AD",
+    "original": "　　　　　　　　　　スタミナ　チャクラ　　　　　　こうげき　ぼうぎょ　すばやさ　　　　　　にんりょく",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280088,
+    "length": 16,
+    "hex": "83818393836F815B82B982C182C482A2",
+    "original": "メンバーせってい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280108,
+    "length": 18,
+    "hex": "82BD82A282BF82E582A482B982C182C482A2",
+    "original": "たいちょうせってい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280224,
+    "length": 6,
+    "hex": "82CD82A28140",
+    "original": "はい　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280232,
+    "length": 6,
+    "hex": "82A282A282A6",
+    "original": "いいえ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280300,
+    "length": 4,
+    "hex": "82B382C6",
+    "original": "さと",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280308,
+    "length": 6,
+    "hex": "82C882DC82A6",
+    "original": "なまえ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280316,
+    "length": 8,
+    "hex": "82D082C682B182C6",
+    "original": "ひとこと",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280328,
+    "length": 12,
+    "hex": "97A282CC82B982C182C482A2",
+    "original": "里のせってい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280344,
+    "length": 12,
+    "hex": "838A8358836782F082DD82E9",
+    "original": "リストをみる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280360,
+    "length": 14,
+    "hex": "82C682E082BE82BF838A83588367",
+    "original": "ともだちリスト",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280376,
+    "length": 16,
+    "hex": "82C882DC82A682CC82B982C182C482A2",
+    "original": "なまえのせってい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280396,
+    "length": 16,
+    "hex": "82BD82A282B982F182B982A282B982AB",
+    "original": "たいせんせいせき",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280416,
+    "length": 16,
+    "hex": "82C882DC82A682CC82D682F182B182A4",
+    "original": "なまえのへんこう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280436,
+    "length": 16,
+    "hex": "838A8358836782A982E782CD82B882B7",
+    "original": "リストからはずす",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280456,
+    "length": 16,
+    "hex": "82BD82A282B982F182B982C182C482A2",
+    "original": "たいせんせってい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280476,
+    "length": 16,
+    "hex": "82B982A282B982AB82A982AD82C982F1",
+    "original": "せいせきかくにん",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280496,
+    "length": 18,
+    "hex": "82D082C682B182C682CC82B982C182C482A2",
+    "original": "ひとことのせってい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280516,
+    "length": 18,
+    "hex": "82768289815B82658289837C834383938367",
+    "original": "ＷｉーＦｉポイント",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280536,
+    "length": 22,
+    "hex": "82A082C882BD82CC82C682E082BE82BF8352815B8368",
+    "original": "あなたのともだちコード",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280560,
+    "length": 22,
+    "hex": "82C682E082BE82BF8352815B836882C682A482EB82AD",
+    "original": "ともだちコードとうろく",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 280584,
+    "length": 22,
+    "hex": "82C682E082BE82BF8352815B836882A982AD82C982F1",
+    "original": "ともだちコードかくにん",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281000,
+    "length": 6,
+    "hex": "82CB82BE82F1",
+    "original": "ねだん",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281032,
+    "length": 8,
+    "hex": "82B282A482AF82A2",
+    "original": "ごうけい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281044,
+    "length": 8,
+    "hex": "82B482F182AB82F1",
+    "original": "ざんきん",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281056,
+    "length": 18,
+    "hex": "82B182A482C982E382A482B782E982A982B8",
+    "original": "こうにゅうするかず",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281176,
+    "length": 6,
+    "hex": "82CB82BE82F1",
+    "original": "ねだん",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281208,
+    "length": 8,
+    "hex": "82B282A482AF82A2",
+    "original": "ごうけい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281220,
+    "length": 8,
+    "hex": "82B482F182AB82F1",
+    "original": "ざんきん",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281248,
+    "length": 18,
+    "hex": "82B182A482C982E382A482B782E982A982B8",
+    "original": "こうにゅうするかず",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281268,
+    "length": 20,
+    "hex": "82BD82A282B982A282AF82A282B582CC82D18E44",
+    "original": "たいせいけいしのび札",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281292,
+    "length": 20,
+    "hex": "82C682AD82B582E382AF82A282B582CC82D18E44",
+    "original": "とくしゅけいしのび札",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281316,
+    "length": 22,
+    "hex": "82C982F182B682E382C282AF82A282B582CC82D18E44",
+    "original": "にんじゅつけいしのび札",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281340,
+    "length": 22,
+    "hex": "83588365815B835E835882AF82A282B582CC82D18E44",
+    "original": "ステータスけいしのび札",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281476,
+    "length": 6,
+    "hex": "82CB82BE82F1",
+    "original": "ねだん",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281508,
+    "length": 8,
+    "hex": "82B282A482AF82A2",
+    "original": "ごうけい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281520,
+    "length": 8,
+    "hex": "82B482F182AB82F1",
+    "original": "ざんきん",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281532,
+    "length": 18,
+    "hex": "82B182A482C982E382A482B782E982A982B8",
+    "original": "こうにゅうするかず",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281644,
+    "length": 12,
+    "hex": "82C982F182E882E582AD8146",
+    "original": "にんりょく：",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281684,
+    "length": 10,
+    "hex": "82C482C982A282EA82BD",
+    "original": "てにいれた",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281732,
+    "length": 8,
+    "hex": "82D382BD82E882DF",
+    "original": "ふたりめ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281744,
+    "length": 8,
+    "hex": "82E682C982F182DF",
+    "original": "よにんめ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281756,
+    "length": 8,
+    "hex": "82D082C682E882DF",
+    "original": "ひとりめ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281768,
+    "length": 10,
+    "hex": "82B382F182C982F182DF",
+    "original": "さんにんめ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281900,
+    "length": 14,
+    "hex": "82E082C182C482A282E982A982B8",
+    "original": "もっているかず",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281956,
+    "length": 6,
+    "hex": "82CB82BE82F1",
+    "original": "ねだん",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281972,
+    "length": 8,
+    "hex": "82A482E982A982B8",
+    "original": "うるかず",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281984,
+    "length": 8,
+    "hex": "82B282A482AF82A2",
+    "original": "ごうけい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 281996,
+    "length": 8,
+    "hex": "82B482F182AB82F1",
+    "original": "ざんきん",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 282600,
+    "length": 14,
+    "hex": "826B827583418362837682DC82C5",
+    "original": "ＬＶアップまで",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 282616,
+    "length": 10,
+    "hex": "82BB82EA82BC82EA2573",
+    "original": "それぞれ%s",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 282656,
+    "length": 22,
+    "hex": "82CD8140838C8378838B82AA82A082AA82C182BD8149",
+    "original": "は　レベルがあがった！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 282784,
+    "length": 126,
+    "hex": "838C8378838B81408140814081408358835E837E836981408140814083608383834E838981408140814082B182A482B082AB81408140814082DA82A482AC82E581408140814082B782CE82E282B381408140814082C982F182E882E582AD81408140814081408140814081408140814082A882DA82A682BD82B682E382C2",
+    "original": "レベル　　　　スタミナ　　　チャクラ　　　こうげき　　　ぼうぎょ　　　すばやさ　　　にんりょく　　　　　　　　　おぼえたじゅつ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283008,
+    "length": 14,
+    "hex": "82CC814082E282E982AB82AA8140",
+    "original": "の　やるきが　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283048,
+    "length": 6,
+    "hex": "82E282E982AB",
+    "original": "やるき",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283176,
+    "length": 70,
+    "hex": "8140814082AD82BF82E682B98356815B836782F0814082A882A282C481408140814081408140814082A082F182B282A482F0814082C982E382A482E882E582AD82B982E68149",
+    "original": "　　くちよせシートを　おいて　　　　　　あんごうを　にゅうりょくせよ！",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283300,
+    "length": 6,
+    "hex": "82B582E582A4",
+    "original": "しょう",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283308,
+    "length": 8,
+    "hex": "837C834383938367",
+    "original": "ポイント",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283320,
+    "length": 28,
+    "hex": "8140835A815B8375837483408343838B814597D58140814081408140",
+    "original": "　セーブファイル・臨　　　　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283352,
+    "length": 28,
+    "hex": "8140835A815B8375837483408343838B814595BA8140814081408140",
+    "original": "　セーブファイル・兵　　　　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283428,
+    "length": 126,
+    "hex": "81408140814081408140814081408140814081408140814081408140814081408140814081408140814081408140814081408140814082BD82A282B982F182B982A282B982AB814081408140814081408140814081408140814081408140814081408140814081408140814082768289815B82658289837C834383938367",
+    "original": "　　　　　　　　　　　　　　　　　　　　　　　　　　　たいせんせいせき　　　　　　　　　　　　　　　　　　　ＷｉーＦｉポイント",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283652,
+    "length": 18,
+    "hex": "835A815B8375837483408343838B814597D5",
+    "original": "セーブファイル・臨",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283672,
+    "length": 18,
+    "hex": "835A815B8375837483408343838B814595BA",
+    "original": "セーブファイル・兵",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283720,
+    "length": 20,
+    "hex": "8366815B835E82AA814082A082E882DC82B982F1",
+    "original": "データが　ありません",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283744,
+    "length": 24,
+    "hex": "8366815B835E82AA814082B182ED82EA82C482A282DC82B7",
+    "original": "データが　こわれています",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283832,
+    "length": 10,
+    "hex": "8366815B835E82C882B5",
+    "original": "データなし",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 283852,
+    "length": 20,
+    "hex": "82CD82BB82F18366815B835E837483408343838B",
+    "original": "はそんデータファイル",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 284188,
+    "length": 4,
+    "hex": "92869445",
+    "original": "中忍",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 284196,
+    "length": 4,
+    "hex": "89BA9445",
+    "original": "下忍",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 284204,
+    "length": 4,
+    "hex": "8FE39445",
+    "original": "上忍",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 284324,
+    "length": 6,
+    "hex": "82A282A282A6",
+    "original": "いいえ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 284332,
+    "length": 6,
+    "hex": "82CD82A28140",
+    "original": "はい　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0003.bin",
+    "offset": 284432,
+    "length": 16,
+    "hex": "25738140814081408140257398418F9F",
+    "original": "%s　　　　%s連勝",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21104,
+    "length": 12,
+    "hex": "814082CD82B682DF82A982E7",
+    "original": "　はじめから",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21120,
+    "length": 20,
+    "hex": "814082768289815B8265828982B982C182C482A2",
+    "original": "　ＷｉーＦｉせってい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21144,
+    "length": 18,
+    "hex": "814082C682E082BE82BF82C982AD82CE82E9",
+    "original": "　ともだちにくばる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21164,
+    "length": 12,
+    "hex": "814082C282C382AB82A982E7",
+    "original": "　つづきから",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21180,
+    "length": 12,
+    "hex": "814082CD82B682DF82A982E7",
+    "original": "　はじめから",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21196,
+    "length": 18,
+    "hex": "8140837483408343838B82B382AD82B682E5",
+    "original": "　ファイルさくじょ",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21216,
+    "length": 20,
+    "hex": "814082768289815B8265828982B982C182C482A2",
+    "original": "　ＷｉーＦｉせってい",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21240,
+    "length": 18,
+    "hex": "814082C682E082BE82BF82C982AD82CE82E9",
+    "original": "　ともだちにくばる",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21260,
+    "length": 16,
+    "hex": "81408354834583938368836583588367",
+    "original": "　サウンドテスト",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21296,
+    "length": 12,
+    "hex": "834C83838389834E835E815B",
+    "original": "キャラクター",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21312,
+    "length": 12,
+    "hex": "837B83438358814081408140",
+    "original": "ボイス　　　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21328,
+    "length": 12,
+    "hex": "814082C482A282B581408140",
+    "original": "　ていし　　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21344,
+    "length": 12,
+    "hex": "814082B382A282B982A28140",
+    "original": "　さいせい　",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21360,
+    "length": 16,
+    "hex": "81408354834583938368836583588367",
+    "original": "　サウンドテスト",
+    "translation": ""
+  },
+  {
+    "file": "overlay_0004.bin",
+    "offset": 21408,
+    "length": 40,
+    "hex": "826082C582B382A282B982A28140827782C582C482A282B58140826182C582E082C782E882DC82B7",
+    "original": "Ａでさいせい　Ｘでていし　Ｂでもどります",
+    "translation": ""
+  }  
+]

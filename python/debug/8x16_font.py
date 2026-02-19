@@ -1,6 +1,9 @@
 # fashion16_to_gba8x16.py
-# pip install freetype-py pillow
+# pip install freetype-py pillow click
 import freetype
+from pathlib import Path
+
+import click
 from PIL import Image
 
 INK, BG = 3, 0x11
@@ -116,42 +119,51 @@ def make_preview_8x16(glyphs01, cols=32, scale=8):
 def hex_dump(data: bytes):
     return " ".join(f"{b:02X}" for b in data)
 
-def main():
-    # 改成你下载的 FashionBitmap16 字体文件名
-    font_path = "FashionBitmap16_0.092.ttf"
 
-    # 要导出的字符
-    chars = "这里是"
-    out_prefix = "fb16_8x16"
-
-    face = freetype.Face(font_path)
+@click.command(
+    help="用 TrueType 字体将指定字符渲染为 8×16 点阵并导出 GBA 4bpp 图块与预览图。先按 8×12 渲染，再 pad 或 scale 到 8×16。",
+    epilog="""
+示例:
+  python 8x16_font.py -f MZPXflat.ttf
+  python 8x16_font.py -f MZPXflat.ttf --mode pad
+  python 8x16_font.py -f MZPXflat.ttf --mode pad --chars "新游戏" -o out
+  python 8x16_font.py -f MZPXflat.ttf --mode scale --scale 4
+""",
+)
+@click.option("-f", "--font", "font_path", type=click.Path(exists=True, path_type=Path), default="MZPXflat.ttf", help="TTF 字体文件路径（默认 FashionBitmap16_0.092.ttf）")
+@click.option("--chars", default="这里是", help="要导出的字符（默认「这里是」）")
+@click.option("-o", "--output", "out_prefix", default="fb16_8x16", help="输出文件名前缀（.bin 与 _preview.png）（默认 fb16_8x16）")
+@click.option("--mode", type=click.Choice(["pad", "scale"], case_sensitive=False), default="pad", help="8×12→8×16 方式: pad=上下留白居中, scale=按行缩放（默认 pad）")
+@click.option("--scale", type=int, default=8, help="预览图放大倍数（默认 8）")
+def main(font_path: Path, chars: str, out_prefix: str, mode: str, scale: int) -> None:
+    face = freetype.Face(str(font_path.resolve()))
+    to_8x16 = pad_8x12_to_8x16 if mode == "pad" else scale_8x12_to_8x16
 
     out_bin = bytearray()
     glyphs01 = []
 
     for ch in chars:
-        px, w, h = ft_render_mono(face, ch, px_size=16)
-        canvas16 = blit_center(px, w, h, 16, 16)          # 贴到 16x16
-        g8x16 = compress_16w_to_8w(canvas16, mode="or")   # 16->8 压缩
+        px, w, h = ft_render_mono(face, ch, cell_size=(8, 12))
+        canvas_8x12 = blit_center(px, w, h, 8, 12)
+        g8x16 = to_8x16(canvas_8x12)
         glyphs01.append(g8x16)
-
-        out_bin += glyph8x16_to_gba4bpp(g8x16, INK, BG)   # 64 bytes/char
+        out_bin += glyph8x16_to_gba4bpp(g8x16, INK, BG)
 
     with open(out_prefix + ".bin", "wb") as f:
         f.write(out_bin)
 
-    make_preview_8x16(glyphs01).save(out_prefix + "_preview.png")
+    make_preview_8x16(glyphs01, scale=scale).save(out_prefix + "_preview.png")
     print("Preview:", out_prefix + "_preview.png")
     print("BIN:", out_prefix + ".bin", f"({len(out_bin)} bytes)")
 
-    # 每个字 dump 一下 64 bytes
     offset = 0
     for ch in chars:
-        chunk = out_bin[offset:offset+64]
+        chunk = out_bin[offset : offset + 64]
         offset += 64
         print(f"CHAR '{ch}' U+{ord(ch):04X} (64 bytes)")
         print(hex_dump(chunk))
         print()
+
 
 if __name__ == "__main__":
     main()

@@ -19,6 +19,7 @@
   python translate_with_glm.py --skiped-only              # 仅对已标记为跳过的条目重新翻译，无需 skip 则覆盖原记录
   python translate_with_glm.py --same-only                # 仅对 skip=false 且原文与译文相同的条目重新翻译
   python translate_with_glm.py --model glm-4-plus --files text_chunk_001.json
+  python translate_with_glm.py  --batch-size 100 --files rpg3/overlay_dump.json
 """
 
 import json
@@ -27,6 +28,7 @@ import re
 import sys
 from pathlib import Path
 
+import click
 from dotenv import load_dotenv
 from openai import OpenAI
 
@@ -77,7 +79,7 @@ def load_instruction() -> str:
 def list_chunk_files() -> list[Path]:
     if not TEXT_DUMP_DIR.exists():
         return []
-    files = sorted(TEXT_DUMP_DIR.glob("text_chunk_*.json"))
+    files = sorted(TEXT_DUMP_DIR.glob("*.json"))
     return files
 
 
@@ -237,30 +239,43 @@ def translate_batch(
     return results
 
 
-def load_translations_file() -> list[dict]:
-    """从唯一输出文件读取已翻译数组，不存在或异常时返回空列表。"""
-    if not TRANSLATIONS_OUTPUT_PATH.exists():
+def load_translations_file(output_path: Path | None = None) -> list[dict]:
+    """从输出文件读取已翻译数组，不存在或异常时返回空列表。"""
+    path = output_path if output_path is not None else TRANSLATIONS_OUTPUT_PATH
+    if not path.exists():
         return []
     try:
-        data = json.loads(TRANSLATIONS_OUTPUT_PATH.read_text(encoding="utf-8"))
+        data = json.loads(path.read_text(encoding="utf-8"))
         return data if isinstance(data, list) else []
     except (json.JSONDecodeError, IOError):
         return []
 
 
-def save_translations_file(entries: list[dict], *, skip_filled: bool = True) -> None:
-    """将当前条目的 translation/skiped/hex 等合并到唯一输出文件并写回（JSON 数组）。
-    当 skip_filled 为 True（未传 --no-skip）时，已存在的行（含 skiped）也会用当前条目的 original/hex 更新。"""
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    existing = load_translations_file()
-    by_offset = {str(e.get("offset", "")): e for e in existing if isinstance(e, dict)}
+def _entry_key(e: dict) -> tuple | str:
+    """用于合并/去重的键：有 file 时用 (file, offset)，否则用 offset。"""
+    offset = e.get("offset")
+    if "file" in e and e.get("file"):
+        return (e.get("file"), offset)
+    return offset
+
+
+def save_translations_file(
+    entries: list[dict], *, skip_filled: bool = True, output_path: Path | None = None
+) -> None:
+    """将当前条目的 translation/skiped/hex 等合并到输出文件并写回（JSON 数组）。
+    当 skip_filled 为 True（未传 --no-skip）时，已存在的行（含 skiped）也会用当前条目的 original/hex 更新。
+    若源条目带 file 字段，则一并保留，且按 (file, offset) 区分不同文件中的同 offset 条目。"""
+    path = output_path if output_path is not None else TRANSLATIONS_OUTPUT_PATH
+    path.parent.mkdir(parents=True, exist_ok=True)
+    existing = load_translations_file(output_path=path)
+    by_offset = {_entry_key(e): e for e in existing if isinstance(e, dict)}
     for e in entries:
         if not isinstance(e, dict):
             continue
         offset = e.get("offset")
         if offset is None:
             continue
-        key = str(offset)
+        key = _entry_key(e)
         row = by_offset.get(key)
         if row is None:
             row = {
@@ -271,10 +286,14 @@ def save_translations_file(entries: list[dict], *, skip_filled: bool = True) -> 
                 "translation": e.get("translation", ""),
                 "skiped": e.get("skiped", False),
             }
+            if "file" in e:
+                row["file"] = e.get("file", "")
             by_offset[key] = row
         else:
             row["translation"] = e.get("translation", "")
             row["skiped"] = e.get("skiped", False)
+            if "file" in e:
+                row["file"] = e.get("file", "")
             if skip_filled:
                 row["original"] = e.get("original", "")
                 row["hex"] = e.get("hex", "")
@@ -286,9 +305,7 @@ def save_translations_file(entries: list[dict], *, skip_filled: bool = True) -> 
                 if "length" in e:
                     row["length"] = e.get("length")
     out_list = list(by_offset.values())
-    TRANSLATIONS_OUTPUT_PATH.write_text(
-        json.dumps(out_list, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+    path.write_text(json.dumps(out_list, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def load_all_entries(chunk_files: list[Path]) -> list[dict]:
@@ -314,21 +331,24 @@ def process_all(
     instruction: str,
     all_entries: list[dict],
     *,
+    output_path: Path | None = None,
     batch_size: int = BATCH_SIZE,
     skip_filled: bool = True,
     dry_run: bool = False,
     skiped_only: bool = False,
     same_only: bool = False,
 ) -> None:
-    """对所有条目按批翻译（结构化 JSON），结果写入 translate/translations.json。"""
+    """对所有条目按批翻译（结构化 JSON），结果写入指定输出文件。"""
+    path = output_path if output_path is not None else TRANSLATIONS_OUTPUT_PATH
     # 始终加载已有结果，合并 translation/skiped；--no-skip 时已 skiped 的条也不重发
-    out_data = load_translations_file()
+    out_data = load_translations_file(output_path=path)
     by_offset = {
-        e.get("offset"): {"translation": e.get("translation", ""), "skiped": e.get("skiped", False)}
+        _entry_key(e): {"translation": e.get("translation", ""), "skiped": e.get("skiped", False)}
         for e in out_data if isinstance(e, dict)
     }
     for e in all_entries:
-        o = by_offset.get(e.get("offset"))
+        key = _entry_key(e)
+        o = by_offset.get(key)
         if o and (o["translation"] or o["skiped"]):
             e["translation"] = o["translation"]
             e["skiped"] = o["skiped"]
@@ -361,7 +381,7 @@ def process_all(
     if dry_run:
         return
 
-    offset_to_entry = {e["offset"]: e for e in all_entries}
+    # 按批内顺序对应：chunk[i] 与 results[i] 一一对应（避免同 offset 不同 file 冲突）
     num_batches = (len(to_translate) + batch_size - 1) // batch_size
     for b in range(num_batches):
         start = b * batch_size
@@ -371,59 +391,84 @@ def process_all(
         except Exception as exc:
             print(f"  第 {b + 1}/{num_batches} 批失败: {exc}", file=sys.stderr)
             raise
-        for r in results:
-            ent = offset_to_entry.get(r["offset"])
-            if ent is not None:
+        for i, r in enumerate(results):
+            if i < len(chunk):
+                ent = chunk[i]
                 ent["translation"] = r["text"]
                 ent["skiped"] = r.get("skiped", False)
-        save_translations_file(all_entries, skip_filled=skip_filled)
+        save_translations_file(all_entries, skip_filled=skip_filled, output_path=path)
         print(f"    已翻译第 {b + 1}/{num_batches} 批（本批 {len(chunk)} 条）")
-    print(f"  已写入 {TRANSLATIONS_OUTPUT_PATH}")
+    print(f"  已写入 {path}")
 
 
-def main():
-    import argparse
-    parser = argparse.ArgumentParser(description="使用 GLM-4 翻译 text_dump 下的 JSON")
-    parser.add_argument(
-        "--model",
-        default=os.environ.get("GLM_MODEL", DEFAULT_MODEL),
-        help="模型名（也可在 .env 中设置 GLM_MODEL）",
-    )
-    parser.add_argument("--batch-size", type=int, default=BATCH_SIZE, help=f"每批条数（默认 {BATCH_SIZE}）")
-    parser.add_argument("--no-skip", action="store_true", help="不跳过已有 translation 的条目，全部重翻")
-    parser.add_argument("--skiped-only", action="store_true", help="仅对已标记为跳过的条目重新翻译；若新结果无需跳过则覆盖原记录")
-    parser.add_argument("--same-only", action="store_true", help="仅对 skip=false 且原文与译文相同的条目重新翻译")
-    parser.add_argument("--dry-run", action="store_true", help="只列出待翻译文件与条数，不请求 API")
-    parser.add_argument("--files", nargs="*", help="仅处理这些 chunk 文件（例如 text_chunk_001.json）")
-    args = parser.parse_args()
+@click.command()
+@click.option(
+    "--model",
+    default=os.environ.get("GLM_MODEL", DEFAULT_MODEL),
+    help="模型名（也可在 .env 中设置 GLM_MODEL）",
+)
+@click.option("--batch-size", type=int, default=BATCH_SIZE, help=f"每批条数（默认 {BATCH_SIZE}）")
+@click.option("--no-skip", is_flag=True, help="不跳过已有 translation 的条目，全部重翻")
+@click.option("--skiped-only", is_flag=True, help="仅对已标记为跳过的条目重新翻译；若新结果无需跳过则覆盖原记录")
+@click.option("--same-only", is_flag=True, help="仅对 skip=false 且原文与译文相同的条目重新翻译")
+@click.option("--dry-run", is_flag=True, help="只列出待翻译文件与条数，不请求 API")
+@click.option("-o", "--output", "output_path", type=click.Path(path_type=Path), default=None, help="输出 JSON 文件路径，默认 translate/translations.json")
+@click.option("--files", multiple=True, help="仅处理这些 JSON 文件名（例如 text_chunk_001.json）")
+def main(model, batch_size, no_skip, skiped_only, same_only, dry_run, output_path, files):
+    """使用 GLM-4 翻译 text_dump 下的 JSON。
 
+    Example:
+
+    \b
+      python translate_with_glm.py
+      python translate_with_glm.py -o translate/out.json
+      python translate_with_glm.py --batch-size 100 --dry-run
+      python translate_with_glm.py --no-skip -o translate/full.json
+      python translate_with_glm.py --files debug/rpg3/overlay.json -o ../translate/rpg3/overlay.json
+    """
     instruction = load_instruction()
     client = get_client()
-    files = list_chunk_files()
-    if args.files:
-        by_name = {p.name: p for p in files}
-        files = [by_name[n] for n in args.files if n in by_name]
-    if not files:
-        print(f"在 {TEXT_DUMP_DIR} 下未找到 text_chunk_*.json")
-        return
+    if files:
+        # --files 指定时按路径解析：先相对 cwd，再相对脚本目录，再按文件名在默认目录找
+        list_files = []
+        for name in files:
+            p = Path(name)
+            if p.exists():
+                list_files.append(p.resolve())
+            elif (SCRIPT_DIR / name).exists():
+                list_files.append((SCRIPT_DIR / name).resolve())
+            elif (TEXT_DUMP_DIR / p.name).exists():
+                list_files.append(TEXT_DUMP_DIR / p.name)
+            else:
+                click.echo(f"未找到文件: {name}", err=True)
+        if not list_files:
+            click.echo("指定的文件均未找到，退出")
+            return
+    else:
+        list_files = list_chunk_files()
+        if not list_files:
+            click.echo(f"在 {TEXT_DUMP_DIR} 下未找到 *.json")
+            return
 
-    all_entries = load_all_entries(files)
+    all_entries = load_all_entries(list_files)
     if not all_entries:
-        print("没有可翻译的条目")
+        click.echo("没有可翻译的条目")
         return
 
-    print(f"输出文件: {TRANSLATIONS_OUTPUT_PATH}")
-    print(f"已合并 chunk 数: {len(files)}，总条数: {len(all_entries)}")
+    out_path = output_path if output_path is not None else TRANSLATIONS_OUTPUT_PATH
+    click.echo(f"输出文件: {out_path}")
+    click.echo(f"已合并 chunk 数: {len(list_files)}，总条数: {len(all_entries)}")
     process_all(
         client,
-        args.model,
+        model,
         instruction,
         all_entries,
-        batch_size=args.batch_size,
-        skip_filled=not args.no_skip,
-        dry_run=args.dry_run,
-        skiped_only=args.skiped_only,
-        same_only=args.same_only,
+        output_path=out_path,
+        batch_size=batch_size,
+        skip_filled=not no_skip,
+        dry_run=dry_run,
+        skiped_only=skiped_only,
+        same_only=same_only,
     )
 
 
