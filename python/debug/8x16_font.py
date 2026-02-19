@@ -5,8 +5,15 @@ from PIL import Image
 
 INK, BG = 3, 0x11
 
-def ft_render_mono(face, ch, px_size=16):
-    face.set_pixel_sizes(0, px_size)
+def ft_render_mono(face, ch, px_size=16, cell_size=None):
+    """
+    cell_size: 可选 (width, height)，如 (8, 12) 表示指定 8×12 格；不传则仅用 px_size 作为高度、宽度由字体比例决定。
+    """
+    if cell_size is not None:
+        cw, ch_h = cell_size
+        face.set_pixel_sizes(cw, ch_h)
+    else:
+        face.set_pixel_sizes(0, px_size)
     face.load_char(ch, freetype.FT_LOAD_RENDER | freetype.FT_LOAD_TARGET_MONO)
     bmp = face.glyph.bitmap
     w, h = bmp.width, bmp.rows

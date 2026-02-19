@@ -68,9 +68,8 @@ def _render_8x16(
   use_8x12 = scale_8x16_mode in ("scale", "pad")
   for ch in chars:
     if use_8x12:
-      px, w, h = mod.ft_render_mono(face, ch, px_size=12)
-      canvas_16x12 = mod.blit_center(px, w, h, 16, 12)
-      g8x12 = mod.compress_16w_to_8w_h(canvas_16x12, height=12, mode="or")
+      px, w, h = mod.ft_render_mono(face, ch, cell_size=(8, 12))
+      g8x12 = mod.blit_center(px, w, h, 8, 12)
       g8x16 = mod.scale_8x12_to_8x16(g8x12) if scale_8x16_mode == "scale" else mod.pad_8x12_to_8x16(g8x12)
     else:
       px, w, h = mod.ft_render_mono(face, ch, px_size=16)

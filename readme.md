@@ -69,7 +69,7 @@ gba-narutorpg-chs/
 | 尺寸 | 推荐字体 | 来源与文件 |
 |------|----------|------------|
 | **8×8** 小字 | [Fusion Pixel Font](https://github.com/TakWolf/fusion-pixel-font)（缝合像素字体） | 使用其 **8px 等宽 TTF**，如 `fusion-pixel-8px-monospaced-zh_hans.ttf` |
-| **8×16** 大字 | [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)（思源黑体） | 使用 **SourceHanSans-VF.ttf**（可变字体） |
+| **8×16** 大字 | [MuzaiPixel](https://github.com/DWNfonts/MuzaiPixel)（目哉像素，k8×12） | 使用 **8×12 格** 提取字模后 **pad 到 8×16**（`--8x16-scale pad`）；字体如 `MZPXorig.ttf` / `MZPXflat.ttf` |
 
 **依赖**：
 
@@ -81,7 +81,7 @@ pip install -r python/requirements.txt   # freetype-py, pillow, click
 
 | 操作 | 命令 |
 |------|------|
-| 构建汉化 ROM | `python python/patch.py 原版.gba 8px字体.ttf SourceHanSans-VF.ttf -o 汉化.gba -m font_mapping.json`（8×8 用 Fusion Pixel 8px TTF，8×16 用思源黑体 VF；只传一个字体则两种尺寸共用；需已存在 `translate/translations.json`） |
+| 构建汉化 ROM | `python python/patch.py 原版.gba 8px字体.ttf 目哉像素.ttf --8x16-scale pad -o 汉化.gba -m font_mapping.json`（8×8 用 Fusion Pixel 8px TTF，8×16 用 MuzaiPixel 8×12 提取后 pad 到 8×16；只传一个字体则两种尺寸共用；需已存在 `translate/translations.json`） |
 | 生成 diff.json | `python python/differ.py 原版.gba 汉化.gba -o patcher/diff.json` |
 | 8×8 字模（debug） | `python python/debug/8x8_font.py`（脚本内配置 `font_path`、`chars`） |
 | 8×16 字模（debug） | `python python/debug/8x16_font.py` |
