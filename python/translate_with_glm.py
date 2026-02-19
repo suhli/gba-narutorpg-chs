@@ -220,22 +220,25 @@ def translate_batch(
     choice = resp.choices[0] if resp.choices else None
     content = (choice.message.content or "").strip() if choice and getattr(choice, "message", None) else ""
     out_list = extract_json_array(content) if content else []
-    by_offset = {str(x.get("offset", "")): x for x in out_list if isinstance(x, dict)}
+    # 按位置对应，避免同 offset 不同 file 时错配（API 返回顺序与输入一致）
     results = []
-    for e in entries_batch:
+    for i, e in enumerate(entries_batch):
         offset = e.get("offset")
         orig = e.get("original", "")
-        item = by_offset.get(str(offset))
+        item = out_list[i] if i < len(out_list) and isinstance(out_list[i], dict) else None
         if item is not None:
             trans = item.get("text", "")
             skiped = item.get("skiped", False)
             print(f"offset: {offset}, trans: {trans}, orig: {orig}, skiped: {skiped}")
             if skiped:
-                results.append({"offset": offset, "text": orig, "skiped": True})
+                row = {"offset": offset, "text": orig, "skiped": True}
             else:
-                results.append({"offset": offset, "text": align_length(trans, orig), "skiped": False})
+                row = {"offset": offset, "text": align_length(trans, orig), "skiped": False}
         else:
-            results.append({"offset": offset, "text": orig, "skiped": True})
+            row = {"offset": offset, "text": orig, "skiped": True}
+        if "file" in e:
+            row["file"] = e.get("file", "")
+        results.append(row)
     return results
 
 
@@ -251,9 +254,21 @@ def load_translations_file(output_path: Path | None = None) -> list[dict]:
         return []
 
 
-def _entry_key(e: dict) -> tuple | str:
-    """用于合并/去重的键：有 file 时用 (file, offset)，否则用 offset。"""
-    offset = e.get("offset")
+def _normalize_offset(offset) -> int | str:
+    """统一 offset 便于匹配：hex 字符串转 int，其余原样。"""
+    if isinstance(offset, str) and offset.startswith("0x"):
+        try:
+            return int(offset, 16)
+        except ValueError:
+            return offset
+    if isinstance(offset, str) and offset.isdigit():
+        return int(offset)
+    return offset
+
+
+def _entry_key(e: dict) -> tuple | str | int:
+    """用于合并/去重的键：有 file 时用 (file, offset)，否则用 offset；offset 已规范化便于与输出文件匹配。"""
+    offset = _normalize_offset(e.get("offset"))
     if "file" in e and e.get("file"):
         return (e.get("file"), offset)
     return offset
@@ -349,9 +364,9 @@ def process_all(
     for e in all_entries:
         key = _entry_key(e)
         o = by_offset.get(key)
-        if o and (o["translation"] or o["skiped"]):
-            e["translation"] = o["translation"]
-            e["skiped"] = o["skiped"]
+        if o:
+            e["translation"] = o.get("translation", "")
+            e["skiped"] = o.get("skiped", False)
 
     if skiped_only:
         to_translate = [e for e in all_entries if "original" in e and e.get("skiped")]
@@ -389,8 +404,8 @@ def process_all(
         try:
             results = translate_batch(client, model, instruction, chunk)
         except Exception as exc:
-            print(f"  第 {b + 1}/{num_batches} 批失败: {exc}", file=sys.stderr)
-            raise
+            print(f"  第 {b + 1}/{num_batches} 批失败，跳过: {exc}", file=sys.stderr)
+            continue
         for i, r in enumerate(results):
             if i < len(chunk):
                 ent = chunk[i]
@@ -425,6 +440,7 @@ def main(model, batch_size, no_skip, skiped_only, same_only, dry_run, output_pat
       python translate_with_glm.py --batch-size 100 --dry-run
       python translate_with_glm.py --no-skip -o translate/full.json
       python translate_with_glm.py --files debug/rpg3/overlay.json -o ../translate/rpg3/overlay.json
+      python translate_with_glm.py --same-only --batch-size 20 --files debug/rpg3/text.json -o ../translate/rpg3/text.json
     """
     instruction = load_instruction()
     client = get_client()
