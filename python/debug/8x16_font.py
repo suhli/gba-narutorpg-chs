@@ -44,15 +44,39 @@ def compress_16w_to_8w(src16x16, mode="or"):
       - "and" : 2列都要有才算有（更细但容易断）
       - "major": 2列>=1 算有（等价 or，留个口子以后扩）
     """
-    out = [[0]*8 for _ in range(16)]
-    for y in range(16):
+    return compress_16w_to_8w_h(src16x16, height=16, mode=mode)
+
+
+def compress_16w_to_8w_h(src_16wide, height, mode="or"):
+    """把 16×height 压成 8×height：每 2 列合并成 1 列。"""
+    out = [[0] * 8 for _ in range(height)]
+    for y in range(height):
         for x in range(8):
-            a = src16x16[y][2*x]
-            b = src16x16[y][2*x+1]
+            a = src_16wide[y][2 * x]
+            b = src_16wide[y][2 * x + 1]
             if mode == "and":
                 out[y][x] = 1 if (a and b) else 0
-            else:  # "or" / "major"
+            else:
                 out[y][x] = 1 if (a or b) else 0
+    return out
+
+
+def scale_8x12_to_8x16(grid_8x12):
+    """将 8×12 点阵最近邻缩放到 8×16。"""
+    out = [[0] * 8 for _ in range(16)]
+    for y in range(16):
+        sy = int(y * 12 / 16)
+        if sy >= 12:
+            sy = 11
+        out[y] = grid_8x12[sy][:]
+    return out
+
+
+def pad_8x12_to_8x16(grid_8x12):
+    """将 8×12 点阵垂直居中填充到 8×16（上下各 2 行空白）。"""
+    out = [[0] * 8 for _ in range(16)]
+    for y in range(12):
+        out[y + 2][:] = grid_8x12[y]
     return out
 
 def tile01_to_gba4bpp(tile01_8x8, ink=3, bg=BG):

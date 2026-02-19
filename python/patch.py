@@ -53,15 +53,29 @@ def _render_8x8(chars: list[str], font_path_8x8: str | Path) -> bytes:
   return bytes(out)
 
 
-def _render_8x16(chars: list[str], font_path_8x16: str | Path) -> bytes:
+def _render_8x16(
+  chars: list[str],
+  font_path_8x16: str | Path,
+  scale_8x16_mode: str = "none",
+) -> bytes:
+  """
+  渲染 8x16 字模。scale_8x16_mode: "none" 直接 16px；"scale" 用 12px 渲染再缩放到 8x16；"pad" 用 12px 渲染再填充到 8x16。
+  """
   mod = _load_font_module("font_8x16", "8x16_font.py")
   import freetype
   face = freetype.Face(str(font_path_8x16))
   out = bytearray()
+  use_8x12 = scale_8x16_mode in ("scale", "pad")
   for ch in chars:
-    px, w, h = mod.ft_render_mono(face, ch, px_size=16)
-    canvas16 = mod.blit_center(px, w, h, 16, 16)
-    g8x16 = mod.compress_16w_to_8w(canvas16, mode="or")
+    if use_8x12:
+      px, w, h = mod.ft_render_mono(face, ch, px_size=12)
+      canvas_16x12 = mod.blit_center(px, w, h, 16, 12)
+      g8x12 = mod.compress_16w_to_8w_h(canvas_16x12, height=12, mode="or")
+      g8x16 = mod.scale_8x12_to_8x16(g8x12) if scale_8x16_mode == "scale" else mod.pad_8x12_to_8x16(g8x12)
+    else:
+      px, w, h = mod.ft_render_mono(face, ch, px_size=16)
+      canvas16 = mod.blit_center(px, w, h, 16, 16)
+      g8x16 = mod.compress_16w_to_8w(canvas16, mode="or")
     out += mod.glyph8x16_to_gba4bpp(g8x16)
   return bytes(out)
 
@@ -71,11 +85,13 @@ def inject_fonts(
     chars: list[str],
     font_path_8x8: str | Path,
     font_path_8x16: str | Path,
+    scale_8x16_mode: str = "none",
 ) -> dict[str, dict[str, Any]]:
   """
   根据计算出的位置向 ROM 注入 8x8/8x16 字模及 mapping，并返回字符→位置信息的 dict 供后续 ROM 文本使用。
   - 先按 chars 顺序计算每字的 mapping_key、8x8/8x16 font_entry 等；
   - 用 font_path_8x8 / font_path_8x16 渲染出字模，从 8x8font_entry / 8x16font_entry 注入；
+  - scale_8x16_mode: "none" | "scale" | "pad"，为 "scale"/"pad" 时 8x16 由 8x12 提取再缩放/填充到 8x16；
   - 从 ENTRY_MAPPING_8x8 / ENTRY_MAPPING_8x16 注入 [u16 key, u16 val] 小端序；
   - 返回 { char: { 'mapping_key', '8x16', '8x8', '8x8font_entry', '8x16font_entry' } }。
   """
@@ -93,7 +109,7 @@ def inject_fonts(
 
   # 2) 用 8x8/8x16 字体渲染字模
   data_8x8 = _render_8x8(chars, font_path_8x8)
-  data_8x16 = _render_8x16(chars, font_path_8x16)
+  data_8x16 = _render_8x16(chars, font_path_8x16, scale_8x16_mode=scale_8x16_mode)
 
   rom_path = Path(rom_path)
   with open(rom_path, "r+b") as f:
@@ -263,7 +279,8 @@ def validate_translations(data: list[dict]):
 @click.argument("font_8x16", type=click.Path(exists=True, path_type=Path), required=False)
 @click.option("--out-rom", "-o", type=click.Path(path_type=Path), help="输出到此 ROM 文件，不修改原 ROM")
 @click.option("--out-mapping", "-m", type=click.Path(path_type=Path), help="将返回的字符→位置 dict 写入此 JSON 文件，供后续 ROM 文本使用")
-def main(rom_path: Path, font_8x8: Path, font_8x16: Path | None, out_rom: Path | None, out_mapping: Path | None) -> None:
+@click.option("--8x16-scale", "scale_8x16", type=click.Choice(["none", "scale", "pad"], case_sensitive=False), default="none", help="8x16 字模方式：none=直接 16px 渲染；scale=8x12 提取后缩放到 8x16；pad=8x12 提取后填充到 8x16")
+def main(rom_path: Path, font_8x8: Path, font_8x16: Path | None, out_rom: Path | None, out_mapping: Path | None, scale_8x16: str) -> None:
   """
   校验译文并向 ROM 注入扩展字模与映射，返回字符位置 dict 供后续文本用。
 
@@ -273,15 +290,18 @@ def main(rom_path: Path, font_8x8: Path, font_8x16: Path | None, out_rom: Path |
     font_8x16: 可选。8x16 字体文件路径；不传则与 8x8 使用同一字体。
     out_rom: 可选。指定则输出到此 ROM 文件，不修改原 ROM。
     out_mapping: 可选。将字符→位置 dict 写入的 JSON 路径，供后续 ROM 文本使用。
+    scale_8x16: none/scale/pad。scale 或 pad 时 8x16 先用 12px 渲染成 8x12，再缩放或填充到 8x16。
 
   Example:
     python patch.py rom.gba font.ttf -o patched.gba -m font_mapping.json
-    python patch.py rom.gba debug/fusion-pixel-8px-monospaced-zh_hans.ttf debug/SourceHanSans-VF.ttf -o patched.gba  -m font_mapping.json
-    python patch.py rom.gba debug/MZPXorig.ttf debug/fusion-pixel-12px-monospaced-zh_hans.ttf -o patched.gba  -m font_mapping.json
+    python patch.py rom.gba debug/fusion-pixel-8px-monospaced-zh_hans.ttf debug/MZPXflat.ttf --8x16-scale pad -o patched.gba  -m font_mapping.json
+    python patch.py rom.gba font_8x8.ttf font_8x16.ttf --8x16-scale scale -o patched.gba -m font_mapping.json
   """
   font_16 = font_8x16 if font_8x16 is not None else font_8x8
   if font_8x16 is None:
     click.echo("未指定 8x16 字体，8x8 与 8x16 使用同一字体")
+  if scale_8x16 != "none":
+    click.echo(f"8x16 字模：先 12px 渲染为 8x12，再{'缩放' if scale_8x16 == 'scale' else '填充'}到 8x16")
 
   data = load_translations()
   validate_translations(data)
@@ -297,7 +317,7 @@ def main(rom_path: Path, font_8x8: Path, font_8x16: Path | None, out_rom: Path |
   if n_prepatch:
     click.echo(f"已从 prepatch.json 应用 {n_prepatch} 处 prepatch 到 {target_rom}")
 
-  mapping = inject_fonts(target_rom, chars, font_8x8, font_16)
+  mapping = inject_fonts(target_rom, chars, font_8x8, font_16, scale_8x16_mode=scale_8x16)
   click.echo(f"已向 {target_rom} 注入 {len(chars)} 字 8x8/8x16 字模与映射表")
 
   patch_translations_to_rom(target_rom, data, mapping)
