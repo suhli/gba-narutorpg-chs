@@ -260,25 +260,29 @@ def validate_translations(data: list[dict]):
 @click.command(help="校验译文并向 ROM 注入扩展字模与映射，返回字符位置 dict 供后续文本用")
 @click.argument("rom_path", type=click.Path(exists=True, path_type=Path))
 @click.argument("font_8x8", type=click.Path(exists=True, path_type=Path))
-@click.argument("font_8x16", type=click.Path(exists=True, path_type=Path))
+@click.argument("font_8x16", type=click.Path(exists=True, path_type=Path), required=False)
 @click.option("--out-rom", "-o", type=click.Path(path_type=Path), help="输出到此 ROM 文件，不修改原 ROM")
 @click.option("--out-mapping", "-m", type=click.Path(path_type=Path), help="将返回的字符→位置 dict 写入此 JSON 文件，供后续 ROM 文本使用")
-def main(rom_path: Path, font_8x8: Path, font_8x16: Path, out_rom: Path | None, out_mapping: Path | None) -> None:
+def main(rom_path: Path, font_8x8: Path, font_8x16: Path | None, out_rom: Path | None, out_mapping: Path | None) -> None:
   """
   校验译文并向 ROM 注入扩展字模与映射，返回字符位置 dict 供后续文本用。
 
   Args:
     rom_path: GBA ROM 文件路径。
     font_8x8: 8x8 字体文件路径（如 TTF），用于渲染小字。
-    font_8x16: 8x16 字体文件路径（如 TTF），用于渲染大字。
+    font_8x16: 可选。8x16 字体文件路径；不传则与 8x8 使用同一字体。
     out_rom: 可选。指定则输出到此 ROM 文件，不修改原 ROM。
     out_mapping: 可选。将字符→位置 dict 写入的 JSON 路径，供后续 ROM 文本使用。
 
   Example:
-    python patch.py rom.gba debug/fusion-pixel-8px-monospaced-zh_hans.ttf debug/FashionBitmap16_0.092.ttf -o patched.gba  -m font_mapping.json
-    python patch.py rom.gba debug/SourceHanSansSC-VF.ttf debug/SourceHanSansSC-VF.ttf -o patched.gba  -m font_mapping.json
-    python patch.py rom.gba font_8x8.ttf font_8x16.ttf -o patched.gba -m font_mapping.json
+    python patch.py rom.gba font.ttf -o patched.gba -m font_mapping.json
+    python patch.py rom.gba debug/fusion-pixel-8px-monospaced-zh_hans.ttf debug/SourceHanSans-VF.ttf -o patched.gba  -m font_mapping.json
+    python patch.py rom.gba debug/MZPXorig.ttf debug/fusion-pixel-12px-monospaced-zh_hans.ttf -o patched.gba  -m font_mapping.json
   """
+  font_16 = font_8x16 if font_8x16 is not None else font_8x8
+  if font_8x16 is None:
+    click.echo("未指定 8x16 字体，8x8 与 8x16 使用同一字体")
+
   data = load_translations()
   validate_translations(data)
   chars = take_chars(data)
@@ -293,7 +297,7 @@ def main(rom_path: Path, font_8x8: Path, font_8x16: Path, out_rom: Path | None, 
   if n_prepatch:
     click.echo(f"已从 prepatch.json 应用 {n_prepatch} 处 prepatch 到 {target_rom}")
 
-  mapping = inject_fonts(target_rom, chars, font_8x8, font_8x16)
+  mapping = inject_fonts(target_rom, chars, font_8x8, font_16)
   click.echo(f"已向 {target_rom} 注入 {len(chars)} 字 8x8/8x16 字模与映射表")
 
   patch_translations_to_rom(target_rom, data, mapping)

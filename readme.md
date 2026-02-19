@@ -62,7 +62,14 @@ gba-narutorpg-chs/
 
 ### python（汉化构建与 diff 生成）
 
-- **用途**：制作汉化数据与 diff，**不是**用户打补丁用。`patch.py` 在本地将字模与译文写回 ROM，产出完整汉化 ROM；`differ.py` 比较原版与汉化 ROM，生成 **diff.json** 供网页 Patcher 使用。字模使用**思源黑体**（Source Han Sans）渲染。
+- **用途**：制作汉化数据与 diff，**不是**用户打补丁用。`patch.py` 在本地将字模与译文写回 ROM，产出完整汉化 ROM；`differ.py` 比较原版与汉化 ROM，生成 **diff.json** 供网页 Patcher 使用。
+
+**字体**（8×8 与 8×16 可指定不同字体，只传一个路径则共用同一字体）：
+
+| 尺寸 | 推荐字体 | 来源与文件 |
+|------|----------|------------|
+| **8×8** 小字 | [Fusion Pixel Font](https://github.com/TakWolf/fusion-pixel-font)（缝合像素字体） | 使用其 **8px 等宽 TTF**，如 `fusion-pixel-8px-monospaced-zh_hans.ttf` |
+| **8×16** 大字 | [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)（思源黑体） | 使用 **SourceHanSans-VF.ttf**（可变字体） |
 
 **依赖**：
 
@@ -74,7 +81,7 @@ pip install -r python/requirements.txt   # freetype-py, pillow, click
 
 | 操作 | 命令 |
 |------|------|
-| 构建汉化 ROM | `python python/patch.py 原版.gba 思源黑体.ttf 思源黑体.ttf -o 汉化.gba -m font_mapping.json`（需已存在 `translate/translations.json`） |
+| 构建汉化 ROM | `python python/patch.py 原版.gba 8px字体.ttf SourceHanSans-VF.ttf -o 汉化.gba -m font_mapping.json`（8×8 用 Fusion Pixel 8px TTF，8×16 用思源黑体 VF；只传一个字体则两种尺寸共用；需已存在 `translate/translations.json`） |
 | 生成 diff.json | `python python/differ.py 原版.gba 汉化.gba -o patcher/diff.json` |
 | 8×8 字模（debug） | `python python/debug/8x8_font.py`（脚本内配置 `font_path`、`chars`） |
 | 8×16 字模（debug） | `python python/debug/8x16_font.py` |
