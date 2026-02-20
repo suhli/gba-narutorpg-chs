@@ -24,6 +24,13 @@ if str(PYTHON_DIR) not in sys.path:
 # 默认 JSON 目录：../translate/rpg3，不存在则用 debug/rpg3
 DEFAULT_JSON_DIR = (PYTHON_DIR / ".." / "translate" / "rpg3").resolve()
 FALLBACK_JSON_DIR = PYTHON_DIR / "debug" / "rpg3"
+# 预置二进制：overlay_0000.bin、arm9.bin 从此目录覆盖到解压目录（优先 python/rpg3binary，否则仓库根/rpg3binary）
+def _rpg3_binary_dir() -> Path | None:
+    d = PYTHON_DIR / "rpg3binary"
+    if d.is_dir():
+        return d
+    d = (PYTHON_DIR / ".." / "rpg3binary").resolve()
+    return d if d.is_dir() else None
 
 BYTES_PER_CHAR_8x8 = 0x20
 BYTES_PER_CHAR_8x16 = 0x40
@@ -118,9 +125,10 @@ def _append_font_and_tbl(
     first_new_key = last_key_1x2 + 1
 
     len_1x1 = chr_1x1.stat().st_size
-    len_1x2 = chr_1x2.stat().st_size
     tile_count_8x8 = len_1x1 // BYTES_PER_CHAR_8x8
-    tile_count_8x16 = len_1x2 // BYTES_PER_CHAR_8x16
+    # 1x2 chr 从 0x40 处开始写，对应 tile 索引为 0x40 // 0x40 = 1
+    OFFSET_1X2_CHR = 0x40
+    tile_base_8x16 = OFFSET_1X2_CHR // BYTES_PER_CHAR_8x16
 
     chars_for_chr = chars[:max_chars_chr] if max_chars_chr is not None and max_chars_chr > 0 else chars
     chars_for_tbl = chars[:max_chars_tbl] if max_chars_tbl is not None and max_chars_tbl > 0 else chars
@@ -143,7 +151,7 @@ def _append_font_and_tbl(
     for i, ch in enumerate(chars_for_tbl):
         key = first_new_key + i
         val_8x8 = tile_count_8x8 + i
-        val_8x16 = tile_count_8x16 + i
+        val_8x16 = tile_base_8x16 + i
         tbl_append_1x1 += struct.pack("<HH", key & 0xFFFF, val_8x8 & 0xFFFF)
         tbl_append_1x2 += struct.pack("<HH", key & 0xFFFF, val_8x16 & 0xFFFF)
 
@@ -151,8 +159,9 @@ def _append_font_and_tbl(
         with open(chr_1x1, "ab") as f:
             f.write(data_8x8)
     if write_chr and write_1x2:
-        with open(chr_1x2, "ab") as f:
-            f.write(data_8x16)
+        existing_1x2 = chr_1x2.read_bytes()
+        head = (existing_1x2[:OFFSET_1X2_CHR] if len(existing_1x2) >= OFFSET_1X2_CHR else existing_1x2).ljust(OFFSET_1X2_CHR, b"\x00")
+        chr_1x2.write_bytes(head + data_8x16)
     if write_tbl and write_1x1:
         with open(tbl_1x1, "ab") as f:
             f.write(tbl_append_1x1)
@@ -278,6 +287,30 @@ def _apply_translations(
     return modified
 
 
+def _apply_rpg3_binary(extract_dir: Path) -> None:
+    """将 rpg3binary/overlay_0000.bin 覆盖到解压目录/overlay/，rpg3binary/arm9.bin 覆盖到解压目录/。"""
+    bin_dir = _rpg3_binary_dir()
+    if bin_dir is None:
+        click.echo("未找到 rpg3binary 目录（python/rpg3binary 或 仓库根/rpg3binary），跳过预置二进制覆盖。")
+        return
+    overlay_src = bin_dir / "overlay_0000.bin"
+    overlay_dst_dir = extract_dir / "overlay"
+    overlay_dst = overlay_dst_dir / "overlay_0000.bin"
+    if overlay_src.is_file():
+        overlay_dst_dir.mkdir(parents=True, exist_ok=True)
+        overlay_dst.write_bytes(overlay_src.read_bytes())
+        click.echo(f"已覆盖 overlay：{overlay_src} → {overlay_dst}")
+    else:
+        click.echo(f"未找到 {overlay_src}，跳过 overlay 覆盖。")
+    # arm9_src = bin_dir / "arm9.bin"
+    # arm9_dst = extract_dir / "arm9.bin"
+    # if arm9_src.is_file():
+    #     arm9_dst.write_bytes(arm9_src.read_bytes())
+    #     click.echo(f"已覆盖 arm9：{arm9_src} → {arm9_dst}")
+    # else:
+    #     click.echo(f"未找到 {arm9_src}，跳过 arm9 覆盖。")
+
+
 def _run_nds_extract(rom_path: Path, output_dir: Path, verbose: bool = False) -> None:
     cmd = [sys.executable, str(DEBUG_DIR / "nds_extract.py"), str(rom_path.resolve()), "-o", str(output_dir)]
     if verbose:
@@ -308,7 +341,7 @@ def _run_nds_pack(input_dir: Path, output_rom: Path, verbose: bool = False) -> N
   python patch_rpg3.py rom3.nds -o patched.nds --font-8x8 font.ttf --no-translation
   python patch_rpg3.py rom3.nds -o patched.nds --font-8x8 font.ttf --max-chars-chr 50 --max-chars-tbl 100
   python patch_rpg3.py rom3.nds -o patched.nds --debug
-  python patch_rpg3.py rom3.nds -o patched3.nds --font-8x8 debug/fusion-pixel-8px-monospaced-zh_hans.ttf --font-8x16 debug/MZPXflat.ttf --8x16-scale pad --temp-dir ./rpg3_patch -m rpg3_mapping.json --only overlay --max-chars-chr 50 --font-write chr
+  python patch_rpg3.py rom3.nds -o patched3.nds --font-8x8 debug/fusion-pixel-8px-monospaced-zh_hans.ttf --font-8x16 debug/MZPXflat.ttf --8x16-scale pad --temp-dir ./rpg3_patch -m rpg3_mapping.json 
 """,
 )
 @click.argument("rom", type=click.Path(exists=True, path_type=Path))
@@ -441,6 +474,7 @@ def main(
 
         click.echo(f"解压 ROM 到 {extract_dir} ...")
         _run_nds_extract(rom, extract_dir, verbose=verbose)
+        _apply_rpg3_binary(extract_dir)
 
         mapping: dict[str, int] = {}
         font_1x1_last_key = -1
